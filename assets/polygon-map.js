@@ -1,6 +1,8 @@
 /* 芯链哨兵 · 真实地理轮廓地图
  * 使用 Natural Earth 1:110m 国家轮廓的经纬度几何，以等距圆柱投影绘制。
  * 国家节点的数值仍来自本地核心面板；底图只负责地理定位。
+ * 动效规范：tilt-panel（指针倾斜）、glow-border（焦点边缘光）与
+ * spring-cascade（有节制的网络脉冲）；所有粒子均为本地确定性绘制，不引入外部服务。
  */
 (function (global) {
   'use strict';
@@ -12,7 +14,7 @@
   var COLORS = {
     land: 'rgba(116,151,163,.30)', border: 'rgba(146,185,193,.28)',
     landHot: 'rgba(255,107,95,.48)', landCool: 'rgba(62,214,197,.35)',
-    cyan: '#3ed6c5', hot: '#ff6b5f', text: '#eaf7f6'
+    cyan: '#3ed6c5', amber: '#f4bd5b', hot: '#ff6b5f', text: '#eaf7f6'
   };
   var LABEL_OFFSETS = {
     Malaysia: [18, 28], Vietnam: [18, -24], Singapore: [28, 44], Thailand: [-46, -25],
@@ -29,6 +31,7 @@
     China: { lon: 104, lat: 35, color: '#3ed6c5' },
     UnitedStates: { lon: -100, lat: 38, color: '#f4bd5b' }
   };
+  var MOTION = { tiltMax: 8, spring: .075, damping: .78, glowAlpha: .18, durationBase: 320 };
   function project(lon, lat, w, h) {
     return { x: (lon + 180) / 360 * w, y: (90 - lat) / 180 * h };
   }
@@ -53,9 +56,50 @@
     var nodes = global.DOTMAP.nodes.map(function (n) { return { n: n.n, lon: n.lon, lat: n.lat }; });
     var W = 0, H = 0, dpr = 1, hover = null, mouse = { x: -1, y: -1, on: false };
     var tilt = { x: 0, y: 0, gx: 0, gy: 0, vx: 0, vy: 0, active: false, frame: 0 };
+    var motion = { time: 0, frame: 0, visible: true, reduced: false };
+    var particles = [];
+    try { motion.reduced = !!(window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches); } catch (e) {}
     var a11y = stage.querySelector('.mapA11y') || document.createElement('div');
     a11y.className = 'mapA11y';
     if (!a11y.parentNode) stage.appendChild(a11y);
+    function initParticles() {
+      var seed = 928371;
+      function random() { seed = (seed * 1664525 + 1013904223) >>> 0; return seed / 4294967296; }
+      particles = [];
+      var count = window.innerWidth < 700 ? 52 : 86;
+      for (var i = 0; i < count; i++) particles.push({
+        u: random(), v: random(), z: .22 + random() * .78,
+        phase: random() * Math.PI * 2, drift: .35 + random() * .65,
+        size: .32 + random() * 1.1, amber: random() > .86
+      });
+    }
+    function curveControl(a, b) {
+      var bend = Math.max(12, Math.min(42, Math.abs(b.x - a.x) * .055));
+      return { x: (a.x + b.x) / 2, y: (a.y + b.y) / 2 - bend };
+    }
+    function curvePoint(a, b, t) {
+      var c = curveControl(a, b), k = 1 - t;
+      return { x: k * k * a.x + 2 * k * t * c.x + t * t * b.x, y: k * k * a.y + 2 * k * t * c.y + t * t * b.y };
+    }
+    function drawParticleField(time) {
+      var t = (time || 0) * .001;
+      ctx.save();
+      particles.forEach(function (q) {
+        var depth = q.z, parallaxX = mouse.on ? (mouse.x / Math.max(1, W) - .5) * 8 * depth : 0;
+        var parallaxY = mouse.on ? (mouse.y / Math.max(1, H) - .5) * 5 * depth : 0;
+        var x = q.u * W + Math.sin(t * .18 * q.drift + q.phase) * 4 * depth + parallaxX;
+        var y = q.v * H + Math.cos(t * .14 * q.drift + q.phase) * 2.5 * depth + parallaxY;
+        var alpha = (.055 + depth * .12) * (.78 + .22 * Math.sin(t * .65 + q.phase));
+        ctx.globalAlpha = Math.max(.025, alpha);
+        ctx.fillStyle = q.amber ? COLORS.amber : COLORS.cyan;
+        ctx.beginPath(); ctx.arc(x, y, q.size * depth, 0, Math.PI * 2); ctx.fill();
+      });
+      ctx.restore();
+    }
+    function drawPulse(p, color, alpha, radius) {
+      ctx.save(); ctx.globalAlpha = alpha; ctx.fillStyle = color; ctx.shadowColor = color; ctx.shadowBlur = 10;
+      ctx.beginPath(); ctx.arc(p.x, p.y, radius, 0, Math.PI * 2); ctx.fill(); ctx.restore();
+    }
     function nodeValues() {
       var map = valuesOf(year);
       nodes.forEach(function (n) {
@@ -95,15 +139,14 @@
       return null;
     }
     function lineCurve(a, b, color, alpha, width, dashed) {
-      var bend = Math.max(12, Math.min(42, Math.abs(b.x - a.x) * .055));
-      var cx = (a.x + b.x) / 2, cy = (a.y + b.y) / 2 - bend;
+      var control = curveControl(a, b);
       ctx.save();
       ctx.globalAlpha = alpha;
       ctx.strokeStyle = color;
       ctx.lineWidth = width;
       ctx.lineCap = 'round';
       if (dashed) { ctx.setLineDash([4, 7]); ctx.lineDashOffset = -2; }
-      ctx.beginPath(); ctx.moveTo(a.x, a.y); ctx.quadraticCurveTo(cx, cy, b.x, b.y); ctx.stroke();
+      ctx.beginPath(); ctx.moveTo(a.x, a.y); ctx.quadraticCurveTo(control.x, control.y, b.x, b.y); ctx.stroke();
       ctx.restore();
     }
     function drawAnchor(p, color) {
@@ -123,10 +166,10 @@
       ctx.beginPath(); ctx.moveTo(p.x - 7, p.y); ctx.lineTo(p.x, p.y - 5); ctx.lineTo(p.x + 7, p.y); ctx.lineTo(p.x, p.y + 5); ctx.closePath(); ctx.fill(); ctx.stroke();
       ctx.restore();
     }
-    function drawSupplyLinks() {
+    function drawSupplyLinks(time) {
       var map = valuesOf(year), china = project(ANCHORS.China.lon, ANCHORS.China.lat, W, H), us = project(ANCHORS.UnitedStates.lon, ANCHORS.UnitedStates.lat, W, H);
       drawAnchor(china, ANCHORS.China.color); drawAnchor(us, ANCHORS.UnitedStates.color);
-      nodes.forEach(function (n) {
+      nodes.forEach(function (n, index) {
         var row = map[n.n] || {}, p = px(n), isActive = !active || n.n === active;
         var n2 = Number(row.n2_china_hs8542_import_share) || 0, n3 = Number(row.n3_us_hs8542_export_share) || 0;
         var alpha = isActive ? .18 + Math.min(.34, n2 * .55) : .095;
@@ -135,6 +178,12 @@
         alpha = isActive ? .18 + Math.min(.34, n3 * .38) : .095;
         width = isActive ? .7 + Math.min(1.55, n3 * 1.8) : .58;
         lineCurve(p, us, ANCHORS.UnitedStates.color, alpha, width, true);
+        var showPulse = isActive || n2 >= .14 || n3 >= .55;
+        if (showPulse) {
+          var phase = ((time || 0) * .000028 + index * .083) % 1;
+          drawPulse(curvePoint(china, p, phase), ANCHORS.China.color, isActive ? .78 : .32, 1.15 + Math.min(1.25, n2 * 4));
+          drawPulse(curvePoint(p, us, (phase + .38) % 1), ANCHORS.UnitedStates.color, isActive ? .7 : .28, 1.1 + Math.min(1.15, n3 * 1.6));
+        }
       });
       ctx.save(); ctx.font = '600 10px Inter,"Noto Sans SC",Arial,sans-serif';
       ctx.fillStyle = 'rgba(62,214,197,.88)'; ctx.fillText('中国投入', Math.min(W - 54, china.x + 8), Math.max(13, china.y - 9));
@@ -149,13 +198,14 @@
         lineCurve({ x: mouse.x, y: mouse.y }, p, COLORS.cyan, Math.max(.04, .28 * (1 - d / 330)), 1, false);
       });
     }
-    function draw() {
+    function draw(time) {
       if (!W || !H) return;
       ctx.clearRect(0, 0, W, H);
       ctx.fillStyle = 'rgba(5,15,22,.42)'; ctx.fillRect(0, 0, W, H);
       ctx.strokeStyle = 'rgba(116,170,180,.12)'; ctx.lineWidth = .6;
       for (var gx = 1; gx < 7; gx++) { ctx.beginPath(); ctx.moveTo(W * gx / 7, 0); ctx.lineTo(W * gx / 7, H); ctx.stroke(); }
       for (var gy = 1; gy < 5; gy++) { ctx.beginPath(); ctx.moveTo(0, H * gy / 5); ctx.lineTo(W, H * gy / 5); ctx.stroke(); }
+      drawParticleField(time);
       geo.features.forEach(function (f) { drawGeometry(f.geometry, COLORS.land, COLORS.border); });
       geo.features.forEach(function (f) {
         var target = featureNode(f);
@@ -168,7 +218,7 @@
       nodes.forEach(function (n) {
         if (!geo.features.some(function (f) { return featureNode(f) === n; })) drawMicroTarget(n);
       });
-      drawSupplyLinks();
+      drawSupplyLinks(time);
       nodes.forEach(function (n) {
         var p = px(n), hot = (n.n4 || 0) >= .05, focused = !active || n.n === active;
         drawGeometryForNode(n, p, hot, focused);
@@ -183,6 +233,11 @@
     }
     function drawGeometryForNode(n, p, hot, focused) {
       var c = hot ? COLORS.hot : COLORS.cyan;
+      if (focused || hot) {
+        var wave = (Math.sin((motion.time || 0) * .0017 + n.r * 1.4) + 1) / 2;
+        ctx.save(); ctx.globalAlpha = focused ? .09 + wave * .08 : .035 + wave * .04; ctx.strokeStyle = c; ctx.lineWidth = 1;
+        ctx.beginPath(); ctx.arc(p.x, p.y, n.r + 10 + wave * 7, 0, Math.PI * 2); ctx.stroke(); ctx.restore();
+      }
       ctx.globalAlpha = focused ? 1 : .36;
       ctx.fillStyle = hot ? COLORS.landHot : COLORS.landCool;
       ctx.beginPath(); ctx.arc(p.x, p.y, 11 + n.r, 0, Math.PI * 2); ctx.fill();
@@ -215,7 +270,7 @@
       hover = n || null;
       if (hover) { showCard(hover); if (o.onHover) o.onHover(hover); }
       else if (card) { card.className = 'mapCard'; if (o.onHover) o.onHover(null); }
-      draw();
+      draw(motion.time);
     }
     function hit(x, y) {
       var best = 26 * 26, found = null;
@@ -242,22 +297,49 @@
       });
     }
     function animateTilt() {
-      var spring = 0.075, damping = 0.78;
+      var spring = MOTION.spring, damping = MOTION.damping;
       tilt.vx += (tilt.gx - tilt.x) * spring;
       tilt.vy += (tilt.gy - tilt.y) * spring;
       tilt.vx *= damping; tilt.vy *= damping;
       tilt.x += tilt.vx; tilt.y += tilt.vy;
       var moving = Math.abs(tilt.x) + Math.abs(tilt.y) + Math.abs(tilt.vx) + Math.abs(tilt.vy) > .012;
-      stage.style.setProperty('--tilt-x', (-tilt.y * 6.2).toFixed(3) + 'deg');
-      stage.style.setProperty('--tilt-y', (tilt.x * 8.2).toFixed(3) + 'deg');
+      stage.style.setProperty('--tilt-x', (-tilt.y * MOTION.tiltMax).toFixed(3) + 'deg');
+      stage.style.setProperty('--tilt-y', (tilt.x * MOTION.tiltMax).toFixed(3) + 'deg');
       stage.style.setProperty('--map-mx', (((tilt.x + 1) / 2) * 100).toFixed(2) + '%');
       stage.style.setProperty('--map-my', (((tilt.y + 1) / 2) * 100).toFixed(2) + '%');
       stage.style.setProperty('--map-glow', String(Math.min(1, tilt.active ? .9 : moving ? .42 : 0)));
       if (moving || tilt.active) tilt.frame = requestAnimationFrame(animateTilt);
       else { tilt.frame = 0; stage.style.setProperty('--map-glow', '0'); }
     }
+    function animateScene(time) {
+      motion.time = time;
+      if (!motion.reduced && motion.visible) {
+        draw(time);
+        motion.frame = requestAnimationFrame(animateScene);
+      } else { motion.frame = 0; }
+    }
+    function startScene() {
+      if (!motion.reduced && motion.visible && !motion.frame) motion.frame = requestAnimationFrame(animateScene);
+    }
+    function stopScene() {
+      if (motion.frame) { cancelAnimationFrame(motion.frame); motion.frame = 0; }
+    }
+    function bindSceneVisibility() {
+      var setVisible = function (visible) { motion.visible = visible; stage.classList.toggle('mapPaused', !visible); if (visible) startScene(); else stopScene(); };
+      var onVisibility = function () { setVisible(document.visibilityState !== 'hidden'); };
+      document.addEventListener('visibilitychange', onVisibility);
+      if ('IntersectionObserver' in window) {
+        var observer = new IntersectionObserver(function (entries) {
+          setVisible(!!(entries[0] && entries[0].isIntersecting));
+        }, { threshold: .05 });
+        observer.observe(stage);
+        return function () { observer.disconnect(); document.removeEventListener('visibilitychange', onVisibility); };
+      }
+      return function () { document.removeEventListener('visibilitychange', onVisibility); };
+    }
     function startTiltFrame() { if (!tilt.frame) tilt.frame = requestAnimationFrame(animateTilt); }
     function bindTilt() {
+      if (motion.reduced) return;
       stage.classList.add('mapInteractive');
       stage.addEventListener('pointerenter', function () { tilt.active = true; startTiltFrame(); });
       stage.addEventListener('pointermove', function (e) {
@@ -274,20 +356,23 @@
       var rect = stage.getBoundingClientRect(); W = rect.width; H = rect.height;
       if (W < 40 || H < 40) return;
       dpr = window.devicePixelRatio || 1; cv.width = Math.round(W * dpr); cv.height = Math.round(H * dpr); ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
-      positionA11y(); draw();
+      positionA11y(); draw(motion.time);
     }
     function bind() {
       stage.addEventListener('mousemove', function (e) { var r = stage.getBoundingClientRect(); mouse.x = e.clientX - r.left; mouse.y = e.clientY - r.top; mouse.on = true; var n = hit(mouse.x, mouse.y); if (n !== hover) setHover(n); if (tip) tip.textContent = n ? '已定位 ' + (CN[n.n] || n.n) + ' · 查看指标' : '移动鼠标探索风险节点'; });
       stage.addEventListener('mouseleave', function () { mouse.on = false; if (tip) tip.textContent = o.tipIdle || '移动鼠标探索风险节点'; setHover(null); });
       window.addEventListener('resize', fit);
     }
+    initParticles();
     nodeValues(); fit(); buildA11y(); bind(); bindTilt();
+    var unbindSceneVisibility = bindSceneVisibility();
+    startScene();
     return {
-      setHighlight: function (name) { active = name; draw(); return active; },
-      setYear: function (value) { year = +value || year; nodeValues(); buildA11y(); draw(); return year; },
-      refresh: function () { nodeValues(); buildA11y(); draw(); },
+      setHighlight: function (name) { active = name; draw(motion.time); return active; },
+      setYear: function (value) { year = +value || year; nodeValues(); buildA11y(); draw(motion.time); return year; },
+      refresh: function () { nodeValues(); buildA11y(); draw(motion.time); },
       resize: fit,
-      destroy: function () { window.removeEventListener('resize', fit); }
+      destroy: function () { stopScene(); if (unbindSceneVisibility) unbindSceneVisibility(); window.removeEventListener('resize', fit); }
     };
   }
   global.createPolygonMap = createPolygonMap;
