@@ -12,7 +12,7 @@
     'South Korea': '韩国', Mexico: '墨西哥', Germany: '德国', Netherlands: '荷兰'
   };
   var COLORS = {
-    land: 'rgba(116,151,163,.30)', border: 'rgba(146,185,193,.28)',
+    land: 'rgba(116,151,163,.14)', border: 'rgba(146,185,193,.22)',
     landHot: 'rgba(255,107,95,.48)', landCool: 'rgba(62,214,197,.35)',
     cyan: '#3ed6c5', amber: '#f4bd5b', hot: '#ff6b5f', text: '#eaf7f6'
   };
@@ -57,7 +57,7 @@
     var W = 0, H = 0, dpr = 1, hover = null, mouse = { x: -1, y: -1, on: false };
     var tilt = { x: 0, y: 0, gx: 0, gy: 0, vx: 0, vy: 0, active: false, frame: 0 };
     var motion = { time: 0, frame: 0, visible: true, reduced: false };
-    var particles = [];
+    var particles = [], worldDots = [], dotsW = 0, dotsH = 0;
     try { motion.reduced = !!(window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches); } catch (e) {}
     var a11y = stage.querySelector('.mapA11y') || document.createElement('div');
     a11y.className = 'mapA11y';
@@ -93,6 +93,60 @@
         ctx.globalAlpha = Math.max(.025, alpha);
         ctx.fillStyle = q.amber ? COLORS.amber : COLORS.cyan;
         ctx.beginPath(); ctx.arc(x, y, q.size * depth, 0, Math.PI * 2); ctx.fill();
+      });
+      ctx.restore();
+    }
+    function pointInRing(x, y, ring) {
+      var inside = false;
+      for (var i = 0, j = ring.length - 1; i < ring.length; j = i++) {
+        var pi = project(ring[i][0], ring[i][1], W, H), pj = project(ring[j][0], ring[j][1], W, H);
+        var cross = ((pi.y > y) !== (pj.y > y)) && (x < (pj.x - pi.x) * (y - pi.y) / ((pj.y - pi.y) || 1e-9) + pi.x);
+        if (cross) inside = !inside;
+      }
+      return inside;
+    }
+    function pointInPolygon(x, y, polygon) {
+      if (!polygon || !polygon.length || !pointInRing(x, y, polygon[0])) return false;
+      for (var i = 1; i < polygon.length; i++) if (pointInRing(x, y, polygon[i])) return false;
+      return true;
+    }
+    function buildWorldDots() {
+      if (!W || !H) return;
+      var gap = Math.max(4.8, Math.min(7.2, W / 170)), seed = 671239;
+      function random() { seed = (seed * 1664525 + 1013904223) >>> 0; return seed / 4294967296; }
+      worldDots = [];
+      geo.features.forEach(function (f) {
+        var geometry = f.geometry, polygons = !geometry ? [] : (geometry.type === 'Polygon' ? [geometry.coordinates] : (geometry.coordinates || []));
+        var target = featureNode(f), tone = target ? ((target.n4 || 0) >= .05 ? 'hot' : 'cyan') : 'land';
+        polygons.forEach(function (polygon) {
+          var outer = polygon && polygon[0]; if (!outer || !outer.length) return;
+          var screen = outer.map(function (p) { return project(p[0], p[1], W, H); });
+          var minX = W, minY = H, maxX = 0, maxY = 0;
+          screen.forEach(function (p) { minX = Math.min(minX, p.x); minY = Math.min(minY, p.y); maxX = Math.max(maxX, p.x); maxY = Math.max(maxY, p.y); });
+          for (var y = Math.max(0, Math.floor(minY / gap) * gap); y <= Math.min(H, maxY); y += gap) {
+            for (var x = Math.max(0, Math.floor(minX / gap) * gap); x <= Math.min(W, maxX); x += gap) {
+              if (!pointInPolygon(x, y, polygon)) continue;
+              worldDots.push({ x: x, y: y, z: .34 + random() * .66, phase: random() * Math.PI * 2, size: .58 + random() * .78, tone: tone, country: target && target.n });
+            }
+          }
+        });
+      });
+      dotsW = W; dotsH = H;
+    }
+    function drawWorldDots(time) {
+      if (!worldDots.length) return;
+      var t = (time || 0) * .001;
+      ctx.save();
+      worldDots.forEach(function (d) {
+        var focused = !active || !d.country || d.country === active, depth = d.z;
+        var x = d.x + Math.sin(t * .12 + d.phase) * .45 * depth + (mouse.on ? (mouse.x / Math.max(1, W) - .5) * 3.6 * depth : 0);
+        var y = d.y + Math.cos(t * .1 + d.phase) * .32 * depth + (mouse.on ? (mouse.y / Math.max(1, H) - .5) * 2.4 * depth : 0);
+        var alpha = (d.tone === 'land' ? .17 : .30) + depth * (d.tone === 'land' ? .15 : .28);
+        if (!focused) alpha *= .38;
+        ctx.globalAlpha = Math.max(.035, alpha * (.82 + .18 * Math.sin(t * .7 + d.phase)));
+        ctx.fillStyle = d.tone === 'hot' ? COLORS.hot : d.tone === 'cyan' ? COLORS.cyan : 'rgba(157,190,198,1)';
+        var r = d.size * (.78 + depth * .48);
+        ctx.beginPath(); ctx.arc(x, y, r, 0, Math.PI * 2); ctx.fill();
       });
       ctx.restore();
     }
@@ -207,6 +261,7 @@
       for (var gy = 1; gy < 5; gy++) { ctx.beginPath(); ctx.moveTo(0, H * gy / 5); ctx.lineTo(W, H * gy / 5); ctx.stroke(); }
       drawParticleField(time);
       geo.features.forEach(function (f) { drawGeometry(f.geometry, COLORS.land, COLORS.border); });
+      drawWorldDots(time);
       geo.features.forEach(function (f) {
         var target = featureNode(f);
         if (!target) return;
@@ -356,6 +411,7 @@
       var rect = stage.getBoundingClientRect(); W = rect.width; H = rect.height;
       if (W < 40 || H < 40) return;
       dpr = window.devicePixelRatio || 1; cv.width = Math.round(W * dpr); cv.height = Math.round(H * dpr); ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+      if (Math.abs(dotsW - W) > 2 || Math.abs(dotsH - H) > 2) buildWorldDots();
       positionA11y(); draw(motion.time);
     }
     function bind() {
@@ -369,8 +425,8 @@
     startScene();
     return {
       setHighlight: function (name) { active = name; draw(motion.time); return active; },
-      setYear: function (value) { year = +value || year; nodeValues(); buildA11y(); draw(motion.time); return year; },
-      refresh: function () { nodeValues(); buildA11y(); draw(motion.time); },
+      setYear: function (value) { year = +value || year; nodeValues(); buildWorldDots(); buildA11y(); draw(motion.time); return year; },
+      refresh: function () { nodeValues(); buildWorldDots(); buildA11y(); draw(motion.time); },
       resize: fit,
       destroy: function () { stopScene(); if (unbindSceneVisibility) unbindSceneVisibility(); window.removeEventListener('resize', fit); }
     };
