@@ -42,6 +42,7 @@
     var mode = o.mode || 'all', year = +o.year || 2022, active = o.highlight || null;
     var nodes = global.DOTMAP.nodes.map(function (n) { return { n: n.n, lon: n.lon, lat: n.lat }; });
     var W = 0, H = 0, dpr = 1, hover = null, mouse = { x: -1, y: -1, on: false };
+    var tilt = { x: 0, y: 0, gx: 0, gy: 0, vx: 0, vy: 0, active: false, frame: 0 };
     var a11y = stage.querySelector('.mapA11y') || document.createElement('div');
     a11y.className = 'mapA11y';
     if (!a11y.parentNode) stage.appendChild(a11y);
@@ -152,6 +153,35 @@
         var p = px(n); b.style.left = (p.x - 15) + 'px'; b.style.top = (p.y - 15) + 'px';
       });
     }
+    function animateTilt() {
+      var spring = 0.075, damping = 0.78;
+      tilt.vx += (tilt.gx - tilt.x) * spring;
+      tilt.vy += (tilt.gy - tilt.y) * spring;
+      tilt.vx *= damping; tilt.vy *= damping;
+      tilt.x += tilt.vx; tilt.y += tilt.vy;
+      var moving = Math.abs(tilt.x) + Math.abs(tilt.y) + Math.abs(tilt.vx) + Math.abs(tilt.vy) > .012;
+      stage.style.setProperty('--tilt-x', (-tilt.y * 6.2).toFixed(3) + 'deg');
+      stage.style.setProperty('--tilt-y', (tilt.x * 8.2).toFixed(3) + 'deg');
+      stage.style.setProperty('--map-mx', (((tilt.x + 1) / 2) * 100).toFixed(2) + '%');
+      stage.style.setProperty('--map-my', (((tilt.y + 1) / 2) * 100).toFixed(2) + '%');
+      stage.style.setProperty('--map-glow', String(Math.min(1, tilt.active ? .9 : moving ? .42 : 0)));
+      if (moving || tilt.active) tilt.frame = requestAnimationFrame(animateTilt);
+      else { tilt.frame = 0; stage.style.setProperty('--map-glow', '0'); }
+    }
+    function startTiltFrame() { if (!tilt.frame) tilt.frame = requestAnimationFrame(animateTilt); }
+    function bindTilt() {
+      stage.classList.add('mapInteractive');
+      stage.addEventListener('pointerenter', function () { tilt.active = true; startTiltFrame(); });
+      stage.addEventListener('pointermove', function (e) {
+        var r = stage.getBoundingClientRect();
+        tilt.gx = Math.max(-1, Math.min(1, ((e.clientX - r.left) / r.width) * 2 - 1));
+        tilt.gy = Math.max(-1, Math.min(1, ((e.clientY - r.top) / r.height) * 2 - 1));
+        tilt.active = true; startTiltFrame();
+      });
+      stage.addEventListener('pointerleave', function () {
+        tilt.gx = 0; tilt.gy = 0; tilt.active = false; startTiltFrame();
+      });
+    }
     function fit() {
       var rect = stage.getBoundingClientRect(); W = rect.width; H = rect.height;
       if (W < 40 || H < 40) return;
@@ -163,7 +193,7 @@
       stage.addEventListener('mouseleave', function () { mouse.on = false; if (tip) tip.textContent = o.tipIdle || '移动鼠标探索风险节点'; setHover(null); });
       window.addEventListener('resize', fit);
     }
-    nodeValues(); fit(); buildA11y(); bind();
+    nodeValues(); fit(); buildA11y(); bind(); bindTilt();
     return {
       setHighlight: function (name) { active = name; draw(); return active; },
       setYear: function (value) { year = +value || year; nodeValues(); buildA11y(); draw(); return year; },
