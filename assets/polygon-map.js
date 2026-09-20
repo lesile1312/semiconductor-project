@@ -19,6 +19,16 @@
     India: [16, -20], Indonesia: [34, 42], Philippines: [34, -18], Japan: [20, -22],
     'South Korea': [18, -32], Mexico: [14, -11], Germany: [-20, -18], Netherlands: [16, -18]
   };
+  var FEATURE_ALIASES = {
+    Malaysia: ['Malaysia'], Vietnam: ['Vietnam'], Singapore: ['Singapore'], Thailand: ['Thailand'],
+    India: ['India'], Indonesia: ['Indonesia'], Philippines: ['Philippines'], Japan: ['Japan'],
+    'South Korea': ['South Korea', 'Republic of Korea'], Mexico: ['Mexico'], Germany: ['Germany'],
+    Netherlands: ['Netherlands']
+  };
+  var ANCHORS = {
+    China: { lon: 104, lat: 35, color: '#3ed6c5' },
+    UnitedStates: { lon: -100, lat: 38, color: '#f4bd5b' }
+  };
   function project(lon, lat, w, h) {
     return { x: (lon + 180) / 360 * w, y: (90 - lat) / 180 * h };
   }
@@ -66,12 +76,77 @@
       });
       ctx.closePath();
     }
-    function drawGeometry(geometry, fill, stroke) {
+    function drawGeometry(geometry, fill, stroke, width) {
       rings(geometry).forEach(function (poly) {
         ctx.beginPath();
         poly.forEach(drawRing);
         ctx.fillStyle = fill; ctx.fill();
-        ctx.strokeStyle = stroke; ctx.lineWidth = .55; ctx.stroke();
+        ctx.strokeStyle = stroke; ctx.lineWidth = width || .55; ctx.stroke();
+      });
+    }
+    function featureName(f) { return f && f.properties && (f.properties.name || f.properties.NAME || f.properties.admin); }
+    function featureNode(f) {
+      var name = featureName(f);
+      if (!name) return null;
+      for (var i = 0; i < nodes.length; i++) {
+        var aliases = FEATURE_ALIASES[nodes[i].n] || [nodes[i].n];
+        if (aliases.indexOf(name) >= 0) return nodes[i];
+      }
+      return null;
+    }
+    function lineCurve(a, b, color, alpha, width, dashed) {
+      var bend = Math.max(12, Math.min(42, Math.abs(b.x - a.x) * .055));
+      var cx = (a.x + b.x) / 2, cy = (a.y + b.y) / 2 - bend;
+      ctx.save();
+      ctx.globalAlpha = alpha;
+      ctx.strokeStyle = color;
+      ctx.lineWidth = width;
+      ctx.lineCap = 'round';
+      if (dashed) { ctx.setLineDash([4, 7]); ctx.lineDashOffset = -2; }
+      ctx.beginPath(); ctx.moveTo(a.x, a.y); ctx.quadraticCurveTo(cx, cy, b.x, b.y); ctx.stroke();
+      ctx.restore();
+    }
+    function drawAnchor(p, color) {
+      ctx.save();
+      ctx.globalAlpha = .86;
+      ctx.strokeStyle = color; ctx.lineWidth = 1;
+      ctx.beginPath(); ctx.arc(p.x, p.y, 7, 0, Math.PI * 2); ctx.stroke();
+      ctx.fillStyle = color; ctx.beginPath(); ctx.arc(p.x, p.y, 2.4, 0, Math.PI * 2); ctx.fill();
+      ctx.restore();
+    }
+    function drawMicroTarget(n) {
+      if (n.n !== 'Singapore') return;
+      var p = px(n), hot = (n.n4 || 0) >= .05, color = hot ? COLORS.hot : COLORS.cyan;
+      ctx.save(); ctx.globalAlpha = active && active !== n.n ? .35 : .9;
+      ctx.fillStyle = hot ? 'rgba(255,107,95,.28)' : 'rgba(62,214,197,.25)';
+      ctx.strokeStyle = color; ctx.lineWidth = 1.1;
+      ctx.beginPath(); ctx.moveTo(p.x - 7, p.y); ctx.lineTo(p.x, p.y - 5); ctx.lineTo(p.x + 7, p.y); ctx.lineTo(p.x, p.y + 5); ctx.closePath(); ctx.fill(); ctx.stroke();
+      ctx.restore();
+    }
+    function drawSupplyLinks() {
+      var map = valuesOf(year), china = project(ANCHORS.China.lon, ANCHORS.China.lat, W, H), us = project(ANCHORS.UnitedStates.lon, ANCHORS.UnitedStates.lat, W, H);
+      drawAnchor(china, ANCHORS.China.color); drawAnchor(us, ANCHORS.UnitedStates.color);
+      nodes.forEach(function (n) {
+        var row = map[n.n] || {}, p = px(n), isActive = !active || n.n === active;
+        var n2 = Number(row.n2_china_hs8542_import_share) || 0, n3 = Number(row.n3_us_hs8542_export_share) || 0;
+        var alpha = isActive ? .18 + Math.min(.34, n2 * .55) : .095;
+        var width = isActive ? .7 + Math.min(1.55, n2 * 4) : .58;
+        lineCurve(china, p, ANCHORS.China.color, alpha, width, true);
+        alpha = isActive ? .18 + Math.min(.34, n3 * .38) : .095;
+        width = isActive ? .7 + Math.min(1.55, n3 * 1.8) : .58;
+        lineCurve(p, us, ANCHORS.UnitedStates.color, alpha, width, true);
+      });
+      ctx.save(); ctx.font = '600 10px Inter,"Noto Sans SC",Arial,sans-serif';
+      ctx.fillStyle = 'rgba(62,214,197,.88)'; ctx.fillText('中国投入', Math.min(W - 54, china.x + 8), Math.max(13, china.y - 9));
+      ctx.fillStyle = 'rgba(244,189,91,.90)'; ctx.fillText('美国市场', Math.min(W - 54, us.x + 8), Math.max(13, us.y - 9));
+      ctx.restore();
+    }
+    function drawPointerLinks() {
+      if (!mouse.on) return;
+      nodes.forEach(function (n) {
+        var p = px(n), dx = p.x - mouse.x, dy = p.y - mouse.y, d = Math.sqrt(dx * dx + dy * dy);
+        if (d > 330) return;
+        lineCurve({ x: mouse.x, y: mouse.y }, p, COLORS.cyan, Math.max(.04, .28 * (1 - d / 330)), 1, false);
       });
     }
     function draw() {
@@ -82,6 +157,18 @@
       for (var gx = 1; gx < 7; gx++) { ctx.beginPath(); ctx.moveTo(W * gx / 7, 0); ctx.lineTo(W * gx / 7, H); ctx.stroke(); }
       for (var gy = 1; gy < 5; gy++) { ctx.beginPath(); ctx.moveTo(0, H * gy / 5); ctx.lineTo(W, H * gy / 5); ctx.stroke(); }
       geo.features.forEach(function (f) { drawGeometry(f.geometry, COLORS.land, COLORS.border); });
+      geo.features.forEach(function (f) {
+        var target = featureNode(f);
+        if (!target) return;
+        var hotTarget = (target.n4 || 0) >= .05, focused = !active || target.n === active;
+        var fill = hotTarget ? (focused ? 'rgba(255,107,95,.34)' : 'rgba(255,107,95,.12)') : (focused ? 'rgba(62,214,197,.25)' : 'rgba(62,214,197,.09)');
+        var stroke = hotTarget ? (focused ? 'rgba(255,107,95,.92)' : 'rgba(255,107,95,.42)') : (focused ? 'rgba(62,214,197,.92)' : 'rgba(62,214,197,.38)');
+        drawGeometry(f.geometry, fill, stroke, focused ? 1.25 : .72);
+      });
+      nodes.forEach(function (n) {
+        if (!geo.features.some(function (f) { return featureNode(f) === n; })) drawMicroTarget(n);
+      });
+      drawSupplyLinks();
       nodes.forEach(function (n) {
         var p = px(n), hot = (n.n4 || 0) >= .05, focused = !active || n.n === active;
         drawGeometryForNode(n, p, hot, focused);
@@ -91,6 +178,7 @@
         var g = ctx.createRadialGradient(mouse.x, mouse.y, 0, mouse.x, mouse.y, radius);
         g.addColorStop(0, 'rgba(244,189,91,.18)'); g.addColorStop(1, 'rgba(244,189,91,0)');
         ctx.fillStyle = g; ctx.beginPath(); ctx.arc(mouse.x, mouse.y, radius, 0, Math.PI * 2); ctx.fill();
+        drawPointerLinks();
       }
     }
     function drawGeometryForNode(n, p, hot, focused) {
