@@ -1,0 +1,13 @@
+country,iso3,p2_external_2022,external_source,source_year,coding_note
+Malaysia,MYS,0,US_State_Department_collective_defense_and_NATO,2022,No US collective-defense treaty or NATO membership identified in the selected official sources
+Vietnam,VNM,0,US_State_Department_collective_defense_and_NATO,2022,No US collective-defense treaty or NATO membership identified in the selected official sources
+Singapore,SGP,0,US_State_Department_collective_defense_and_NATO,2022,No US collective-defense treaty or NATO membership identified in the selected official sources
+Thailand,THA,1,US_State_Department_collective_defense_and_NATO,2022,US collective-defense arrangement listed by the US State Department
+India,IND,0,US_State_Department_collective_defense_and_NATO,2022,No US collective-defense treaty or NATO membership identified in the selected official sources
+Indonesia,IDN,0,US_State_Department_collective_defense_and_NATO,2022,No US collective-defense treaty or NATO membership identified in the selected official sources
+Philippines,PHL,1,US_State_Department_collective_defense_and_NATO,2022,US collective-defense arrangement listed by the US State Department
+Japan,JPN,1,US_State_Department_collective_defense_and_NATO,2022,US bilateral security treaty listed by the US State Department
+South Korea,KOR,1,US_State_Department_collective_defense_and_NATO,2022,US bilateral security treaty listed by the US State Department
+Mexico,MEX,0,US_State_Department_collective_defense_and_NATO,2022,Not listed as a current US collective-defense treaty party in the selected source
+Germany,DEU,1,US_State_Department_collective_defense_and_NATO,2022,NATO member in the official NATO member list
+Netherlands,NLD,1,US_State_Department_collective_defense_and_NATO,2022,NATO founding member in the official NATO member list
