@@ -348,7 +348,7 @@
     function positionA11y() {
       Array.prototype.forEach.call(a11y.children, function (b) {
         var n = nodes.filter(function (x) { return x.n === b.dataset.country; })[0]; if (!n) return;
-        var p = px(n); b.style.left = (p.x - 15) + 'px'; b.style.top = (p.y - 15) + 'px';
+        var p = px(n); b.style.left = (p.x - 22) + 'px'; b.style.top = (p.y - 22) + 'px';
       });
     }
     function animateTilt() {
@@ -396,8 +396,9 @@
     function bindTilt() {
       if (motion.reduced) return;
       stage.classList.add('mapInteractive');
-      stage.addEventListener('pointerenter', function () { tilt.active = true; startTiltFrame(); });
+      stage.addEventListener('pointerenter', function (e) { if (e.pointerType === 'touch') return; tilt.active = true; startTiltFrame(); });
       stage.addEventListener('pointermove', function (e) {
+        if (e.pointerType === 'touch') return;
         var r = stage.getBoundingClientRect();
         tilt.gx = Math.max(-1, Math.min(1, ((e.clientX - r.left) / r.width) * 2 - 1));
         tilt.gy = Math.max(-1, Math.min(1, ((e.clientY - r.top) / r.height) * 2 - 1));
@@ -415,8 +416,16 @@
       positionA11y(); draw(motion.time);
     }
     function bind() {
-      stage.addEventListener('mousemove', function (e) { var r = stage.getBoundingClientRect(); mouse.x = e.clientX - r.left; mouse.y = e.clientY - r.top; mouse.on = true; var n = hit(mouse.x, mouse.y); if (n !== hover) setHover(n); if (tip) tip.textContent = n ? '已定位 ' + (CN[n.n] || n.n) + ' · 查看指标' : '移动鼠标探索风险节点'; });
-      stage.addEventListener('mouseleave', function () { mouse.on = false; if (tip) tip.textContent = o.tipIdle || '移动鼠标探索风险节点'; setHover(null); });
+      function updatePointer(e) {
+        var r = stage.getBoundingClientRect(); mouse.x = e.clientX - r.left; mouse.y = e.clientY - r.top; mouse.on = true;
+        var n = hit(mouse.x, mouse.y); if (n !== hover) setHover(n);
+        if (tip) tip.textContent = n ? '已定位 ' + (CN[n.n] || n.n) + ' · 查看指标' : '移动鼠标探索风险节点';
+      }
+      function clearPointer() { mouse.on = false; if (tip) tip.textContent = o.tipIdle || '移动鼠标探索风险节点'; setHover(null); }
+      stage.addEventListener('pointermove', updatePointer, { passive: true });
+      stage.addEventListener('pointerdown', function (e) { if (e.pointerType === 'touch') updatePointer(e); }, { passive: true });
+      stage.addEventListener('pointerleave', clearPointer, { passive: true });
+      stage.addEventListener('pointercancel', clearPointer, { passive: true });
       window.addEventListener('resize', fit);
     }
     initParticles();
