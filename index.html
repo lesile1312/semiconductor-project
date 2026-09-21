@@ -62,7 +62,19 @@ var map=createPolygonMap({
 if(!map)return;
 if(sel){sel.addEventListener("change",function(){map.setHighlight(sel.value);});}
 if(yr){yr.addEventListener("change",function(){map.setYear(yr.value);});}
-})();</script></body></html>
+})();</script><style>
+:root{--pmu-duration-fast:160ms;--pmu-duration-base:320ms;--pmu-ease-standard:cubic-bezier(.22,1,.36,1);--pmu-perspective:900px;--pmu-press-scale:.96}
+::selection{background:rgba(62,214,197,.28);color:#fff}
+body{position:relative;isolation:isolate;background:radial-gradient(circle at 75% 0,#18394d 0,#071018 44%),linear-gradient(120deg,#071018,#091823 54%,#061017)}
+body:before{content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;opacity:.17;background-image:linear-gradient(rgba(62,214,197,.035) 1px,transparent 1px),linear-gradient(90deg,rgba(62,214,197,.035) 1px,transparent 1px),radial-gradient(circle at 12% 18%,rgba(244,189,91,.16),transparent 24%);background-size:48px 48px,48px 48px,100% 100%;mask-image:linear-gradient(to bottom,rgba(0,0,0,.88),transparent 72%)}
+.top{position:relative}.top:after{content:"";position:absolute;left:0;bottom:-1px;width:24%;height:1px;background:linear-gradient(90deg,transparent,var(--cyan),transparent);opacity:.75;transform-origin:left;animation:headerSignal 8s var(--pmu-ease-standard) infinite}
+@keyframes headerSignal{0%,100%{transform:scaleX(.35);opacity:.28}45%{transform:scaleX(1);opacity:.9}70%{transform:scaleX(.55);opacity:.45}}
+.mapHero{isolation:isolate;box-shadow:0 24px 70px rgba(0,0,0,.2),inset 0 1px 0 rgba(255,255,255,.035)}
+.mapHero:after{content:"";position:absolute;inset:0;z-index:0;pointer-events:none;border-radius:inherit;opacity:.24;background:linear-gradient(115deg,transparent 22%,rgba(255,255,255,.07) 43%,transparent 56%),linear-gradient(rgba(62,214,197,.04) 1px,transparent 1px),linear-gradient(90deg,rgba(62,214,197,.04) 1px,transparent 1px);background-size:100% 100%,44px 44px,44px 44px;mask-image:linear-gradient(90deg,transparent,rgba(0,0,0,.95) 45%,transparent)}
+.card,.panel,.finding,.method div,.sourceGrid div,.auditPanel{transition:transform var(--pmu-duration-base) var(--pmu-ease-standard),border-color var(--pmu-duration-base) ease,box-shadow var(--pmu-duration-base) ease}
+.card:hover,.panel:hover,.finding:hover,.method div:hover,.sourceGrid div:hover,.auditPanel:hover{transform:translateY(-3px);border-color:rgba(62,214,197,.42);box-shadow:0 16px 34px rgba(0,0,0,.2),inset 0 1px 0 rgba(255,255,255,.04)}
+@media (prefers-reduced-motion:reduce){.top:after{animation:none}.card,.panel,.finding,.method div,.sourceGrid div,.auditPanel{transition:none}.card:hover,.panel:hover,.finding:hover,.method div:hover,.sourceGrid div:hover,.auditPanel:hover{transform:none}}
+</style></body></html>
 
 
 
