@@ -121,7 +121,7 @@ window.WORLD_GEOMETRY={"type":"FeatureCollection","features":[{"properties":{"na
     var W = 0, H = 0, dpr = 1, hover = null, mouse = { x: -1, y: -1, on: false };
     var tilt = { x: 0, y: 0, gx: 0, gy: 0, vx: 0, vy: 0, active: false, frame: 0 };
     var motion = { time: 0, frame: 0, visible: true, reduced: false };
-    var particles = [], worldDots = [], dotsW = 0, dotsH = 0;
+    var particles = [], worldDots = [], dotsW = 0, dotsH = 0, fitFrame = 0, resizeObserver = null;
     try { motion.reduced = !!(window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches); } catch (e) {}
     var a11y = stage.querySelector('.mapA11y') || document.createElement('div');
     a11y.className = 'mapA11y';
@@ -474,10 +474,15 @@ window.WORLD_GEOMETRY={"type":"FeatureCollection","features":[{"properties":{"na
     }
     function fit() {
       var rect = stage.getBoundingClientRect(); W = rect.width; H = rect.height;
-      if (W < 40 || H < 40) return;
+      if (W < 40 || H < 40) return false;
       dpr = window.devicePixelRatio || 1; cv.width = Math.round(W * dpr); cv.height = Math.round(H * dpr); ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
       if (Math.abs(dotsW - W) > 2 || Math.abs(dotsH - H) > 2) buildWorldDots();
       positionA11y(); draw(motion.time);
+      return true;
+    }
+    function scheduleFit() {
+      if (fitFrame) return;
+      fitFrame = requestAnimationFrame(function () { fitFrame = 0; fit(); });
     }
     function bind() {
       function updatePointer(e) {
@@ -490,10 +495,14 @@ window.WORLD_GEOMETRY={"type":"FeatureCollection","features":[{"properties":{"na
       stage.addEventListener('pointerdown', function (e) { if (e.pointerType === 'touch') updatePointer(e); }, { passive: true });
       stage.addEventListener('pointerleave', clearPointer, { passive: true });
       stage.addEventListener('pointercancel', clearPointer, { passive: true });
-      window.addEventListener('resize', fit);
+      window.addEventListener('resize', scheduleFit, { passive: true });
+      window.addEventListener('orientationchange', scheduleFit, { passive: true });
+      if (window.visualViewport) window.visualViewport.addEventListener('resize', scheduleFit, { passive: true });
+      if ('ResizeObserver' in window) { resizeObserver = new ResizeObserver(scheduleFit); resizeObserver.observe(stage); }
     }
     initParticles();
     nodeValues(); fit(); buildA11y(); bind(); bindTilt();
+    scheduleFit(); setTimeout(scheduleFit, 120); setTimeout(scheduleFit, 420);
     var unbindSceneVisibility = bindSceneVisibility();
     startScene();
     return {
@@ -501,7 +510,11 @@ window.WORLD_GEOMETRY={"type":"FeatureCollection","features":[{"properties":{"na
       setYear: function (value) { year = +value || year; nodeValues(); buildWorldDots(); buildA11y(); draw(motion.time); return year; },
       refresh: function () { nodeValues(); buildWorldDots(); buildA11y(); draw(motion.time); },
       resize: fit,
-      destroy: function () { stopScene(); if (unbindSceneVisibility) unbindSceneVisibility(); window.removeEventListener('resize', fit); }
+      destroy: function () {
+        stopScene(); if (fitFrame) cancelAnimationFrame(fitFrame); if (resizeObserver) resizeObserver.disconnect();
+        if (unbindSceneVisibility) unbindSceneVisibility(); window.removeEventListener('resize', scheduleFit); window.removeEventListener('orientationchange', scheduleFit);
+        if (window.visualViewport) window.visualViewport.removeEventListener('resize', scheduleFit);
+      }
     };
   }
   global.createPolygonMap = createPolygonMap;
