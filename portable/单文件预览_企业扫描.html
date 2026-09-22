@@ -25,6 +25,540 @@ window.PANEL=[{"country":"Malaysia","iso3":"MYS","year":2017,"p1_unga_relative_a
 
 </script>
 <script>
+/* 芯链哨兵 · 真实地理轮廓地图
+ * 使用 Natural Earth 1:110m 国家轮廓的经纬度几何，以等距圆柱投影绘制。
+ * 国家节点的数值仍来自本地核心面板；底图只负责地理定位。
+ * 动效规范：tilt-panel（指针倾斜）、glow-border（焦点边缘光）与
+ * spring-cascade（有节制的网络脉冲）；所有粒子均为本地确定性绘制，不引入外部服务。
+ */
+(function (global) {
+  'use strict';
+  var CN = {
+    Malaysia: '马来西亚', Vietnam: '越南', Singapore: '新加坡', Thailand: '泰国',
+    India: '印度', Indonesia: '印度尼西亚', Philippines: '菲律宾', Japan: '日本',
+    'South Korea': '韩国', Mexico: '墨西哥', Germany: '德国', Netherlands: '荷兰'
+  };
+  var COLORS = {
+    land: 'rgba(116,151,163,.14)', border: 'rgba(146,185,193,.22)',
+    landHot: 'rgba(255,107,95,.48)', landCool: 'rgba(62,214,197,.35)',
+    cyan: '#3ed6c5', amber: '#f4bd5b', hot: '#ff6b5f', text: '#eaf7f6'
+  };
+  var LABEL_OFFSETS = {
+    Malaysia: [18, 28], Vietnam: [18, -24], Singapore: [28, 44], Thailand: [-46, -25],
+    India: [16, -20], Indonesia: [34, 42], Philippines: [34, -18], Japan: [20, -22],
+    'South Korea': [18, -32], Mexico: [14, -11], Germany: [-20, -18], Netherlands: [16, -18]
+  };
+  var FEATURE_ALIASES = {
+    Malaysia: ['Malaysia'], Vietnam: ['Vietnam'], Singapore: ['Singapore'], Thailand: ['Thailand'],
+    India: ['India'], Indonesia: ['Indonesia'], Philippines: ['Philippines'], Japan: ['Japan'],
+    'South Korea': ['South Korea', 'Republic of Korea'], Mexico: ['Mexico'], Germany: ['Germany'],
+    Netherlands: ['Netherlands']
+  };
+  var ANCHORS = {
+    China: { lon: 104, lat: 35, color: '#3ed6c5' },
+    UnitedStates: { lon: -100, lat: 38, color: '#f4bd5b' }
+  };
+  var MOTION = { tiltMax: 8, spring: .075, damping: .78, glowAlpha: .18, durationBase: 320 };
+  function project(lon, lat, w, h) {
+    return { x: (lon + 180) / 360 * w, y: (90 - lat) / 180 * h };
+  }
+  function rings(geometry) {
+    if (!geometry) return [];
+    return geometry.type === 'Polygon' ? [geometry.coordinates] : geometry.coordinates;
+  }
+  function valuesOf(year) {
+    var out = {};
+    try {
+      if (typeof D !== 'undefined') D.forEach(function (row) {
+        if (+row.year === +year) out[row.country] = row;
+      });
+    } catch (e) {}
+    return out;
+  }
+  function createPolygonMap(o) {
+    var cv = o.canvas, stage = o.stage || (cv && cv.parentElement), geo = o.geo || global.WORLD_GEOMETRY;
+    if (!cv || !stage || !geo || !global.DOTMAP) return null;
+    var ctx = cv.getContext('2d'), tip = o.tip || null, card = o.card || null;
+    var mode = o.mode || 'all', year = +o.year || 2022, active = o.highlight || null;
+    var nodes = global.DOTMAP.nodes.map(function (n) { return { n: n.n, lon: n.lon, lat: n.lat }; });
+    var W = 0, H = 0, dpr = 1, hover = null, mouse = { x: -1, y: -1, on: false };
+    var tilt = { x: 0, y: 0, gx: 0, gy: 0, vx: 0, vy: 0, active: false, frame: 0 };
+    var motion = { time: 0, frame: 0, visible: true, reduced: false };
+    var particles = [], worldDots = [], dotsW = 0, dotsH = 0, fitFrame = 0, resizeObserver = null;
+    try { motion.reduced = !!(window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches); } catch (e) {}
+    var a11y = stage.querySelector('.mapA11y') || document.createElement('div');
+    a11y.className = 'mapA11y';
+    if (!a11y.parentNode) stage.appendChild(a11y);
+    function initParticles() {
+      var seed = 928371;
+      function random() { seed = (seed * 1664525 + 1013904223) >>> 0; return seed / 4294967296; }
+      particles = [];
+      var count = window.innerWidth < 700 ? 52 : 86;
+      for (var i = 0; i < count; i++) particles.push({
+        u: random(), v: random(), z: .22 + random() * .78,
+        phase: random() * Math.PI * 2, drift: .35 + random() * .65,
+        size: .32 + random() * 1.1, amber: random() > .86
+      });
+    }
+    function curveControl(a, b) {
+      var bend = Math.max(12, Math.min(42, Math.abs(b.x - a.x) * .055));
+      return { x: (a.x + b.x) / 2, y: (a.y + b.y) / 2 - bend };
+    }
+    function curvePoint(a, b, t) {
+      var c = curveControl(a, b), k = 1 - t;
+      return { x: k * k * a.x + 2 * k * t * c.x + t * t * b.x, y: k * k * a.y + 2 * k * t * c.y + t * t * b.y };
+    }
+    function drawParticleField(time) {
+      var t = (time || 0) * .001;
+      ctx.save();
+      particles.forEach(function (q) {
+        var depth = q.z, parallaxX = mouse.on ? (mouse.x / Math.max(1, W) - .5) * 8 * depth : 0;
+        var parallaxY = mouse.on ? (mouse.y / Math.max(1, H) - .5) * 5 * depth : 0;
+        var x = q.u * W + Math.sin(t * .18 * q.drift + q.phase) * 4 * depth + parallaxX;
+        var y = q.v * H + Math.cos(t * .14 * q.drift + q.phase) * 2.5 * depth + parallaxY;
+        var alpha = (.055 + depth * .12) * (.78 + .22 * Math.sin(t * .65 + q.phase));
+        ctx.globalAlpha = Math.max(.025, alpha);
+        ctx.fillStyle = q.amber ? COLORS.amber : COLORS.cyan;
+        ctx.beginPath(); ctx.arc(x, y, q.size * depth, 0, Math.PI * 2); ctx.fill();
+      });
+      ctx.restore();
+    }
+    function pointInRing(x, y, ring) {
+      var inside = false;
+      for (var i = 0, j = ring.length - 1; i < ring.length; j = i++) {
+        var pi = project(ring[i][0], ring[i][1], W, H), pj = project(ring[j][0], ring[j][1], W, H);
+        var cross = ((pi.y > y) !== (pj.y > y)) && (x < (pj.x - pi.x) * (y - pi.y) / ((pj.y - pi.y) || 1e-9) + pi.x);
+        if (cross) inside = !inside;
+      }
+      return inside;
+    }
+    function pointInPolygon(x, y, polygon) {
+      if (!polygon || !polygon.length || !pointInRing(x, y, polygon[0])) return false;
+      for (var i = 1; i < polygon.length; i++) if (pointInRing(x, y, polygon[i])) return false;
+      return true;
+    }
+    function buildWorldDots() {
+      if (!W || !H) return;
+      var gap = Math.max(4.8, Math.min(7.2, W / 170)), seed = 671239;
+      function random() { seed = (seed * 1664525 + 1013904223) >>> 0; return seed / 4294967296; }
+      worldDots = [];
+      geo.features.forEach(function (f) {
+        var geometry = f.geometry, polygons = !geometry ? [] : (geometry.type === 'Polygon' ? [geometry.coordinates] : (geometry.coordinates || []));
+        var target = featureNode(f), tone = target ? ((target.n4 || 0) >= .05 ? 'hot' : 'cyan') : 'land';
+        polygons.forEach(function (polygon) {
+          var outer = polygon && polygon[0]; if (!outer || !outer.length) return;
+          var screen = outer.map(function (p) { return project(p[0], p[1], W, H); });
+          var minX = W, minY = H, maxX = 0, maxY = 0;
+          screen.forEach(function (p) { minX = Math.min(minX, p.x); minY = Math.min(minY, p.y); maxX = Math.max(maxX, p.x); maxY = Math.max(maxY, p.y); });
+          for (var y = Math.max(0, Math.floor(minY / gap) * gap); y <= Math.min(H, maxY); y += gap) {
+            for (var x = Math.max(0, Math.floor(minX / gap) * gap); x <= Math.min(W, maxX); x += gap) {
+              if (!pointInPolygon(x, y, polygon)) continue;
+              worldDots.push({ x: x, y: y, z: .34 + random() * .66, phase: random() * Math.PI * 2, size: .58 + random() * .78, tone: tone, country: target && target.n });
+            }
+          }
+        });
+      });
+      dotsW = W; dotsH = H;
+    }
+    function drawWorldDots(time) {
+      if (!worldDots.length) return;
+      var t = (time || 0) * .001;
+      ctx.save();
+      worldDots.forEach(function (d) {
+        var focused = !active || !d.country || d.country === active, depth = d.z;
+        var x = d.x + Math.sin(t * .12 + d.phase) * .45 * depth + (mouse.on ? (mouse.x / Math.max(1, W) - .5) * 3.6 * depth : 0);
+        var y = d.y + Math.cos(t * .1 + d.phase) * .32 * depth + (mouse.on ? (mouse.y / Math.max(1, H) - .5) * 2.4 * depth : 0);
+        var alpha = (d.tone === 'land' ? .17 : .30) + depth * (d.tone === 'land' ? .15 : .28);
+        if (!focused) alpha *= .38;
+        ctx.globalAlpha = Math.max(.035, alpha * (.82 + .18 * Math.sin(t * .7 + d.phase)));
+        ctx.fillStyle = d.tone === 'hot' ? COLORS.hot : d.tone === 'cyan' ? COLORS.cyan : 'rgba(157,190,198,1)';
+        var r = d.size * (.78 + depth * .48);
+        ctx.beginPath(); ctx.arc(x, y, r, 0, Math.PI * 2); ctx.fill();
+      });
+      ctx.restore();
+    }
+    function drawPulse(p, color, alpha, radius) {
+      ctx.save(); ctx.globalAlpha = alpha; ctx.fillStyle = color; ctx.shadowColor = color; ctx.shadowBlur = 10;
+      ctx.beginPath(); ctx.arc(p.x, p.y, radius, 0, Math.PI * 2); ctx.fill(); ctx.restore();
+    }
+    function nodeValues() {
+      var map = valuesOf(year);
+      nodes.forEach(function (n) {
+        var v = map[n.n] || {};
+        n.n2 = v.n2_china_hs8542_import_share;
+        n.n3 = v.n3_us_hs8542_export_share;
+        n.n4 = v.n4_dual_dependency;
+      });
+      var sorted = nodes.slice().sort(function (a, b) { return (b.n4 || 0) - (a.n4 || 0); });
+      var rank = {}; sorted.forEach(function (n, i) { rank[n.n] = i; });
+      nodes.forEach(function (n) { n.r = 4 + (1 - (rank[n.n] || 0) / Math.max(1, nodes.length - 1)) * 4; });
+    }
+    function px(n) { return project(n.lon, n.lat, W, H); }
+    function drawRing(ring) {
+      ring.forEach(function (point, i) {
+        var p = project(point[0], point[1], W, H);
+        if (i === 0) ctx.moveTo(p.x, p.y); else ctx.lineTo(p.x, p.y);
+      });
+      ctx.closePath();
+    }
+    function drawGeometry(geometry, fill, stroke, width) {
+      rings(geometry).forEach(function (poly) {
+        ctx.beginPath();
+        poly.forEach(drawRing);
+        ctx.fillStyle = fill; ctx.fill();
+        ctx.strokeStyle = stroke; ctx.lineWidth = width || .55; ctx.stroke();
+      });
+    }
+    function featureName(f) { return f && f.properties && (f.properties.name || f.properties.NAME || f.properties.admin); }
+    function featureNode(f) {
+      var name = featureName(f);
+      if (!name) return null;
+      for (var i = 0; i < nodes.length; i++) {
+        var aliases = FEATURE_ALIASES[nodes[i].n] || [nodes[i].n];
+        if (aliases.indexOf(name) >= 0) return nodes[i];
+      }
+      return null;
+    }
+    function lineCurve(a, b, color, alpha, width, dashed) {
+      var control = curveControl(a, b);
+      ctx.save();
+      ctx.globalAlpha = alpha;
+      ctx.strokeStyle = color;
+      ctx.lineWidth = width;
+      ctx.lineCap = 'round';
+      if (dashed) { ctx.setLineDash([4, 7]); ctx.lineDashOffset = -2; }
+      ctx.beginPath(); ctx.moveTo(a.x, a.y); ctx.quadraticCurveTo(control.x, control.y, b.x, b.y); ctx.stroke();
+      ctx.restore();
+    }
+    function drawAnchor(p, color) {
+      ctx.save();
+      ctx.globalAlpha = .86;
+      ctx.strokeStyle = color; ctx.lineWidth = 1;
+      ctx.beginPath(); ctx.arc(p.x, p.y, 7, 0, Math.PI * 2); ctx.stroke();
+      ctx.fillStyle = color; ctx.beginPath(); ctx.arc(p.x, p.y, 2.4, 0, Math.PI * 2); ctx.fill();
+      ctx.restore();
+    }
+    function drawMicroTarget(n) {
+      if (n.n !== 'Singapore') return;
+      var p = px(n), hot = (n.n4 || 0) >= .05, color = hot ? COLORS.hot : COLORS.cyan;
+      ctx.save(); ctx.globalAlpha = active && active !== n.n ? .35 : .9;
+      ctx.fillStyle = hot ? 'rgba(255,107,95,.28)' : 'rgba(62,214,197,.25)';
+      ctx.strokeStyle = color; ctx.lineWidth = 1.1;
+      ctx.beginPath(); ctx.moveTo(p.x - 7, p.y); ctx.lineTo(p.x, p.y - 5); ctx.lineTo(p.x + 7, p.y); ctx.lineTo(p.x, p.y + 5); ctx.closePath(); ctx.fill(); ctx.stroke();
+      ctx.restore();
+    }
+    function drawSupplyLinks(time) {
+      var map = valuesOf(year), china = project(ANCHORS.China.lon, ANCHORS.China.lat, W, H), us = project(ANCHORS.UnitedStates.lon, ANCHORS.UnitedStates.lat, W, H);
+      drawAnchor(china, ANCHORS.China.color); drawAnchor(us, ANCHORS.UnitedStates.color);
+      nodes.forEach(function (n, index) {
+        var row = map[n.n] || {}, p = px(n), isActive = !active || n.n === active;
+        var n2 = Number(row.n2_china_hs8542_import_share) || 0, n3 = Number(row.n3_us_hs8542_export_share) || 0;
+        var alpha = isActive ? .18 + Math.min(.34, n2 * .55) : .095;
+        var width = isActive ? .7 + Math.min(1.55, n2 * 4) : .58;
+        lineCurve(china, p, ANCHORS.China.color, alpha, width, true);
+        alpha = isActive ? .18 + Math.min(.34, n3 * .38) : .095;
+        width = isActive ? .7 + Math.min(1.55, n3 * 1.8) : .58;
+        lineCurve(p, us, ANCHORS.UnitedStates.color, alpha, width, true);
+        var showPulse = isActive || n2 >= .14 || n3 >= .55;
+        if (showPulse) {
+          var phase = ((time || 0) * .000028 + index * .083) % 1;
+          drawPulse(curvePoint(china, p, phase), ANCHORS.China.color, isActive ? .78 : .32, 1.15 + Math.min(1.25, n2 * 4));
+          drawPulse(curvePoint(p, us, (phase + .38) % 1), ANCHORS.UnitedStates.color, isActive ? .7 : .28, 1.1 + Math.min(1.15, n3 * 1.6));
+        }
+      });
+      ctx.save(); ctx.font = '600 10px Inter,"Noto Sans SC",Arial,sans-serif';
+      ctx.fillStyle = 'rgba(62,214,197,.88)'; ctx.fillText('中国投入', Math.min(W - 54, china.x + 8), Math.max(13, china.y - 9));
+      ctx.fillStyle = 'rgba(244,189,91,.90)'; ctx.fillText('美国市场', Math.min(W - 54, us.x + 8), Math.max(13, us.y - 9));
+      ctx.restore();
+    }
+    function drawPointerLinks() {
+      if (!mouse.on) return;
+      nodes.forEach(function (n) {
+        var p = px(n), dx = p.x - mouse.x, dy = p.y - mouse.y, d = Math.sqrt(dx * dx + dy * dy);
+        if (d > 330) return;
+        lineCurve({ x: mouse.x, y: mouse.y }, p, COLORS.cyan, Math.max(.04, .28 * (1 - d / 330)), 1, false);
+      });
+    }
+    function draw(time) {
+      if (!W || !H) return;
+      ctx.clearRect(0, 0, W, H);
+      ctx.fillStyle = 'rgba(5,15,22,.42)'; ctx.fillRect(0, 0, W, H);
+      ctx.strokeStyle = 'rgba(116,170,180,.12)'; ctx.lineWidth = .6;
+      for (var gx = 1; gx < 7; gx++) { ctx.beginPath(); ctx.moveTo(W * gx / 7, 0); ctx.lineTo(W * gx / 7, H); ctx.stroke(); }
+      for (var gy = 1; gy < 5; gy++) { ctx.beginPath(); ctx.moveTo(0, H * gy / 5); ctx.lineTo(W, H * gy / 5); ctx.stroke(); }
+      drawParticleField(time);
+      geo.features.forEach(function (f) { drawGeometry(f.geometry, COLORS.land, COLORS.border); });
+      drawWorldDots(time);
+      geo.features.forEach(function (f) {
+        var target = featureNode(f);
+        if (!target) return;
+        var hotTarget = (target.n4 || 0) >= .05, focused = !active || target.n === active;
+        var fill = hotTarget ? (focused ? 'rgba(255,107,95,.34)' : 'rgba(255,107,95,.12)') : (focused ? 'rgba(62,214,197,.25)' : 'rgba(62,214,197,.09)');
+        var stroke = hotTarget ? (focused ? 'rgba(255,107,95,.92)' : 'rgba(255,107,95,.42)') : (focused ? 'rgba(62,214,197,.92)' : 'rgba(62,214,197,.38)');
+        drawGeometry(f.geometry, fill, stroke, focused ? 1.25 : .72);
+      });
+      nodes.forEach(function (n) {
+        if (!geo.features.some(function (f) { return featureNode(f) === n; })) drawMicroTarget(n);
+      });
+      drawSupplyLinks(time);
+      nodes.forEach(function (n) {
+        var p = px(n), hot = (n.n4 || 0) >= .05, focused = !active || n.n === active;
+        drawGeometryForNode(n, p, hot, focused);
+      });
+      if (mouse.on) {
+        var radius = Math.max(95, Math.min(170, W * .19));
+        var g = ctx.createRadialGradient(mouse.x, mouse.y, 0, mouse.x, mouse.y, radius);
+        g.addColorStop(0, 'rgba(244,189,91,.18)'); g.addColorStop(1, 'rgba(244,189,91,0)');
+        ctx.fillStyle = g; ctx.beginPath(); ctx.arc(mouse.x, mouse.y, radius, 0, Math.PI * 2); ctx.fill();
+        drawPointerLinks();
+      }
+    }
+    function drawGeometryForNode(n, p, hot, focused) {
+      var c = hot ? COLORS.hot : COLORS.cyan;
+      if (focused || hot) {
+        var wave = (Math.sin((motion.time || 0) * .0017 + n.r * 1.4) + 1) / 2;
+        ctx.save(); ctx.globalAlpha = focused ? .09 + wave * .08 : .035 + wave * .04; ctx.strokeStyle = c; ctx.lineWidth = 1;
+        ctx.beginPath(); ctx.arc(p.x, p.y, n.r + 10 + wave * 7, 0, Math.PI * 2); ctx.stroke(); ctx.restore();
+      }
+      ctx.globalAlpha = focused ? 1 : .36;
+      ctx.fillStyle = hot ? COLORS.landHot : COLORS.landCool;
+      ctx.beginPath(); ctx.arc(p.x, p.y, 11 + n.r, 0, Math.PI * 2); ctx.fill();
+      ctx.strokeStyle = c; ctx.lineWidth = focused ? 1.7 : .8;
+      ctx.beginPath(); ctx.arc(p.x, p.y, n.r + (n.n === active ? 7 : 3), 0, Math.PI * 2); ctx.stroke();
+      ctx.fillStyle = c; ctx.beginPath(); ctx.arc(p.x, p.y, n.r, 0, Math.PI * 2); ctx.fill();
+      ctx.globalAlpha = 1;
+      if (mode === 'focus' && n.n !== active) return;
+      var off = LABEL_OFFSETS[n.n] || [10, -9], tx = p.x + off[0], ty = p.y + off[1];
+      ctx.strokeStyle = 'rgba(146,186,198,.42)'; ctx.lineWidth = .8;
+      if (Math.abs(off[0]) > 16 || Math.abs(off[1]) > 16) { ctx.beginPath(); ctx.moveTo(p.x, p.y); ctx.lineTo(tx, ty); ctx.stroke(); }
+      ctx.font = '600 11px Inter,"Noto Sans SC",Arial,sans-serif';
+      ctx.lineWidth = 3; ctx.strokeStyle = 'rgba(5,15,22,.92)'; ctx.strokeText(CN[n.n] || n.n, tx, ty);
+      ctx.fillStyle = COLORS.text; ctx.fillText(CN[n.n] || n.n, tx, ty);
+    }
+    function showCard(n) {
+      if (!card || !n) return;
+      var pct = function (x) { return x == null ? '—' : (x * 100).toFixed(1) + '%'; };
+      var num = function (x) { return x == null ? '—' : x.toFixed(4); };
+      var hot = (n.n4 || 0) >= .05;
+      card.innerHTML = '<b>' + (CN[n.n] || n.n) + '</b>' +
+        '<div class="row"><span>N2 对华进口依赖</span><em>' + pct(n.n2) + '</em></div>' +
+        '<div class="row"><span>N3 对美出口依赖</span><em>' + pct(n.n3) + '</em></div>' +
+        '<div class="row"><span>N4 双重依赖</span><em class="' + (hot ? 'hot' : '') + '">' + num(n.n4) + '</em></div>' +
+        '<span class="flag">' + year + ' · ' + (hot ? '夹层暴露较高' : '结构暴露较低') + '</span>';
+      card.className = 'mapCard on';
+      var p = px(n); card.style.left = Math.max(8, Math.min(W - 198, p.x + 18)) + 'px'; card.style.top = Math.max(8, Math.min(H - 124, p.y - 16)) + 'px';
+    }
+    function setHover(n) {
+      hover = n || null;
+      if (hover) { showCard(hover); if (o.onHover) o.onHover(hover); }
+      else if (card) { card.className = 'mapCard'; if (o.onHover) o.onHover(null); }
+      draw(motion.time);
+    }
+    function hit(x, y) {
+      var best = 26 * 26, found = null;
+      nodes.forEach(function (n) { var p = px(n), dx = p.x - x, dy = p.y - y, d = dx * dx + dy * dy; if (d < best) { best = d; found = n; } });
+      return found;
+    }
+    function buildA11y() {
+      a11y.innerHTML = '';
+      nodes.forEach(function (n) {
+        var b = document.createElement('button');
+        b.type = 'button'; b.className = 'mapNodeButton'; b.dataset.country = n.n;
+        b.setAttribute('aria-label', (CN[n.n] || n.n) + '，' + year + '年风险节点');
+        b.addEventListener('focus', function () { active = n.n; setHover(n); });
+        b.addEventListener('blur', function () { if (!mouse.on) setHover(null); });
+        b.addEventListener('click', function () { active = n.n; setHover(n); });
+        a11y.appendChild(b);
+      });
+      positionA11y();
+    }
+    function positionA11y() {
+      Array.prototype.forEach.call(a11y.children, function (b) {
+        var n = nodes.filter(function (x) { return x.n === b.dataset.country; })[0]; if (!n) return;
+        var p = px(n); b.style.left = (p.x - 22) + 'px'; b.style.top = (p.y - 22) + 'px';
+      });
+    }
+    function animateTilt() {
+      var spring = MOTION.spring, damping = MOTION.damping;
+      tilt.vx += (tilt.gx - tilt.x) * spring;
+      tilt.vy += (tilt.gy - tilt.y) * spring;
+      tilt.vx *= damping; tilt.vy *= damping;
+      tilt.x += tilt.vx; tilt.y += tilt.vy;
+      var moving = Math.abs(tilt.x) + Math.abs(tilt.y) + Math.abs(tilt.vx) + Math.abs(tilt.vy) > .012;
+      stage.style.setProperty('--tilt-x', (-tilt.y * MOTION.tiltMax).toFixed(3) + 'deg');
+      stage.style.setProperty('--tilt-y', (tilt.x * MOTION.tiltMax).toFixed(3) + 'deg');
+      stage.style.setProperty('--map-mx', (((tilt.x + 1) / 2) * 100).toFixed(2) + '%');
+      stage.style.setProperty('--map-my', (((tilt.y + 1) / 2) * 100).toFixed(2) + '%');
+      stage.style.setProperty('--map-glow', String(Math.min(1, tilt.active ? .9 : moving ? .42 : 0)));
+      if (moving || tilt.active) tilt.frame = requestAnimationFrame(animateTilt);
+      else { tilt.frame = 0; stage.style.setProperty('--map-glow', '0'); }
+    }
+    function animateScene(time) {
+      motion.time = time;
+      if (!motion.reduced && motion.visible) {
+        draw(time);
+        motion.frame = requestAnimationFrame(animateScene);
+      } else { motion.frame = 0; }
+    }
+    function startScene() {
+      if (!motion.reduced && motion.visible && !motion.frame) motion.frame = requestAnimationFrame(animateScene);
+    }
+    function stopScene() {
+      if (motion.frame) { cancelAnimationFrame(motion.frame); motion.frame = 0; }
+    }
+    function bindSceneVisibility() {
+      var setVisible = function (visible) { motion.visible = visible; stage.classList.toggle('mapPaused', !visible); if (visible) startScene(); else stopScene(); };
+      var onVisibility = function () { setVisible(document.visibilityState !== 'hidden'); };
+      document.addEventListener('visibilitychange', onVisibility);
+      if ('IntersectionObserver' in window) {
+        var observer = new IntersectionObserver(function (entries) {
+          setVisible(!!(entries[0] && entries[0].isIntersecting));
+        }, { threshold: .05 });
+        observer.observe(stage);
+        return function () { observer.disconnect(); document.removeEventListener('visibilitychange', onVisibility); };
+      }
+      return function () { document.removeEventListener('visibilitychange', onVisibility); };
+    }
+    function startTiltFrame() { if (!tilt.frame) tilt.frame = requestAnimationFrame(animateTilt); }
+    function bindTilt() {
+      if (motion.reduced) return;
+      stage.classList.add('mapInteractive');
+      stage.addEventListener('pointerenter', function (e) { if (e.pointerType === 'touch') return; tilt.active = true; startTiltFrame(); });
+      stage.addEventListener('pointermove', function (e) {
+        if (e.pointerType === 'touch') return;
+        var r = stage.getBoundingClientRect();
+        tilt.gx = Math.max(-1, Math.min(1, ((e.clientX - r.left) / r.width) * 2 - 1));
+        tilt.gy = Math.max(-1, Math.min(1, ((e.clientY - r.top) / r.height) * 2 - 1));
+        tilt.active = true; startTiltFrame();
+      });
+      stage.addEventListener('pointerleave', function () {
+        tilt.gx = 0; tilt.gy = 0; tilt.active = false; startTiltFrame();
+      });
+    }
+    function fit() {
+      var rect = stage.getBoundingClientRect(); W = rect.width; H = rect.height;
+      if (W < 40 || H < 40) return false;
+      dpr = window.devicePixelRatio || 1; cv.width = Math.round(W * dpr); cv.height = Math.round(H * dpr); ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+      if (Math.abs(dotsW - W) > 2 || Math.abs(dotsH - H) > 2) buildWorldDots();
+      positionA11y(); draw(motion.time);
+      return true;
+    }
+    function scheduleFit() {
+      if (fitFrame) return;
+      fitFrame = requestAnimationFrame(function () { fitFrame = 0; fit(); });
+    }
+    function bind() {
+      function updatePointer(e) {
+        var r = stage.getBoundingClientRect(); mouse.x = e.clientX - r.left; mouse.y = e.clientY - r.top; mouse.on = true;
+        var n = hit(mouse.x, mouse.y); if (n !== hover) setHover(n);
+        if (tip) tip.textContent = n ? '已定位 ' + (CN[n.n] || n.n) + ' · 查看指标' : '移动鼠标探索风险节点';
+      }
+      function clearPointer() { mouse.on = false; if (tip) tip.textContent = o.tipIdle || '移动鼠标探索风险节点'; setHover(null); }
+      stage.addEventListener('pointermove', updatePointer, { passive: true });
+      stage.addEventListener('pointerdown', function (e) { if (e.pointerType === 'touch') updatePointer(e); }, { passive: true });
+      stage.addEventListener('pointerleave', clearPointer, { passive: true });
+      stage.addEventListener('pointercancel', clearPointer, { passive: true });
+      window.addEventListener('resize', scheduleFit, { passive: true });
+      window.addEventListener('orientationchange', scheduleFit, { passive: true });
+      if (window.visualViewport) window.visualViewport.addEventListener('resize', scheduleFit, { passive: true });
+      if ('ResizeObserver' in window) { resizeObserver = new ResizeObserver(scheduleFit); resizeObserver.observe(stage); }
+    }
+    initParticles();
+    nodeValues(); fit(); buildA11y(); bind(); bindTilt();
+    scheduleFit(); setTimeout(scheduleFit, 120); setTimeout(scheduleFit, 420);
+    var unbindSceneVisibility = bindSceneVisibility();
+    startScene();
+    return {
+      setHighlight: function (name) { active = name; draw(motion.time); return active; },
+      setYear: function (value) { year = +value || year; nodeValues(); buildWorldDots(); buildA11y(); draw(motion.time); return year; },
+      refresh: function () { nodeValues(); buildWorldDots(); buildA11y(); draw(motion.time); },
+      resize: fit,
+      destroy: function () {
+        stopScene(); if (fitFrame) cancelAnimationFrame(fitFrame); if (resizeObserver) resizeObserver.disconnect();
+        if (unbindSceneVisibility) unbindSceneVisibility(); window.removeEventListener('resize', scheduleFit); window.removeEventListener('orientationchange', scheduleFit);
+        if (window.visualViewport) window.visualViewport.removeEventListener('resize', scheduleFit);
+      }
+    };
+  }
+  global.createPolygonMap = createPolygonMap;
+  /*
+   * 视觉层：只负责层级、光场和反馈，不改变任何指标或地图数据。
+   * 选用 premium-motion-ui 的 glow-border / tilt-panel / press-feedback，
+   * 并用一个 rAF 合并指针与滚动更新，避免在移动端堆积监听器。
+   */
+  function installPremiumMotion() {
+    if (!global.document || global.__GTRI_PREMIUM_MOTION__) return;
+    global.__GTRI_PREMIUM_MOTION__ = true;
+    var doc = global.document;
+    var style = doc.createElement('style');
+    style.setAttribute('data-gtri-premium-motion', 'true');
+    style.textContent = [
+      ':root{--gtri-ease:cubic-bezier(.22,1,.36,1);--gtri-cyan:#3ed6c5;--gtri-amber:#f4bd5b;--gtri-red:#ff6b5f}',
+      '.gtri-scroll-rail{position:fixed;left:0;top:0;width:var(--gtri-progress,0%);height:2px;z-index:9999;pointer-events:none;background:linear-gradient(90deg,var(--gtri-cyan),var(--gtri-amber),var(--gtri-red));box-shadow:0 0 14px rgba(62,214,197,.72);transition:width .18s var(--gtri-ease)}',
+      '.gtri-reveal{opacity:0;transform:translate3d(0,18px,0);transition:opacity .62s var(--gtri-ease),transform .72s var(--gtri-ease);transition-delay:var(--gtri-delay,0ms)}.gtri-reveal.is-visible{opacity:1;transform:none}',
+      '.gtri-surface{position:relative;isolation:isolate;--gtri-x:50%;--gtri-y:50%;--gtri-rx:0deg;--gtri-ry:0deg;transition:transform .45s var(--gtri-ease),border-color .35s ease,box-shadow .35s ease}.gtri-surface:before{content:"";position:absolute;inset:0;z-index:-1;pointer-events:none;border-radius:inherit;background:radial-gradient(circle at var(--gtri-x) var(--gtri-y),rgba(62,214,197,.16),transparent 42%),linear-gradient(120deg,transparent 22%,rgba(255,255,255,.055) 44%,transparent 58%);opacity:0;transition:opacity .35s ease}.gtri-surface.gtri-hover:before{opacity:1}.gtri-tilt{transform:perspective(1200px) rotateX(var(--gtri-rx)) rotateY(var(--gtri-ry)) translateZ(0);will-change:transform}.gtri-tilt.gtri-hover{box-shadow:0 24px 65px rgba(0,0,0,.26),inset 0 1px 0 rgba(255,255,255,.06)}',
+      '.mapHero,.mapStrip{overflow:hidden}.mapHero:before,.mapStrip:before{content:"";position:absolute;inset:-50%;z-index:0;pointer-events:none;background:conic-gradient(from 180deg at 50% 50%,transparent 0 24%,rgba(62,214,197,.12) 30%,transparent 38% 62%,rgba(244,189,91,.09) 70%,transparent 76%);animation:gtriOrbit 18s linear infinite;mix-blend-mode:screen;opacity:.72}.mapHero>* ,.mapStrip>*{position:relative;z-index:1}',
+      '.mapHero .mapStage:before,.mapStrip .mapStage:before{content:"";position:absolute;left:0;right:0;top:-35%;height:28%;z-index:3;pointer-events:none;background:linear-gradient(180deg,transparent,rgba(62,214,197,.12),transparent);border-top:1px solid rgba(62,214,197,.18);filter:blur(.2px);animation:gtriScan 7.5s var(--gtri-ease) infinite}',
+      '.gtri-orb{position:absolute;width:160px;height:160px;right:8%;top:8%;border-radius:50%;pointer-events:none;background:radial-gradient(circle,rgba(62,214,197,.14),rgba(62,214,197,.035) 42%,transparent 70%);filter:blur(1px);animation:gtriBreathe 5.5s ease-in-out infinite}',
+      '.gtri-press{transition:transform .16s var(--gtri-ease),filter .16s ease}.gtri-press:active{transform:scale(.965);filter:brightness(1.1)}',
+      '.gtri-surface:focus-within{border-color:rgba(244,189,91,.64);box-shadow:0 0 0 1px rgba(244,189,91,.2),0 16px 36px rgba(0,0,0,.18)}',
+      '@keyframes gtriOrbit{to{transform:rotate(360deg)}}@keyframes gtriScan{0%{transform:translateY(0);opacity:0}15%{opacity:.9}72%{opacity:.55}100%{transform:translateY(520%);opacity:0}}@keyframes gtriBreathe{0%,100%{transform:scale(.84);opacity:.48}50%{transform:scale(1.08);opacity:.82}}',
+      '@media(max-width:700px){.gtri-scroll-rail{height:3px}.gtri-tilt{transform:none!important}.gtri-orb{right:-18%;top:4%;opacity:.55}.mapHero .mapStage:before,.mapStrip .mapStage:before{animation-duration:9.5s}}',
+      '@media(prefers-reduced-motion:reduce){.gtri-scroll-rail{transition:none}.gtri-reveal{opacity:1;transform:none;transition:none}.mapHero:before,.mapStrip:before,.mapHero .mapStage:before,.mapStrip .mapStage:before,.gtri-orb{animation:none}.gtri-surface,.gtri-tilt{transition:none;transform:none!important}.gtri-surface:before{transition:none;opacity:0!important}}'
+    ].join('');
+    (doc.head || doc.documentElement).appendChild(style);
+    var rail = doc.createElement('div');
+    rail.className = 'gtri-scroll-rail';
+    rail.setAttribute('aria-hidden', 'true');
+    (doc.body || doc.documentElement).appendChild(rail);
+    var orb = doc.createElement('span');
+    orb.className = 'gtri-orb';
+    orb.setAttribute('aria-hidden', 'true');
+    var mapHero = doc.querySelector('.mapHero,.mapStrip,.hero');
+    if (mapHero) { mapHero.appendChild(orb); }
+    var reduce = false;
+    try { reduce = !!(global.matchMedia && global.matchMedia('(prefers-reduced-motion: reduce)').matches); } catch (e) {}
+    var reveal = Array.prototype.slice.call(doc.querySelectorAll('main>header,main>section,main>footer'));
+    reveal.forEach(function (el, i) { el.classList.add('gtri-reveal'); el.style.setProperty('--gtri-delay', Math.min(i * 55, 330) + 'ms'); });
+    if ('IntersectionObserver' in global && !reduce) {
+      var io = new IntersectionObserver(function (entries) { entries.forEach(function (entry) { if (entry.isIntersecting) { entry.target.classList.add('is-visible'); io.unobserve(entry.target); } }); }, { threshold: .08 });
+      reveal.forEach(function (el) { io.observe(el); });
+    } else { reveal.forEach(function (el) { el.classList.add('is-visible'); }); }
+    var surfaces = Array.prototype.slice.call(doc.querySelectorAll('.mapHero,.mapStrip,.hero,.card,.panel,.finding,.method>div,.sourceGrid>div,.boundary,.auditPanel,.notice'));
+    var raf = 0, pending = null, active = null, scrollRaf = 0;
+    surfaces.forEach(function (el, i) {
+      el.classList.add('gtri-surface');
+      if (el.matches('.mapHero,.mapStrip,.hero')) el.classList.add('gtri-tilt');
+      if (el.matches('button,.btn,.pill,.linkBtn,a')) el.classList.add('gtri-press');
+      el.addEventListener('pointermove', function (e) { if (e.pointerType === 'touch' || reduce) return; active = el; pending = e; if (!raf) raf = requestAnimationFrame(flushPointer); }, { passive: true });
+      el.addEventListener('pointerenter', function (e) { if (e.pointerType !== 'touch') el.classList.add('gtri-hover'); });
+      el.addEventListener('pointerleave', function () { el.classList.remove('gtri-hover'); el.style.setProperty('--gtri-x', '50%'); el.style.setProperty('--gtri-y', '50%'); el.style.setProperty('--gtri-rx', '0deg'); el.style.setProperty('--gtri-ry', '0deg'); });
+    });
+    function flushPointer() {
+      raf = 0; if (!active || !pending || reduce) return;
+      var rect = active.getBoundingClientRect();
+      var x = Math.max(0, Math.min(rect.width, pending.clientX - rect.left));
+      var y = Math.max(0, Math.min(rect.height, pending.clientY - rect.top));
+      active.style.setProperty('--gtri-x', ((x / Math.max(1, rect.width)) * 100).toFixed(2) + '%');
+      active.style.setProperty('--gtri-y', ((y / Math.max(1, rect.height)) * 100).toFixed(2) + '%');
+      if (active.classList.contains('gtri-tilt')) {
+        active.style.setProperty('--gtri-rx', (((y / Math.max(1, rect.height)) - .5) * -3.2).toFixed(2) + 'deg');
+        active.style.setProperty('--gtri-ry', (((x / Math.max(1, rect.width)) - .5) * 4.4).toFixed(2) + 'deg');
+      }
+    }
+    function scrollProgress() {
+      scrollRaf = 0;
+      var max = Math.max(1, doc.documentElement.scrollHeight - global.innerHeight);
+      doc.documentElement.style.setProperty('--gtri-progress', ((global.scrollY || 0) / max * 100).toFixed(2) + '%');
+    }
+    global.addEventListener('scroll', function () { if (!scrollRaf) scrollRaf = requestAnimationFrame(scrollProgress); }, { passive: true });
+    scrollProgress();
+  }
+  installPremiumMotion();
+})(this);
+
+</script>
+<script>
 (function(){
   'use strict';
   var D=window.PANEL||[], state={bom:[],customers:[],p3:[],source:'demo'}, CN={Malaysia:'马来西亚',Vietnam:'越南',Singapore:'新加坡',Thailand:'泰国',India:'印度',Indonesia:'印度尼西亚',Philippines:'菲律宾',Japan:'日本','South Korea':'韩国',Mexico:'墨西哥',Germany:'德国',Netherlands:'荷兰',China:'中国','United States':'美国'};
