@@ -413,7 +413,10 @@
       });
     }
     function fit() {
-      var rect = stage.getBoundingClientRect(); W = rect.width; H = rect.height;
+      // 3D 倾斜会改变 getBoundingClientRect() 的外接框；Canvas 适配必须读取未变换的布局尺寸，
+      // 否则 ResizeObserver 会把变换后的尺寸再次写回画布，形成“越变越大”的反馈循环。
+      var rect = stage.getBoundingClientRect();
+      W = stage.clientWidth || rect.width; H = stage.clientHeight || rect.height;
       if (W < 40 || H < 40) return false;
       dpr = window.devicePixelRatio || 1; cv.width = Math.round(W * dpr); cv.height = Math.round(H * dpr); ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
       if (Math.abs(dotsW - W) > 2 || Math.abs(dotsH - H) > 2) buildWorldDots();
@@ -474,7 +477,6 @@
       '.gtri-scroll-rail{position:fixed;left:0;top:0;width:var(--gtri-progress,0%);height:2px;z-index:9999;pointer-events:none;background:linear-gradient(90deg,var(--gtri-cyan),var(--gtri-amber),var(--gtri-red));box-shadow:0 0 14px rgba(62,214,197,.72);transition:width .18s var(--gtri-ease)}',
       '.gtri-reveal{opacity:0;transform:translate3d(0,18px,0);transition:opacity .62s var(--gtri-ease),transform .72s var(--gtri-ease);transition-delay:var(--gtri-delay,0ms)}.gtri-reveal.is-visible{opacity:1;transform:none}',
       '.gtri-surface{position:relative;isolation:isolate;--gtri-x:50%;--gtri-y:50%;--gtri-rx:0deg;--gtri-ry:0deg;transition:transform .45s var(--gtri-ease),border-color .35s ease,box-shadow .35s ease}.gtri-surface:before{content:"";position:absolute;inset:0;z-index:-1;pointer-events:none;border-radius:inherit;background:radial-gradient(circle at var(--gtri-x) var(--gtri-y),rgba(62,214,197,.16),transparent 42%),linear-gradient(120deg,transparent 22%,rgba(255,255,255,.055) 44%,transparent 58%);opacity:0;transition:opacity .35s ease}.gtri-surface.gtri-hover:before{opacity:1}.gtri-tilt{transform:perspective(1200px) rotateX(var(--gtri-rx)) rotateY(var(--gtri-ry)) translateZ(0);will-change:transform}.gtri-tilt.gtri-hover{box-shadow:0 24px 65px rgba(0,0,0,.26),inset 0 1px 0 rgba(255,255,255,.06)}',
-      '.gtri-cursor-light{position:fixed;left:0;top:0;width:360px;height:360px;border-radius:50%;pointer-events:none;z-index:0;opacity:0;transform:translate3d(-50%,-50%,0);background:radial-gradient(circle,rgba(62,214,197,.16) 0%,rgba(62,214,197,.07) 22%,rgba(62,214,197,.025) 42%,transparent 70%);filter:blur(2px);mix-blend-mode:screen;will-change:transform,opacity;transition:opacity .22s ease}.gtri-cursor-light:after{content:"";position:absolute;inset:28%;border:1px solid rgba(62,214,197,.12);border-radius:50%;box-shadow:0 0 28px rgba(62,214,197,.1)}main{position:relative;z-index:1}',
       '.mapHero,.mapStrip{overflow:hidden}.mapHero:before,.mapStrip:before{content:"";position:absolute;inset:-50%;z-index:0;pointer-events:none;background:conic-gradient(from 180deg at 50% 50%,transparent 0 24%,rgba(62,214,197,.12) 30%,transparent 38% 62%,rgba(244,189,91,.09) 70%,transparent 76%);animation:gtriOrbit 18s linear infinite;mix-blend-mode:screen;opacity:.72}.mapHero>* ,.mapStrip>*{position:relative;z-index:1}',
       '.mapHero .mapStage:before,.mapStrip .mapStage:before{content:"";position:absolute;left:0;right:0;top:-35%;height:28%;z-index:3;pointer-events:none;background:linear-gradient(180deg,transparent,rgba(62,214,197,.12),transparent);border-top:1px solid rgba(62,214,197,.18);filter:blur(.2px);animation:gtriScan 7.5s var(--gtri-ease) infinite}',
       '.gtri-orb{position:absolute;width:160px;height:160px;right:8%;top:8%;border-radius:50%;pointer-events:none;background:radial-gradient(circle,rgba(62,214,197,.14),rgba(62,214,197,.035) 42%,transparent 70%);filter:blur(1px);animation:gtriBreathe 5.5s ease-in-out infinite}',
@@ -482,7 +484,7 @@
       '.gtri-surface:focus-within{border-color:rgba(244,189,91,.64);box-shadow:0 0 0 1px rgba(244,189,91,.2),0 16px 36px rgba(0,0,0,.18)}',
       '@keyframes gtriOrbit{to{transform:rotate(360deg)}}@keyframes gtriScan{0%{transform:translateY(0);opacity:0}15%{opacity:.9}72%{opacity:.55}100%{transform:translateY(520%);opacity:0}}@keyframes gtriBreathe{0%,100%{transform:scale(.84);opacity:.48}50%{transform:scale(1.08);opacity:.82}}',
       '@media(max-width:700px){.gtri-scroll-rail{height:3px}.gtri-tilt{transform:none!important}.gtri-orb{right:-18%;top:4%;opacity:.55}.mapHero .mapStage:before,.mapStrip .mapStage:before{animation-duration:9.5s}}',
-      '@media(prefers-reduced-motion:reduce){.gtri-scroll-rail{transition:none}.gtri-reveal{opacity:1;transform:none;transition:none}.mapHero:before,.mapStrip:before,.mapHero .mapStage:before,.mapStrip .mapStage:before,.gtri-orb{animation:none}.gtri-surface,.gtri-tilt{transition:none;transform:none!important}.gtri-surface:before{transition:none;opacity:0!important}.gtri-cursor-light{display:none}}'
+      '@media(prefers-reduced-motion:reduce){.gtri-scroll-rail{transition:none}.gtri-reveal{opacity:1;transform:none;transition:none}.mapHero:before,.mapStrip:before,.mapHero .mapStage:before,.mapStrip .mapStage:before,.gtri-orb{animation:none}.gtri-surface,.gtri-tilt{transition:none;transform:none!important}.gtri-surface:before{transition:none;opacity:0!important}}'
     ].join('');
     (doc.head || doc.documentElement).appendChild(style);
     var rail = doc.createElement('div');
@@ -494,11 +496,6 @@
     orb.setAttribute('aria-hidden', 'true');
     var mapHero = doc.querySelector('.mapHero,.mapStrip,.hero');
     if (mapHero) { mapHero.appendChild(orb); }
-    // 全页面共享一个光源：只改 transform，不触发布局，桌面端跟随指针，触控端保持干净。
-    var cursorLight = doc.createElement('span');
-    cursorLight.className = 'gtri-cursor-light';
-    cursorLight.setAttribute('aria-hidden', 'true');
-    (doc.body || doc.documentElement).appendChild(cursorLight);
     var reduce = false;
     try { reduce = !!(global.matchMedia && global.matchMedia('(prefers-reduced-motion: reduce)').matches); } catch (e) {}
     var reveal = Array.prototype.slice.call(doc.querySelectorAll('main>header,main>section,main>footer'));
@@ -509,7 +506,6 @@
     } else { reveal.forEach(function (el) { el.classList.add('is-visible'); }); }
     var surfaces = Array.prototype.slice.call(doc.querySelectorAll('.mapHero,.mapStrip,.hero,.card,.panel,.finding,.method>div,.sourceGrid>div,.boundary,.auditPanel,.notice'));
     var raf = 0, pending = null, active = null, scrollRaf = 0;
-    var globalPointer = { x: 0, y: 0, on: false };
     surfaces.forEach(function (el, i) {
       el.classList.add('gtri-surface');
       // mapStage 已有自己的弹簧倾斜；地图外层只做光晕，避免嵌套 perspective 造成放大漂移。
@@ -521,7 +517,6 @@
     });
     function flushPointer() {
       raf = 0;
-      if (!reduce && globalPointer.on) cursorLight.style.transform = 'translate3d(' + globalPointer.x + 'px,' + globalPointer.y + 'px,0)';
       if (!active || !pending || reduce) return;
       var rect = active.getBoundingClientRect();
       var x = Math.max(0, Math.min(rect.width, pending.clientX - rect.left));
@@ -533,17 +528,6 @@
         active.style.setProperty('--gtri-ry', (((x / Math.max(1, rect.width)) - .5) * 4.4).toFixed(2) + 'deg');
       }
     }
-    doc.addEventListener('pointermove', function (e) {
-      if (reduce || e.pointerType === 'touch') return;
-      globalPointer.x = e.clientX; globalPointer.y = e.clientY; globalPointer.on = true;
-      cursorLight.style.opacity = '1';
-      if (!raf) raf = requestAnimationFrame(flushPointer);
-    }, { passive: true });
-    doc.addEventListener('pointerout', function (e) {
-      if (e.relatedTarget) return;
-      globalPointer.on = false; cursorLight.style.opacity = '0';
-    }, { passive: true });
-    global.addEventListener('blur', function () { globalPointer.on = false; cursorLight.style.opacity = '0'; }, { passive: true });
     function scrollProgress() {
       scrollRaf = 0;
       var max = Math.max(1, doc.documentElement.scrollHeight - global.innerHeight);
