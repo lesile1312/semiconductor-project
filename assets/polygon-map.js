@@ -303,11 +303,18 @@
       ctx.globalAlpha = 1;
       if (mode === 'focus' && n.n !== active) return;
       var off = LABEL_OFFSETS[n.n] || [10, -9], tx = p.x + off[0], ty = p.y + off[1];
+      var label = CN[n.n] || n.n, fontSize = W < 440 ? 9 : 11;
+      ctx.font = '600 ' + fontSize + 'px Inter,"Noto Sans SC",Arial,sans-serif';
+      var labelWidth = ctx.measureText(label).width;
+      if (W < 440) {
+        if (tx + labelWidth > W - 8) tx = p.x - labelWidth - 10;
+        if (tx < 8) tx = Math.min(W - labelWidth - 8, p.x + 10);
+        ty = Math.max(14, Math.min(H - 9, ty));
+      }
       ctx.strokeStyle = 'rgba(146,186,198,.42)'; ctx.lineWidth = .8;
-      if (Math.abs(off[0]) > 16 || Math.abs(off[1]) > 16) { ctx.beginPath(); ctx.moveTo(p.x, p.y); ctx.lineTo(tx, ty); ctx.stroke(); }
-      ctx.font = '600 11px Inter,"Noto Sans SC",Arial,sans-serif';
-      ctx.lineWidth = 3; ctx.strokeStyle = 'rgba(5,15,22,.92)'; ctx.strokeText(CN[n.n] || n.n, tx, ty);
-      ctx.fillStyle = COLORS.text; ctx.fillText(CN[n.n] || n.n, tx, ty);
+      if (Math.abs(tx - p.x) > 16 || Math.abs(ty - p.y) > 16) { ctx.beginPath(); ctx.moveTo(p.x, p.y); ctx.lineTo(tx, ty); ctx.stroke(); }
+      ctx.lineWidth = 3; ctx.strokeStyle = 'rgba(5,15,22,.92)'; ctx.strokeText(label, tx, ty);
+      ctx.fillStyle = COLORS.text; ctx.fillText(label, tx, ty);
     }
     function showCard(n) {
       if (!card || !n) return;
