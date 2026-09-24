@@ -100,8 +100,52 @@ body:before{content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;opa
 .mapHero:after{content:"";position:absolute;inset:0;z-index:0;pointer-events:none;border-radius:inherit;opacity:.24;background:linear-gradient(115deg,transparent 22%,rgba(255,255,255,.07) 43%,transparent 56%),linear-gradient(rgba(62,214,197,.04) 1px,transparent 1px),linear-gradient(90deg,rgba(62,214,197,.04) 1px,transparent 1px);background-size:100% 100%,44px 44px,44px 44px;mask-image:linear-gradient(90deg,transparent,rgba(0,0,0,.95) 45%,transparent)}
 .card,.panel,.finding,.method div,.sourceGrid div,.auditPanel{transition:transform var(--pmu-duration-base) var(--pmu-ease-standard),border-color var(--pmu-duration-base) ease,box-shadow var(--pmu-duration-base) ease}
 .card:hover,.panel:hover,.finding:hover,.method div:hover,.sourceGrid div:hover,.auditPanel:hover{transform:translateY(-3px);border-color:rgba(62,214,197,.42);box-shadow:0 16px 34px rgba(0,0,0,.2),inset 0 1px 0 rgba(255,255,255,.04)}
+.countryDeck{position:relative;margin:28px 0 34px;padding:24px 22px 12px;border:1px solid rgba(69,116,132,.42);border-radius:22px;background:linear-gradient(125deg,rgba(12,34,46,.96),rgba(7,19,28,.96) 70%);box-shadow:0 22px 55px rgba(0,0,0,.2),inset 0 1px 0 rgba(255,255,255,.035);isolation:isolate}
+.countryDeck:before{content:"";position:absolute;inset:0;z-index:-1;pointer-events:none;border-radius:inherit;background:radial-gradient(ellipse at 82% 0,rgba(62,214,197,.09),transparent 42%)}
+.countryDeck__head{display:flex;align-items:flex-end;justify-content:space-between;gap:24px;padding:0 5px 5px}
+.countryDeck__eyebrow{color:var(--cyan);font:600 10px/1.4 Inter,Arial,sans-serif;letter-spacing:.2em}
+.countryDeck__head h2{margin:7px 0 5px;font-size:clamp(22px,2.7vw,31px);letter-spacing:-.035em;line-height:1.2}
+.countryDeck__head p{margin:0;color:#9bb2bb;font-size:13px}
+.countryDeck__tools{display:flex;align-items:center;gap:10px;flex:none;padding-bottom:4px}
+.countryDeck__count{min-width:56px;color:#91a9b2;text-align:center;font:600 11px/1.4 Inter,Arial,sans-serif;letter-spacing:.09em;font-variant-numeric:tabular-nums}
+.countryDeck__arrow{display:grid;place-items:center;width:38px;height:38px;border:1px solid #2b4b59;border-radius:50%;background:#0b1c27;color:#deeeee;font:20px/1 Arial,sans-serif;cursor:pointer;transition:transform 300ms cubic-bezier(.22,1,.36,1),border-color 300ms ease,background 300ms ease}
+.countryDeck__arrow:hover:not(:disabled){transform:translateY(-2px);border-color:var(--cyan);background:#102b38}
+.countryDeck__arrow:active:not(:disabled){transform:scale(.95)}
+.countryDeck__arrow:disabled{opacity:.38;cursor:default}
+.countryDeck__arrow:focus-visible,.countryCard:focus-visible{outline:2px solid #7bf0e2;outline-offset:3px}
+.countryDeck__viewport{overflow-x:auto;overflow-y:hidden;padding:16px 12px 26px;scrollbar-width:thin;scrollbar-color:#2b5260 transparent;scroll-snap-type:x proximity;overscroll-behavior-inline:contain}
+.countryDeck__viewport::-webkit-scrollbar{height:5px}.countryDeck__viewport::-webkit-scrollbar-thumb{background:#2b5260;border-radius:9px}
+.countryDeck__rail{display:flex;align-items:stretch;gap:13px;width:max-content;min-width:100%;padding:0 5px}
+.countryCard{--card-accent:#3ed6c5;position:relative;display:flex;flex:0 0 228px;flex-direction:column;width:228px;height:224px;overflow:hidden;padding:17px 17px 15px;border:1px solid rgba(66,105,119,.58);border-radius:17px;background:linear-gradient(150deg,rgba(17,43,55,.98),rgba(9,24,34,.99) 75%);color:var(--text);text-decoration:none;scroll-snap-align:start;transform:translate3d(0,0,0) scale(1);transform-origin:center 74%;transition:transform 300ms cubic-bezier(.22,1,.36,1);will-change:transform;isolation:isolate}
+.countryCard:before{content:"";position:absolute;inset:0 0 auto;height:2px;background:linear-gradient(90deg,transparent,var(--card-accent),transparent);opacity:.8}
+.countryCard:after{content:"";position:absolute;width:112px;height:112px;right:-55px;top:32px;border-radius:50%;background:radial-gradient(circle, color-mix(in srgb,var(--card-accent) 14%,transparent),transparent 70%);pointer-events:none;z-index:-1}
+.countryCard[data-band="high"]{--card-accent:#ff786c}
+.countryCard[data-band="unknown"]{--card-accent:#91a4aa}
+.countryCard__top{display:flex;align-items:flex-start;justify-content:space-between;gap:10px}
+.countryCard__identity{display:grid;gap:4px;min-width:0}
+.countryCard__iso{color:#7f9aa4;font:600 10px/1 Inter,Arial,sans-serif;letter-spacing:.14em}
+.countryCard__name{font-size:16px;font-weight:700;line-height:1.25;white-space:nowrap}
+.countryCard__rank{display:grid;place-items:center;width:27px;height:27px;flex:none;border:1px solid rgba(124,163,174,.23);border-radius:50%;color:#8daab3;font:600 10px/1 Inter,Arial,sans-serif}
+.countryCard__metric{display:flex;align-items:baseline;gap:8px;margin:16px 0 12px}
+.countryCard__value{color:var(--card-accent);font:600 28px/1 Inter,Arial,sans-serif;letter-spacing:-.055em;font-variant-numeric:tabular-nums}
+.countryCard__label{color:#8ba4ad;font-size:10px;letter-spacing:.07em}
+.countryCard__breakdown{display:grid;grid-template-columns:1fr 1fr;gap:9px;padding:10px 0;border-top:1px solid rgba(110,147,158,.16);border-bottom:1px solid rgba(110,147,158,.16)}
+.countryCard__breakdown span{display:block;color:#8099a2;font-size:10px;line-height:1.35}
+.countryCard__breakdown b{display:block;margin-top:3px;color:#dce9e9;font:600 13px/1.25 Inter,"Noto Sans SC",Arial,sans-serif;font-variant-numeric:tabular-nums}
+.countryCard__foot{display:flex;align-items:center;justify-content:space-between;gap:8px;margin-top:auto;padding-top:10px;color:#79939d;font-size:10px}
+.countryCard__trend{color:#9bb2bb;font-variant-numeric:tabular-nums}.countryCard__open{color:var(--card-accent);font-weight:700;white-space:nowrap}
+.countryCard.is-active{z-index:3;border-color:color-mix(in srgb,var(--card-accent) 68%,#fff);box-shadow:0 20px 38px rgba(0,0,0,.35),0 0 26px color-mix(in srgb,var(--card-accent) 17%,transparent),inset 0 1px 0 rgba(255,255,255,.1);transform:translate3d(0,-7px,0) scale(1.025)}
+.countryCard.push-left{transform:translate3d(-9px,0,0) scale(1)}
+.countryCard.push-right{transform:translate3d(9px,0,0) scale(1)}
+.countryCard.is-selected{border-color:color-mix(in srgb,var(--card-accent) 58%,#39525c);box-shadow:inset 0 0 0 1px color-mix(in srgb,var(--card-accent) 22%,transparent),0 8px 22px rgba(0,0,0,.2)}
+.countryCard.is-selected .countryCard__rank{border-color:color-mix(in srgb,var(--card-accent) 50%,transparent);color:var(--card-accent)}
+.countryDeck__status{min-height:21px;margin:0 8px 4px;color:#89a4ad;font-size:11px}
+@media(hover:hover) and (pointer:fine){.countryCard:hover{z-index:3;border-color:color-mix(in srgb,var(--card-accent) 68%,#fff);box-shadow:0 20px 38px rgba(0,0,0,.35),0 0 26px color-mix(in srgb,var(--card-accent) 17%,transparent),inset 0 1px 0 rgba(255,255,255,.1);transform:translate3d(0,-7px,0) scale(1.025)}.countryCard.is-active:hover{transform:translate3d(0,-7px,0) scale(1.025)}}
+@media(max-width:700px){.countryDeck{margin:22px 0 28px;padding:19px 12px 10px;border-radius:18px}.countryDeck__head{align-items:flex-start;gap:10px;padding:0 4px}.countryDeck__head p{max-width:32ch;font-size:12px}.countryDeck__tools{gap:6px}.countryDeck__arrow{width:34px;height:34px}.countryDeck__count{min-width:48px;font-size:10px}.countryDeck__viewport{margin:0 -4px;padding:14px 8px 22px}.countryDeck__rail{gap:10px;padding:0 5px}.countryCard{flex-basis:236px;width:236px;height:220px;padding:15px}.countryCard__metric{margin:13px 0 10px}}
+@media(max-width:420px){.countryDeck__head{display:block}.countryDeck__tools{justify-content:flex-end;margin-top:10px}.countryDeck__eyebrow{font-size:9px;letter-spacing:.14em}}
+@media(prefers-reduced-motion:reduce){.countryDeck__arrow,.countryCard{transition:none;will-change:auto}.countryCard.is-active,.countryCard.push-left,.countryCard.push-right,.countryCard:hover{transform:none}}
 @media (prefers-reduced-motion:reduce){.top:after{animation:none}.card,.panel,.finding,.method div,.sourceGrid div,.auditPanel{transition:none}.card:hover,.panel:hover,.finding:hover,.method div:hover,.sourceGrid div:hover,.auditPanel:hover{transform:none}}
-</style></body></html>
+</style><script src="assets/country-deck.js"></script></body></html>
 
 
 

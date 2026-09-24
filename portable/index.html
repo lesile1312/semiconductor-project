@@ -665,8 +665,291 @@ body:before{content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;opa
 .mapHero:after{content:"";position:absolute;inset:0;z-index:0;pointer-events:none;border-radius:inherit;opacity:.24;background:linear-gradient(115deg,transparent 22%,rgba(255,255,255,.07) 43%,transparent 56%),linear-gradient(rgba(62,214,197,.04) 1px,transparent 1px),linear-gradient(90deg,rgba(62,214,197,.04) 1px,transparent 1px);background-size:100% 100%,44px 44px,44px 44px;mask-image:linear-gradient(90deg,transparent,rgba(0,0,0,.95) 45%,transparent)}
 .card,.panel,.finding,.method div,.sourceGrid div,.auditPanel{transition:transform var(--pmu-duration-base) var(--pmu-ease-standard),border-color var(--pmu-duration-base) ease,box-shadow var(--pmu-duration-base) ease}
 .card:hover,.panel:hover,.finding:hover,.method div:hover,.sourceGrid div:hover,.auditPanel:hover{transform:translateY(-3px);border-color:rgba(62,214,197,.42);box-shadow:0 16px 34px rgba(0,0,0,.2),inset 0 1px 0 rgba(255,255,255,.04)}
+.countryDeck{position:relative;margin:28px 0 34px;padding:24px 22px 12px;border:1px solid rgba(69,116,132,.42);border-radius:22px;background:linear-gradient(125deg,rgba(12,34,46,.96),rgba(7,19,28,.96) 70%);box-shadow:0 22px 55px rgba(0,0,0,.2),inset 0 1px 0 rgba(255,255,255,.035);isolation:isolate}
+.countryDeck:before{content:"";position:absolute;inset:0;z-index:-1;pointer-events:none;border-radius:inherit;background:radial-gradient(ellipse at 82% 0,rgba(62,214,197,.09),transparent 42%)}
+.countryDeck__head{display:flex;align-items:flex-end;justify-content:space-between;gap:24px;padding:0 5px 5px}
+.countryDeck__eyebrow{color:var(--cyan);font:600 10px/1.4 Inter,Arial,sans-serif;letter-spacing:.2em}
+.countryDeck__head h2{margin:7px 0 5px;font-size:clamp(22px,2.7vw,31px);letter-spacing:-.035em;line-height:1.2}
+.countryDeck__head p{margin:0;color:#9bb2bb;font-size:13px}
+.countryDeck__tools{display:flex;align-items:center;gap:10px;flex:none;padding-bottom:4px}
+.countryDeck__count{min-width:56px;color:#91a9b2;text-align:center;font:600 11px/1.4 Inter,Arial,sans-serif;letter-spacing:.09em;font-variant-numeric:tabular-nums}
+.countryDeck__arrow{display:grid;place-items:center;width:38px;height:38px;border:1px solid #2b4b59;border-radius:50%;background:#0b1c27;color:#deeeee;font:20px/1 Arial,sans-serif;cursor:pointer;transition:transform 300ms cubic-bezier(.22,1,.36,1),border-color 300ms ease,background 300ms ease}
+.countryDeck__arrow:hover:not(:disabled){transform:translateY(-2px);border-color:var(--cyan);background:#102b38}
+.countryDeck__arrow:active:not(:disabled){transform:scale(.95)}
+.countryDeck__arrow:disabled{opacity:.38;cursor:default}
+.countryDeck__arrow:focus-visible,.countryCard:focus-visible{outline:2px solid #7bf0e2;outline-offset:3px}
+.countryDeck__viewport{overflow-x:auto;overflow-y:hidden;padding:16px 12px 26px;scrollbar-width:thin;scrollbar-color:#2b5260 transparent;scroll-snap-type:x proximity;overscroll-behavior-inline:contain}
+.countryDeck__viewport::-webkit-scrollbar{height:5px}.countryDeck__viewport::-webkit-scrollbar-thumb{background:#2b5260;border-radius:9px}
+.countryDeck__rail{display:flex;align-items:stretch;gap:13px;width:max-content;min-width:100%;padding:0 5px}
+.countryCard{--card-accent:#3ed6c5;position:relative;display:flex;flex:0 0 228px;flex-direction:column;width:228px;height:224px;overflow:hidden;padding:17px 17px 15px;border:1px solid rgba(66,105,119,.58);border-radius:17px;background:linear-gradient(150deg,rgba(17,43,55,.98),rgba(9,24,34,.99) 75%);color:var(--text);text-decoration:none;scroll-snap-align:start;transform:translate3d(0,0,0) scale(1);transform-origin:center 74%;transition:transform 300ms cubic-bezier(.22,1,.36,1);will-change:transform;isolation:isolate}
+.countryCard:before{content:"";position:absolute;inset:0 0 auto;height:2px;background:linear-gradient(90deg,transparent,var(--card-accent),transparent);opacity:.8}
+.countryCard:after{content:"";position:absolute;width:112px;height:112px;right:-55px;top:32px;border-radius:50%;background:radial-gradient(circle, color-mix(in srgb,var(--card-accent) 14%,transparent),transparent 70%);pointer-events:none;z-index:-1}
+.countryCard[data-band="high"]{--card-accent:#ff786c}
+.countryCard[data-band="unknown"]{--card-accent:#91a4aa}
+.countryCard__top{display:flex;align-items:flex-start;justify-content:space-between;gap:10px}
+.countryCard__identity{display:grid;gap:4px;min-width:0}
+.countryCard__iso{color:#7f9aa4;font:600 10px/1 Inter,Arial,sans-serif;letter-spacing:.14em}
+.countryCard__name{font-size:16px;font-weight:700;line-height:1.25;white-space:nowrap}
+.countryCard__rank{display:grid;place-items:center;width:27px;height:27px;flex:none;border:1px solid rgba(124,163,174,.23);border-radius:50%;color:#8daab3;font:600 10px/1 Inter,Arial,sans-serif}
+.countryCard__metric{display:flex;align-items:baseline;gap:8px;margin:16px 0 12px}
+.countryCard__value{color:var(--card-accent);font:600 28px/1 Inter,Arial,sans-serif;letter-spacing:-.055em;font-variant-numeric:tabular-nums}
+.countryCard__label{color:#8ba4ad;font-size:10px;letter-spacing:.07em}
+.countryCard__breakdown{display:grid;grid-template-columns:1fr 1fr;gap:9px;padding:10px 0;border-top:1px solid rgba(110,147,158,.16);border-bottom:1px solid rgba(110,147,158,.16)}
+.countryCard__breakdown span{display:block;color:#8099a2;font-size:10px;line-height:1.35}
+.countryCard__breakdown b{display:block;margin-top:3px;color:#dce9e9;font:600 13px/1.25 Inter,"Noto Sans SC",Arial,sans-serif;font-variant-numeric:tabular-nums}
+.countryCard__foot{display:flex;align-items:center;justify-content:space-between;gap:8px;margin-top:auto;padding-top:10px;color:#79939d;font-size:10px}
+.countryCard__trend{color:#9bb2bb;font-variant-numeric:tabular-nums}.countryCard__open{color:var(--card-accent);font-weight:700;white-space:nowrap}
+.countryCard.is-active{z-index:3;border-color:color-mix(in srgb,var(--card-accent) 68%,#fff);box-shadow:0 20px 38px rgba(0,0,0,.35),0 0 26px color-mix(in srgb,var(--card-accent) 17%,transparent),inset 0 1px 0 rgba(255,255,255,.1);transform:translate3d(0,-7px,0) scale(1.025)}
+.countryCard.push-left{transform:translate3d(-9px,0,0) scale(1)}
+.countryCard.push-right{transform:translate3d(9px,0,0) scale(1)}
+.countryCard.is-selected{border-color:color-mix(in srgb,var(--card-accent) 58%,#39525c);box-shadow:inset 0 0 0 1px color-mix(in srgb,var(--card-accent) 22%,transparent),0 8px 22px rgba(0,0,0,.2)}
+.countryCard.is-selected .countryCard__rank{border-color:color-mix(in srgb,var(--card-accent) 50%,transparent);color:var(--card-accent)}
+.countryDeck__status{min-height:21px;margin:0 8px 4px;color:#89a4ad;font-size:11px}
+@media(hover:hover) and (pointer:fine){.countryCard:hover{z-index:3;border-color:color-mix(in srgb,var(--card-accent) 68%,#fff);box-shadow:0 20px 38px rgba(0,0,0,.35),0 0 26px color-mix(in srgb,var(--card-accent) 17%,transparent),inset 0 1px 0 rgba(255,255,255,.1);transform:translate3d(0,-7px,0) scale(1.025)}.countryCard.is-active:hover{transform:translate3d(0,-7px,0) scale(1.025)}}
+@media(max-width:700px){.countryDeck{margin:22px 0 28px;padding:19px 12px 10px;border-radius:18px}.countryDeck__head{align-items:flex-start;gap:10px;padding:0 4px}.countryDeck__head p{max-width:32ch;font-size:12px}.countryDeck__tools{gap:6px}.countryDeck__arrow{width:34px;height:34px}.countryDeck__count{min-width:48px;font-size:10px}.countryDeck__viewport{margin:0 -4px;padding:14px 8px 22px}.countryDeck__rail{gap:10px;padding:0 5px}.countryCard{flex-basis:236px;width:236px;height:220px;padding:15px}.countryCard__metric{margin:13px 0 10px}}
+@media(max-width:420px){.countryDeck__head{display:block}.countryDeck__tools{justify-content:flex-end;margin-top:10px}.countryDeck__eyebrow{font-size:9px;letter-spacing:.14em}}
+@media(prefers-reduced-motion:reduce){.countryDeck__arrow,.countryCard{transition:none;will-change:auto}.countryCard.is-active,.countryCard.push-left,.countryCard.push-right,.countryCard:hover{transform:none}}
 @media (prefers-reduced-motion:reduce){.top:after{animation:none}.card,.panel,.finding,.method div,.sourceGrid div,.auditPanel{transition:none}.card:hover,.panel:hover,.finding:hover,.method div:hover,.sourceGrid div:hover,.auditPanel:hover{transform:none}}
-</style></body></html>
+</style><script>
+(() => {
+  const rows = window.PANEL;
+  const yearSelect = document.querySelector('#year');
+  const countrySelect = document.querySelector('#country');
+  const mapSection = document.querySelector('.mapHero');
+  if (!Array.isArray(rows) || !yearSelect || !countrySelect || !mapSection) return;
+
+  const countries = [...new Set(rows.map(row => row.country))];
+  const nameFor = country => {
+    const option = [...countrySelect.options].find(item => item.value === country);
+    return option?.textContent || country;
+  };
+  const rowsByYear = new Map([2017, 2022].map(year => [
+    year,
+    new Map(rows.filter(row => Number(row.year) === year).map(row => [row.country, row]))
+  ]));
+  const pct = (value, digits = 1) => value !== null && value !== undefined && value !== '' && Number.isFinite(Number(value))
+    ? `${(Number(value) * 100).toFixed(digits)}%`
+    : '缺失';
+  const n4 = (row, digits = 2) => row ? pct(row.n4_dual_dependency, digits) : '缺失';
+  const bandFor = row => {
+    const value = row?.n4_dual_dependency;
+    if (value === null || value === undefined || value === '' || !Number.isFinite(Number(value))) return 'unknown';
+    return Number(value) >= 0.05 ? 'high' : 'standard';
+  };
+  const safeYear = () => Number(yearSelect.value) === 2017 ? 2017 : 2022;
+
+  const section = document.createElement('section');
+  section.className = 'countryDeck';
+  section.id = 'country-deck';
+  section.setAttribute('aria-labelledby', 'country-deck-title');
+  section.innerHTML = `
+    <div class="countryDeck__head">
+      <div>
+        <span class="countryDeck__eyebrow">NODE ATLAS · 12 ECONOMIES</span>
+        <h2 id="country-deck-title">关键节点，一眼看清</h2>
+        <p>按 2022 年 N4 排列。选择国家后，地图与下方画像会同步更新。</p>
+      </div>
+      <div class="countryDeck__tools" aria-label="国家卡片浏览控制">
+        <button class="countryDeck__arrow" type="button" data-scroll="left" aria-label="向左浏览国家">‹</button>
+        <span class="countryDeck__count" aria-hidden="true">01 / 12</span>
+        <button class="countryDeck__arrow" type="button" data-scroll="right" aria-label="向右浏览国家">›</button>
+      </div>
+    </div>
+    <div class="countryDeck__viewport" tabindex="0" aria-label="横向浏览12个经济体；可以使用左右方向键">
+      <div class="countryDeck__rail" role="group" aria-label="经济体风险画像卡片"></div>
+    </div>
+    <p class="countryDeck__status" aria-live="polite" aria-atomic="true"></p>`;
+  mapSection.insertAdjacentElement('afterend', section);
+
+  const viewport = section.querySelector('.countryDeck__viewport');
+  const rail = section.querySelector('.countryDeck__rail');
+  const status = section.querySelector('.countryDeck__status');
+  const leftButton = section.querySelector('[data-scroll="left"]');
+  const rightButton = section.querySelector('[data-scroll="right"]');
+  const counter = section.querySelector('.countryDeck__count');
+  const row2022 = rowsByYear.get(2022);
+  const ordered = countries
+    .filter(country => row2022?.has(country))
+    .sort((left, right) => {
+      const a = row2022.get(left).n4_dual_dependency;
+      const b = row2022.get(right).n4_dual_dependency;
+      const av = a !== null && a !== undefined && a !== '' && Number.isFinite(Number(a)) ? Number(a) : null;
+      const bv = b !== null && b !== undefined && b !== '' && Number.isFinite(Number(b)) ? Number(b) : null;
+      if (av === null) return bv === null ? 0 : 1;
+      if (bv === null) return -1;
+      return bv - av;
+    });
+
+  const makeCard = (country, index) => {
+    const current = rowsByYear.get(safeYear())?.get(country);
+    const historic = rowsByYear.get(2017)?.get(country);
+    const recent = rowsByYear.get(2022)?.get(country);
+    const name = nameFor(country);
+    const iso = current?.iso3 || recent?.iso3 || country;
+    const card = document.createElement('a');
+    card.className = 'countryCard';
+    card.dataset.country = country;
+    card.dataset.band = bandFor(current);
+    card.href = `?country=${encodeURIComponent(country)}&year=${safeYear()}`;
+    card.innerHTML = `
+      <div class="countryCard__top">
+        <div class="countryCard__identity"><span class="countryCard__iso">${iso}</span><strong class="countryCard__name">${name}</strong></div>
+        <span class="countryCard__rank" aria-label="2022年双重依赖排序第${index + 1}位">${String(index + 1).padStart(2, '0')}</span>
+      </div>
+      <div class="countryCard__metric"><strong class="countryCard__value" data-value="n4">${n4(current)}</strong><span class="countryCard__label">N4 · 双重依赖</span></div>
+      <div class="countryCard__breakdown">
+        <div><span>N2 · 对华进口</span><b data-value="n2">${pct(current?.n2_china_hs8542_import_share)}</b></div>
+        <div><span>N3 · 对美出口</span><b data-value="n3">${pct(current?.n3_us_hs8542_export_share)}</b></div>
+      </div>
+      <div class="countryCard__foot"><span class="countryCard__trend">N4 · 2017 ${n4(historic)} → 2022 ${n4(recent)}</span><span class="countryCard__open">查看画像 ↗</span></div>`;
+    return card;
+  };
+
+  ordered.forEach((country, index) => rail.append(makeCard(country, index)));
+  const cards = [...rail.querySelectorAll('.countryCard')];
+
+  const updateCards = () => {
+    const year = safeYear();
+    const selected = countrySelect.value;
+    cards.forEach(card => {
+      const country = card.dataset.country;
+      const row = rowsByYear.get(year)?.get(country);
+      card.dataset.band = bandFor(row);
+      card.querySelector('[data-value="n4"]').textContent = n4(row);
+      card.querySelector('[data-value="n2"]').textContent = pct(row?.n2_china_hs8542_import_share);
+      card.querySelector('[data-value="n3"]').textContent = pct(row?.n3_us_hs8542_export_share);
+      card.href = `?country=${encodeURIComponent(country)}&year=${year}`;
+      const isSelected = country === selected;
+      card.classList.toggle('is-selected', isSelected);
+      if (isSelected) card.setAttribute('aria-current', 'true');
+      else card.removeAttribute('aria-current');
+      card.setAttribute('aria-label', `${nameFor(country)}，${year}年：N4双重依赖${n4(row)}，N2对华进口${pct(row?.n2_china_hs8542_import_share)}，N3对美出口${pct(row?.n3_us_hs8542_export_share)}。选择以查看完整画像。`);
+    });
+    updateCounter(selected);
+  };
+
+  const updateStatus = () => {
+    const index = ordered.indexOf(countrySelect.value);
+    const row = rowsByYear.get(safeYear())?.get(countrySelect.value);
+    status.textContent = index >= 0
+      ? `已选：${nameFor(countrySelect.value)} · ${safeYear()} 年 N4 ${n4(row)} · 地图与完整画像已同步`
+      : `${safeYear()} 年数据暂缺；卡片保留来源年份对照，不补造数值。`;
+  };
+  const updateCounter = country => {
+    const index = ordered.indexOf(country);
+    counter.textContent = `${index < 0 ? '--' : String(index + 1).padStart(2, '0')} / ${String(ordered.length).padStart(2, '0')}`;
+  };
+
+  const writeUrl = (method = 'replaceState') => {
+    const url = new URL(window.location.href);
+    url.searchParams.set('country', countrySelect.value);
+    url.searchParams.set('year', String(safeYear()));
+    history[method]({}, '', `${url.pathname}${url.search}${url.hash}`);
+  };
+
+  const clearHover = () => {
+    cards.forEach(card => card.classList.remove('is-active', 'push-left', 'push-right'));
+    updateCounter(countrySelect.value);
+  };
+  const activateCard = card => {
+    clearHover();
+    if (!card) return;
+    const index = cards.indexOf(card);
+    card.classList.add('is-active');
+    updateCounter(card.dataset.country);
+    cards[index - 1]?.classList.add('push-left');
+    cards[index + 1]?.classList.add('push-right');
+  };
+
+  rail.addEventListener('pointerover', event => {
+    if (event.pointerType !== 'mouse') return;
+    const card = event.target.closest('.countryCard');
+    if (card && rail.contains(card) && !card.classList.contains('is-active')) activateCard(card);
+  });
+  rail.addEventListener('pointerleave', () => {
+    const focused = rail.querySelector('.countryCard:focus');
+    if (focused) activateCard(focused);
+    else clearHover();
+  });
+  rail.addEventListener('focusin', event => {
+    const card = event.target.closest('.countryCard');
+    if (card) activateCard(card);
+  });
+  rail.addEventListener('focusout', () => queueMicrotask(() => {
+    const focused = rail.querySelector('.countryCard:focus');
+    if (focused) activateCard(focused);
+    else if (!rail.matches(':hover')) clearHover();
+  }));
+  let fromCard = false;
+  let suppressHistory = false;
+  rail.addEventListener('click', event => {
+    const card = event.target.closest('.countryCard');
+    if (!card) return;
+    event.preventDefault();
+    fromCard = true;
+    countrySelect.value = card.dataset.country;
+    countrySelect.dispatchEvent(new Event('change', { bubbles: true }));
+    fromCard = false;
+    writeUrl('pushState');
+  });
+
+  const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
+  section.querySelectorAll('[data-scroll]').forEach(button => button.addEventListener('click', () => {
+    viewport.scrollBy({ left: (button.dataset.scroll === 'left' ? -1 : 1) * viewport.clientWidth * 0.78, behavior: reducedMotion.matches ? 'auto' : 'smooth' });
+  }));
+  const updateArrows = () => {
+    const max = Math.max(0, viewport.scrollWidth - viewport.clientWidth - 2);
+    leftButton.disabled = viewport.scrollLeft <= 1;
+    rightButton.disabled = viewport.scrollLeft >= max;
+  };
+  viewport.addEventListener('scroll', updateArrows, { passive: true });
+  window.addEventListener('resize', updateArrows, { passive: true });
+
+  let lastSelected = countrySelect.value;
+  countrySelect.addEventListener('change', () => {
+    lastSelected = countrySelect.value;
+    updateCards();
+    updateStatus();
+    if (!fromCard && !suppressHistory) writeUrl('pushState');
+  });
+  yearSelect.addEventListener('change', () => {
+    queueMicrotask(() => {
+      if (rowsByYear.get(safeYear())?.has(lastSelected)) countrySelect.value = lastSelected;
+      countrySelect.dispatchEvent(new Event('change', { bubbles: true }));
+      updateArrows();
+    });
+  }, true);
+
+  const applyUrlState = () => {
+    suppressHistory = true;
+    const params = new URLSearchParams(window.location.search);
+    const year = Number(params.get('year'));
+    const country = params.get('country');
+    if (year === 2017 || year === 2022) {
+      yearSelect.value = String(year);
+      yearSelect.dispatchEvent(new Event('change', { bubbles: true }));
+    }
+    queueMicrotask(() => {
+      if (countries.includes(country) && rowsByYear.get(safeYear())?.has(country)) {
+        countrySelect.value = country;
+        countrySelect.dispatchEvent(new Event('change', { bubbles: true }));
+        cards.find(card => card.dataset.country === country)?.scrollIntoView({ block: 'nearest', inline: 'nearest', behavior: reducedMotion.matches ? 'auto' : 'smooth' });
+      } else {
+        updateCards();
+        updateStatus();
+      }
+      suppressHistory = false;
+    });
+  };
+  window.addEventListener('popstate', applyUrlState);
+
+  updateCards();
+  updateStatus();
+  updateArrows();
+  applyUrlState();
+})();
+
+</script></body></html>
 
 
 
