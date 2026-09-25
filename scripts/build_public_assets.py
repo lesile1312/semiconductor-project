@@ -48,6 +48,18 @@ def main() -> int:
     panel = read_records(preferred_path(ROOT / "output" / "master_country_year.csv", ROOT / "data" / "芯链哨兵_核心面板.csv"))
     index = read_records(preferred_path(ROOT / "output" / "pilot_gtri_v0_index.csv", ROOT / "data" / "芯链哨兵_试点指数.csv"))
     coverage = read_records(preferred_path(ROOT / "data" / "processed" / "source_coverage_by_year.csv", ROOT / "data" / "各年份数据源覆盖.csv"))
+    website_coverage_years = {
+        "comtrade_hs8542": {2017, 2022},
+        "unga_ideal_points": {2017, 2022},
+        "atop_v5_1": {2017},
+        "p2_us_state_nato_2022": {2022},
+        "oecd_tiva_2025": {2017, 2022},
+    }
+    website_coverage = [
+        row for row in coverage
+        if row.get("source_id") in website_coverage_years
+        and int(row.get("target_year")) in website_coverage_years[row["source_id"]]
+    ]
     lineage = read_records(preferred_path(ROOT / "data" / "processed" / "field_lineage.csv", ROOT / "data" / "字段级来源血缘.csv"))
     if len(panel) != 24 or len(index) != 24 or len(coverage) != 22:
         raise SystemExit(
@@ -66,10 +78,13 @@ def main() -> int:
     asset = ROOT / "assets" / "panel-data.js"
     emit(asset, "PANEL", panel)
     emit(asset, "PILOT_INDEX", index, append=True)
-    emit(ROOT / "assets" / "source-coverage-data.js", "SOURCE_COVERAGE", coverage)
+    if len(website_coverage) != 8:
+        raise SystemExit(f"Expected 8 core-source coverage rows for the overview; got {len(website_coverage)}")
+    emit(ROOT / "assets" / "source-coverage-data.js", "SOURCE_COVERAGE", website_coverage)
     print(
         f"Built panel-data.js ({len(panel)} country-year rows), "
-        f"source-coverage-data.js ({len(coverage)} source/year rows), "
+        f"source-coverage-data.js ({len(website_coverage)} core source/year rows; "
+        f"full audit retains {len(coverage)} rows), "
         f"and validated lineage for {len(lineage_fields)} fields; keys unique; P2 complete."
     )
     return 0

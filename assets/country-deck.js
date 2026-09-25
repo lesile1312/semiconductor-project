@@ -247,6 +247,13 @@
     @media(max-width:560px){.integrationLayer{padding:21px 17px;border-radius:18px}.integrationHead{display:block}.integrationYear{display:inline-block;margin-top:14px}.integrationGrid{grid-template-columns:1fr}.integrationCell,.integrationCell+.integrationCell,.integrationCell:last-child{grid-column:auto;padding:17px 0 4px;border-left:0;border-top:1px solid rgba(138,180,189,.13);margin:0}.integrationCoverage__groups{grid-template-columns:1fr}.integrationCoverage__group:last-child{grid-column:auto}.integrationCoverage__head{align-items:flex-start}.integrationFoot{display:block}.integrationFoot span{display:block;margin-top:5px}}
     @media(prefers-reduced-motion:reduce){.integrationLayer{scroll-behavior:auto}.integrationLayer:after{transition:none}.integrationLayer.gtri-hover:after{opacity:0}}
   `;
+  integrationStyles.textContent += `
+    .integrationGrid{display:block;border-top:0}
+    .integrationCell{max-width:900px;padding:0}
+    .integrationCell+.integrationCell{padding-left:0;border-left:0}
+    .integrationCoverage__groups{grid-template-columns:minmax(0,1fr)}
+    @media(max-width:860px){.integrationCoverage__groups{grid-template-columns:minmax(0,1fr)}}
+  `;
   document.head.append(integrationStyles);
 
   const boundary = document.querySelector('.boundary');
@@ -256,14 +263,12 @@
     integration.className = 'integrationLayer';
     integration.setAttribute('aria-labelledby', 'integration-title');
     integration.innerHTML = `
-      <div class="integrationHead"><div><span class="integrationEyebrow">SOURCE CROSSWALK · EVIDENCE ONLY</span><h2 id="integration-title">把来源接起来，也把边界留下</h2><p>选中的国家与年份会同步到下方证据层。联盟资料、BIS候选规则与投资头寸各自保留来源年份和观察口径，不并入 GTRI-v0 分数。</p></div><span class="integrationYear" id="integration-year">—</span></div>
+      <div class="integrationHead"><div><span class="integrationEyebrow">SOURCE CROSSWALK · CORE DATA</span><h2 id="integration-title">核心指标与来源覆盖</h2><p>选中的国家与年份会同步显示 P2 判定依据。页面只展示实际用于核心指标的来源；补充材料和未接入候选保留在方法说明与来源登记中，不作为已接入功能陈列。</p></div><span class="integrationYear" id="integration-year">—</span></div>
       <div class="integrationGrid">
         <article class="integrationCell"><span class="integrationKicker">P2 · 正式防务安排</span><h3 id="integration-p2-label">—</h3><strong class="integrationValue" id="integration-p2-value">—</strong><p id="integration-p2-note">—</p><a id="integration-p2-link" target="_blank" rel="noopener noreferrer" hidden>查看来源记录 ↗</a></article>
-        <article class="integrationCell"><span class="integrationKicker">P3 · BIS政策证据</span><h3>选定规则的人工范围核对</h3><div class="integrationPairs"><div>文本提及该国<b id="integration-p3-mentions">—</b></div><div>核认为直接新增管制<b id="integration-p3-events">—</b></div></div><p>只覆盖本次选定复核集合；零值只表示集合内未记到命中，不代表没有其他法律暴露。该层不计分。</p></article>
-        <article class="integrationCell"><span class="integrationKicker">IMF CDIS · 双边投资头寸</span><h3 id="integration-cdis-period">—</h3><div class="integrationPairs"><div>该经济体报告：来自中国的流入头寸<b id="integration-cdis-in">—</b></div><div>中国报告：对该经济体的流出头寸<b id="integration-cdis-out">—</b></div></div><p>两方向分别来自不同报告方，按直接对手方统计；不是半导体专项投资，也不代表最终所有者。未报告保持为空，不当作零。</p></article>
       </div>
-      <div class="integrationCoverage" aria-label="所选年份的数据来源覆盖"><div class="integrationCoverage__head"><div><span class="integrationEyebrow">SOURCE COVERAGE · 12-ECONOMY SAMPLE</span><h3>覆盖率、证据量与未接入来源分开看</h3></div><span id="integration-coverage-period" class="integrationCoverage__period">—</span></div><div class="integrationCoverage__groups"><section class="integrationCoverage__group"><h4>核心指标来源</h4><div class="integrationCoverage__items" id="integration-core-coverage"></div><p class="integrationCoverage__note">覆盖率表示该目标年面板中有可用记录的经济体数量，不代表来源准确度或指数预测能力。</p></section><section class="integrationCoverage__group"><h4>补充证据（不全入分）</h4><div class="integrationCoverage__items" id="integration-context-coverage"></div><p class="integrationCoverage__note">BIS仅反映所选复核规则；CDIS保留报告方向和源年份。</p></section><section class="integrationCoverage__group"><h4>暂未接入</h4><div class="integrationCoverage__items" id="integration-unjoined-coverage"></div><p class="integrationCoverage__note">缺少事件明细或企业/产品匹配键，因此不推算命中数和国家风险值。</p></section></div></div>
-      <div class="integrationFoot"><span><strong>跨源说明</strong> · 2017 P2以 ATOP 观察值为主；2022 P2由美国国务院 / NATO 官方资料编码。ATOP 2018结构字段另作参照。</span><span>新增证据仅用于解释、核验与预警，不改变核心指数口径。</span></div>`;
+      <div class="integrationCoverage" aria-label="所选年份的核心指标数据来源覆盖"><div class="integrationCoverage__head"><div><span class="integrationEyebrow">SOURCE COVERAGE · 12-ECONOMY SAMPLE</span><h3>核心指标来源覆盖</h3></div><span id="integration-coverage-period" class="integrationCoverage__period">—</span></div><div class="integrationCoverage__groups"><section class="integrationCoverage__group"><h4>实际进入指标的数据</h4><div class="integrationCoverage__items" id="integration-core-coverage"></div><p class="integrationCoverage__note">覆盖数表示目标年面板中有可用记录的经济体数量，不代表来源准确度或指数预测能力。</p></section></div></div>
+      <div class="integrationFoot"><span><strong>跨源说明</strong> · 2017 P2以 ATOP 观察值为主；2022 P2由美国国务院 / NATO 官方资料编码。ATOP 2018结构字段另作参照。</span><span>仅列出用于核心指标的数据源；其余材料见来源登记与方法说明。</span></div>`;
     boundary.insertAdjacentElement('beforebegin', integration);
 
     const rankBody = document.querySelector('.rankTable tbody');
@@ -279,9 +284,6 @@
       }));
     }
 
-    const showNumber = value => value === null || value === undefined || value === '' || !Number.isFinite(Number(value))
-      ? '未报告'
-      : `${Number(value) < 0 ? '−' : ''}${Math.abs(Number(value)).toLocaleString('zh-CN', { maximumFractionDigits: 1 })} 百万美元`;
     const coverageRows = Array.isArray(window.SOURCE_COVERAGE) ? window.SOURCE_COVERAGE : [];
     const coverageByKey = new Map(coverageRows.map(item => [`${item.source_id}:${Number(item.target_year)}`, item]));
     const coverageFor = (sourceId, year) => coverageByKey.get(`${sourceId}:${year}`);
@@ -302,10 +304,8 @@
     };
     const renderCoverage = year => {
       const coreTarget = document.querySelector('#integration-core-coverage');
-      const contextTarget = document.querySelector('#integration-context-coverage');
-      const unjoinedTarget = document.querySelector('#integration-unjoined-coverage');
-      if (!coreTarget || !contextTarget || !unjoinedTarget || !coverageRows.length) return;
-      coreTarget.replaceChildren(); contextTarget.replaceChildren(); unjoinedTarget.replaceChildren();
+      if (!coreTarget || !coverageRows.length) return;
+      coreTarget.replaceChildren();
       const ratio = row => row ? `${row.rows_with_observed_values}/${row.expected_country_rows}` : '无记录';
       const trade = coverageFor('comtrade_hs8542', year);
       const unga = coverageFor('unga_ideal_points', year);
@@ -316,14 +316,6 @@
       appendCoverageItem(coreTarget, 'OECD TiVA · C26_27', ratio(tiva), '宽口径电子/电气行业，不等于半导体专属');
       appendCoverageItem(coreTarget, year === 2017 ? 'ATOP v5.1 · P2' : '国务院/NATO · P2', ratio(p2),
         year === 2017 ? '2017目标年观察；2018仅作结构参照' : '2022目标年重建；与ATOP口径存在来源断点', 'limited');
-      const bis = coverageFor('bis_federal_register_reviewed_subset', year);
-      appendCoverageItem(contextTarget, 'BIS · 选定规则范围核对', `${bis?.reviewed_subset_positive_hits ?? '—'} 条命中`,
-        `${bis?.panel_rows_with_source_record ?? 0}/12摘要行；非全量规则审查`, 'limited');
-      const cdis = coverageFor('imf_cdis_positions', year);
-      appendCoverageItem(contextTarget, 'IMF CDIS · 双边投资头寸', `${cdis?.rows_with_observed_values ?? 0}/12`,
-        `${cdis?.source_observation_year || '年份未记录'}观测 · 流入${cdis?.cdis_inward_values_reported ?? 0}/12 · 流出${cdis?.cdis_outward_values_reported ?? 0}/12`, 'limited');
-      appendCoverageItem(unjoinedTarget, 'GDELT · 中美双边事件', '未接入', '缺少可复现事件级导出；不从图表反推', 'off');
-      appendCoverageItem(unjoinedTarget, 'GTA / CSL · 政策与实体筛查', '未接入', '尚无真实企业/产品标识和历史匹配键', 'off');
       document.querySelector('#integration-coverage-period').textContent = `${year}目标年 · 样本12国`;
     };
     const renderEvidence = () => {
@@ -340,25 +332,24 @@
       document.querySelector('#integration-p2-value').textContent = `目标年值 ${Number(row.p2_us_formal_alliance) === 1 ? '1 · 识别到正式安排' : '0 · 所选来源未识别到'}`;
       const p2Note = row.p2_oas_adjustment
         ? `ATOP原始值 ${row.p2_atop_observed}；OAS记录《里约条约》对墨西哥于2004年终止，因此核验值为0。`
-        : `${p2Year}年证据 · ${row.p2_treaty_or_basis || '0仅指所选正式防务安排口径，不代表没有其他安全合作。'}`;
+        : `${p2Year}年证据 · ${source.includes('ATOP') ? 'ATOP v5.1与美国的双边防务义务记录。' : (() => {
+          const basis = String(row.p2_treaty_or_basis || '');
+          const knownTranslations = {
+            'U.S.-Thailand formal defense alliance; 1954 Manila Pact': '美国—泰国正式防务安排：《马尼拉条约》（1954年）。',
+            '1951 U.S.-Philippines Mutual Defense Treaty': '美国—菲律宾《共同防御条约》（1951年）。',
+            '1960 U.S.-Japan Treaty of Mutual Cooperation and Security': '《美日共同合作与安全条约》（1960年）。',
+            '1953 U.S.-Republic of Korea Mutual Defense Treaty': '《美韩共同防御条约》（1953年）。'
+          };
+          if (knownTranslations[basis]) return knownTranslations[basis];
+          if (basis.startsWith('No qualifying U.S. collective-defense treaty or NATO membership identified')) return '所选来源中未识别到符合本研究口径的美国集体防务安排或北约成员身份。';
+          return basis || '0仅指所选正式防务安排口径，不代表没有其他安全合作。';
+        })()}`;
       document.querySelector('#integration-p2-note').textContent = p2Note;
       const sourceLink = document.querySelector('#integration-p2-link');
       const firstUrl = String(row.p2_evidence_source_url || '').split(';')[0].trim();
       if (firstUrl.startsWith('https://')) { sourceLink.href = firstUrl; sourceLink.hidden = false; }
       else { sourceLink.removeAttribute('href'); sourceLink.hidden = true; }
 
-      const literalHits = Number(row.p3_reviewed_candidate_literal_count);
-      const directEvents = Number(row.p3_bis_direct_increase_events_reviewed_subset);
-      document.querySelector('#integration-p3-mentions').textContent = Number.isFinite(literalHits) ? `${literalHits} 条` : '未报告';
-      document.querySelector('#integration-p3-events').textContent = Number.isFinite(directEvents) ? `${directEvents} 条` : '未报告';
-
-      const observationYear = row.cdis_observation_year;
-      const lag = Number(row.cdis_observation_lag_years);
-      document.querySelector('#integration-cdis-period').textContent = observationYear
-        ? `${observationYear} 年末${lag > 0 ? ` · 滞后 ${lag} 年` : ' · 同年观测'}`
-        : '该观察年未提供';
-      document.querySelector('#integration-cdis-in').textContent = showNumber(row.cdis_sample_country_inward_from_china_usd_millions);
-      document.querySelector('#integration-cdis-out').textContent = showNumber(row.cdis_china_outward_position_in_sample_country_usd_millions);
       renderCoverage(year);
     };
     countrySelect.addEventListener('change', renderEvidence);
