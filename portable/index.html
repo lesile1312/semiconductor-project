@@ -37,6 +37,20 @@ img,svg,canvas{max-width:100%}
 }
 @media(max-width:390px){.mapHero .mapStage,.mapStrip .mapStage{min-height:276px}}
 .rankWrap{grid-template-columns:minmax(0,1fr)}
+.top{justify-content:flex-start;gap:12px}
+.top>a.pill{display:inline-flex;align-items:center;justify-content:center;min-height:44px;padding:0 15px;border:1px solid #2b5661;border-radius:12px;background:linear-gradient(180deg,#102a35,#0b202b);color:#d7e9e8;text-decoration:none;font-size:13px;font-weight:650;letter-spacing:.01em;white-space:nowrap;transition:transform .18s ease,border-color .18s ease,background .18s ease,box-shadow .18s ease}
+.top>a.pill[href^="risk-migration-lens"]{border-color:#53dfcf;background:#3ed6c5;color:#06232b;box-shadow:0 6px 20px rgba(62,214,197,.13),inset 0 1px rgba(255,255,255,.22)}
+.top>a.pill[href^="enterprise-scan"]{border-color:rgba(120,173,182,.4);background:#102632;color:#d6e7e7}
+.top>a.pill[href^="risk-migration-lens"]{margin-left:auto}
+.top>a.pill:hover{transform:translateY(-1px);border-color:#70e5d8;box-shadow:0 8px 23px rgba(0,0,0,.22)}
+.top>a.pill[href^="risk-migration-lens"]:hover{background:#57e1d2;box-shadow:0 9px 25px rgba(62,214,197,.2)}
+.top>a.pill:focus-visible{outline:2px solid #f4bd5b;outline-offset:3px}
+.mapHero .mapCopy>p:first-of-type,.mapHero .mapCopy>.mapNote,.mapStrip .mapCopy>p.small,.mapStrip .mapCopy>.mapNote{display:none}
+.mapHero .mapCopy,.mapStrip .mapCopy{align-self:center}
+.mapHero .mapLegend>span:nth-child(3){display:none}
+@media(max-width:700px){.top{justify-content:flex-start;column-gap:9px}.top>.brand{flex:1 0 100%}.top>a.pill{flex:1 1 0;margin-left:0;padding:0 10px;font-size:12px}.top>a.pill[href^="risk-migration-lens"]{margin-left:0}}
+@media(max-width:560px){.top>span.pill{display:none}.top>a.pill{display:inline-flex}}
+@media(prefers-reduced-motion:reduce){.top>a.pill{transition:none}.top>a.pill:hover{transform:none}}
 
 </style>
 </head><body><main><header class="top"><div class="brand"><b>芯链哨兵</b> · 半导体供应链风险观察</div><span class="pill">12个经济体 · 2017 / 2022</span><a href="risk-migration-lens.html" class="pill">打开风险迁移透镜 →</a><a href="enterprise-scan.html" class="pill">企业级扫描 →</a></header><section class="mapHero"><div class="mapCopy"><span class="eyebrow">全球节点图 · 2022</span><h2>风险沿着哪些节点重新聚集？</h2><p>把鼠标移入地图，光晕会沿国家轮廓移动；靠近节点即可看到该国 2022 年的 N2 / N3 / N4 结构。</p><div class="mapLegend"><span><i class="dot hot"></i>双重依赖较高（N4 ≥ 0.05）</span><span><i class="dot cool"></i>结构暴露较低</span><span>数据：2017—2022 核心面板</span><div class="mapLinkLegend"><span><i class="lineKey cyan"></i>中国投入 → 节点</span><span><i class="lineKey amber"></i>节点 → 美国市场</span></div></div><p class="mapNote">底图采用 Natural Earth 1:110m 低分辨率国家轮廓，以等距圆柱投影绘制，用于定位和可视化，不作为边界或领土法律依据。</p></div><div class="mapStage"><canvas id="flowMap" aria-label="12个第三方经济体风险节点世界轮廓地图"></canvas><div class="mapTip" id="mapTip">移动鼠标或按Tab键探索风险节点</div><div class="mapCard" id="mapCard"></div></div></section><section class="intro"><div><h1>脱钩之后，<br>风险去了哪里？</h1><p>测量中国半导体企业转向第三方供应链后，风险如何沿中国投入、美国市场、政治压力与供应集中度重新聚集。</p></div><div class="control"><label>观察年份</label><select id="year"><option>2022</option><option>2017</option></select><label>国家画像</label><select id="country"></select><div class="sub">所有数据来自本地审计主表。P3候选规则已做定向人工核对，尚未逐条法律复核；作为待复核政策证据层，不进入本页测量。</div></div></section><section class="cards"><div class="card"><small>最高双重依赖节点</small><strong id="topCountry">—</strong><span class="sub" id="topN4"></span></div><div class="card"><small>N2样本中位数</small><strong id="medN2">—</strong><span class="sub">中国投入端暴露</span></div><div class="card"><small>N3样本中位数</small><strong id="medN3">—</strong><span class="sub">美国市场端暴露</span></div><div class="card"><small>有效供应国中位数</small><strong id="medV2">—</strong><span class="sub">进口份额≥1%</span></div></section><section class="workspace"><div class="panel"><h2>中美半导体风险节点</h2><div class="sub">横轴N2，纵轴N3；气泡越大表示进口来源越集中。虚线为样本中位数。</div><svg class="chart" id="chart" viewBox="0 0 760 520"></svg></div><aside class="panel detail"><div class="sub">国家风险结构</div><h3 id="name">—</h3><div id="iso" class="sub"></div><div id="bars"></div><div class="signal" id="signal"></div></aside></section>
@@ -327,10 +341,6 @@ window.WORLD_GEOMETRY={"type":"FeatureCollection","features":[{"properties":{"na
           drawPulse(curvePoint(p, us, (phase + .38) % 1), ANCHORS.UnitedStates.color, isActive ? .7 : .28, 1.1 + Math.min(1.15, n3 * 1.6));
         }
       });
-      ctx.save(); ctx.font = '600 10px Inter,"Noto Sans SC",Arial,sans-serif';
-      ctx.fillStyle = 'rgba(62,214,197,.88)'; ctx.fillText('中国投入', Math.min(W - 54, china.x + 8), Math.max(13, china.y - 9));
-      ctx.fillStyle = 'rgba(244,189,91,.90)'; ctx.fillText('美国市场', Math.min(W - 54, us.x + 8), Math.max(13, us.y - 9));
-      ctx.restore();
     }
     function drawPointerLinks() {
       if (!mouse.on) return;

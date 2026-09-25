@@ -240,10 +240,6 @@
           drawPulse(curvePoint(p, us, (phase + .38) % 1), ANCHORS.UnitedStates.color, isActive ? .7 : .28, 1.1 + Math.min(1.15, n3 * 1.6));
         }
       });
-      ctx.save(); ctx.font = '600 10px Inter,"Noto Sans SC",Arial,sans-serif';
-      ctx.fillStyle = 'rgba(62,214,197,.88)'; ctx.fillText('中国投入', Math.min(W - 54, china.x + 8), Math.max(13, china.y - 9));
-      ctx.fillStyle = 'rgba(244,189,91,.90)'; ctx.fillText('美国市场', Math.min(W - 54, us.x + 8), Math.max(13, us.y - 9));
-      ctx.restore();
     }
     function drawPointerLinks() {
       if (!mouse.on) return;
