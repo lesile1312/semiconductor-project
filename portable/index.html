@@ -608,17 +608,48 @@ window.WORLD_GEOMETRY={"type":"FeatureCollection","features":[{"properties":{"na
       var io = new IntersectionObserver(function (entries) { entries.forEach(function (entry) { if (entry.isIntersecting) { entry.target.classList.add('is-visible'); io.unobserve(entry.target); } }); }, { threshold: .08 });
       reveal.forEach(function (el) { io.observe(el); });
     } else { reveal.forEach(function (el) { el.classList.add('is-visible'); }); }
-    var surfaces = Array.prototype.slice.call(doc.querySelectorAll('.mapHero,.mapStrip,.hero,.card,.panel,.finding,.method>div,.sourceGrid>div,.boundary,.auditPanel,.notice'));
+    var surfaceSelector = '.mapHero,.mapStrip,.hero,.card,.panel,.finding,.method>div,.sourceGrid>div,.boundary,.auditPanel,.notice,.integrationLayer,.integrationCell,.integrationCoverage__group';
+    var boundSurfaces = typeof WeakSet === 'function' ? new WeakSet() : null;
     var raf = 0, pending = null, active = null, scrollRaf = 0;
-    surfaces.forEach(function (el, i) {
+    function bindSurface(el) {
+      if (!el || (boundSurfaces && boundSurfaces.has(el))) return;
+      if (boundSurfaces) boundSurfaces.add(el);
       el.classList.add('gtri-surface');
       // mapStage 已有自己的弹簧倾斜；地图外层只做光晕，避免嵌套 perspective 造成放大漂移。
       if (el.matches('.hero')) el.classList.add('gtri-tilt');
       if (el.matches('button,.btn,.pill,.linkBtn,a')) el.classList.add('gtri-press');
-      el.addEventListener('pointermove', function (e) { if (e.pointerType === 'touch' || reduce) return; active = el; pending = e; if (!raf) raf = requestAnimationFrame(flushPointer); }, { passive: true });
-      el.addEventListener('pointerenter', function (e) { if (e.pointerType !== 'touch') el.classList.add('gtri-hover'); });
+      el.addEventListener('pointermove', function (e) {
+        if (e.pointerType === 'touch' || reduce) return;
+        var nearestSurface = e.target && e.target.closest ? e.target.closest('.gtri-surface') : el;
+        if (nearestSurface !== el) return;
+        el.classList.add('gtri-hover');
+        active = el; pending = e;
+        if (!raf) raf = requestAnimationFrame(flushPointer);
+      }, { passive: true });
+      el.addEventListener('pointerenter', function (e) {
+        if (e.pointerType === 'touch') return;
+        el.classList.add('gtri-hover');
+        if (el.matches('.integrationCell,.integrationCoverage__group')) {
+          var integrationLayer = el.closest('.integrationLayer');
+          if (integrationLayer) integrationLayer.classList.remove('gtri-hover');
+        }
+      });
       el.addEventListener('pointerleave', function () { el.classList.remove('gtri-hover'); el.style.setProperty('--gtri-x', '50%'); el.style.setProperty('--gtri-y', '50%'); el.style.setProperty('--gtri-rx', '0deg'); el.style.setProperty('--gtri-ry', '0deg'); });
-    });
+    }
+    Array.prototype.forEach.call(doc.querySelectorAll(surfaceSelector), bindSurface);
+    // Some evidence panels are inserted after this initializer; observe only new DOM nodes and bind matching surfaces once.
+    if (global.MutationObserver && doc.body) {
+      var surfaceObserver = new MutationObserver(function (records) {
+        records.forEach(function (record) {
+          Array.prototype.forEach.call(record.addedNodes, function (node) {
+            if (!node || node.nodeType !== 1) return;
+            if (node.matches(surfaceSelector)) bindSurface(node);
+            Array.prototype.forEach.call(node.querySelectorAll(surfaceSelector), bindSurface);
+          });
+        });
+      });
+      surfaceObserver.observe(doc.body, { childList: true, subtree: true });
+    }
     function flushPointer() {
       raf = 0;
       if (!active || !pending || reduce) return;
@@ -1008,12 +1039,13 @@ window.SOURCE_COVERAGE=[{"source_id":"comtrade_hs8542","target_year":2017,"sourc
   const integrationStyles = document.createElement('style');
   integrationStyles.textContent = `
     .integrationLayer{position:relative;overflow:hidden;margin:30px 0 24px;padding:clamp(22px,3.4vw,42px);border:1px solid rgba(91,174,184,.22);border-radius:22px;background:linear-gradient(120deg,rgba(13,35,45,.98),rgba(8,23,33,.96) 58%,rgba(11,33,42,.98));box-shadow:0 24px 60px rgba(0,0,0,.22),inset 0 1px 0 rgba(255,255,255,.035)}
-    .integrationLayer:before{content:"";position:absolute;top:0;left:7%;right:7%;height:1px;background:linear-gradient(90deg,transparent,rgba(62,214,197,.7),rgba(255,184,77,.52),transparent);opacity:.8}
+    .integrationLayer:before{content:"";position:absolute;top:0;left:7%;right:7%;height:1px;z-index:2;background:linear-gradient(90deg,transparent,rgba(62,214,197,.7),rgba(255,184,77,.52),transparent);opacity:.8}
+    .integrationLayer:after{content:"";position:absolute;inset:0;z-index:0;pointer-events:none;background:radial-gradient(circle 360px at var(--gtri-x,50%) var(--gtri-y,50%),rgba(62,214,197,.18),transparent 72%);opacity:0;transition:opacity 320ms cubic-bezier(.22,1,.36,1)}.integrationLayer.gtri-hover:after{opacity:.86}.integrationLayer>*{position:relative;z-index:1}.integrationCoverage__group.gtri-hover{border-color:rgba(62,214,197,.4);box-shadow:0 0 22px rgba(62,214,197,.08),inset 0 1px 0 rgba(255,255,255,.035)}
     .integrationHead{display:flex;justify-content:space-between;align-items:flex-end;gap:24px;margin-bottom:24px}.integrationHead h2{margin:7px 0 8px;font-size:clamp(22px,2.6vw,30px);letter-spacing:-.035em}.integrationHead p{max-width:670px;margin:0;color:#9db5bd;line-height:1.7}.integrationEyebrow{font-size:10px;letter-spacing:.18em;color:#64d7cc;text-transform:uppercase}.integrationYear{flex:none;padding:8px 11px;border:1px solid rgba(91,174,184,.24);border-radius:999px;color:#bdd3d7;font:11px/1.2 ui-monospace,Consolas,monospace}
     .integrationGrid{display:grid;grid-template-columns:.88fr 1fr 1.36fr;gap:0;border-top:1px solid rgba(138,180,189,.17)}.integrationCell{min-width:0;padding:20px 22px 4px 0}.integrationCell+.integrationCell{padding-left:22px;border-left:1px solid rgba(138,180,189,.13)}.integrationCell h3{margin:0 0 7px;color:#e7f1f0;font-size:15px}.integrationKicker{display:block;margin-bottom:13px;color:#7fa1aa;font-size:10px;letter-spacing:.12em;text-transform:uppercase}.integrationValue{display:block;color:#f1f7f5;font-size:20px;line-height:1.35;font-weight:650}.integrationCell p{margin:9px 0 0;color:#9bb2b9;font-size:12px;line-height:1.65}.integrationCell a{display:inline-block;margin-top:11px;color:#65d8cf;font-size:12px;text-decoration:none}.integrationCell a:hover{text-decoration:underline}.integrationPairs{display:grid;grid-template-columns:1fr 1fr;gap:9px;margin-top:15px}.integrationPairs>div{padding:10px 0;border-top:1px solid rgba(138,180,189,.17);color:#8da8b1;font-size:11px;line-height:1.45}.integrationPairs b{display:block;margin-top:4px;color:#ecf6f4;font-size:15px;font-weight:600}.integrationCoverage{margin-top:23px;padding-top:19px;border-top:1px solid rgba(138,180,189,.14)}.integrationCoverage__head{display:flex;align-items:flex-end;justify-content:space-between;gap:14px;margin-bottom:12px}.integrationCoverage__head h3{margin:5px 0 0;font-size:15px;color:#e7f1f0}.integrationCoverage__period{color:#8ba5ad;font:11px/1.4 ui-monospace,Consolas,monospace}.integrationCoverage__groups{display:grid;grid-template-columns:1.35fr .9fr 1fr;gap:10px}.integrationCoverage__group{min-width:0;padding:14px;border:1px solid rgba(119,157,167,.14);border-radius:12px;background:rgba(5,18,27,.36)}.integrationCoverage__group h4{margin:0 0 10px;color:#8ba7af;font-size:10px;font-weight:600;letter-spacing:.1em;text-transform:uppercase}.integrationCoverage__items{display:grid;gap:9px}.integrationCoverage__item{display:grid;grid-template-columns:minmax(0,1fr) auto;align-items:start;gap:10px;padding-top:8px;border-top:1px solid rgba(119,157,167,.11)}.integrationCoverage__item:first-child{padding-top:0;border-top:0}.integrationCoverage__item strong{display:block;color:#dce9e9;font-size:11px;font-weight:600}.integrationCoverage__item small{display:block;margin-top:2px;color:#829ba3;font-size:10px;line-height:1.45}.integrationCoverage__value{color:#6ee0d2;font:600 11px/1.5 ui-monospace,Consolas,monospace;white-space:nowrap}.integrationCoverage__value.is-limited{color:#f0c36a}.integrationCoverage__value.is-off{color:#9babb0}.integrationCoverage__note{margin:10px 0 0;color:#78929b;font-size:10px;line-height:1.55}.integrationFoot{display:flex;justify-content:space-between;gap:20px;margin-top:21px;padding-top:14px;border-top:1px solid rgba(138,180,189,.13);color:#819ba4;font-size:11px;line-height:1.6}.integrationFoot strong{color:#bad3d5;font-weight:550}
     @media(max-width:860px){.integrationGrid{grid-template-columns:1fr 1fr}.integrationCell:last-child{grid-column:1/-1;padding-left:0;border-left:0;border-top:1px solid rgba(138,180,189,.13);margin-top:14px}.integrationCell:nth-child(2){padding-right:0}.integrationHead{align-items:flex-start}.integrationCoverage__groups{grid-template-columns:1fr 1fr}.integrationCoverage__group:last-child{grid-column:1/-1}}
     @media(max-width:560px){.integrationLayer{padding:21px 17px;border-radius:18px}.integrationHead{display:block}.integrationYear{display:inline-block;margin-top:14px}.integrationGrid{grid-template-columns:1fr}.integrationCell,.integrationCell+.integrationCell,.integrationCell:last-child{grid-column:auto;padding:17px 0 4px;border-left:0;border-top:1px solid rgba(138,180,189,.13);margin:0}.integrationCoverage__groups{grid-template-columns:1fr}.integrationCoverage__group:last-child{grid-column:auto}.integrationCoverage__head{align-items:flex-start}.integrationFoot{display:block}.integrationFoot span{display:block;margin-top:5px}}
-    @media(prefers-reduced-motion:reduce){.integrationLayer{scroll-behavior:auto}}
+    @media(prefers-reduced-motion:reduce){.integrationLayer{scroll-behavior:auto}.integrationLayer:after{transition:none}.integrationLayer.gtri-hover:after{opacity:0}}
   `;
   document.head.append(integrationStyles);
 

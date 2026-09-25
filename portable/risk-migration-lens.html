@@ -570,17 +570,48 @@ window.WORLD_GEOMETRY={"type":"FeatureCollection","features":[{"properties":{"na
       var io = new IntersectionObserver(function (entries) { entries.forEach(function (entry) { if (entry.isIntersecting) { entry.target.classList.add('is-visible'); io.unobserve(entry.target); } }); }, { threshold: .08 });
       reveal.forEach(function (el) { io.observe(el); });
     } else { reveal.forEach(function (el) { el.classList.add('is-visible'); }); }
-    var surfaces = Array.prototype.slice.call(doc.querySelectorAll('.mapHero,.mapStrip,.hero,.card,.panel,.finding,.method>div,.sourceGrid>div,.boundary,.auditPanel,.notice'));
+    var surfaceSelector = '.mapHero,.mapStrip,.hero,.card,.panel,.finding,.method>div,.sourceGrid>div,.boundary,.auditPanel,.notice,.integrationLayer,.integrationCell,.integrationCoverage__group';
+    var boundSurfaces = typeof WeakSet === 'function' ? new WeakSet() : null;
     var raf = 0, pending = null, active = null, scrollRaf = 0;
-    surfaces.forEach(function (el, i) {
+    function bindSurface(el) {
+      if (!el || (boundSurfaces && boundSurfaces.has(el))) return;
+      if (boundSurfaces) boundSurfaces.add(el);
       el.classList.add('gtri-surface');
       // mapStage 已有自己的弹簧倾斜；地图外层只做光晕，避免嵌套 perspective 造成放大漂移。
       if (el.matches('.hero')) el.classList.add('gtri-tilt');
       if (el.matches('button,.btn,.pill,.linkBtn,a')) el.classList.add('gtri-press');
-      el.addEventListener('pointermove', function (e) { if (e.pointerType === 'touch' || reduce) return; active = el; pending = e; if (!raf) raf = requestAnimationFrame(flushPointer); }, { passive: true });
-      el.addEventListener('pointerenter', function (e) { if (e.pointerType !== 'touch') el.classList.add('gtri-hover'); });
+      el.addEventListener('pointermove', function (e) {
+        if (e.pointerType === 'touch' || reduce) return;
+        var nearestSurface = e.target && e.target.closest ? e.target.closest('.gtri-surface') : el;
+        if (nearestSurface !== el) return;
+        el.classList.add('gtri-hover');
+        active = el; pending = e;
+        if (!raf) raf = requestAnimationFrame(flushPointer);
+      }, { passive: true });
+      el.addEventListener('pointerenter', function (e) {
+        if (e.pointerType === 'touch') return;
+        el.classList.add('gtri-hover');
+        if (el.matches('.integrationCell,.integrationCoverage__group')) {
+          var integrationLayer = el.closest('.integrationLayer');
+          if (integrationLayer) integrationLayer.classList.remove('gtri-hover');
+        }
+      });
       el.addEventListener('pointerleave', function () { el.classList.remove('gtri-hover'); el.style.setProperty('--gtri-x', '50%'); el.style.setProperty('--gtri-y', '50%'); el.style.setProperty('--gtri-rx', '0deg'); el.style.setProperty('--gtri-ry', '0deg'); });
-    });
+    }
+    Array.prototype.forEach.call(doc.querySelectorAll(surfaceSelector), bindSurface);
+    // Some evidence panels are inserted after this initializer; observe only new DOM nodes and bind matching surfaces once.
+    if (global.MutationObserver && doc.body) {
+      var surfaceObserver = new MutationObserver(function (records) {
+        records.forEach(function (record) {
+          Array.prototype.forEach.call(record.addedNodes, function (node) {
+            if (!node || node.nodeType !== 1) return;
+            if (node.matches(surfaceSelector)) bindSurface(node);
+            Array.prototype.forEach.call(node.querySelectorAll(surfaceSelector), bindSurface);
+          });
+        });
+      });
+      surfaceObserver.observe(doc.body, { childList: true, subtree: true });
+    }
     function flushPointer() {
       raf = 0;
       if (!active || !pending || reduce) return;
