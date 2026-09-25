@@ -23,9 +23,10 @@ def inline_local_scripts(html: str, page: str) -> str:
         src = match.group("src")
         if not src.startswith("assets/"):
             return match.group(0)
-        asset = (ROOT / src).resolve()
+        asset_path = src.split("?", 1)[0]
+        asset = (ROOT / asset_path).resolve()
         if ROOT.resolve() not in asset.parents or not asset.is_file():
-            raise FileNotFoundError(f"{page}: local script not found: {src}")
+            raise FileNotFoundError(f"{page}: local script not found: {asset_path}")
         attrs = (match.group("attrs") + match.group("tail")).strip()
         attrs = re.sub(r"\bsrc=(['\"]).*?\1", "", attrs, flags=re.IGNORECASE).strip()
         suffix = f" {attrs}" if attrs else ""

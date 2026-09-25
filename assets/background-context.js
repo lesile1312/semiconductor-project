@@ -1,10 +1,10 @@
 (() => {
-  const countryDeck = document.querySelector('.countryDeck');
-  if (!countryDeck) return;
+  const mainFooter = document.querySelector('main > footer');
+  if (!mainFooter) return;
 
   const style = document.createElement('style');
   style.textContent = `
-    .contextBrief{display:grid;grid-template-columns:minmax(250px,.68fr) minmax(0,1.32fr);gap:28px;margin:8px 0 34px;padding:26px 0 28px;border-top:1px solid #284654;border-bottom:1px solid #284654;color:#eef7f7}
+    .contextBrief{display:grid;grid-template-columns:minmax(250px,.68fr) minmax(0,1.32fr);gap:28px;margin:32px 0 8px;padding:26px 0 28px;border-top:1px solid #284654;border-bottom:1px solid #284654;color:#eef7f7}
     .contextBrief__intro{padding:7px 26px 8px 0;border-right:1px solid #284654}
     .contextBrief__tag{display:inline-flex;align-items:center;border:1px solid rgba(244,189,91,.38);border-radius:999px;padding:5px 9px;color:#f4bd5b;font-size:11px;letter-spacing:.04em}
     .contextBrief__intro h2{margin:14px 0 10px;font-size:clamp(22px,2.5vw,30px);line-height:1.2;letter-spacing:-.025em}
@@ -30,7 +30,7 @@
     .contextLane:nth-child(3) .contextLane__state{border-color:#60747b;color:#9aadb2}
     .contextBrief__foot{grid-column:2;margin:0;color:#7f97a0;font-size:11px;line-height:1.65}
     @media(max-width:780px){.contextBrief{grid-template-columns:1fr;gap:12px}.contextBrief__intro{padding:4px 0 17px;border-right:0;border-bottom:1px solid #284654}.contextBrief__intro h2{max-width:22ch}.contextBrief__rows{padding-left:24px}.contextBrief__foot{grid-column:1}}
-    @media(max-width:540px){.contextBrief{margin:0 0 26px;padding:20px 0 22px}.contextBrief__rows{padding-left:20px}.contextBrief__rows:before{left:4px}.contextLane{grid-template-columns:minmax(0,1fr);gap:5px;padding:14px 0}.contextLane:before{left:-19px;top:19px}.contextLane__kind{padding:0}.contextLane__state{justify-self:start;max-width:none;margin-top:4px}.contextLane__links{gap:8px 12px}}
+    @media(max-width:540px){.contextBrief{margin:26px 0 8px;padding:20px 0 22px}.contextBrief__rows{padding-left:20px}.contextBrief__rows:before{left:4px}.contextLane{grid-template-columns:minmax(0,1fr);gap:5px;padding:14px 0}.contextLane:before{left:-19px;top:19px}.contextLane__kind{padding:0}.contextLane__state{justify-self:start;max-width:none;margin-top:4px}.contextLane__links{gap:8px 12px}}
     @media(prefers-reduced-motion:reduce){.contextLane__links a{scroll-behavior:auto}}
   `;
   document.head.appendChild(style);
@@ -79,5 +79,5 @@
     </div>
     <p class="contextBrief__foot">本说明区用于交代数据适配边界。任何政策或清单记录进入企业建议前，仍需核对适用对象、商品范围、生效时间和实体匹配结果。</p>
   `;
-  countryDeck.insertAdjacentElement('afterend', section);
+  mainFooter.insertAdjacentElement('beforebegin', section);
 })();

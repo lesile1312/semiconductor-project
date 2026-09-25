@@ -370,10 +370,5 @@
         .replaceAll('P3尚未完成逐条法律复核', 'P3仅覆盖所选复核集合，未覆盖全部BIS规则及企业实体映射')
         .replaceAll('候选规则已做定向人工核对，尚未逐条法律复核', '所选10条候选规则已逐条做范围核对；集合非穷尽，不构成全量法律审查');
     });
-    document.querySelectorAll('strong,b').forEach(node => {
-      if (!node.childElementCount && node.textContent.includes('15项数据完整性与计算检查通过')) {
-        node.textContent = '16项数据与计算检查通过';
-      }
-    });
   }
 })();

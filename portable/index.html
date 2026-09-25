@@ -36,6 +36,7 @@ img,svg,canvas{max-width:100%}
   .rankTable{display:block;max-width:100%;overflow-x:auto;white-space:nowrap}
 }
 @media(max-width:390px){.mapHero .mapStage,.mapStrip .mapStage{min-height:276px}}
+.rankWrap{grid-template-columns:minmax(0,1fr)}
 
 </style>
 </head><body><main><header class="top"><div class="brand"><b>芯链哨兵</b> · 半导体供应链风险观察</div><span class="pill">12个经济体 · 2017 / 2022</span><a href="risk-migration-lens.html" class="pill">打开风险迁移透镜 →</a><a href="enterprise-scan.html" class="pill">企业级扫描 →</a></header><section class="mapHero"><div class="mapCopy"><span class="eyebrow">全球节点图 · 2022</span><h2>风险沿着哪些节点重新聚集？</h2><p>把鼠标移入地图，光晕会沿国家轮廓移动；靠近节点即可看到该国 2022 年的 N2 / N3 / N4 结构。</p><div class="mapLegend"><span><i class="dot hot"></i>双重依赖较高（N4 ≥ 0.05）</span><span><i class="dot cool"></i>结构暴露较低</span><span>数据：2017—2022 核心面板</span><div class="mapLinkLegend"><span><i class="lineKey cyan"></i>中国投入 → 节点</span><span><i class="lineKey amber"></i>节点 → 美国市场</span></div></div><p class="mapNote">底图采用 Natural Earth 1:110m 低分辨率国家轮廓，以等距圆柱投影绘制，用于定位和可视化，不作为边界或领土法律依据。</p></div><div class="mapStage"><canvas id="flowMap" aria-label="12个第三方经济体风险节点世界轮廓地图"></canvas><div class="mapTip" id="mapTip">移动鼠标或按Tab键探索风险节点</div><div class="mapCard" id="mapCard"></div></div></section><section class="intro"><div><h1>脱钩之后，<br>风险去了哪里？</h1><p>测量中国半导体企业转向第三方供应链后，风险如何沿中国投入、美国市场、政治压力与供应集中度重新聚集。</p></div><div class="control"><label>观察年份</label><select id="year"><option>2022</option><option>2017</option></select><label>国家画像</label><select id="country"></select><div class="sub">所有数据来自本地审计主表。P3候选规则已做定向人工核对，尚未逐条法律复核；作为待复核政策证据层，不进入本页测量。</div></div></section><section class="cards"><div class="card"><small>最高双重依赖节点</small><strong id="topCountry">—</strong><span class="sub" id="topN4"></span></div><div class="card"><small>N2样本中位数</small><strong id="medN2">—</strong><span class="sub">中国投入端暴露</span></div><div class="card"><small>N3样本中位数</small><strong id="medN3">—</strong><span class="sub">美国市场端暴露</span></div><div class="card"><small>有效供应国中位数</small><strong id="medV2">—</strong><span class="sub">进口份额≥1%</span></div></section><section class="workspace"><div class="panel"><h2>中美半导体风险节点</h2><div class="sub">横轴N2，纵轴N3；气泡越大表示进口来源越集中。虚线为样本中位数。</div><svg class="chart" id="chart" viewBox="0 0 760 520"></svg></div><aside class="panel detail"><div class="sub">国家风险结构</div><h3 id="name">—</h3><div id="iso" class="sub"></div><div id="bars"></div><div class="signal" id="signal"></div></aside></section>
@@ -55,12 +56,6 @@ img,svg,canvas{max-width:100%}
 <tr><td>11</td><td>印度尼西亚</td><td>0.283</td><td>0.269</td></tr>
 <tr><td>12</td><td>马来西亚</td><td>0.264</td><td>0.246</td></tr>
 </tbody></table>
-    <div class="auditPanel">
-      <h3>数据怎么整理、哪里由人判断</h3>
-      <p>程序用于整理数据、检查口径、筛选公开文本和生成页面；指标含义、外部基准和P3边界由人工确认。</p>
-      <p>复核时发现，法规提到某国并不等于该国实体受到管制。因此P3只作为政策证据和预警线索。</p>
-      <strong>15项数据完整性与计算检查通过</strong><span> 内部一致性与基准检查通过</span>
-    </div>
   </div>
 </section>
 <section class="section actionMatrix">
@@ -1134,22 +1129,17 @@ window.SOURCE_COVERAGE=[{"source_id":"comtrade_hs8542","target_year":2017,"sourc
         .replaceAll('P3尚未完成逐条法律复核', 'P3仅覆盖所选复核集合，未覆盖全部BIS规则及企业实体映射')
         .replaceAll('候选规则已做定向人工核对，尚未逐条法律复核', '所选10条候选规则已逐条做范围核对；集合非穷尽，不构成全量法律审查');
     });
-    document.querySelectorAll('strong,b').forEach(node => {
-      if (!node.childElementCount && node.textContent.includes('15项数据完整性与计算检查通过')) {
-        node.textContent = '16项数据与计算检查通过';
-      }
-    });
   }
 })();
 
 </script><script>
 (() => {
-  const countryDeck = document.querySelector('.countryDeck');
-  if (!countryDeck) return;
+  const mainFooter = document.querySelector('main > footer');
+  if (!mainFooter) return;
 
   const style = document.createElement('style');
   style.textContent = `
-    .contextBrief{display:grid;grid-template-columns:minmax(250px,.68fr) minmax(0,1.32fr);gap:28px;margin:8px 0 34px;padding:26px 0 28px;border-top:1px solid #284654;border-bottom:1px solid #284654;color:#eef7f7}
+    .contextBrief{display:grid;grid-template-columns:minmax(250px,.68fr) minmax(0,1.32fr);gap:28px;margin:32px 0 8px;padding:26px 0 28px;border-top:1px solid #284654;border-bottom:1px solid #284654;color:#eef7f7}
     .contextBrief__intro{padding:7px 26px 8px 0;border-right:1px solid #284654}
     .contextBrief__tag{display:inline-flex;align-items:center;border:1px solid rgba(244,189,91,.38);border-radius:999px;padding:5px 9px;color:#f4bd5b;font-size:11px;letter-spacing:.04em}
     .contextBrief__intro h2{margin:14px 0 10px;font-size:clamp(22px,2.5vw,30px);line-height:1.2;letter-spacing:-.025em}
@@ -1175,7 +1165,7 @@ window.SOURCE_COVERAGE=[{"source_id":"comtrade_hs8542","target_year":2017,"sourc
     .contextLane:nth-child(3) .contextLane__state{border-color:#60747b;color:#9aadb2}
     .contextBrief__foot{grid-column:2;margin:0;color:#7f97a0;font-size:11px;line-height:1.65}
     @media(max-width:780px){.contextBrief{grid-template-columns:1fr;gap:12px}.contextBrief__intro{padding:4px 0 17px;border-right:0;border-bottom:1px solid #284654}.contextBrief__intro h2{max-width:22ch}.contextBrief__rows{padding-left:24px}.contextBrief__foot{grid-column:1}}
-    @media(max-width:540px){.contextBrief{margin:0 0 26px;padding:20px 0 22px}.contextBrief__rows{padding-left:20px}.contextBrief__rows:before{left:4px}.contextLane{grid-template-columns:minmax(0,1fr);gap:5px;padding:14px 0}.contextLane:before{left:-19px;top:19px}.contextLane__kind{padding:0}.contextLane__state{justify-self:start;max-width:none;margin-top:4px}.contextLane__links{gap:8px 12px}}
+    @media(max-width:540px){.contextBrief{margin:26px 0 8px;padding:20px 0 22px}.contextBrief__rows{padding-left:20px}.contextBrief__rows:before{left:4px}.contextLane{grid-template-columns:minmax(0,1fr);gap:5px;padding:14px 0}.contextLane:before{left:-19px;top:19px}.contextLane__kind{padding:0}.contextLane__state{justify-self:start;max-width:none;margin-top:4px}.contextLane__links{gap:8px 12px}}
     @media(prefers-reduced-motion:reduce){.contextLane__links a{scroll-behavior:auto}}
   `;
   document.head.appendChild(style);
@@ -1224,7 +1214,7 @@ window.SOURCE_COVERAGE=[{"source_id":"comtrade_hs8542","target_year":2017,"sourc
     </div>
     <p class="contextBrief__foot">本说明区用于交代数据适配边界。任何政策或清单记录进入企业建议前，仍需核对适用对象、商品范围、生效时间和实体匹配结果。</p>
   `;
-  countryDeck.insertAdjacentElement('afterend', section);
+  mainFooter.insertAdjacentElement('beforebegin', section);
 })();
 
 </script></body></html>
