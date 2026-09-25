@@ -1,0 +1,35 @@
+﻿event_year,document_number,full_text_available,distinct_countries_mentioned,sample_countries_mentioned,all_countries_mentioned,context_rows,legal_scope_review_status,p3_merge_ready
+2017,2016-31969,True,1,,Russia,24,pending_manual_review,False
+2017,2016-31833,True,7,India,Armenia; India; Iran; Pakistan; Russia; Turkey; United Kingdom,121,pending_manual_review,False
+2017,2017-03664,True,0,,,0,pending_manual_review,False
+2017,2017-06227,True,2,,China; Iran,19,pending_manual_review,False
+2017,2017-06228,True,6,Germany; India; Singapore,China; Germany; India; Singapore; Switzerland; United Arab Emirates,64,pending_manual_review,False
+2017,2017-07833,True,1,,Russia,17,pending_manual_review,False
+2017,2017-10804,True,5,,China; Iran; Pakistan; Turkey; United Arab Emirates,94,pending_manual_review,False
+2017,2017-13167,True,1,,Russia,37,pending_manual_review,False
+2017,2017-20406,True,4,,China; Iran; Pakistan; United Arab Emirates,57,pending_manual_review,False
+2017,2017-27388,True,1,,Russia,12,pending_manual_review,False
+2022,2022-03029,True,4,,China; Iran; Pakistan; United Arab Emirates,76,pending_manual_review,False
+2022,2022-04300,True,7,Germany; Japan; Netherlands,China; Germany; Iran; Japan; Netherlands; Russia; United Kingdom,334,pending_manual_review,False
+2022,2022-04819,True,4,,Belarus; China; Iran; Russia,468,pending_manual_review,False
+2022,2022-04925,True,4,Singapore,Belarus; Russia; Singapore; United Kingdom,159,pending_manual_review,False
+2022,2022-07211,True,0,,,0,pending_manual_review,False
+2022,2022-07284,True,2,,Belarus; Russia,178,pending_manual_review,False
+2022,2022-07643,True,1,,China,35,pending_manual_review,False
+2022,2022-11885,True,5,South Korea,Belarus; China; Russia; South Korea; Switzerland,289,pending_manual_review,False
+2022,2022-12144,True,2,,Belarus; Russia,105,pending_manual_review,False
+2022,2022-14069,True,9,Singapore; Vietnam,Belarus; China; Iran; Pakistan; Russia; Singapore; United Arab Emirates; United Kingdom; Vietnam,233,pending_manual_review,False
+2022,2022-17125,True,0,,,0,pending_manual_review,False
+2022,2022-18268,True,1,,China,54,pending_manual_review,False
+2022,2022-19415,True,17,Germany; India; Indonesia; Japan; Mexico; Netherlands; Singapore; Thailand; Vietnam,Belarus; China; Germany; India; Indonesia; Japan; Mexico; Netherlands; Pakistan; Russia; Singapore; Switzerland; Thailand; Turkey; United Arab Emirates; United Kingdom; Vietnam,198,pending_manual_review,False
+2022,2022-19910,True,6,Vietnam,Belarus; China; Iran; Russia; United Kingdom; Vietnam,376,pending_manual_review,False
+2022,2022-21520,True,2,,Belarus; Russia,82,pending_manual_review,False
+2022,2022-21658,True,4,,Belarus; China; Iran; Russia,220,pending_manual_review,False
+2022,2022-21714,True,1,,China,40,pending_manual_review,False
+2022,2022-22037,True,1,,China,14,pending_manual_review,False
+2022,2022-25700,True,0,,,0,pending_manual_review,False
+2022,2022-26662,True,1,,China,4,pending_manual_review,False
+2022,2022-26622,True,7,Singapore,Belarus; Iran; Pakistan; Russia; Singapore; Switzerland; United Arab Emirates,77,pending_manual_review,False
+2022,2022-27149,True,3,,China; Pakistan; Russia,21,pending_manual_review,False
+2022,2022-27151,True,5,Japan,Belarus; China; Iran; Japan; Russia,244,pending_manual_review,False
+2022,2022-28033,True,1,,Russia,5,pending_manual_review,False

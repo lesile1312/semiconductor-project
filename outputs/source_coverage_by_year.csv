@@ -1,0 +1,23 @@
+﻿source_id,target_year,source_observation_year,expected_country_rows,panel_rows_with_source_record,rows_with_observed_values,rows_missing_source_values,cdis_inward_values_reported,cdis_outward_values_reported,reviewed_subset_positive_hits,score_or_evidence_status,coverage_note
+comtrade_hs8542,2017,2017,12,12,12,0,,,,core_score,Reporter-self-reported HS8542 fields; not mirror trade.
+unga_ideal_points,2017,2016-2018,12,12,12,0,,,,core_score,Three-year centered voting window; 2022 includes 2023.
+atop_v5_1,2017,2017,12,12,12,0,,,,core_score_2017_only,Target-year ATOP observation; absence in 2022 is not filled from 2018.
+atop_v5_1_structural_reference,2017,2018,12,12,12,0,,,,reference_only,2018 structural cross-reference; never labelled a 2022 observation.
+p2_us_state_nato_2022,2017,2022,12,12,0,12,,,,core_score_2022_with_source_break,Target-year official-source reconstruction; not method-identical to ATOP 2017.
+oas_mexico_treaty_status,2017,2004 status applied to 2017 audit,12,12,1,11,,,,single_country_audit,Applies only to the Mexico 2017 ATOP conflict.
+oecd_tiva_2025,2017,2017,12,12,12,0,,,,core_score,C26_27 broad electronics/electrical industry; not semiconductor-only.
+bis_federal_register_reviewed_subset,2017,2017,12,12,12,0,,,0.0,evidence_only_non_exhaustive_not_scored,Complete 12-row summary grid is not full BIS rule-universe coverage.
+imf_cdis_positions,2017,2017,12,12,10,2,10.0,7.0,,context_only_not_scored,Immediate-counterpart investment position; observed year kept separate; missing cells are not zero-filled.
+gdelt_us_china,2017,not joined,12,0,0,12,,,,context_only_not_joined,No event-level export was available for reproducible country-year linkage.
+gta_csl_candidates,2017,not joined,12,0,0,12,,,,candidate_not_integrated,No enterprise/product identifiers and historical snapshots available for a defensible match.
+comtrade_hs8542,2022,2022,12,12,12,0,,,,core_score,Reporter-self-reported HS8542 fields; not mirror trade.
+unga_ideal_points,2022,2021-2023,12,12,12,0,,,,core_score,Three-year centered voting window; 2022 includes 2023.
+atop_v5_1,2022,2022,12,12,0,12,,,,core_score_2017_only,Target-year ATOP observation; absence in 2022 is not filled from 2018.
+atop_v5_1_structural_reference,2022,2018,12,12,12,0,,,,reference_only,2018 structural cross-reference; never labelled a 2022 observation.
+p2_us_state_nato_2022,2022,2022,12,12,12,0,,,,core_score_2022_with_source_break,Target-year official-source reconstruction; not method-identical to ATOP 2017.
+oas_mexico_treaty_status,2022,2004 status applied to 2017 audit,12,12,0,12,,,,single_country_audit,Applies only to the Mexico 2017 ATOP conflict.
+oecd_tiva_2025,2022,2022,12,12,12,0,,,,core_score,C26_27 broad electronics/electrical industry; not semiconductor-only.
+bis_federal_register_reviewed_subset,2022,2022,12,12,12,0,,,1.0,evidence_only_non_exhaustive_not_scored,Complete 12-row summary grid is not full BIS rule-universe coverage.
+imf_cdis_positions,2022,2021,12,12,10,2,10.0,8.0,,context_only_not_scored,Immediate-counterpart investment position; observed year kept separate; missing cells are not zero-filled.
+gdelt_us_china,2022,not joined,12,0,0,12,,,,context_only_not_joined,No event-level export was available for reproducible country-year linkage.
+gta_csl_candidates,2022,not joined,12,0,0,12,,,,candidate_not_integrated,No enterprise/product identifiers and historical snapshots available for a defensible match.

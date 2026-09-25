@@ -1,0 +1,12 @@
+{
+  "downloaded_at_utc": "2026-09-13T10:47:23+00:00",
+  "source_url": "https://sdmx.oecd.org/sti-public/rest/v1/data/OECD.STI.PIE,DSD_TIVA_MAINSH@DF_MAINSH,1.1/EXGR_FVA.MYS+VNM+SGP+THA+IND+IDN+PHL+JPN+KOR+MEX+DEU+NLD.C26_27.W.PT_EXGR.A?startPeriod=2017&endPeriod=2022&dimensionAtObservation=AllDimensions",
+  "dataflow": "OECD.STI.PIE,DSD_TIVA_MAINSH@DF_MAINSH,1.1",
+  "api_measure": "EXGR_FVA",
+  "legacy_measure_name": "EXGR_FVASH",
+  "definition": "Foreign value added in gross exports as a percentage of gross exports",
+  "activity": "C26_27: computer, electronic and electrical equipment",
+  "counterpart_area": "W: World",
+  "unit": "PT_EXGR: percent of gross exports",
+  "sha256": "871fed693b79e137f20ab71666d904a33e79cc92a37903b344707ec09b5204de"
+}

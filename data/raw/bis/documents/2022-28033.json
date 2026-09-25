@@ -1,0 +1,120 @@
+{
+  "abstract": "The Bureau of Industry and Security is amending the Export Administration Regulations (EAR) by modifying one entity on the Entity List. This final rule modifies one entity on the Entity List under the destination of Russia.",
+  "action": "Final rule.",
+  "agencies": [
+    {
+      "id": 54,
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+      "name": "Commerce Department",
+      "parent_id": null,
+      "raw_name": "DEPARTMENT OF COMMERCE",
+      "slug": "commerce-department",
+      "url": "https://www.federalregister.gov/agencies/commerce-department"
+    },
+    {
+      "id": 241,
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+      "name": "Industry and Security Bureau",
+      "parent_id": 54,
+      "raw_name": "Bureau of Industry and Security",
+      "slug": "industry-and-security-bureau",
+      "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2022/12/23/2022-28033.html",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": "744",
+      "title": 15
+    }
+  ],
+  "citation": "87 FR 78856",
+  "comment_url": null,
+  "comments_close_on": null,
+  "correction_of": null,
+  "corrections": [],
+  "dates": "This rule is effective December 21, 2022.",
+  "disposition_notes": null,
+  "docket_ids": [
+    "Docket No. 221220-0279"
+  ],
+  "dockets": [
+    {
+      "agency_name": "BIS",
+      "documents": [
+        {
+          "allow_late_comments": null,
+          "comment_count": 0,
+          "comment_end_date": null,
+          "comment_start_date": "2022-12-23",
+          "comment_url": "https://www.regulations.gov/commenton/BIS-2023-0001-0001",
+          "id": "BIS-2023-0001-0001",
+          "regulations_dot_gov_open_for_comment": false,
+          "updated_at": "2023-02-27T19:46:57.011-05:00"
+        }
+      ],
+      "id": "BIS-2023-0001",
+      "supporting_documents": [],
+      "supporting_documents_count": 0,
+      "title": "Modification to the Entity List"
+    }
+  ],
+  "document_number": "2022-28033",
+  "effective_on": "2022-12-21",
+  "end_page": 78857,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2022/12/23/2022-28033.xml",
+  "html_url": "https://www.federalregister.gov/documents/2022/12/23/2022-28033/modification-to-the-entity-list",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2022-28033?publication_date=2022-12-23",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2022-12-23/2022-28033/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 2,
+  "page_views": {
+    "count": 2486,
+    "last_updated": "2026-09-13 22:15:03 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2022-12-23/pdf/2022-28033.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2022-28033.pdf?1671657330",
+  "publication_date": "2022-12-23",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2022/12/23/2022-28033.txt",
+  "regulation_id_number_info": {
+    "0694-AJ05": null
+  },
+  "regulation_id_numbers": [
+    "0694-AJ05"
+  ],
+  "regulations_dot_gov_info": {
+    "agency_id": "BIS",
+    "checked_regulationsdotgov_at": "2023-02-28T00:46:56Z",
+    "comments_count": 0,
+    "comments_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=BIS-2023-0001",
+    "docket_id": "BIS-2023-0001",
+    "document_id": "BIS-2023-0001-0001",
+    "regulation_id_number": null,
+    "supporting_documents": [],
+    "supporting_documents_count": 0,
+    "title": "Modification to the Entity List"
+  },
+  "regulations_dot_gov_url": null,
+  "significant": null,
+  "signing_date": null,
+  "start_page": 78856,
+  "subtype": null,
+  "title": "Modification to the Entity List",
+  "toc_doc": "Modification to the Entity List",
+  "toc_subject": null,
+  "topics": [
+    "Exports",
+    "Reporting and recordkeeping requirements",
+    "Terrorism"
+  ],
+  "type": "Rule",
+  "volume": 87
+}

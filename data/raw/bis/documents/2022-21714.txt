@@ -1,0 +1,882 @@
+<html>
+<head>
+<title>Federal Register, Volume 87 Issue 197 (Thursday, October 13, 2022)</title>
+</head>
+<body><pre>
+[Federal Register Volume 87, Number 197 (Thursday, October 13, 2022)]
+[Rules and Regulations]
+[Pages 61971-61977]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2022-21714]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF COMMERCE
+
+Bureau of Industry and Security
+
+15 CFR Part 744
+
+[Docket No. 220930-0205]
+RIN 0694-AI51
+
+
+Revisions to the Unverified List; Clarifications to Activities 
+and Criteria That May Lead to Additions to the Entity List
+
+AGENCY: Bureau of Industry and Security, Department of Commerce.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The Bureau of Industry and Security (BIS) is amending the 
+Export Administration Regulations (EAR) by adding 31 persons to the 
+Unverified List (UVL). The 31 persons are added to the UVL on the basis 
+that BIS was unable to verify their bona fides because an end-use check 
+could not be completed satisfactorily for reasons outside the U.S. 
+Government's control. All 31 persons are being added under the 
+destination of the People's Republic of China (China). This rule also 
+removes nine persons, all under the destination of China, from the UVL 
+because BIS was able to verify their bona fides. With this final rule, 
+BIS also clarifies the activities and criteria that may lead to the 
+addition of an entity to the Entity List, including a sustained lack of 
+cooperation by the host government (e.g., the government of the country 
+in which an end-use check is to be conducted) that effectively prevents 
+BIS from determining compliance with the EAR.
+
+DATES: This rule is effective October 7, 2022.
+
+FOR FURTHER INFORMATION CONTACT: Linda Minsker, Director, Office of 
+Enforcement Analysis, Phone: (202) 482-4255 or by email at 
+<a href="/cdn-cgi/l/email-protection#5c090a100e392d29392f281c3e352f7238333f723b332a"><span class="__cf_email__" data-cfemail="6732312b3502161202141327050e144903080449000811">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION: 
+
+Background
+
+    The UVL, set forth in supplement no. 6 to part 744 of the EAR (15 
+CFR parts 730-774), contains the names and addresses of foreign persons 
+who are or have been parties to a transaction, as described in Sec.  
+748.5 of the EAR, involving the export, reexport, or transfer (in-
+country) of items subject to the EAR. These foreign persons are added 
+to the UVL because BIS or federal officials acting on BIS's behalf were 
+unable to verify their bona fides (i.e., legitimacy and reliability 
+relating to the end use and end user of items subject to the EAR) 
+through the completion of an end-use check. Sometimes these checks, 
+such as a pre-license check (PLC) or a post-shipment verification 
+(PSV), cannot be completed satisfactorily for reasons outside the U.S. 
+Government's control.
+    There are any number of reasons why these checks cannot be 
+completed to the satisfaction of the U.S. Government. The reasons 
+include, but are not limited to: (1) reasons unrelated to the 
+cooperation of the foreign party subject to the end-use check (for 
+example, BIS sometimes initiates end-use checks but is unable to 
+complete them because the foreign party cannot be found at the address 
+indicated on the associated export documents and BIS cannot contact the 
+party by telephone or email); (2) reasons related to a lack of 
+cooperation by the host government that fails to schedule and 
+facilitate the completion of an end-use check, for example by host 
+government agencies' lack of responses to requests to conduct end-use 
+checks, actions preventing the scheduling of such checks, or refusals 
+to schedule checks in a timely manner; or (3) when, during the end-use 
+check, a recipient of items subject to the EAR is unable to produce the 
+items that are the subject of the end-use check for visual inspection 
+or provide sufficient documentation or other evidence to confirm the 
+disposition of the items. BIS's inability to confirm the bona fides of 
+foreign persons subject to end-use checks for the reasons described 
+above raises concerns about the suitability of such persons as 
+participants in future exports, reexports, or transfers (in-country) of 
+items subject to the EAR; this also indicates a risk that such items 
+may be diverted to prohibited end uses and/or end users. Under such 
+circumstances, there may not be sufficient information to add the 
+foreign person at issue to the Entity List under Sec.  744.11 of the 
+EAR. Therefore, BIS may add the foreign person to the UVL.
+    As provided in Sec.  740.2(a)(17) of the EAR, the use of license 
+exceptions for exports, reexports, and transfers (in-country) involving 
+a party or parties to the transaction who are listed on the UVL is 
+suspended. Additionally, under Sec.  744.15(b) of the EAR, there is a 
+requirement for exporters, re-exporters, and transferors to obtain (and 
+maintain
+
+[[Page 61972]]
+
+a record of) a UVL statement from a party or parties to the transaction 
+who are listed on the UVL before proceeding with exports, reexports, 
+and transfers (in-country) to such persons, when the exports, reexports 
+and transfers (in-country) are not subject to a license requirement. 
+Finally, pursuant to Sec.  758.1(b)(8), Electronic Export Information 
+(EEI) must be filed in the Automated Export System (AES) for all 
+exports of tangible items subject to the EAR when a party or parties to 
+the transaction is/are listed on the UVL.
+    Requests for the removal of a UVL entry must be made in accordance 
+with Sec.  744.15(d) of the EAR. Decisions regarding the removal or 
+modification of UVL entry are made by the Deputy Assistant Secretary 
+for Export Enforcement on the basis of a demonstration by the listed 
+person of their bona fides.
+
+Additions to the UVL
+
+    This rule adds 31 persons to the UVL by amending supplement no. 6 
+to part 744 of the EAR to include their names and addresses. BIS is 
+adding these persons pursuant to Sec.  744.15(c) of the EAR. This final 
+rule implements the decision to add the following 31 persons located in 
+China to the UVL:
+China
+
+1. Beijing Naura Magnetoelectric Technology Co., Ltd.
+2. Beijing PowerMac Company
+3. CCIC Southern Electronic Product Testing Co., Ltd.
+4. Chang Zhou Jin Tan Teng Yuan Machinery Parts Co., Ltd.
+5. Institute of Mineral Resources, Chinese Academy of Geological 
+Sciences
+6. Chinese Academy of Science (CAS) Institute of Chemistry
+7. Chongqing Optel Telecom
+8. Chongqing Xinyuhang Technology Co., Ltd.
+9. Dandong Nondestructive Electronics
+10. DK Laser Company Ltd.
+11. Foshan Huaguo Optical Co., Ltd.
+12. GRG Metrology & Test (Chongqing) Co., Ltd.
+13. Guangdong Dongling Carbon Tech. Co., Ltd.
+14. Guangxi Yuchai Machinery Co., Ltd.
+15. Guangzhou GRG Metrology & Test (Beijing) Co., Ltd.
+16. Jialin Precision Optics (Shanghai) Co., Ltd.
+17. Lishui Zhengyang Electric Power Construction
+18. Nanjing Gova Technology Co., Ltd.
+19. Ningbo III Lasers Technology Co., Ltd.
+20. Qingdao Sci-Tech Innovation Quality Testing Co., Ltd.
+21. Shanghai Tech University
+22. Suzhou Sen-Chuan Machinery Technology Co., Ltd.
+23. Tianjin Optical Valley Technology Co., Ltd.
+24. University of Chinese Academy of Sciences
+25. University of Shanghai for Science and Technology
+26. Vital Advanced Materials Co., Ltd.
+27. Wuhan Institute of Biological Products Co., Ltd.
+28. Wuhan Juhere Photonic Tech Co., Ltd.
+29. Wuxi Hengling Technology Co., Ltd.
+30. Xian Zhongsheng Shengyuan Technology Co., Ltd.
+31. Yangtze Memory Technologies Co., Ltd.
+
+Removals From the UVL.
+
+    This final rule removes nine persons from the UVL after BIS was 
+able to verify their bona fides. This rule removes Anhui Institute of 
+Metrology, Chuzhou HKC Optoelectronics Technology Co., Ltd., Hefei 
+Anxin Reed Precision Co. Ltd., Hefei Institutes of Physical Science, 
+Jiutian Intelligent Equipment Co. Ltd., Suzhou Gyz Electronic 
+Technology Co. Ltd., Suzhou Lylap Mould Technology Co Ltd., Wuxi 
+Biologics Co., Ltd., and Wuxi Turbine Blade Co., Ltd. from the UVL, all 
+under the destination of China. BIS is removing these nine persons 
+pursuant to Sec.  744.15(c)(2) of the EAR.
+
+Changes to Sec.  744.11
+
+    The inability of BIS to determine compliance with the EAR because 
+of a host government's action or inaction creates a circumstance that 
+may place an entity at significant risk of being or becoming involved 
+in activities contrary to the national security or foreign policy 
+interests of the United States. For example, as previously mentioned, 
+BIS frequently conducts end-use checks of foreign parties to verify 
+their bona fides, thereby mitigating the risk of diversion of items 
+subject to the EAR. If BIS is unable to conduct timely end-use checks, 
+BIS's ability to prevent diversion and resolve concerns about 
+potentially problematic end uses and users is negatively impacted. The 
+sustained and deliberate prevention of an end-use check by a foreign 
+government is therefore contrary to the national security and foreign 
+policy interests of the United States. Further, the inability of an 
+entity to receive a timely end-use check could lead to the 
+determination that it is at significant risk of involvement in 
+activities contrary to U.S. national security or foreign policy 
+interests, leading to concerns regarding its receipt of items subject 
+to the EAR. To better reflect the nature of the risk presented by such 
+entities, when the risk assessed is the result of the actions of the 
+relevant host government authority rather than the actions of the 
+entities themselves, BIS is revising the heading of Sec.  744.11, as 
+well as the introductory text of Sec.  744.11 and Sec.  744.11(b), by 
+adding language to also refer to entities that are ``at significant 
+risk'' of acting contrary to the foreign policy and national security 
+interests of the United States.
+    This includes sustained lack of cooperation by the host government 
+to schedule and facilitate the completion of end-use checks. 
+Particularly for entities identified on the UVL pursuant to Sec.  
+744.15, this lack of cooperation could result in sufficient concern 
+such that the End-User Review Committee (ERC) could make the 
+determination that the addition of the entity to the Entity List will 
+enhance BIS's ability to prevent violations of the EAR. Therefore, BIS 
+also amends the EAR by providing an additional illustrative example to 
+specify that situations in which there is a sustained lack of 
+cooperation by a host government authority that prevents an end-use 
+check from being conducted may constitute a basis for adding a party to 
+the Entity List. This activity is being added to the illustrative list 
+in Sec.  744.11(b) of activities contrary to the national security and 
+foreign policy interests of the United States that may support the 
+addition of entities to the Entity List.
+    Additions to, removals from, or other modifications to the Entity 
+List will remain consistent with procedures described in supplement no. 
+5 to part 744 of the EAR. As part of that process, the ERC, which is 
+composed of representatives of the Departments of Commerce (Chair), 
+State, Defense, Energy and, where appropriate, the Treasury, makes all 
+decisions regarding additions to, removals from, or other modifications 
+to the Entity List. The ERC makes all decisions to add an entry to the 
+Entity List by majority vote and makes all decisions to remove or 
+modify an entry by unanimous vote.
+
+Additional EAR Changes
+
+    This final rule also makes additional changes to the EAR. To better 
+align the multiple lists found in part 744, BIS is changing the Federal 
+Register citation column in the UVL to match those of the other lists. 
+Prior to this rule, it read ``Federal Register citation and date of 
+publication'' and it will now read ``Federal Register citation.'' 
+Please note that, like the other lists in part 744, the UVL's citation 
+column will still include
+
+[[Page 61973]]
+
+the date of publication, however, the date remains part of the broader 
+citation itself for the purposes of the list.
+
+Export Control Reform Act of 2018
+
+    On August 13, 2018, the President signed into law the John S. 
+McCain National Defense Authorization Act for Fiscal Year 2019, which 
+included the Export Control Reform Act of 2018 (ECRA), 50 U.S.C. 
+Sections 4801-4852. ECRA provides the legal basis for BIS's principal 
+authorities and serves as the authority under which BIS issues this 
+final rule.
+
+Savings Clause
+
+    Shipments (1) that are removed from license exception eligibility 
+or that are now subject to requirements in Sec.  744.15 of the EAR as a 
+result of this regulatory action; (2) that were eligible for export, 
+reexport, or transfer (in-country) without a license before this 
+regulatory action; and (3) that were on dock for loading, on lighter, 
+laden aboard an exporting carrier, or enroute aboard a carrier to a 
+port of export, on October 7, 2022, pursuant to actual orders, may 
+proceed to that UVL listed person under the previous license exception 
+eligibility or without a license and pursuant to the export clearance 
+requirements set forth in part 758 of the EAR that applied prior to 
+this person being listed on the UVL, so long as the items have been 
+exported from the United States, reexported or transferred (in-country) 
+before November 7, 2022. Any such items not actually exported, 
+reexported or transferred (in-country) before midnight on November 7, 
+2022 are subject to the requirements in Sec.  744.15 of the EAR in 
+accordance with this regulation.
+
+Rulemaking Requirements
+
+Executive Order Requirements
+
+    Executive Orders 13563 and 12866 direct agencies to assess all 
+costs and benefits of available regulatory alternatives and, if 
+regulation is necessary, to select regulatory approaches that maximize 
+net benefits (including potential economic, environmental, public 
+health and safety effects, distribute impacts, and equity). Executive 
+Order 13563 emphasizes the importance of quantifying both costs and 
+benefits, of reducing costs, of harmonizing rules, and of promoting 
+flexibility. This final rule is a ``significant regulatory action'' 
+under Executive Order 12866.
+    This rule does not contain policies with federalism implications as 
+that term is defined under Executive Order 13132.
+
+Paperwork Reduction Act Requirements
+
+    Notwithstanding any other provision of law, no person is required 
+to respond to, nor is subject to a penalty for failure to comply with, 
+a collection of information, subject to the requirements of the 
+Paperwork Reduction Act of 1995 (44 U.S.C. 3501 et seq.) (PRA), unless 
+that collection of information displays a currently valid Office of 
+Management and Budget (OMB) Control Number. This action contains 
+collections of information approved by OMB under the following control 
+numbers:
+
+<bullet> OMB Control Number 0694-0088--Simple Network Application 
+Process and Multipurpose Application Form
+<bullet> OMB Control Number 0694-0122--Miscellaneous Licensing 
+Responsibilities and Enforcement
+<bullet> OMB Control Number 0694-0134--Entity List and Unverified List 
+Requests
+<bullet> OMB Control Number 0694-0137--License Exemptions and 
+Exclusions
+
+    BIS believes that the overall increases in burdens and costs will 
+be minimal and will fall within the already approved amounts for these 
+existing collections.
+    Information regarding these collections including all supporting 
+materials can be reviewed at <a href="http://www.reginfo.gov/public/do/PRAMain">www.reginfo.gov/public/do/PRAMain</a>. Find 
+the particular information collection by using the search function and 
+entering the OMB Control Number, 0694-0088, 0694-0122, 0694-0134, or 
+0694-0137.
+
+Administrative Procedure Act and Regulatory Flexibility Act 
+Requirements
+
+    Pursuant to Section 4821 of ECRA, this action is exempt from the 
+Administrative Procedure Act (5 U.S.C. 553) requirements for notice of 
+proposed rulemaking and opportunity for public participation.
+    Further, no other law requires notice of proposed rulemaking or 
+opportunity for public comment for this final rule. Because a notice of 
+proposed rulemaking and an opportunity for public comment are not 
+required under the Administrative Procedure Act or by any other law, 
+the analytical requirements of the Regulatory Flexibility Act (5 U.S.C. 
+601 et seq.) are not applicable.
+
+List of Subjects in 15 CFR Part 744
+
+    Exports, Reporting and recordkeeping requirements, Terrorism.
+
+    Accordingly, part 744 of the Export Administration Regulations (15 
+CFR parts 730 through 774) is amended as follows:
+
+PART 744--[AMENDED]
+
+0
+1. The authority citation for 15 CFR part 744 is revised to read as 
+follows:
+
+    Authority:  50 U.S.C. 4801-4852; 50 U.S.C. 4601 et seq.; 50 
+U.S.C. 1701 et seq.; 22 U.S.C. 3201 et seq.; 42 U.S.C. 2139a; 22 
+U.S.C. 7201 et seq.; 22 U.S.C. 7210; E.O. 12058, 43 FR 20947, 3 CFR, 
+1978 Comp., p. 179; E.O. 12851, 58 FR 33181, 3 CFR, 1993 Comp., p. 
+608; E.O. 12938, 59 FR 59099, 3 CFR, 1994 Comp., p. 950; E.O. 13026, 
+61 FR 58767, 3 CFR, 1996 Comp., p. 228; E.O. 13099, 63 FR 45167, 3 
+CFR, 1998 Comp., p. 208; E.O. 13222, 66 FR 44025, 3 CFR, 2001 Comp., 
+p. 783; E.O. 13224, 66 FR 49079, 3 CFR, 2001 Comp., p. 786; Notice 
+of November 10, 2021, 86 FR 62891 (November 12, 2021); Notice of 
+September 19, 2022, 87 FR 57569 (September 19, 2022).
+
+0
+2. Section 744.11 is revised to read as follows:
+
+
+Sec.  744.11  License requirements that apply to entities acting or at 
+significant risk of acting contrary to the national security or foreign 
+policy interests of the United States.
+
+    BIS may impose foreign policy export, re-export, and transfer (in-
+country) license requirements, limitations on availability of license 
+exceptions, and set license application review policy based on the 
+criteria in this section. Such requirements, limitations and policy are 
+in addition to those set forth elsewhere in the EAR. License 
+requirements, limitations on use of license exceptions, and license 
+application review policies will be imposed under this section by 
+adding an entity to the Entity List (supplement no. 4 to this part) 
+with a reference to this section and by stating on the Entity List the 
+license requirements and license application review policies that apply 
+to that entity, or by informing an exporter, re-exporter, or transferor 
+pursuant to paragraph (c) of this section that a specific entity is 
+subject to a license requirement, limitations on use of license 
+exceptions and license application review policies as specified in a 
+specific notice provided to an exporter, re-exporter, or transferor. 
+BIS may remove an entity from the Entity List if it is no longer 
+engaged in the activities described in paragraph (b) of this section 
+and is unlikely to engage in such activities in the future, or if it is 
+no longer at significant risk of acting contrary to the national 
+security or foreign policy interests of the United States as described 
+therein. BIS may modify the license exception limitations and license 
+application review policies that apply to a particular entity to 
+implement the policies of this section. BIS will implement the 
+provisions of
+
+[[Page 61974]]
+
+this section in accordance with the decisions of the End-User Review 
+Committee or, if appropriate in a particular case, in accordance with 
+the decisions of the body to which the End-User Review Committee 
+decision is escalated. The End-User Review Committee will follow the 
+procedures set forth in supplement no. 5 to this part.
+    (a) License requirement, availability of license exceptions, and 
+license application review policy. A license is required, to the extent 
+specified on the Entity List, to export, reexport, or transfer (in-
+country) any item subject to the EAR when an entity that is listed on 
+the Entity List is a party to the transaction as described in Sec.  
+748.5(c) through (f) of the EAR unless otherwise authorized or excluded 
+in this section. License exceptions may not be used unless authorized 
+in the Entity List entry for the entity that is party to the 
+transaction. Applications for licenses required by this section will be 
+evaluated as stated in the Entity List entry for the entity that is 
+party to the transaction, in addition to any other applicable review 
+policy stated elsewhere in the EAR.
+    (1) Standards related activity. A license is not required for the 
+release of ``technology'' or ``software'' designated EAR99 or 
+controlled on the CCL for anti-terrorism reasons only, when such a 
+release is for a ``standards-related activity.'' In addition, a license 
+is not required for the release of the following ECCN ``items'' level 
+paragraphs of ``technology'' or ``software'' specifically for the 
+``development,'' ``production,'' or ``use'' of cryptographic 
+functionality when such a release is for a ``standards-related 
+activity:'' ``software'' that is classified under ECCN 5D002.b or 
+5D002.c.1 (for equipment specified in ECCN 5A002.a and 5A002.c only); 
+``technology'' that is classified under ECCN 5E002 (for equipment 
+specified in ECCN 5A002.a, .b and .c); and ``technology'' for software 
+controlled under ECCN 5D002.b or .c.1 (for equipment specified in ECCN 
+5A002.a and .c only).
+    (2) Entity List Foreign-Direct Product (FDP) license requirements, 
+review policy, and license exceptions. You may not, without a license 
+or license exception, reexport, export from abroad, or transfer (in-
+country) any foreign-produced item subject to the EAR pursuant to Sec.  
+734.9(e) of the EAR to any end user described in Sec.  734.9(e)(2) of 
+the EAR. All license exceptions described in part 740 of the EAR are 
+available for foreign-produced items that are subject to this license 
+requirement if all terms and conditions of the applicable license 
+exception are met and the restrictions in Sec.  740.2 do not apply. The 
+sophistication and capabilities of technology in items is a factor in 
+license application review; license applications for foreign-produced 
+items subject to a license requirement by this paragraph (a)(2) that 
+are capable of supporting the ``development'' or ``production'' of 
+telecom systems, equipment and devices below the 5G level (e.g., 4G, 
+3G) will be reviewed on a case-by-case basis.
+    (b) Criteria for revising the Entity List. Entities for which there 
+is reasonable cause to believe, based on specific and articulable 
+facts, that the entity has been involved, is involved, or poses a 
+significant risk of being or becoming involved in activities that are 
+contrary to the national security or foreign policy interests of the 
+United States and those acting on behalf of such entities may be added 
+to the Entity List pursuant to this section. An entity may pose a 
+significant risk through certain circumstances that may be outside of 
+its own control. Such circumstances that may place an entity at 
+significant risk include situations involving a sustained lack of 
+cooperation by a host government authority, for example, by preventing 
+an end-use check from being conducted, that effectively prevents BIS 
+from determining compliance with the EAR. This section may not be used 
+to place on the Entity List any party to which exports or reexports 
+require a license pursuant to Sec.  744.8, Sec.  744.12, Sec.  744.13, 
+Sec.  744.14, or Sec.  744.18. This section may not be used to place 
+any U.S. person, as defined in Sec.  772.1 of the EAR, on the Entity 
+List. Paragraphs (b)(1) through (5) of this section provide an 
+illustrative list of activities that could be or represent a 
+significant risk of being contrary to the national security or foreign 
+policy interests of the United States.
+    (1) Supporting persons engaged in acts of terror.
+    (2) Actions that could enhance the military capability of, or the 
+ability to support terrorism of governments that have been designated 
+by the Secretary of State as having repeatedly provided support for 
+acts of international terrorism.
+    (3) Transferring, developing, servicing, repairing or producing 
+conventional weapons in a manner that is contrary to United States 
+national security or foreign policy interests or enabling such 
+transfer, service, repair, development, or production by supplying 
+parts, components, technology, or financing for such activity.
+    (4) Prevention of the accomplishment of an end use check conducted 
+by or on behalf of BIS or the Directorate of Defense Trade Controls of 
+the Department of State by:
+    (i) The entity precluding access to; refusing to provide 
+information about; or providing false or misleading information about 
+parties to the transaction or the item to be checked. The conduct in 
+this example includes: expressly refusing to permit a check; providing 
+false or misleading information; or engaging in dilatory or evasive 
+conduct that effectively prevents the check from occurring or makes the 
+check inaccurate or useless. A nexus between the conduct of the party 
+to be listed and the failure to produce a complete, accurate and useful 
+check is required, even though an express refusal by the party to be 
+listed is not required; or
+    (ii) A sustained lack of cooperation by the host government to 
+schedule and facilitate the completion of an end-use check of entities 
+identified on the Unverified List pursuant to Sec.  744.15, resulting 
+in sufficient concern such that the End-User Review Committee believes 
+that prior review of exports, reexports, or transfers (in-country) 
+involving the entity and the possible imposition of license conditions 
+or license denial enhance BIS's ability to prevent violations of the 
+EAR.
+    (5) Engaging in conduct that poses a risk of violating the EAR when 
+such conduct raises sufficient concern that the End-User Review 
+Committee believes that prior review of exports, reexports, or 
+transfers (in-country) involving the party and the possible imposition 
+of license conditions or license denial enhances BIS's ability to 
+prevent violations of the EAR.
+    (c) Additional prohibition on persons informed by BIS. BIS may 
+inform persons, either individually by specific notice or through 
+amendment to the EAR, that a license is required for:
+    (1) A specific export, reexport, or transfer (in-country) because 
+there is an unacceptable risk that the export, reexport, or transfer 
+(in-country) is intended to circumvent the license requirement imposed 
+on an entity listed in supplement no. 4 to this part; or
+    (2) The export, reexport, or transfer (in-country) of specified 
+items to a certain party because there is an unacceptable risk that the 
+party is acting as an agent, front, or shell company for an entity 
+listed in supplement no. 4 to this part, or is otherwise assisting that 
+listed entity in circumventing the license requirement set forth in 
+that entity's entry in supplement no. 4 to this part; or
+    (3) The export, reexport, or transfer (in-country) of specified 
+items to a certain party because there is reasonable
+
+[[Page 61975]]
+
+cause to believe, based on specific and articulable facts, that the 
+entity has been involved, is involved, or poses a significant risk of 
+being or becoming involved in activities that are contrary to the 
+national security or foreign policy interests of the United States and 
+those acting on behalf of such entity. Specific notice will be given 
+only by, or at the direction of, the Deputy Assistant Secretary for 
+Export Administration. When such notice is provided orally, it will be 
+followed by written notice within two working days signed by the Deputy 
+Assistant Secretary for Export Administration or the Deputy Assistant 
+Secretary's designee. The specific notice will include the license 
+requirement, limitations on use of license exceptions, and license 
+application review policy with which that exporter, re-exporter, or 
+transferor must comply pursuant to this paragraph (c)(3). The ERC may 
+add such entities to the Entity List in supplement no. 4 to this part.
+
+0
+3. Supplement no. 6 to part 744 is amended by:
+0
+a. Revising the heading of the final column in the supplement; and
+0
+b. Under CHINA, PEOPLE'S REPUBLIC OF by:
+0
+i. Removing the entry ``Anhui Institute of Metrology;''
+0
+ii. Adding entries, in alphabetical order, for the following entities: 
+``Beijing Naura Magnetoelectric Technology Co., Ltd.;'' ``Beijing 
+PowerMac Company;'' ``CCIC Southern Electronic Product Testing Co., 
+Ltd.;'' ``Chang Zhou Jin Tan Teng Yuan Machinery Parts Co., Ltd;'' 
+``Chinese Academy of Geological Sciences, Institute of Mineral 
+Resources;'' ``Chinese Academy of Science (CAS) Institute of 
+Chemistry;'' ``Chongqing Optel Telecom;'' and ``Chongqing Xinyuhang 
+Technology Co., Ltd.;''
+0
+iii. Removing entry for ``Chuzhou HKC Optoelectronics Technology Co., 
+Ltd.;''
+0
+iv. Adding entries, in alphabetical order, for the following entities: 
+``Dandong Nondestructive Electronics;'' ``DK Laser Company Ltd.;'' 
+``Foshan Huaguo Optical Co., Ltd.;'' ``GRG Metrology & Test (Chongqing) 
+Co., Ltd.;'' ``Guangdong Dongling Carbon Tech. Co., Ltd.;'' ``Guangxi 
+Yuchai Machinery Co., Ltd.;'' and ``Guangzhou GRG Metrology & Test 
+(Beijing) Co., Ltd.;''
+0
+v. Removing entries for ``Hefei Anxin Reed Precision Co., Ltd.;'' and 
+``Hefei Institutes of Physical Science;''
+0
+vi. Adding an entry, in alphabetical order, for the following entity: 
+``Jialin Precision Optics (Shanghai) Co., Ltd.;''
+0
+vii. Removing the entry for ``Jiutian Intelligent Equipment Co., 
+Ltd.'';
+0
+viii. Adding entries, in alphabetical order, for the following 
+entities: ``Lishui Zhengyang Electric Power Construction;'' ``Nanjing 
+Gova Technology Co., Ltd.;'' ``Ningbo III Lasers Technology Co., 
+Ltd.;'' ``Qingdao Sci-Tech Innovation Quality Testing Co., Ltd.;'' and 
+``Shanghai Tech University;''
+0
+ix. Removing entries for ``Suzhou Gyz Electronic Technology Co., Ltd.'' 
+and ``Suzhou Lylap Mould Technology Co., Ltd.;''
+0
+x. Adding entries, in alphabetical order, for the following entities: 
+``Suzhou Sen-Chuan Machinery Technology Co., Ltd.;'' ``Tianjin Optical 
+Valley Technology Co., Ltd.;'' ``University of Chinese Academy of 
+Sciences, School of Chemical Sciences;'' ``University of Shanghai for 
+Science and Technology;'' ``Vital Advanced Materials Co., Ltd.;'' 
+``Wuhan Institute of Biological Products Co., Ltd.;'' and ``Wuhan 
+Juhere Photonic Tech Co., Ltd.;''
+0
+xi. Removing the entry ``Wuxi Biologics Co., Ltd.;''
+0
+xii. Adding an entry, in alphabetical order, for the following entity: 
+``Wuxi Hengling Technology Co., Ltd.;''
+0
+xii. Removing they entry for ``Wuxi Turbine Blade Co., Ltd.;'' and
+0
+xiv. Adding entries, in alphabetical order, for the following entities: 
+``Xian Zhongsheng Shengyuan Technology Co., Ltd.'' and ``Yangtze Memory 
+Technologies Co., Ltd.''
+    The revision and additions read as follows:
+
+Supplement No. 6 to Part 744--Unverified List
+
+------------------------------------------------------------------------
+                            Listed person and        Federal Register
+        Country                  address                 citation
+------------------------------------------------------------------------
+ 
+                              * * * * * * *
+    CHINA, PEOPLE'S
+      REPUBLIC OF
+ 
+                              * * * * * * *
+                         Beijing Naura            87 FR [INSERT FEDERAL
+                          Magnetoelectric          REGISTER PAGE NUMBER]
+                          Technology Co., Ltd.,    10/13/2022
+                          M4 No 1 Jiuxianqiao
+                          East Road, Chaoyang
+                          District, Beijing
+                          100015, China.
+                         Beijing PowerMac         87 FR [INSERT FEDERAL
+                          Company, B-1501,         REGISTER PAGE NUMBER]
+                          Calzhi International     10/13/2022
+                          Building', 18
+                          Zhongguancun East
+                          Road, Haidian
+                          District, Beijing,
+                          China.
+ 
+                              * * * * * * *
+                         CCIC Southern            87 FR [INSERT FEDERAL
+                          Electronic Product       REGISTER PAGE NUMBER]
+                          Testing Co., Ltd.,       10/13/2022
+                          Electronic Testing
+                          Bldg. No 43 Shahe Rd
+                          Xili Jiedao, Nanshan
+                          District, Shenzhen,
+                          China.
+ 
+                              * * * * * * *
+                         Chang Zhou Jin Tan Teng  87 FR [INSERT FEDERAL
+                          Yuan Machinery Parts     REGISTER PAGE NUMBER]
+                          Co., Ltd., 116 Huafeng   10/13/2022
+                          road, Jintan Economic
+                          Development Zone,
+                          Changzhou China.
+ 
+                              * * * * * * *
+                         Chinese Academy of       87 FR [INSERT FEDERAL
+                          Geological Sciences,     REGISTER PAGE NUMBER]
+                          Institute of Mineral     10/13/2022
+                          Resources,
+                          Baiwangzhuang Main
+                          Street No 26, Xicheng
+                          District, Beijing
+                          100037, China.
+                         Chinese Academy of       87 FR [INSERT FEDERAL
+                          Science (CAS)            REGISTER PAGE NUMBER]
+                          Institute of             10/13/2022
+                          Chemistry, 2
+                          Zhongguancun North 1st
+                          Street, Haidian
+                          District, Beijing
+                          100190, China.
+
+[[Page 61976]]
+
+ 
+                         Chongqing Optel          87 FR [INSERT FEDERAL
+                          Telecom, No 1 6f         REGISTER PAGE NUMBER]
+                          Building 7, No 106       10/13/2022
+                          West Jinkai Avenue,
+                          Yubei District,
+                          Chongqing 401121,
+                          China.
+                         Chongqing Xinyuhang      87 FR [INSERT FEDERAL
+                          Technology Co., Ltd.,    REGISTER PAGE NUMBER]
+                          Shanying Workshop,       10/13/2022
+                          liangjiang Avenue,
+                          Longxing Town, Yubei
+                          District, Chongqing
+                          401135, China.
+ 
+                              * * * * * * *
+                         Dandong Nondestructive   87 FR [INSERT FEDERAL
+                          Electronics, No 2        REGISTER PAGE NUMBER]
+                          Tonghe Street Jinshan    10/13/2022
+                          Industrial Park,
+                          Yuanbao District
+                          Dandong, Dandong
+                          118000, China.
+ 
+                              * * * * * * *
+                         DK Laser Company Ltd.,   87 FR [INSERT FEDERAL
+                          Zhuodas Jingu            REGISTER PAGE NUMBER]
+                          Industrial Park #4,      10/13/2022
+                          Jinlong New District,
+                          Xiangyin, Hunan
+                          Province, , China.
+ 
+                              * * * * * * *
+                         Foshan Huaguo Optical    87 FR [INSERT FEDERAL
+                          Co., Ltd., No 3          REGISTER PAGE NUMBER]
+                          Changhong East Road,     10/13/2022
+                          Zhangcha Street,
+                          Foshan City 528051,
+                          China.
+ 
+                              * * * * * * *
+                         GRG Metrology & Test     87 FR [INSERT FEDERAL
+                          (Chongqing) Co., Ltd.,   REGISTER PAGE NUMBER]
+                          The 3rd floor of         10/13/2022
+                          building A no 37
+                          Cuitao Road, Chongqing
+                          City, China.
+                         Guangdong Dongling       87 FR [INSERT FEDERAL
+                          Carbon Tech. Co.,        REGISTER PAGE NUMBER]
+                          Ltd., #83 Shatong        10/13/2022
+                          Road, Shabu County,
+                          Dalang Town Dongguan
+                          city, Guangdong
+                          523770, China.
+ 
+                              * * * * * * *
+                         Guangxi Yuchai           87 FR [INSERT FEDERAL
+                          Machinery Co., Ltd., 8   REGISTER PAGE NUMBER]
+                          Tinqiao West rd.,        10/13/2022
+                          Yulin Guanxi Province
+                          537005, China.
+                         Guangzhou GRG Metrology  87 FR [INSERT FEDERAL
+                          & Test (Beijing) Co.,    REGISTER PAGE NUMBER]
+                          Ltd., 1st-2nd floor,     10/13/2022
+                          5th building, No 8
+                          courtyard, No. 2
+                          Street of Cold Water
+                          Economic and
+                          Technological
+                          Development Zone,
+                          Beijing, China.
+ 
+                              * * * * * * *
+                         Jialin Precision Optics  87 FR [INSERT FEDERAL
+                          (Shanghai) Co., Ltd.,    REGISTER PAGE NUMBER]
+                          Western Section Floor    10/13/2022
+                          1 No 1 Dongcheng Er
+                          lu, Pujiang Town
+                          Minhang District,
+                          Shanghai 201112, China.
+ 
+                              * * * * * * *
+                         Lishui Zhengyang         87 FR [INSERT FEDERAL
+                          Electric Power           REGISTER PAGE NUMBER]
+                          Construction, 573        10/13/2022
+                          Nanshan Road Nanshan
+                          Park Liandu,
+                          Industrial Zone
+                          Zhejiang, Lishui,
+                          China.
+ 
+                              * * * * * * *
+                         Nanjing Gova Technology  87 FR [INSERT FEDERAL
+                          Co., Ltd., No 66 Qixia   REGISTER PAGE NUMBER]
+                          Avenue, Nanjing          10/13/2022
+                          Economic and
+                          Technological
+                          Development Zone,
+                          Nanjing, Jiangsu
+                          Province, China.
+ 
+                              * * * * * * *
+                         Ningbo III Lasers        87 FR [INSERT FEDERAL
+                          Technology Co., Ltd.,    REGISTER PAGE NUMBER]
+                          Phase II Binjiang        10/13/2022
+                          Equipment Park,
+                          Fenglin Road Beilun
+                          District, Ningbo City
+                          315803, China.
+ 
+                              * * * * * * *
+                         Qingdao Sci-Tech         87 FR [INSERT FEDERAL
+                          Innovation Quality       REGISTER PAGE NUMBER]
+                          Testing Co., Ltd.,       10/13/2022
+                          Huaye Building,
+                          Lanbeizhizao
+                          Gongchang, No 1 Jinye
+                          Road, High-Tech Zone,
+                          Qingdao, China.
+ 
+                              * * * * * * *
+                         ShanghaiTech             87 FR [INSERT FEDERAL
+                          University, 393 Middle   REGISTER PAGE NUMBER]
+                          Huaxia Rd, School of     10/13/2022
+                          Phy Sci and Tech,
+                          Pudong,
+                          Shanghai201210, China.
+ 
+                              * * * * * * *
+                         Suzhou Sen-Chuan         87 FR [INSERT FEDERAL
+                          Machinery Technology     REGISTER PAGE NUMBER]
+                          Co., Ltd., No 3 Yantou   10/13/2022
+                          Road, Huayang Village,
+                          Wangting town,
+                          Xiangcheng
+                          DistrictSuzhou 215155,
+                          China.
+ 
+                              * * * * * * *
+                         Tianjin Optical Valley   87 FR [INSERT FEDERAL
+                          Technology Co., Ltd.,    REGISTER PAGE NUMBER]
+                          5-1 2-104 Qingda Boya    10/13/2022
+                          industrial Park
+                          Beichen District,
+                          Tianjin 30400, China.
+ 
+
+[[Page 61977]]
+
+ 
+                              * * * * * * *
+                         University of Chinese    87 FR [INSERT FEDERAL
+                          Academy of Sciences,     REGISTER PAGE NUMBER]
+                          School of Chemical       10/13/2022
+                          Sciences, # 19 (A)
+                          Yuquan Road,
+                          Shijingshan District,
+                          Beijing 100049, China.
+                         University of Shanghai   87 FR [INSERT FEDERAL
+                          for Science and          REGISTER PAGE NUMBER]
+                          Technology, 516          10/13/2022
+                          Jungong Road, Shanghai
+                          200093, China.
+                         Vital Advanced           87 FR [INSERT FEDERAL
+                          Materials Co., Ltd.,     REGISTER PAGE NUMBER]
+                          Zone B No 27-9 BAIJIA    10/13/2022
+                          Industrial Park, High
+                          Tech Development Zone,
+                          Guangdong Province,
+                          Qingyuan 511517, China.
+ 
+                              * * * * * * *
+                         Wuhan Institute of       87 FR [INSERT FEDERAL
+                          Biological Products      REGISTER PAGE NUMBER]
+                          Co., Ltd., No 1 Golden   10/13/2022
+                          Industrial Park Road,
+                          Zhengdian Street,
+                          Jiangxia District,
+                          Wuhan City, Hubei
+                          Province, 430207,
+                          China.
+                         Wuhan Juhere Photonic    87 FR [INSERT FEDERAL
+                          Tech Co., Ltd., 2/F      REGISTER PAGE NUMBER]
+                          Building 12, Guanggu     10/13/2022
+                          New Power, Guanggu 2nd
+                          Rd East Lake High-Tech
+                          Zone, Wuhan 430200,
+                          China.
+ 
+                              * * * * * * *
+                         Wuxi Hengling            87 FR [INSERT FEDERAL
+                          Technology Co., Ltd.,    REGISTER PAGE NUMBER]
+                          Bldg C1 No 999 East      10/13/2022
+                          Gaolang rd Binhu
+                          District, Wuxi City,
+                          Jiangsu Province,
+                          214131, China.
+ 
+                              * * * * * * *
+                         Xian Zhongsheng          87 FR [INSERT FEDERAL
+                          Shengyuan Technology     REGISTER PAGE NUMBER]
+                          Co., Ltd., 9 Gardens     10/13/2022
+                          at 202 South Second
+                          ring Rd, Lianju
+                          District, Xian 710000,
+                          China.
+ 
+                              * * * * * * *
+                         Yangtze Memory           87 FR [INSERT FEDERAL
+                          Technologies Co.,        REGISTER PAGE NUMBER]
+                          Ltd., No. 88 Weilai      10/13/2022
+                          3rd RoadEast Lake High-
+                          Tech Development Zone,
+                          Wuhan Hubei 43000,
+                          China.
+ 
+                              * * * * * * *
+------------------------------------------------------------------------
+
+
+Thea D. Rozman Kendler,
+Assistant Secretary for Export Administration.
+[FR Doc. 2022-21714 Filed 10-7-22; 8:45 am]
+BILLING CODE 3510-33-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

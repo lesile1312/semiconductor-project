@@ -1,0 +1,1548 @@
+<html>
+<head>
+<title>Federal Register, Volume 87 Issue 125 (Thursday, June 30, 2022)</title>
+</head>
+<body><pre>
+[Federal Register Volume 87, Number 125 (Thursday, June 30, 2022)]
+[Rules and Regulations]
+[Pages 38920-38934]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2022-14069]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF COMMERCE
+
+Bureau of Industry and Security
+
+15 CFR Part 744
+
+[Docket No. 220627-0141]
+RIN 0694-AI88
+
+
+Addition of Entities, Revision and Correction of Entries, and 
+Removal of Entities From the Entity List
+
+AGENCY: Bureau of Industry and Security, Department of Commerce.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: In this rule, the Bureau of Industry and Security (BIS) amends 
+the Export Administration Regulations (EAR) by adding 36 entities under 
+41 entries to the Entity List. These 36 entities have been determined 
+by the U.S. Government to be acting contrary to the national security 
+or foreign policy interests of the United States. These entities will 
+be listed on the Entity List under the destinations of the People's 
+Republic of China (China), Lithuania, Pakistan, the Russian Federation 
+(Russia), Singapore, the United Arab Emirates (UAE), the United 
+Kingdom, Uzbekistan, and Vietnam. Some entities are added under 
+multiple entries, accounting for the difference in the total number of 
+entities and entries in this rule. This rule also revises eleven 
+existing entries under the destinations of Belarus, China, Russia, and 
+Slovakia and corrects one existing entry on the Entity List under the 
+destination of
+
+[[Page 38921]]
+
+Pakistan. Lastly, this rule removes two entities and one address for a 
+non-listed entity, consisting of one removal of an entity and one 
+removal of an address under the destination of China, and one removal 
+under the destination of Pakistan. The removals from the Entity List 
+are made in connection with requests for removal that BIS received 
+pursuant to the EAR and a review of the information provided in those 
+requests.
+
+DATES: This rule is effective on June 28, 2022.
+
+FOR FURTHER INFORMATION CONTACT: Chair, End-User Review Committee, 
+Office of the Assistant Secretary for Export Administration, Bureau of 
+Industry and Security, Department of Commerce, Phone: (202) 482-5991, 
+Email: <a href="/cdn-cgi/l/email-protection#1257405152707b613c767d713c757d64"><span class="__cf_email__" data-cfemail="e8adbaaba88a819bc68c878bc68f879e">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION: 
+
+Background
+
+    The Entity List (supplement no. 4 to part 744 of the EAR) 
+identifies entities for which there is reasonable cause to believe, 
+based on specific and articulable facts, that the entities have been 
+involved, are involved, or pose a significant risk of being or becoming 
+involved in activities contrary to the national security or foreign 
+policy interests of the United States. The EAR (15 CFR parts 730-774) 
+impose additional license requirements on and limit the availability of 
+most license exceptions for exports, reexports, and transfers (in-
+country) to listed entities.
+    The license review policy for each listed entity is identified in 
+the ``License Review Policy'' column on the Entity List, and the impact 
+on the availability of license exceptions is described in the relevant 
+Federal Register document that added the entity to the Entity List. Any 
+license application for an export, reexport, or transfer (in-country) 
+involving an entity on the Entity List that is subject to an additional 
+EAR license requirement will also be reviewed in accordance with the 
+license review policies in the sections of the EAR applicable to those 
+license requirements. For example, for Russian entities on the Entity 
+List, if the export, reexport, or transfer (in-country) is subject to a 
+license requirement in Sec.  746.6, 746.8 or 746.10, the license 
+application will be reviewed in accordance with the license review 
+policies in those sections (as applicable) in addition to the specified 
+license review policy under the Entity List entry.
+    BIS places entities on the Entity List pursuant to part 744 
+(Control Policy: End-User and End-Use Based) and part 746 (Embargoes 
+and Other Special Controls) of the EAR. Paragraphs (b)(1) through (5) 
+of Sec.  744.11 include an illustrative list of activities that could 
+be contrary to the national security or foreign policy interests of the 
+United States.
+    The End-User Review Committee (ERC), composed of representatives of 
+the Departments of Commerce (Chair), State, Defense, Energy and, where 
+appropriate, the Treasury, makes all decisions regarding additions to, 
+removals from, or other modifications to the Entity List. The ERC makes 
+all decisions to add an entry to the Entity List by majority vote and 
+makes all decisions to remove or modify an entry by unanimous vote.
+
+Entity List Decisions
+
+A. Additions to the Entity List
+
+    The ERC determined to add the following six entities under ten 
+entries to the Entity List on the basis of Sec.  744.11(b) and under 
+the destinations of China, Lithuania, Russia, the United Kingdom, 
+Uzbekistan, and Vietnam: Connec Electronic Ltd. (added under China and 
+the United Kingdom); King Pai Technology Co., Ltd. (added under China, 
+Russia, and Vietnam); Sinno Electronics Co., Ltd. (added under China 
+and Lithuania); Winninc Electronic (added under China); World Jetta 
+(H.K.) Logistics Limited (added under China); and Promcomplektlogistic 
+Private Company (added under Uzbekistan) for providing support to 
+Russia's military and/or defense industrial base. Specifically, these 
+entities have previously supplied items to Russian entities of concern 
+before February 24, 2022 and continue to contract to supply Russian 
+entity listed and sanctioned parties after Russia's further invasion of 
+Ukraine. This activity is contrary to U.S. national security and 
+foreign policy interests under Sec.  744.11(b) of the EAR. These six 
+entities and their identified subsidiaries are added to the Entity List 
+with a license requirement for all items subject to the EAR. BIS will 
+review license applications for items for these entities under a policy 
+of denial apart from food and medicine designated as EAR99, which will 
+be reviewed on a case-by-case basis. No license exceptions are 
+available for exports, reexports, or transfers (in-country) to these 
+entities.
+    The ERC determined to add the following twelve entities to the 
+Entity List on the basis of Sec.  744.11(b) under the destination of 
+China: At One Electronics; Blueschip Company Limited; Chen Zhouqian; 
+Chipwinone Electronics; Chuangxinda Electronics-Tech Co., Ltd.; Ehang 
+International Trade Limited; Gaohui HK Electronics; ICSOSO Electronics 
+Company Limited; Shenzhen Avanlane; Suntric Company Limited; Wayne 
+Weipeng; and Yiru Zhuang for their activities contrary to the national 
+security and foreign policy interests of the United States. 
+Specifically, these entities use deceptive practices to supply or 
+attempt to supply Iran with U.S-origin electronics that would 
+ultimately provide support to Iran's military. These entities are added 
+to the Entity List with a license requirement for all items subject to 
+the EAR. BIS will review license applications for items for these 
+entities under a presumption of denial. No license exceptions are 
+available for exports, reexports, or transfers (in-country) to these 
+entities.
+    The ERC determined to add eight entities under nine entries to the 
+Entity List on the basis of Sec.  744.11(b) under the destinations of 
+China and Singapore, with one of the entities listed under both 
+destinations. The entities are as follows: Beijing Highlander Digital 
+Technology Co. Ltd (added under China and Singapore); China Academy of 
+Science--Shenyang Institute of Automation; China State Shipbuilding 
+Corp.--Systems Engineering Research Institute; CSSC Electronic 
+Technology; Highlander (Hong Kong) Maritime Navigation Science and 
+Technology LLC; Laurel Technologies Co. Ltd.; Sansha Highlander Marine 
+Information Technology Co. Ltd.; and Sanya Highlander Huanyu Ocean 
+Information Technology Corporation. All of the eight entities are added 
+to the Entity List for acquiring and attempting to acquire U.S.-origin 
+items in support of military applications, contrary to the national 
+security or foreign policy interests of the United States. These 
+entities are added to the Entity List with a license requirement for 
+all items subject to the EAR. BIS will review license applications for 
+items for these entities under a presumption of denial. No license 
+exceptions are available for exports, reexports, or transfers (in-
+country) to these entities.
+    The ERC determined to add two entities to the Entity List on the 
+basis of Sec.  744.11(b) under the destination of Russia: Laboratory 
+Systems and Technologies LTD; and Intertech Rus LLC. The two entities 
+are added on the basis of their attempts to procure items, including 
+U.S.-origin items, for activities contrary to the national security and 
+foreign policy interests of the United States. Specifically, Intertech 
+Rus LLC and Laboratory Systems and Technologies LTD are acting as 
+agents, fronts or shell companies for OOO Intertech Instruments, an 
+entity added
+
+[[Page 38922]]
+
+to the Entity List under the destination of Russia on March 4, 2021 (86 
+FR 12531). The two entities are added to the Entity List with a license 
+requirement for all items subject to the EAR. BIS will review license 
+applications for items for these entities under the license review 
+policies specified in Sec. Sec.  744.2(d) (restrictions on certain 
+nuclear end-uses), 744.3(d) (restrictions on certain rocket systems and 
+unmanned aerial vehicles end-uses), and 744.4(d) (restrictions on 
+certain chemical and biological weapons end-uses) of the EAR. No 
+license exceptions are available for exports, reexports, or transfers 
+(in-country) to these entities.
+    The ERC determined to add two entities to the Entity List on the 
+basis of Sec.  744.11(b) under the destination of Russia: FASTAIR and 
+Avcom-Technique. These two entities are added for actions contrary to 
+the national security and foreign policy interests of the United 
+States. These entities are added to the Entity List with a license 
+requirement for all items subject to the EAR. BIS will review license 
+applications for items for these entities under a case-by-case license 
+review policy. No license exceptions are available for exports, 
+reexports, or transfers (in-country) to these entities.
+    The ERC determined to add four entities to the Entity List on the 
+basis of Sec. Sec.  744.11(b), 744.2 and 744.3, including one entity 
+under the destination of the United Arab Emirates (UAE): Gulf Trade 
+House FZC; and three entities under the destination of Pakistan: 
+Industrial Process Automation; Jim Corporation; and Maira Trade 
+International. The four entities are added for actions contrary to the 
+national security or foreign policy interests of the United States, and 
+because these entities pose an unacceptable risk of using or diverting 
+items subject to the EAR to certain nuclear end-uses and certain rocket 
+systems and unmanned aerial vehicles end-uses. These entities are added 
+to the Entity List with a license requirement for all items subject to 
+the EAR. BIS will review license applications for items for these 
+entities under a presumption of denial. No license exceptions are 
+available for exports, reexports, or transfers (in-country) to these 
+entities.
+    The ERC determined to add one entity to the Entity List on the 
+basis of Sec.  744.11(b) under the destination of the UAE: Al Noor 
+Alaili Trading Company (ANATCO). This entity is added for preventing 
+the accomplishment of an End Use Check (EUC) by precluding access to, 
+refusing to provide information to, and/or providing false or 
+misleading information about parties to the transaction or the item to 
+be checked. This entity is added to the Entity List with a license 
+requirement for all items subject to the EAR. BIS will review license 
+applications for items for this entity under a presumption of denial. 
+No license exceptions are available for exports, reexports, or 
+transfers (in-country) to this entity.
+    The ERC determined to add the following one entity to the Entity 
+List on the basis of Sec.  744.11(b) under the destination of the UAE: 
+Scott Technologies FZE, for acquiring and attempting to acquire U.S.-
+origin items on behalf of entities listed on the Entity List, in 
+circumvention of the licensing requirements set forth in Sec.  744.11 
+of the EAR. Specifically, the entity was added for re-exporting 
+aircraft parts to Syria. This entity will be added to the Entity List 
+with a license requirement for all items subject to the EAR. BIS will 
+review license applications for items for this entity under a 
+presumption of denial. No license exceptions are available for exports, 
+reexports, or transfers (in-country) to this entity.
+    For the reasons described in section A of the Supplementary 
+Information, this final rule adds the following entities under to the 
+Entity List including, where appropriate, aliases:
+China
+    <bullet> At One Electronics;
+    <bullet> Beijing Highlander Digital Technology Co. Ltd;
+    <bullet> Blueschip Company Limited;
+    <bullet> Chuangxinda Electronics-Tech Co.,
+    <bullet> Chen Zhouqian;
+    <bullet> China Academy of Science--Shenyang Institute of 
+Automation;
+    <bullet> China State Shipbuilding Corp.--Systems Engineering 
+Research Institute;
+    <bullet> Chipwinone Electronics Co., Limited;
+    <bullet> Connec Electronic Ltd.;
+    <bullet> CSSC Electronic Technology;
+    <bullet> Ehang International Trade Limited;
+    <bullet> Gaohui HK Electronics;
+    <bullet> Highlander (Hong Kong) Maritime Navigation Science and 
+Technology LLC;
+    <bullet> ICSOSO Electronics Co. Ltd.;
+    <bullet> King Pai Technology Co., Ltd.;
+    <bullet> Laurel Technologies Co. Ltd.;
+    <bullet> Sansha Highlander Marine Information Technology Co. Ltd.;
+    <bullet> Sanya Highlander Huanyu Ocean Information Technology 
+Corporation;
+    <bullet> Shenzhen Avanlane;
+    <bullet> Sinno Electronics Co., Ltd.;
+    <bullet> Suntric Company Limited;
+    <bullet> Wayne Weipeng;
+    <bullet> Winninc Electronic;
+    <bullet> World Jetta (H.K.) Logistics Limited; and
+    <bullet> Yiru Zhuang.
+Lithuania
+    <bullet> Sinno Electronics.
+Pakistan
+    <bullet> Industrial Process Automation;
+    <bullet> Jim Corporation; and
+    <bullet> Maira Trade International.
+Russia
+    <bullet> Avcom-Technique;
+    <bullet> FASTAIR;
+    <bullet> Intertech Rus LLC;
+    <bullet> KingPai Technology Int'l Co., Limited; and
+    <bullet> Laboratory Systems and Technologies LTD.
+Singapore
+    <bullet> Beijing Highlander Digital Technology Co., Ltd.
+United Arab Emirates
+    <bullet> Al Noor Alaili Trading Company;
+    <bullet> Gulf Trade House FZC; and
+    <bullet> Scott Technologies FZE.
+United Kingdom
+    <bullet> Connec Electronic.
+Uzbekistan
+    <bullet> Promcomplektlogistic Private Company.
+Vietnam
+    <bullet> KingPai Technology Int'l Co., Limited.
+
+B. Revisions to the Entity List
+
+    This final rule revises eleven existing entries, under the 
+destinations of Belarus, China, Russia, and Slovakia.
+    This rule revises nine entries, consisting of one entry for ``JSC 
+Integral,'' first added to the Entity List under the destination of 
+Belarus on March 2, 2022 (87 FR 13061, March 8, 2022); seven entries 
+under Russia consisting of ``Avant-Space LLC,'' first added to the 
+Entity List on March 3, 2022 (87 FR 13143, March 9, 2022)(the ``March 9 
+rule''); ``Elara,'' first added to the Entity List in the March 9 rule; 
+``JSC Central Research Institute of Machine Building,'' first added to 
+the Entity List on February 24, 2022 (87 FR 12240, March 3, 2022) (the 
+``March 3 rule''); ``JSC Element,'' first added to the Entity List in 
+the March 9 rule; ``JSC Rocket and Space Centre,'' first added to the 
+Entity List in the March 3 rule; ``Russian Space Systems (RKS),'' first 
+added to the Entity List in the March 9 rule; ``Scientific Research 
+Institute NII Submikron,'' first added to the Entity List in the March 
+9 rule; and one entry for ``Incoff Aerospace, S.R.O.,'' first added to 
+the Entity List under the destination of Slovakia in the March 9 rule. 
+This rule revises the License
+
+[[Page 38923]]
+
+Requirement column for some of the nine entities to specify that 
+License Exception GOV under Sec.  740.11(b)(2) and (e) may be available 
+for use to export items to these entities. This rule also revises the 
+License Review Policy column for all nine entities to specify that 
+there is a case-by-case license review policy for items destined for 
+use in U.S. government supported use in the International Space Station 
+(ISS).
+    These nine entities are integral to supporting the International 
+Space Station (ISS), therefore the ERC determined it was warranted to 
+allow the License Exception GOV authorizations under paragraphs (b)(2) 
+and (e) to be available and to have a case-by-case license review 
+policy for U.S. Government supported use in the International Space 
+Station. This rule revises both the License Requirement column and 
+License Review Policy column for JSC Central Research Institute of 
+Machine Building. For the other eight entities revised by this rule, 
+only one of the two columns needed to be revised. Specifically, this 
+rule revises the License Requirement column for Incoff Aerospace LLC; 
+JSC Element; and Russian Space Systems (RKS) and revises the License 
+Review Policy Column for Avant-Space LLC; Elara; JSC Integral; JSC 
+Rocket and Space Centre; and Scientific Research Institute NII 
+Submikron.
+    This rule revises one existing entry for ``China National Offshore 
+Oil Corporation Ltd.,'' first added to the Entity List under the 
+destination of China on January 14, 2021 (85 FR 4864). Specifically, 
+this rule removes the phrase ``not operating in the South China Sea'' 
+and adds in its place the phrase ``not operating in any body of water, 
+or the airspace above any body of water, within the following 
+coordinates:
+
+Upper Left:
+26[deg]4'48.931'' N
+104[deg]31'41.383'' E
+Upper Right:
+26[deg]4'48.931'' N
+123[deg]19'22.225'' E
+Lower Right:
+0[deg]0'0.00'' N
+123[deg]19'22.225'' E
+Lower Left:
+0[deg]0'0.00'' N
+104[deg]31'41.383'' E
+
+    The following is an illustration with an approximate representation 
+of these coordinates to assist the public in understanding the 
+applicability of the license requirement for this entity:
+BILLING CODE 3510-33-P
+
+[[Page 38924]]
+
+[GRAPHIC] [TIFF OMITTED] TR30JN22.003
+
+BILLING CODE 3510-33-C
+    BIS has received numerous questions from the public on how to 
+interpret this limitation on the exclusion from the license requirement 
+for this entry. After reviewing these questions and evaluating various 
+options for clarifying the scope of this limitation, the ERC determined 
+that the best approach to facilitate compliance, consistent with U.S. 
+national security and foreign policy interests, is to use coordinates 
+that form a geographic box such that any body of water (e.g., the South 
+China Sea, the Celebes Sea, the Sulu Sea) that falls within these 
+coordinates, as well as the airspace above any such body of water, will 
+be subject to the limitation on the exclusion from the license 
+requirement. This modification provides greater clarity, thus reducing 
+the compliance burden on the public.
+    In response to questions received about the entity name, BIS makes 
+an additional revision to the entry to clarify that the entity listed 
+on the Entity List is CNOOC Limited, which is a core subsidiary of 
+China National Offshore Oil Corporation (CNOOC Group). While the parent 
+entity, CNOOC Group, is not listed on the Entity List, BIS recommends 
+that due diligence should be conducted by exporters, reexporters, and 
+transferors when dealing with CNOOC Group to determine whether there is 
+any ``knowledge,'' as it is defined in part 772 of the EAR, that an 
+item subject to the EAR may be destined to CNOOC Limited or to any 
+other entity listed on the Entity List. The rule also makes minor 
+typographical corrections to clarify the regulatory text.
+    This rule also modifies the entry for the National University of 
+Defense Technology (NUDT), which was first added to the Entity List 
+under the destination of China on February 18, 2015 (80 FR 8527). This 
+final rule adds three additional addresses and two additional aliases 
+to the entry.
+
+C. Correction to the Entity List
+
+    This final rule implements corrections to one existing entry on the 
+Entity List. The correction is under the destination of Pakistan for 
+the entity X-Cilent Engineering. This entity was added to the Entity 
+List on February 14, 2022 (87 FR 8182). This final rule corrects the 
+punctuation of this entity's address.
+
+[[Page 38925]]
+
+D. Removals From the Entity List
+
+    This rule implements decisions of the ERC to remove two entities 
+and one address for a non-listed entity from the Entity List, as 
+described below.
+    This rule implements a decision of the ERC to remove ``Nanchang O-
+Film Tech.'', an entity located in China, from the Entity List on the 
+basis of a removal request. The entry for Nanchang O-Film Tech. under 
+the destination of China was added to the Entity List on July 22, 2020 
+(85 FR 44166). The ERC decided to remove this one entity based on 
+information BIS received pursuant to Sec.  744.16(e) of the EAR and the 
+review the ERC conducted in accordance with procedures described in 
+supplement no. 5 to part 744 of the EAR.
+    This rule also implements a decision of the ERC to remove one 
+address associated with Oriental Logistics Group LTD, specifically, 10/
+F, Union Bldg, 112 How Ming, Kwun Tong, Kowloon, Hong Kong from the 
+Entity List, because this address does not belong to Oriental Logistics 
+Group LTD. Rather, it belongs to Oriental Logistics Group Ltd., which 
+has a similar name, but is a different legal entity and is not on the 
+Entity List. The ERC determined that Oriental Logistics Group LTD is 
+not located at this address, and therefore has decided to remove this 
+address from the entry. Two entries for the entity Oriental Logistics 
+Group LTD were added under the destinations of China and Hong Kong to 
+the Entity List on September 22, 2020 (85 FR 59421). Subsequently, the 
+entries under Hong Kong were relocated under the destination of China 
+on the Entity List on December 23, 2020 (85 FR 83769) with the result 
+that the entry for Oriental Logistics Group LTD contained three 
+addresses: one in China and two in Hong Kong, China. This rule is 
+removing the Hong Kong address referenced above; it is not removing the 
+entry for Oriental Logistics Group LTD under China or the second Hong 
+Kong address for Oriental Logistics Group LTD under this entry. The ERC 
+decided to remove the one address based on information BIS received 
+pursuant to Sec.  744.16(e) of the EAR and the review the ERC conducted 
+in accordance with procedures described in supplement no. 5 to part 744 
+of the EAR.
+    This rule implements a decision of the ERC to remove ``Mushko 
+Electronics Pvt. Ltd.'', an entity located in Pakistan, from the Entity 
+List on the basis of a removal request. The entry for Mushko 
+Electronics Pvt. Ltd. was added to the Entity List on March 22, 2018 
+(83 FR 12480). The ERC decided to remove this one entity based on 
+information BIS received pursuant to Sec.  744.16(e) of the EAR and the 
+review the ERC conducted in accordance with procedures described in 
+supplement no. 5 to part 744 of the EAR.
+    This final rule implements the decision to remove the following two 
+entities and one address for a non-listed entity, located in China, and 
+Pakistan, from the Entity List:
+China
+    <bullet> Nanchang O-Film Tech; and
+    <bullet> Oriental Logistics Group Ltd. (As described above, this 
+entity is not on the Entity List, but its address is being removed from 
+the Entity List in this rule to avoid any confusion regarding whether 
+Oriental Logistics Group Ltd. is or is not on the Entity List.)
+Pakistan
+    <bullet> Mushko Electronics Pvt. Ltd.
+
+Savings Clause
+
+    For the changes being made in this final rule, shipments of items 
+removed from eligibility for a License Exception or export, reexport, 
+or transfer (in-country) without a license (NLR) as a result of this 
+regulatory action that were en route aboard a carrier to a port of 
+export, reexport, or transfer (in-country), on June 28, 2022, pursuant 
+to actual orders for export, reexport, or transfer (in-country) to or 
+within a foreign destination, may proceed to that destination under the 
+previous eligibility for a License Exception or export, reexport, or 
+transfer (in-country) without a license (NLR).
+
+Export Control Reform Act of 2018
+
+    On August 13, 2018, the President signed into law the John S. 
+McCain National Defense Authorization Act for Fiscal Year 2019, which 
+included the Export Control Reform Act of 2018 (ECRA) (50 U.S.C. 4801-
+4852). ECRA provides the legal basis for BIS's principal authorities 
+and serves as the authority under which BIS issues this rule.
+
+Rulemaking Requirements
+
+    1. This rule has been determined to be not significant for purposes 
+of Executive Order 12866.
+    2. Notwithstanding any other provision of law, no person is 
+required to respond to or be subject to a penalty for failure to comply 
+with a collection of information, subject to the requirements of the 
+Paperwork Reduction Act of 1995 (44 U.S.C. 3501 et seq.) (PRA), unless 
+that collection of information displays a currently valid Office of 
+Management and Budget (OMB) Control Number. This regulation involves 
+collections previously approved by OMB under control number 0694-0088, 
+Simplified Network Application Processing System, which includes, among 
+other things, license applications and commodity classifications, and 
+carries a burden estimate of 29.6 minutes for a manual or electronic 
+submission for a total burden estimate of 33,133 hours. Total burden 
+hours associated with the PRA and OMB control number 0694-0088 are not 
+expected to increase as a result of this rule.
+    3. This rule does not contain policies with federalism implications 
+as that term is defined in Executive Order 13132.
+    4. Pursuant to section 1762 of the Export Control Reform Act of 
+2018, this action is exempt from the Administrative Procedure Act (5 
+U.S.C. 553) requirements for notice of proposed rulemaking, opportunity 
+for public participation, and delay in effective date.
+    5. Because a notice of proposed rulemaking and an opportunity for 
+public comment are not required to be given for this rule by 5 U.S.C. 
+553, or by any other law, the analytical requirements of the Regulatory 
+Flexibility Act, 5 U.S.C. 601, et seq., are not applicable. 
+Accordingly, no regulatory flexibility analysis is required, and none 
+has been prepared.
+
+List of Subjects in 15 CFR Part 744
+
+    Exports, Reporting and recordkeeping requirements, Terrorism.
+
+    Accordingly, part 744 of the Export Administration Regulations (15 
+CFR parts 730-774) is amended as follows:
+
+PART 744--CONTROL POLICY: END-USER AND END-USE BASED
+
+0
+1. The authority citation for 15 CFR part 744 continues to read as 
+follows:
+
+    Authority:  50 U.S.C. 4801-4852; 50 U.S.C. 4601 et seq.; 50 
+U.S.C. 1701 et seq.; 22 U.S.C. 3201 et seq.; 42 U.S.C. 2139a; 22 
+U.S.C. 7201 et seq.; 22 U.S.C. 7210; E.O. 12058, 43 FR 20947, 3 CFR, 
+1978 Comp., p. 179; E.O. 12851, 58 FR 33181, 3 CFR, 1993 Comp., p. 
+608; E.O. 12938, 59 FR 59099, 3 CFR, 1994 Comp., p. 950; E.O. 13026, 
+61 FR 58767, 3 CFR, 1996 Comp., p. 228; E.O. 13099, 63 FR 45167, 3 
+CFR, 1998 Comp., p. 208; E.O. 13222, 66 FR 44025, 3 CFR, 2001 Comp., 
+p. 783; E.O. 13224, 66 FR 49079, 3 CFR, 2001 Comp., p. 786; Notice 
+of September 15, 2021, 86 FR 52069 (September 17, 2021); Notice of 
+November 10, 2021, 86 FR 62891 (November 12, 2021).
+
+
+0
+2. Supplement No. 4 to part 744 is amended:
+0
+a. Under BELARUS by revising the entry for ``JSC Integral'';
+0
+b. Under CHINA:
+
+[[Page 38926]]
+
+0
+i. By adding, in alphabetical order, entries for ``At One 
+Electronics,'' ``Beijing Highlander Digital Technology Co. Ltd,'' 
+``Blueschip Company Limited,'' ``Chen Zhouqian,'' and ``China Academy 
+of Science--Shenyang Institute of Automation'';
+0
+ii. By removing the entry for ``China National Offshore Oil Corporation 
+Ltd.'';
+0
+iii. By adding, in alphabetical order, entries for ``China State 
+Shipbuilding Corp.--Systems Engineering Research Institute,'' 
+``Chipwinone Electronics Co., Limited,'' ``Chuangxinda Electronics-Tech 
+Co.,'' and ``CNOOC Limited,'' ``Connec Electronic Ltd.,'' ``CSSC 
+Electronic Technology,'' ``Ehang International Trade Limited,'' 
+``Gaohui HK Electronics,'' ``Highlander (Hong Kong) Maritime Navigation 
+Science and Technology LLC,'' and ``ICSOSO Electronics Co. Ltd.,'' 
+``King Pai Technology Co., Ltd.,'' and ``Laurel Technologies Co. 
+Ltd.'';
+0
+iv. By revising the entries for ``National University of Defense 
+Technology (NUDT)''; ``Oriental Logistics Group LTD,''
+0
+v. By removing the entry for ``Nanchang O-Film Tech''; and
+0
+vi. By adding, in alphabetical order, entries for ``Sansha Highlander 
+Marine Information Technology Co. Ltd.,'' ``Sanya Highlander Huanyu 
+Ocean Information Technology Corporation,'' ``Shenzhen Avanlane,'' 
+``Sinno Electronics Co., Ltd.,'' ``Suntric Company Limited,'' ``Wayne 
+Weipeng,'' ``Winninc Electronic,'' ``World Jetta (H.K.) Logistics 
+Limited'' and ``Yiru Zhuang'';
+0
+c. By adding in alphabetical order a heading for Lithuania and one 
+entry for ``Sinno Electronics'';
+0
+d. Under PAKISTAN,
+0
+i. By adding, in alphabetical order, entries for ``Industrial Process 
+Automation,'' ``Jim Corporation,'' and ``Maira Trade International'';
+0
+ii. By removing the entry for ``Mushko Electronics Pvt. Ltd.''; and
+0
+iii. By revising the entry for ``X-Cilent Engineering'';
+0
+e. Under RUSSIA,
+0
+i. By revising the entry for ``Avant-Space LLC'';
+0
+ii. By adding, in alphabetical order, entries for ``Avcom-Technique,'' 
+``FASTAIR,'' and ``Intertech Rus LLC'';
+0
+iii. By revising the entries for ``Elara'', ``JSC Central Research 
+Institute of Machine Building,'' ``JSC Element,'' and ``JSC Rocket and 
+Space Centre'';
+0
+iv. By adding, in alphabetical order, entries for ``KingPai Technology 
+Int'l Co., Limited'' and ``Laboratory Systems and Technologies LTD''; 
+and
+0
+v. By revising the entries for ``Russian Space Systems (RKS)'' and 
+``Scientific Research Institute NII Submikron'';
+0
+f. Under SINGAPORE by adding, in alphabetical order, an entry for 
+``Beijing Highlander Digital Technology Co., Ltd.'';
+0
+g. Under SLOVAKIA by revising the entry for ``Incoff Aerospace, 
+S.R.O.'';
+0
+h. Under UNITED ARAB EMIRATES by adding, in alphabetical order, entries 
+for ``Al Noor Alaili Trading Company'', ``Gulf Trade House FZC,'' and 
+``Scott Technologies FZE'';
+0
+i. Under UNITED KINGDOM by adding, in alphabetical order, an entry for 
+``Connec Electronic'';
+0
+j. By adding in alphabetical order a heading for Uzbekistan and one 
+entry for ``Promcomplektlogistic Private Company''; and
+0
+k. Under VIETNAM by adding, in alphabetical order, an entry for 
+``KingPai Technology Int'l Co., Limited''.
+    The additions and revisions read as follows:
+
+Supplement No. 4 to Part 744--Entity List
+
+* * * * *
+
+----------------------------------------------------------------------------------------------------------------
+                                                                              License review    Federal Register
+        Country                     Entity             License requirement        policy            citation
+----------------------------------------------------------------------------------------------------------------
+ 
+                                                  * * * * * * *
+----------------------------------------------------------------------------------------------------------------
+BELARUS................                                         * * * * * *
+                         JSC Integral, a.k.a., the     All items subject    Policy of denial   87 FR 13061, 3/8/
+                          following two aliases:        to the EAR. (See     for all items      22.
+                         --OAO Integral; and            Sec.  Sec.           subject to the    87 FR 34136, 6/6/
+                         --Joint-Stock Company          734.9(g),\3\         EAR apart from     22.
+                          Integral--Holding Managing    746.8(a)(3), and     food and          87 FR [INSERT FR
+                          Company.                      744.21(b) of the     medicine           PAGE NUMBER]
+                         121A, Kazintsa I.P. Str.,      EAR). This license   designated as      June 30, 2022.
+                          Minsk, 220108, Belarus; and   requirement may be   EAR99 and for
+                          12 Korzhenevskogo Str.,       overcome by          U.S. Government
+                          Minsk, 220108, Belarus; and   License Exception    supported use in
+                          137 Brestskaya Str., Pinsk,   GOV under Sec.       the
+                          Brest region, 225710,         740.11(b)(2) and     International
+                          Belarus.                      (e).                 Space Station
+                                                                             (ISS), which
+                                                                             will be reviewed
+                                                                             on a case-by-
+                                                                             case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                                                                * * * * * *
+----------------------------------------------------------------------------------------------------------------
+ 
+                                                  * * * * * * *
+----------------------------------------------------------------------------------------------------------------
+CHINA, PEOPLE'S                                                 * * * * * *
+ REPUBLIC OF.
+                         At One Electronics, Unit      For all items        Presumption of     87 FR [INSERT FR
+                          614, 6/F Block A, Po Lung     subject to the       Denial.            PAGE NUMBER]
+                          Center, No. 11 Wang Chiu      EAR. (See Sec.                          June 30, 2022.
+                          Road, Kowloon Bay, Kowloon,   744.11 of the
+                          Hong Kong; and Rm. 311, 3/    EAR).
+                          F, Genplas Industrial
+                          Building, 56 Hoi Yuen Rd.,
+                          Kwun Tong, Kowloon, Hong
+                          Kong.
+                                                                * * * * * *
+                         Beijing Highlander Digital    For all items        Presumption of     87 FR [INSERT FR
+                          Technology Co. Ltd, Bldg.     subject to the       Denial.            PAGE NUMBER]
+                          10, No. 7 yard, Dijin Rd.,    EAR. (See Sec.                          June 30, 2022.
+                          Haidian District, Beijing,    744.11 of the
+                          China; and C1902, SP Tower,   EAR).
+                          Tsinghua Science Park,
+                          Haidian District, Beijing,
+                          China. (See alternate
+                          address under Singapore).
+ 
+
+[[Page 38927]]
+
+ 
+                                                  * * * * * * *
+                         Blueschip Company Limited,    For all items        Presumption of     87 FR [INSERT FR
+                          R1811 B Building, Jiahe       subject to the       Denial.            PAGE NUMBER]
+                          Tower, No. 3006 Shennan       EAR. (See Sec.                          June 30, 2022.
+                          Middle Road, Shenzhen,        744.11 of the
+                          China 518031; and Room 06     EAR).
+                          Block A 23/F Hoover Ind
+                          Building, 26-38 Kwai Cheong
+                          Rd., Kwai Chung N.T., Hong
+                          Kong.
+ 
+                                                  * * * * * * *
+                         Chen Zhouqian, a.k.a., the    For all items        Presumption of     87 FR [INSERT FR
+                          following one alias:          subject to the       Denial.            PAGE NUMBER]
+                         --Zhou Qian.                   EAR. (See Sec.                          June 30, 2022.
+                                                        744.11 of the
+                                                        EAR).
+                         Room 1811, B Bldg., Jiahe
+                          Tower, No. 3006 Shennan
+                          Middle Rd., Shenzhen,
+                          China; and Room 06 Blk A 23/
+                          F Hoover Ind. Bldg., 26-38
+                          Kwai Cheong Rd., Kwai Chung
+                          N.T., Hong Kong; and Unit
+                          614, 6/F., Blk. A, Po Lung
+                          Ctr., No.11 Wang Chiu Road,
+                          Kowloon Bay, Kowloon, Hong
+                          Kong; and Rm. 311, 3/F,
+                          Genplas Industrial Bldg.,
+                          56 Hoi Yuen Rd., Kwun Tong,
+                          Kowloon, Hong Kong; and No.
+                          11 Wang Chiu Road Unit 614A
+                          6F Po Lung Centre, Hong
+                          Kong.
+                                                                * * * * * *
+                         China Academy of Science--    For all items        Presumption of     87 FR [INSERT FR
+                          Shenyang Institute of         subject to the       Denial.            PAGE NUMBER]
+                          Automation, No. 114 Nanta     EAR. (See Sec.                          June 30, 2022.
+                          Street, Shenyang, Liaoning,   744.11 of the
+                          China.                        EAR).
+                                                                * * * * * *
+                         China State Shipbuilding      For all items        Presumption of     87 FR [INSERT FR
+                          Corp.--Systems Engineering    subject to the       Denial.            PAGE NUMBER]
+                          Research Institute, No. 16    EAR. (See Sec.                          June 30, 2022.
+                          Cuiwei Rd., Haidian Dist,     744.11 of the
+                          Beijing 100036; and No. 5     EAR).
+                          Yuetan North St, Xicheng
+                          Dist, Beijing.
+                                                                * * * * * *
+                         Chipwinone Electronics Co.,   For all items        Presumption of     87 FR [INSERT FR
+                          Limited, R1618, B Building,   subject to the       Denial.            PAGE NUMBER]
+                          Jiahe Tower, No. 3006         EAR. (See Sec.                          June 30, 2022.
+                          Shennan Middle Road,          744.11 of the
+                          Shenzhen, China.              EAR).
+                                                                * * * * * *
+                         Chuangxinda Electronics-Tech  For all items        Presumption of     87 FR [INSERT FR
+                          Co., Ltd., a.k.a., the        subject to the       Denial.            PAGE NUMBER]
+                          following two aliases:        EAR. (See Sec.                          June 30, 2022.
+                         --CXDA; and                    744.11 of the
+                         --Chuangxinda Electronics      EAR).
+                          Company Limited.
+                         R1811 B Building, Jiahe
+                          Tower, No. 3006 Shennan
+                          Middle Road, Shenzhen,
+                          China 518031; and Unit 614,
+                          6/F., Block A, Po Lung Ctr,
+                          No. 11 Wang Chiu Road,
+                          Kowloon Bay, Kowloon, Hong
+                          Kong; and Rm. 311, 3/F,
+                          Genplas Industrial Building
+                          56 Hoi Yuen Road, Kwun
+                          Tong, Kowloon, Hong Kong;
+                          and No. 11 Wang Chiu Road
+                          Unit 614A 6F Po Lung
+                          Centre, Hong Kong.
+                                                                * * * * * *
+
+[[Page 38928]]
+
+ 
+                         CNOOC Limited (a subsidiary   All items subject    Presumption of     86 FR 4864, 1/14/
+                          of China National Offshore    to the EAR except    denial.            21.
+                          Oil Corporation), No. 25      for:                                   87 FR [INSERT FR
+                          Chaoyangmen North Street,    --crude oil,                             PAGE NUMBER]
+                          Dongcheng District,           condensates,                            June 30, 2022.
+                          Beijing, 100010, China; and   aromatics, natural
+                          65th Floor, Bank of China     gas liquids,
+                          Tower, 1 Garden Road, Hong    hydrocarbon gas
+                          Kong.                         liquids, natural
+                                                        gas plant liquids,
+                                                        refined petroleum
+                                                        products,
+                                                        liquefied natural
+                                                        gas, natural gas,
+                                                        synthetic natural
+                                                        gas, and
+                                                        compressed natural
+                                                        gas under the
+                                                        following
+                                                        Harmonized System
+                                                        (HS) codes:
+                                                        271111,
+                                                        2711210000,
+                                                        2711210000, 2709,
+                                                        2709002010, 2707,
+                                                        27075000, 2710,
+                                                        271019, 271112,
+                                                        271113, 271114,
+                                                        271119, 27111990,
+                                                        271311, 271312,
+                                                        271012250, 2901,
+                                                        290511, 2701,
+                                                        29109020,
+                                                        29151310,
+                                                        29155020,
+                                                        29156050,
+                                                        29159020,
+                                                        29161210,
+                                                        29280025,
+                                                        29321910,
+                                                        29362920,
+                                                        29419030,
+                                                        2909300000,
+                                                        2917194500,
+                                                        2922504500,
+                                                        2924296000,
+                                                        2925294500,
+                                                        2928002500,
+                                                        2933194350; or
+                         ............................  --items required
+                                                        for the continued
+                                                        operation of joint
+                                                        ventures with
+                                                        persons from
+                                                        countries in
+                                                        Country Group A:1
+                                                        in supplement no.
+                                                        1 to part 740 of
+                                                        the EAR not
+                                                        operating in any
+                                                        body of water, or
+                                                        the airspace above
+                                                        any body of water,
+                                                        within the
+                                                        following
+                                                        coordinates:
+                                                       Upper Left:
+                                                       26[deg]4'48.931'' N
+                                                       104[deg]31'41.383''
+                                                        E
+                                                       Upper Right:
+                                                       26[deg]4'48.931'' N
+                                                       123[deg]19'22.225''
+                                                        E
+                                                       Lower Right:
+                                                       0[deg]0'0.00'' N
+                                                       123[deg]19'22.225''
+                                                        E
+                                                       Lower Left:
+                                                       0[deg]0'0.00'' N
+                                                       104[deg]31'41.383''
+                                                        E
+                                                                * * * * * *
+                         Connec Electronic Ltd.,       For all items        Policy of Denial   87 FR [INSERT FR
+                          a.k.a., the following two     subject to the       for all items      PAGE NUMBER]
+                          aliases:                      EAR. (See Sec.       subject to the     June 30, 2022.
+                         --Suzhou Konecot               744.11 of the        EAR apart from
+                          Electronics; and              EAR).                food and
+                         --Suzhou Ke Nai Ke Te Dianzi                        medicine
+                          Youxian Gongsi.                                    designated as
+                         Room 1110, No 168, Fenjiang                         EAR99, which
+                          Road, Mudu Town, Wuzhong                           will be reviewed
+                          District, Suzhou City,                             on a case-by-
+                          China; and 5015 East                               case basis.
+                          Shennan Rd., Shenzhen,
+                          China; and 10/F., Flat U
+                          Valiant Industrial Centre,
+                          2 to 12 Au Pui Wan Street,
+                          Hong Kong. (See alternate
+                          addresses under United
+                          Kingdom).
+                                                                * * * * * *
+                         CSSC Electronic Technology,   For all items        Presumption of     87 FR [INSERT FR
+                         40 South Fangcun Main Rd.,     subject to the       Denial.            PAGE NUMBER]
+                          Liwan District, Guangzhou,    EAR. (See Sec.                          June 30, 2022.
+                          China.                        744.11 of the
+                                                        EAR).
+                                                                * * * * * *
+                         Ehang International Trade     For all items        Presumption of     87 FR [INSERT FR
+                          Limited, Flat/Room 32, 11/F   subject to the       Denial.            PAGE NUMBER]
+                          Lee Ka Industrial Building    EAR. (See Sec.                          June 30, 2022.
+                          8NK Fong Street San Po        744.11 of the
+                          Kong, Kowloon, Hong Kong.     EAR).
+                                                                * * * * * *
+
+[[Page 38929]]
+
+ 
+                         Gaohui HK Electronics, Room   For all items        Presumption of     87 FR [INSERT FR
+                          1608, B Building, Jiahe       subject to the       Denial.            PAGE NUMBER]
+                          Tower, No. 3006 Shennan       EAR. (See Sec.                          June 30, 2022.
+                          Middle Road, Shenzhen,        744.11 of the
+                          China 518031; and Rm. 311,    EAR).
+                          3/F, Genplas Industrial
+                          Building, 56 Hoi Yuen Road,
+                          Kwun Tong, Kowloon, Hong
+                          Kong; and Flat/Room 33 8/F,
+                          Sino Industrial Place 9 Kai
+                          Cheung Road, Kowloon, Hong
+                          Kong.
+                                                                * * * * * *
+                         Highlander (Hong Kong)        For all items        Presumption of     87 FR [INSERT FR
+                          Maritime Navigation Science   subject to the       Denial.            PAGE NUMBER]
+                          and Technology LLC, a.k.a.,   EAR. (See Sec.                          June 30, 2022.
+                          the following one alias:      744.11 of the
+                         --Highlandson (Hong Kong)      EAR).
+                          Navigation Technology Co.
+                          Ltd.
+                         48 Des Voeux Rd. Central,
+                          Hong Kong.
+                                                                * * * * * *
+                         ICSOSO Electronics Co. Ltd.,  For all items        Presumption of     87 FR [INSERT FR
+                          a.k.a., the following one     subject to the       Denial.            PAGE NUMBER]
+                          alias:                        EAR. (See Sec.                          June 30, 2022.
+                         --IC Soso Electronics Co.      744.11 of the
+                          Ltd.                          EAR).
+                         Unit 614, 6/F, Block A, Po
+                          Lung Ctr, 11 Wang Chiu
+                          Road, Kowloon, Hong Kong;
+                          and Rm. 311, 3/F, Genplas
+                          Industrial Bldg., 56 Hoi
+                          Yuen Road, Kwun Tong,
+                          Kowloon, Hong Kong.
+                                                                * * * * * *
+                         King Pai Technology Co.,      For all items        Policy of Denial   87 FR [INSERT FR
+                          Ltd., a.k.a., the following   subject to the       for all items      PAGE NUMBER]
+                          four aliases:                 EAR. (See Sec.       subject to the     June 30, 2022.
+                         --King-Pai Technology (HK)     744.11 of the        EAR apart from
+                          Co., Limited;                 EAR).                food and
+                         --KingPai Technology Int'l                          medicine
+                          Co., Limited;                                      designated as
+                         --KingPai Technology Group                          EAR99, which
+                          Co., Limited; and                                  will be reviewed
+                         --Jinpai Technology (Hong                           on a case-by-
+                          Kong) Co., Ltd.                                    case basis.
+                         No 13 4/F., Flourish
+                          Industrial Building, No. 33
+                          Sheung Yee Road, Kowloon
+                          Bay, Kowloon, Hong Kong;
+                          and 1488E, Block A,
+                          Shenfang Building, Huaqiang
+                          North Road, Futian
+                          District, Shenzhen, China;
+                          and Room 804, Block A,
+                          Shenfang Building, Huaqiang
+                          North Road, Futian
+                          District, Shenzhen, China;
+                          and Room 1508, Block A,
+                          Shenfang Building, Huaqiang
+                          North Road, Futian
+                          District, Shenzhen, China;
+                          and Room 1509, Block A,
+                          Shenfang Building, Huaqiang
+                          North Road, Futian
+                          District, Shenzhen, China;
+                          and Room 1805, Poly Tianyue
+                          Center, 332 Gaoxin Guanshan
+                          Avenue, East Lake, Wuhan,
+                          China; and 908
+                          International Finance
+                          Building, No 633, Keji 2nd
+                          Street, Songbei District,
+                          Harbin, Heilongjiang,
+                          China. (See alternate
+                          addresses under Russia and
+                          Vietnam).
+                                                                * * * * * *
+                         Laurel Technologies Co.       For all items        Presumption of     87 FR [INSERT FR
+                          Ltd., a.k.a., the following   subject to the       Denial.            PAGE NUMBER]
+                          one alias:                    EAR. (See Sec.                          June 30, 2022.
+                         --Laurel Industrial Co.        744.11 of the
+                         Suite 1807-1810, KunTai        EAR).
+                          International Mansion, No.
+                          12 B, Chaowai St., Beijing,
+                          100020, China.
+                                                                * * * * * *
+                         National University of        For all items        Presumption of     80 FR 8527, 2/18/
+                          Defense Technology (NUDT),    subject to the       denial.            15.
+                          a.k.a., the following three   EAR. (See Sec.                         84 FR 29373, 6/24/
+                          aliases:                      744.11 of the                           19,
+                         --Central South CAD Center;    EAR).                                  87 FR [INSERT FR
+                         --CSCC; and                                                            PAGE NUMBER]
+                         --Hunan Guofang Keji                                                   June 30, 2022.
+                          University.
+                         Garden Road (Metro West),
+                          Changsha City, Kaifu
+                          District, Hunan Province,
+                          China; and 109 Deya Road,
+                          Kaifu District, Changsha
+                          City, Hunan Province,
+                          China; and 47 Deya Road,
+                          Kaifu District, Changsha
+                          City, Hunan Province,
+                          China; and 147 Deya Road,
+                          Kaifu District, Changsha
+                          City, Hunan Province,
+                          China; and 47 Yanwachi,
+                          Kaifu District, Changsha,
+                          Hunan, China; and Wonderful
+                          Plaza, Sanyi Avenue, Kaifu
+                          District, Changsha, China;
+                          and No. 54 Beiya Road,
+                          Changsha, China; and No. 54
+                          Deya Road, Changsha, China.
+                                                                * * * * * *
+
+[[Page 38930]]
+
+ 
+                         Oriental Logistics Group      All items subject    Presumption of     85 FR 59421, 9/22/
+                          LTD, a.k.a., the following    to the EAR. (See     Denial.            20.
+                          one alias:                    Sec.   744.11 of                       85 FR 83769, 12/
+                         --Oriental Air Transport       the EAR).                               23/20.
+                          Service Ltd.                                                         87 FR [INSERT FR
+                         Room 2114, 21/F., Shenhua                                              PAGE NUMBER]
+                          Commercial, Bldg., No. 2018                                           June 30, 2022.
+                          Jiabin Rd., Luo Hu
+                          District, Shenzhen, China
+                          418001; and Unit B, 10th
+                          Floor, United Overseas
+                          Plaza, No. 11, Lai Yip
+                          Street, Kwun Tong, Kowloon,
+                          Hong Kong.
+                                                                * * * * * *
+                         Sansha Highlander Marine      For all items        Presumption of     87 FR [INSERT FR
+                          Information Technology Co.    subject to the       Denial.            PAGE NUMBER]
+                          Ltd., a.k.a., the following   EAR. (See Sec.                          June 30, 2022.
+                          two aliases:                  744.11 of the
+                         --Sansha Highlander Ocean      EAR).
+                          Information Science and
+                          Technology Co. Ltd.; and
+                         --Sansha Highlander Ocean
+                          Information Technology Co.
+                          Ltd.
+                         Sansha City, Hainan
+                          Province, China.
+                         Sanya Highlander Huanyu       For all items        Presumption of     87 FR [INSERT FR
+                          Ocean Information             subject to the       Denial.            PAGE NUMBER]
+                          Technology Corporation,       EAR. (See Sec.                          June 30, 2022.
+                          a.k.a., the following one     744.11 of the
+                          alias:                        EAR).
+                         --Sanya Highlander
+                          Information Technology Co.
+                          Ltd.
+                         C1902, SP Tower, Tsinghua
+                          Science Park, Beijing,
+                          China 100084.
+                                                                * * * * * *
+                         Shenzhen Avanlane, a.k.a.,    For all items        Presumption of     87 FR [INSERT FR
+                          the following one alias:      subject to the       Denial.            PAGE NUMBER]
+                         --Avanlane Inc.                EAR. (See Sec.                          June 30, 2022.
+                         Unit C, D 10/F Shenmao         744.11 of the
+                          Building News Road,           EAR).
+                          Shenzhen, China; and Rm.
+                          311, 3/F, Genplas
+                          Industrial Building, 56 Hoi
+                          Yuen Road, Kwun Tong,
+                          Kowloon, Hong Kong; and
+                          62459-4F East Asia
+                          Industrial Building, 2 Ho
+                          Tin Street, Tuen Mun, N.T.,
+                          Hong Kong.
+                                                                * * * * * *
+                         Sinno Electronics Co., Ltd.,  For all items        Policy of Denial   87 FR [INSERT FR
+                          a.k.a., the following one     subject to the       for all items      PAGE NUMBER]
+                          alias:                        EAR. (See Sec.       subject to the     June 30, 2022.
+                         --Xinnuo Electronic            744.11 of the        EAR apart from
+                          Technology.                   EAR).                food and
+                         Rm. 2408 Dynamic World                              medicine
+                          Building, Zhonghang Rd.,                           designated as
+                          Futian District, Shenzhen,                         EAR99, which
+                          China; and Rm. 10905 Xingda                        will be reviewed
+                          Garden Building, Kaiyuan                           on a case-by-
+                          Rod, Xingsha Development                           case basis.
+                          Area, Changsha, China; and
+                          Rm. B22, 1F, Block B East
+                          Sun Industrial Centre, 16
+                          Shing Yip Street, Kwun
+                          Tong, Kowloon, Hong Kong.
+                          (See alternate address
+                          under Lithuania).
+                                                                * * * * * *
+                         Suntric Company Limited,      For all items        Presumption of     87 FR [INSERT FR
+                          a.k.a., the following one     subject to the       Denial.            PAGE NUMBER]
+                          alias:                        EAR. (See Sec.                          June 30, 2022.
+                         --IC.CN Company Limited.       744.11 of the
+                         Rm. 311, 3/F, Genplas          EAR).
+                          Industrial Building 56 Hoi
+                          Yuen Road, Kwun Tong,
+                          Kowloon, Hong Kong; and
+                          Unit C, D 10/F Shenmao
+                          Building News Road,
+                          Shenzhen, China; and Room
+                          2113-2115, Level 21
+                          Landmark North, 39 Lung Sum
+                          Avenue, Sheung Shui, Hong
+                          Kong.
+                                                                * * * * * *
+                         Wayne Weipeng, the following  For all items        Presumption of     87 FR [INSERT FR
+                          one alias:                    subject to the EAR   Denial.            PAGE NUMBER]
+                         --Wang Wayne.                  (See Sec.   744.11                      June 30, 2022.
+                                                        of the EAR).
+
+[[Page 38931]]
+
+ 
+                         Room 1811, B Bldg., Jiahe
+                          Tower, No. 3006 Shennan
+                          Middle Rd., Shenzhen,
+                          China; and Room 1608, B
+                          Bldg., Jiahe Tower, No.
+                          3006 Shennan Middle Road,
+                          Shenzhen China 518031; and
+                          Unit C, D 10/F Shenmao
+                          Building News Road,
+                          Shenzhen, China; and Rm.
+                          311, 3/F, Genplas
+                          Industrial Bldg., 56 Hoi
+                          Yuen Rd., Kwun Tong,
+                          Kowloon, Hong Kong; and
+                          Room 06 Blk A 23/F Hoover
+                          Ind. Bldg., 26-38 Kwai
+                          Cheong Rd., Kwai Chung
+                          N.T., Hong Kong; and Unit
+                          614, 6/F., Blk. A, Po Lung
+                          Ctr., No. 11 Wang Chiu
+                          Road, Kowloon Bay, Kowloon,
+                          Hong Kong; and No. 11 Wang
+                          Chiu Road Unit 614A 6F Po
+                          Lung Centre, Hong Kong; and
+                          Flat/Rm32, 11/F Lee Ka
+                          Industrial Building 8NK
+                          Fong Street San Po Kong,
+                          Kowloon, Hong Kong; and
+                          Flat/Room 33 8/F Sino
+                          Industrial Place 9 Kai
+                          Cheung Road, Kowloon, Hong
+                          Kong; and 62459-4F East
+                          Asia Industrial Building, 2
+                          Ho Tin Street, Tuen Mun,
+                          N.T., Hong Kong.
+                                                                * * * * * *
+                         Winninc Electronic, Gaokede   For all items        Policy of Denial   87 FR [INSERT FR
+                          Building, Huaqiang North,     subject to the EAR   for all items      PAGE NUMBER]
+                          Shenzhen, China; and 1203     (See Sec.   744.11   subject to the     June 30, 2022.
+                          High Technology Building,     of the EAR).         EAR apart from
+                          Guangbutun Wuchang                                 food and
+                          District, Wuhan, China; and                        medicine
+                          #4 Dong Aocheng 1618,                              designated as
+                          Nanshan District, Shenzhen,                        EAR99, which
+                          China; and 2818 Glittery                           will be reviewed
+                          City Shennan Middle Road,                          on a case-by-
+                          Shenzhen, China; and Unit                          case basis.
+                          01 & 03, 1/F Lai Sun Yuen
+                          Long, No. 27 Wang Yip
+                          Street East, Yuen Long,
+                          N.T., Hong Kong; and Unit
+                          04, 8/F Bright Way Tower
+                          No. 33 Mong Kok Rd.
+                          Konglong, Hong Kong.
+                                                                * * * * * *
+                         World Jetta (H.K.) Logistics  For all items        Policy of Denial   87 FR [INSERT FR
+                          Limited, a.k.a., the          subject to the EAR   for all items      PAGE NUMBER]
+                          following one alias:          (See Sec.   744.11   subject to the     June 30, 2022.
+                         --Hong Kong Shijieda           of the EAR).         EAR apart from
+                          Logistics.                                         food and
+                         1017 Building B Jiahe                               medicine
+                          Huangqiang Block, Futian                           designated as
+                          District, Shenzhen, China.                         EAR99, which
+                                                                             will be reviewed
+                                                                             on a case-by-
+                                                                             case basis.
+                                                                * * * * * *
+                         Yiru Zhuang, Room 1811, B     For all items        Presumption of     87 FR [INSERT FR
+                          Bldg., Jiahe Tower, No.       subject to the       Denial.            PAGE NUMBER]
+                          3006 Shennan Middle Rd.,      EAR. (See Sec.                          June 30, 2022.
+                          Shenzhen, China; and Room     744.11 of the
+                          06 Blk A 23/F Hoover Ind.     EAR).
+                          Bldg., 26-38 Kwai Cheong
+                          Rd., Kwai Chung N.T., Hong
+                          Kong; and Unit 614, 6/F.,
+                          Blk A, Po Lung Ctr., No.11
+                          Wang Chiu Road, Kowloon
+                          Bay, Kowloon, Hong Kong;
+                          and Rm. 311, 3/F, Genplas
+                          Industrial Bldg., 56 Hoi
+                          Yuen Rd., Kwun Tong,
+                          Kowloon, Hong Kong; and No.
+                          11 Wang Chiu Road Unit 614A
+                          6F Po Lung Centre, Hong
+                          Kong.
+                                                                * * * * * *
+----------------------------------------------------------------------------------------------------------------
+ 
+                                                  * * * * * * *
+----------------------------------------------------------------------------------------------------------------
+LITHUANIA..............  Sinno Electronics, Kirtimu G  For all items        Policy of Denial   87 FR [INSERT FR
+                          41, Vilnius, Lithuania.       subject to the       for all items      PAGE NUMBER]
+                          (See alternate address        EAR. (See Sec.       subject to the     June 30, 2022.
+                          under China).                 744.11 of the        EAR apart from
+                                                        EAR).                food and
+                                                                             medicine
+                                                                             designated as
+                                                                             EAR99, which
+                                                                             will be reviewed
+                                                                             on a case-by-
+                                                                             case basis.
+----------------------------------------------------------------------------------------------------------------
+ 
+                                                  * * * * * * *
+----------------------------------------------------------------------------------------------------------------
+PAKISTAN...............                                         * * * * * *
+                         Industrial Process            For all items        Presumption of     87 FR [INSERT FR
+                          Automation, No. 12, 11        subject to the       Denial.            PAGE NUMBER]
+                          Nishter Road, Lahore,         EAR. (See Sec.                          June 30, 2022.
+                          Pakistan.                     744.11 of the
+                                                        EAR).
+                                                                * * * * * *
+                         Jim Corporation, 11 Nishter   For all items        Presumption of     87 FR [INSERT FR
+                          Road, Lahore, Pakistan; and   subject to the       Denial.            PAGE NUMBER]
+                          No. 521, Executive Office,    EAR. (See Sec.                          June 30, 2022.
+                          Plot No. 23, Hilal Road, F-   744.11 of the
+                          11/1, Islamabad, Pakistan.    EAR).
+                                                                * * * * * *
+
+[[Page 38932]]
+
+ 
+                         Maira Trade International,    For all items        Presumption of     87 FR [INSERT FR
+                          No. 1 Rahman Street, Office   subject to the       Denial.            PAGE NUMBER]
+                          No. 15, Nishter Road,         EAR. (See Sec.                          June 30, 2022.
+                          Lahore; and No. 1 Rahman      744.11 of the
+                          Street, Office No. 15,        EAR).
+                          Brandeth Road, Lahore; and
+                          No. 521, Executive Office,
+                          Plot No. 23, Hilal Road, F-
+                          11/1, Islamabad, Pakistan.
+                                                                * * * * * *
+                         X-Cilent Engineering, 642,    For all items        See Sec.           87 FR 8182, 2/14/
+                          Afshan Colony, Rawalpindi     subject to the       744.2(d) of the    22.
+                          Cantt, 46000, Pakistan.       EAR. (See Sec.       EAR.              87 FR [INSERT FR
+                                                        744.11 of the                           PAGE NUMBER]
+                                                        EAR).                                   June 30, 2022.
+----------------------------------------------------------------------------------------------------------------
+ 
+                                                  * * * * * * *
+----------------------------------------------------------------------------------------------------------------
+RUSSIA.................                                         * * * * * *
+                         Avant-Space LLC, a.k.a., the  For all items        Policy of Denial.  87 FR 13143, 3/9/
+                          following four aliases:       subject to the       Case-by-case       22.
+                         --AVANT-SPEIS;                 EAR. (See Sec.       basis for items   87 FR [INSERT FR
+                         --Avant Space Systems;         744.11 of the        for U.S.           PAGE NUMBER]
+                         --Avant Space Propulsion       EAR).                Government         June 30, 2022.
+                          Systems; and                                       supported use in
+                         --OOO Avant-Spejs.                                  the
+                         4/7 Lugovaya Street,                                International
+                          Skolkovo Innovation Center,                        Space Station
+                          Moscow, Russia, 143026; and                        (ISS).
+                          42 Bolshoy Bulvar,
+                          Skolkovo, Moscow, Russia,
+                          143026; and 12 Presnenskaya
+                          Embankment, Moscow, Russia,
+                          123112.
+                         Avcom-Technique, a.k.a., the  For all items        Case-by-case       87 FR [INSERT FR
+                          following four aliases:       subject to the       review.            PAGE NUMBER]
+                         --Avcom Group;                 EAR. (See Sec.                          June 30, 2022.
+                         --Avcom-Technique Ltd;         744.11 of the
+                         --AVCOM-D; and                 EAR).
+                         --OOO Avkom Tekhnik.
+                         Airport Ramenskoe
+                          (Zhukovsky), Narkomvod
+                          Street 7, Russia; and
+                          Moscow Region, Zhukovsky
+                          City, Narkomvod Street, 7,
+                          Russia; and Room 5, 95B
+                          Kashirskoe Highway,
+                          Domodedovo, Moscow Region,
+                          142004, Russia; and Pom. 5,
+                          D. 95B, Kashirskoe Shosse,
+                          Domodedovo, Moskovskaya
+                          Region, 142004, Russia.
+                                                                * * * * * *
+                         Elara, a.k.a., the following  For all items        Policy of denial;  87 FR 13143, 3/9/
+                          one alias:                    subject to the       Case-by-case       22.
+                         --Joint Stock Company          EAR. (See Sec.       basis for items   87 FR [INSERT FR
+                          Scientific and Production     744.11 of the        for U.S.           PAGE NUMBER]
+                          Complex Elara named after     EAR).                Government         June 30, 2022.
+                          G.A. Illienko.                                     supported use in
+                         40 Moskovsky Avenue, Chuvash                        the
+                          Republic, 428017; and 7                            International
+                          Obraztsova Street, Moscow,                         Space Station
+                          Russia, 428020.                                    (ISS).
+                                                                * * * * * *
+                         FASTAIR, a.k.a., the          For all items        Case-by-case       87 FR [INSERT FR
+                          following five aliases:       subject to the       review.            PAGE NUMBER]
+                         --LLC Fastair International;   EAR. (See Sec.                          June 30, 2022.
+                         --Fast Air International;      744.11 of the
+                         --Fast Air;                    EAR).
+                         --OOO Fasteir Interneshnl;
+                          and
+                         --OOO Fasteir.
+                         121471, 14, Ryabinovaya
+                          Street, Moscow Russia; and
+                          121471, 14, Rainovaya
+                          Street, Office 511, Moscow,
+                          Russia; and Rabinovaya
+                          Street, 14, Moscow, Russia.
+                                                                * * * * * *
+                         Intertech Rus LLC, a.k.a.,    For all items        See Sec.  Sec.     87 FR [INSERT FR
+                          the following one alias:      subject to the       744.2(d),          PAGE NUMBER]
+                         --Intertek Rus OOO.            EAR. (See Sec.       744.3(d), and      June 30, 2022.
+                         8, 2nd Brestskaya str., 10th   744.11 of the        744.4(d).
+                          Floor 125047, Moscow          EAR).
+                          Russia; and d. 27 str. 2
+                          etazh/pom./kom. 2/IV/1-3,5-
+                          25, ul. Elektrozavodskaya
+                          Moscow, 107023 Russian
+                          Federation; and d. 3 str. 2
+                          pom. 506 kom. 69, ul.
+                          Krymski Val Moscow, 119049
+                          Russian Federation.
+                                                                * * * * * *
+                         JSC Central Research          All items subject    Policy of denial   87 FR 12240, 3/3/
+                          Institute of Machine          to the EAR. (See     for all items      22.
+                          Building (JSC TsNIIMash),     Sec.  Sec.           subject to the    87 FR 13061, 3/8/
+                          Pionerskaya Street, 4,        734.9(g),\3\         EAR apart from     22.
+                          korpus 22, Moskovskaya        746.8(a)(3), and     food and          87 FR 34136, 6/6/
+                          obl., Korolov 141070,         744.21(b) of the     medicine           22.
+                          Russia.                       EAR). This license   designated as     87 FR [INSERT FR
+                                                        requirement may be   EAR99 and for      PAGE NUMBER]
+                                                        overcome by          items for U.S.     June 30, 2022.
+                                                        License Exception    Government
+                                                        GOV under Sec.       supported use in
+                                                        740.11(b)(2) and     the
+                                                        (e).                 International
+                                                                             Space Station
+                                                                             (ISS), which
+                                                                             will be reviewed
+                                                                             on a case-by-
+                                                                             case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+
+[[Page 38933]]
+
+ 
+                         JSC Element, 12 Presnenskaya  For all items        Policy of denial;  87 FR 13143, 3/9/
+                          Embankment, Office 2024,      subject to the       Case-by-case       22.
+                          Moscow, Russia, 123112.       EAR. (See Sec.       basis for items   87 FR [INSERT FR
+                                                        744.11 of the        for U.S.           PAGE NUMBER]
+                                                        EAR).                Government         June 30, 2022.
+                                                       This license          supported use in
+                                                        requirement may be   the
+                                                        overcome by          International
+                                                        License Exception    Space Station
+                                                        GOV under Sec.       (ISS).
+                                                        740.11(b)(2) and
+                                                        (e).
+                                                                * * * * * *
+                         JSC Rocket and Space Centre-- All items subject    Policy of denial   87 FR 12240, 3/3/
+                          Progress, Zemetsa Street      to the EAR. See      for all items      22.
+                          18, Samarskaya Oblast,        Sec.  Sec.           subject to the    87 FR 34136, 6/6/
+                          Samara 443009, Russia.        734.9(g),\3\         EAR apart from     22.
+                                                        746.8(a)(3), and     food and          87 FR [INSERT FR
+                                                        744.21(b) of the     medicine           PAGE NUMBER]
+                                                        EAR). This license   designated as      June 30, 2022.
+                                                        requirement may be   EAR99 and for
+                                                        overcome by          items for U.S.
+                                                        License Exception    Government
+                                                        GOV under Sec.       supported use in
+                                                        740.11(b)(2) and     the
+                                                        (e).                 International
+                                                                             Space Station
+                                                                             (ISS), which
+                                                                             will be reviewed
+                                                                             on a case-by-
+                                                                             case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                                                                * * * * * *
+                         KingPai Technology Int'l      For all items        Policy of Denial   87 FR [INSERT FR
+                          Co., Limited, 3               subject to the       for all items      PAGE NUMBER]
+                          Gostnichnaya St, Moscow,      EAR. (See Sec.       subject to the     June 30, 2022.
+                          Russia. (See alternate        744.11).             EAR apart from
+                          addresses under China and                          food and
+                          Vietnam).                                          medicine
+                                                                             designated as
+                                                                             EAR99, which
+                                                                             will be reviewed
+                                                                             on a case-by-
+                                                                             case basis.
+                                                                * * * * * *
+                         Laboratory Systems and        For all items        See Sec.  Sec.     87 FR [INSERT FR
+                          Technologies LTD, a.k.a.,     subject to the       744.2(d),          PAGE NUMBER]
+                          the following one alias:      EAR. (See Sec.       744.3(d), and      June 30, 2022.
+                         --LST LTD.                     744.11).             744.4(d).
+                         Burdenko St., 14 Bld. A 4
+                          Stage, Office 1 Room 3,
+                          119121, Moscow Russia.
+                                                                * * * * * *
+                         Russian Space Systems (RKS),  For all items        Policy of denial;  87 FR 13143, 3/9/
+                          222 Sosnovaya, Tsiolkovski,   subject to the       Case-by-case       22.
+                          Amurskaya Oblast, Russia,     EAR. (See Sec.       basis for items   87 FR [INSERT FR
+                          676470; and 53G               744.11 of the        for U.S.           PAGE NUMBER]
+                          Aviamotornaya, Moscow,        EAR). This license   Government         June 30, 2022.
+                          Russia, 111024; and 51        requirement may be   supported use in
+                          Dekabristov, Moscow,          overcome by          the
+                          Russia, 127490.               License Exception    International
+                                                        GOV under Sec.       Space Station
+                                                        740.11(b)(2) and     (ISS).
+                                                        (e).
+                                                                * * * * * *
+                         Scientific Research           For all items        Policy of denial;  87 FR 13143, 3/9/
+                          Institute NII Submikron, 5    subject to the       Case-by-case       22.
+                          Street 2, Proskpekt           EAR. (See Sec.       basis for items   87 FR [INSERT FR
+                          Georgievski, Zelenograd,      744.11 of the        for U.S.           PAGE NUMBER]
+                          Moscow, Russia, 124498.       EAR).                Government         June 30, 2022.
+                                                                             supported use in
+                                                                             the
+                                                                             International
+                                                                             Space Station
+                                                                             (ISS).
+                                                                * * * * * *
+----------------------------------------------------------------------------------------------------------------
+ 
+                                                  * * * * * * *
+----------------------------------------------------------------------------------------------------------------
+SINGAPORE..............                                         * * * * * *
+                         Beijing Highlander Digital    For all items        Presumption of     87 FR [INSERT FR
+                          Technology Co., Ltd., 1       subject to the       Denial.            PAGE NUMBER]
+                          Sunview Rd., #08-43,          EAR. (See Sec.                          June 30, 2022.
+                          Singapore 627615. (See        744.11 of the
+                          alternate address under       EAR).
+                          China).
+                                                                * * * * * *
+SLOVAKIA...............  Incoff Aerospace S.R.O.,      For all items        Policy of denial;  87 FR 13143, 3/9/
+                          a.k.a., the following one     subject to the       Case-by-case       22.
+                          alias:                        EAR. (See Sec.       basis for items   87 FR [INSERT FR
+                         --Incoff Group                 744.11 of the        for U.S.           PAGE NUMBER]
+                         Polianky 3327/5 Bratislava--   EAR). This license   Government         June 30, 2022.
+                          Mestska Cast Dubravka;        requirement may be   supported use in
+                          Bratislavsky, 84101,          overcome by          the
+                          Slovakia.                     License Exception    International
+                                                        GOV under Sec.       Space Station
+                                                        740.11(b)(2) and     (ISS).
+                                                        (e).
+----------------------------------------------------------------------------------------------------------------
+                                                                * * * * * *
+----------------------------------------------------------------------------------------------------------------
+UNITED ARAB EMIRATES...                                         * * * * * *
+
+[[Page 38934]]
+
+ 
+                         Al Noor Alaili Trading        For all items        Presumption of     87 FR [INSERT FR
+                          Company, a.k.a., the          subject to the       Denial.            PAGE NUMBER]
+                          following one alias:          EAR. (See Sec.                          June 30, 2022.
+                         --ANATCO.                      744.11 of the
+                         Floor No. 37, Office No.       EAR).
+                          3706, Latifa Tower,
+                          Community Trade Center
+                          First, Sheikh Zayed Road,
+                          P.O. Box: 40118, Dubai,
+                          United Arab Emirates; and
+                          Office number 3706, Floor
+                          number 37, Latifa Tower,
+                          Community Trade Center
+                          First, Sheikh Zayed Road,
+                          Dubai, Dubai, United Arab
+                          Emirates; and PO Box 40118,
+                          Dubai, United Arab
+                          Emirates; and 40118, Deira,
+                          Nakheel Road, Dubai, United
+                          Arab Emirates.
+                                                                * * * * * *
+                         Gulf Trade House FZC, P.O.    For all items        Presumption of     87 FR [INSERT FR
+                          Box Number 121463, Sharjah,   subject to the       Denial.            PAGE NUMBER]
+                          UAE; and Office 75C, Q1-07,   EAR. (See Sec.                          June 30, 2022.
+                          Block Q1 Street, Sharjah,     744.11 of the
+                          UAE.                          EAR).
+                                                                * * * * * *
+                         Scott Technologies FZE,       For all items        Presumption of     87 FR [INSERT FR
+                          a.k.a., the following one     subject to the       Denial.            PAGE NUMBER]
+                          alias:                        EAR. (See Sec.                          June 30, 2022.
+                         --Scot Technologies.           744.11 of the
+                         P.O. Box 121723, SAIF Zone,    EAR).
+                          Sharjah, UAE; and #R5-06C,
+                          Sharjah Airport Free Zone
+                          (SAIF), Sharjah, UAE; and
+                          Flat No. 201, Block 8,
+                          Muwaileh Sharjah, UAE; and
+                          Dimas Building, Block 8,
+                          201 Muwaileh Sharjah, UAE;
+                          and B Block 301-302, Al
+                          Hudaiba Awards Building,
+                          Dubai Investment Park,
+                          Dubai, UAE.
+                                                                * * * * * *
+UNITED KINGDOM.........                                         * * * * * *
+                         Connec Electronic, 36         For all items        Policy of Denial   87 FR [INSERT FR
+                          Gerrard Street, London,       subject to the       for all items      PAGE NUMBER]
+                          England, United Kingdom;      EAR. (See Sec.       subject to the     June 30, 2022.
+                          and 38 John Ashby Close,      744.11 of the        EAR apart from
+                          London, England, United       EAR).                food and
+                          Kingdom. (See alternate                            medicine
+                          addresses under China).                            designated as
+                                                                             EAR99, which
+                                                                             will be reviewed
+                                                                             on a case-by-
+                                                                             case basis.
+                                                                * * * * * *
+UZBEKISTAN.............  Promcomplektlogistic Private  For all items        Policy of Denial   87 FR [INSERT FR
+                          Company, a.k.a., the          subject to the       for all items      PAGE NUMBER]
+                          following one alias:          EAR. (See Sec.       subject to the     June 30, 2022.
+                         --Private Enterprise           744.11 of the        EAR apart from
+                          Promcomplektlogistic.         EAR).                food and
+                         16 A Navoi St,                                      medicine
+                          Shaykhantakhur Region,                             designated as
+                          Tashkent, Uzbekistan.                              EAR99, which
+                                                                             will be reviewed
+                                                                             on a case-by-
+                                                                             case basis.
+VIETNAM................                                         * * * * * *
+                         KingPai Technology Int'l      For all items        Policy of Denial   87 FR [INSERT FR
+                          Co., Limited, 143-6th         subject to the       for all items      PAGE NUMBER]
+                          Street, 1 Town, Linh Xuan     EAR. (See Sec.       subject to the     June 30, 2022.
+                          Ward, Thu Duc District, Ho    744.11 of the        EAR apart from
+                          Chi Minh City, Vietnam.       EAR).                food and
+                          (See alternate addresses                           medicine
+                          under China and Russia).                           designated as
+                                                                             EAR99, which
+                                                                             will be reviewed
+                                                                             on a case-by-
+                                                                             case basis.
+----------------------------------------------------------------------------------------------------------------
+
+* * * * *
+
+Matthew S. Borman,
+Deputy Assistant Secretary for Export Administration.
+[FR Doc. 2022-14069 Filed 6-28-22; 11:15 am]
+BILLING CODE 3510-33-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

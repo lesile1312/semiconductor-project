@@ -1,0 +1,1562 @@
+<html>
+<head>
+<title>Federal Register, Volume 87 Issue 108 (Monday, June 6, 2022)</title>
+</head>
+<body><pre>
+[Federal Register Volume 87, Number 108 (Monday, June 6, 2022)]
+[Rules and Regulations]
+[Pages 34154-34164]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2022-12144]
+
+
+
+[[Page 34154]]
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF COMMERCE
+
+Bureau of Industry and Security
+
+15 CFR Part 744
+
+[Docket No. 220531-0127]
+RIN 0694-AI90
+
+
+Additions of Entities to the Entity List
+
+AGENCY: Bureau of Industry and Security, Department of Commerce.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: In response to the Russian Federation's (Russia's) further 
+invasion of Ukraine on February 24, 2022, the Department of Commerce is 
+amending the Export Administration Regulations (EAR) by adding 71 
+entities under 71 entries to the Entity List. These entities have been 
+determined by the U.S. Government to be acting contrary to the national 
+security interests or foreign policy of the United States and will be 
+listed on the Entity List under the destinations of Belarus and Russia.
+
+DATES: This rule is effective June 2, 2022.
+
+FOR FURTHER INFORMATION CONTACT: Chair, End-User Review Committee, 
+Office of the Assistant Secretary for Export Administration, Bureau of 
+Industry and Security, Department of Commerce, Phone: (202) 482-5991, 
+Email: <a href="/cdn-cgi/l/email-protection#c386918083a1aab0eda7aca0eda4acb5"><span class="__cf_email__" data-cfemail="b6f3e4f5f6d4dfc598d2d9d598d1d9c0">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION: 
+
+Background
+
+    The Entity List (supplement No. 4 to part 744 of the Export 
+Administration Regulations (EAR)) identifies entities for which there 
+is reasonable cause to believe, based on specific and articulable 
+facts, that the entities have been involved, are involved, or pose a 
+significant risk of being or becoming involved in activities contrary 
+to the national security or foreign policy interests of the United 
+States. The EAR (15 CFR parts 730-774) imposes additional license 
+requirements on, and limits the availability of, most license 
+exceptions for exports, reexports, and transfers (in-country) to listed 
+entities. The license review policy for each listed entity is 
+identified in the ``License Review Policy'' column on the Entity List, 
+and the impact on the availability of license exceptions is described 
+in the relevant Federal Register document that added the entity to the 
+Entity List. The Bureau of Industry and Security (BIS) places entities 
+on the Entity List pursuant to part 744 (Control Policy: End-User and 
+End-Use Based) and part 746 (Embargoes and Other Special Controls) of 
+the EAR. Paragraphs (b)(1) through (5) of Sec.  744.11 include an 
+illustrative list of activities that could be contrary to the national 
+security or foreign policy interests of the United States. Sixty-six 
+entities are being added in this rule on the basis of Sec. Sec.  
+744.11(b) and 744.21 and will receive a footnote 3 designation because 
+the End-User Review Committee (ERC) has determined they are Russian or 
+Belarusian `military end users' in accordance with Sec.  744.21. A 
+footnote 3 designation subjects these entities to the Russia/Belarus 
+foreign ``direct product'' (FDP) rule, detailed in Sec.  734.9(g). The 
+other five entities are being added solely on the basis of Sec.  
+744.11(b).
+    The ERC, composed of representatives of the Departments of Commerce 
+(Chair), State, Defense, Energy and, where appropriate, the Treasury, 
+makes all decisions regarding additions to, removals from, or other 
+modifications to the Entity List. The ERC makes all decisions to add an 
+entry to the Entity List by majority vote and makes all decisions to 
+remove or modify an entry by unanimous vote.
+    The ERC determined to add the following entity to the Entity List 
+on the basis of Sec. Sec.  744.11(b) and 744.21 under the destination 
+of Belarus: ``Joint Stock Company Eleron''. In addition, the ERC 
+determined to add the following 65 entities to the Entity List on the 
+basis of Sec. Sec.  744.11(b) and 744.21 under the destination of 
+Russia: ``AO Rubin,'' ``Branch of AO Company Sukhoi Yuri Gagarin 
+Komsomolsk on Amur Aircraft Plant,'' ``Branch of PAO Il--Aviastar,'' 
+``Branch of RSK MiG Nizhny Novgorod Aircraft Construction Plant 
+Sokol,'' ``Chkalov Novosibirsk Aviation Plant,'' ``Concern Radio-
+Electronic Technologies, Joint Stock Company Aeropribor Voskhod,'' 
+``Concern Radio-Electronic Technologies, Joint Stock Company All 
+Russian Scientific Research Institute Gradient,'' ``Concern Radio-
+Electronic Technologies, Joint Stock Company Almatyevsk Radiopribor 
+Plant,'' ``Concern Radio-Electronic Technologies, Joint Stock Company 
+Experimental Design Bureau Elektroavtomatika in the name of P.A. 
+Efimov,'' ``Concern Radio-Electronic Technologies, Joint Stock Company 
+Industrial Controls Design Bureau,'' ``Concern Radio-Electronic 
+Technologies, Joint Stock Company Kazan Instrument Engineering and 
+Design Bureau,'' ``Concern Radio-Electronic Technologies, Joint Stock 
+Company Microtechnology,'' ``Concern Radio-Electronic Technologies, 
+Joint Stock Company Phasotron Scientific Research Institute of Radio 
+Engineering,'' ``Concern Radio-Electronic Technologies, Joint Stock 
+Company Radiopribor,'' ``Concern Radio-Electronic Technologies, Joint 
+Stock Company Ramensk Instrument Engineering Bureau,'' ``Concern Radio-
+Electronic Technologies, Joint Stock Company Research and Production 
+Center SAPSAN,'' ``Concern Radio-Electronic Technologies, Joint Stock 
+Company Rychag,'' ``Concern Radio-Electronic Technologies, Joint Stock 
+Company Scientific Production Enterprise Izmeritel,'' ``Concern Radio-
+Electronic Technologies, Joint Stock Company Scientific Production 
+Union for Radioelectronics named after V.I. Shimko,'' ``Concern Radio-
+Electronic Technologies, Joint Stock Company Taganrog Communications 
+Scientific Research Institute,'' ``Concern Radio-Electronic 
+Technologies, Joint Stock Company Urals Instrument Engineering Plant,'' 
+``Concern Radio-Electronic Technologies, Joint Stock Company Vzlet 
+Engineering Testing Support,'' ``Concern Radio-Electronic Technologies, 
+Joint Stock Company Zhiguli Radio Plant,'' ``Concern Radio-Electronic 
+Technologies, Public Joint Stock Company Bryansk Special Design 
+Bureau,'' ``Concern Radio-Electronic Technologies, Public Joint Stock 
+Company Moscow Institute of Electro Mechanics and Automation,'' 
+``Concern Radio-Electronic Technologies, Public Joint Stock Company 
+Stavropol Radio Plant Signal,'' ``Concern Radio-Electronic 
+Technologies, Public Joint Stock Company Techpribor,'' ``Concern Radio-
+Electronic Technologies, Ramensky Instrument Engineering Plant,'' 
+``Concern Radio-Electronic Technologies, V.V. Tarasov Avia 
+Avtomatika,'' ``Design Bureau of Chemical Machine Building KBKhM,'' 
+``Far Eastern Shipbuilding and Ship Repair Center,'' ``Ilyushin 
+Aviation Complex Branch: Myasishcheva Experimental Mechanical 
+Engineering Plant,'' ``Institute of Marine Technology Problems Far East 
+Branch Russian Academy of Sciences,'' ``Irkutsk Aviation Plant,'' 
+``Joint Stock Company Aerocomposit,'' ``Joint Stock Company 
+Avtomatika,'' ``Joint Stock Company Bryansk Electromechanical Plant,'' 
+``Joint Stock Company Eleron,'' ``Joint Stock Company Experimental 
+Design Bureau named after A.S. Yakovlev,'' ``Joint Stock Company 
+Federal Research and Production Center Altai,'' ``Joint Stock Company 
+Head Special Design Bureau Prozhektor,'' ``Joint Stock Company Ilyushin 
+Aviation Complex,'' ``Joint Stock Company Lazurit Central Design 
+Bureau,'' ``Joint Stock Company Ramensky Instrument Engineering 
+Plant,'' ``Joint Stock Company Research and Development Enterprise 
+Protek,''
+
+[[Page 34155]]
+
+``Joint Stock Company SPMDB Malachite,'' ``Joint Stock Company 
+Votkinsky Zavod,'' ``Kalyazinsky Machine Building Factory--Branch of 
+RSK MiG,'' ``Main Directorate of Deep-Sea Research,'' ``NPP Start,'' 
+``OAO Radiofizika,'' ``P.A. Voronin Lukhovitsk Aviation Plant, branch 
+of RSK MiG,'' ``Public Joint Stock Company Voronezh Joint Stock 
+Aircraft Company,'' ``Radio Technical Institute named after A. L. 
+Mints,'' ``Russian Federal Nuclear Center--All Russian Research 
+Institute of Experimental Physics,'' ``Shvabe JSC,'' ``Special 
+Technological Center LLC,'' ``St. Petersburg Marine Bureau of Machine 
+Building Malakhit,'' ``St. Petersburg Naval Design Bureau Almaz,'' 
+``St. Petersburg Shipbuilding Institution Krylov 45,'' ``Strategic 
+Control Posts Corporation,'' ``TsKB MT Rubin,'' ``Vladimir Design 
+Bureau for Radio Communications OJSC,'' ``V.A. Trapeznikov Institute of 
+Control Sciences of Russian Academy of Sciences,'' and ``Voentelecom 
+JSC''.
+    All of these 66 entities are designated with footnote 3. They are 
+being added to the Entity List consistent with BIS's response to 
+Russia's invasion of Ukraine, which includes restricting Russia's 
+access to items subject to the EAR that allow it to project power and 
+fulfill its strategic ambitions. These 65 Russian entities and one 
+Belarusian entity are being added to the Entity List for acquiring and 
+attempting to acquire U.S.-origin items in support of Russia's 
+military. This activity is contrary to the national security and 
+foreign policy interests of the United States under Sec.  744.11 and 
+these entities qualify as military end users under Sec.  744.21 of the 
+EAR. Their addition to the Entity List and footnote 3 designation means 
+these entities are subject to a license requirement for the export, 
+reexports, exports from abroad (as described under Russia/Belarus 
+foreign ``direct product'' (FDP) rule, Sec.  734.9(g)), or transfers 
+(in-country) of all items subject to the EAR that are destined to these 
+entities. No license exceptions are available for these entities; BIS 
+will review all license applications for these entities under a policy 
+of denial for all items subject to the EAR apart from food and medicine 
+designated as EAR99, which will be reviewed on a case-by-case basis, 
+per Sec.  744.21(e)(1). This case-by-case review policy reflects a 
+revision to Sec.  744.21(e)(1) set forth in a separate rule, Export 
+Administration Regulations: Revisions to Russia and Belarus Sanctions 
+and Related Provisions; Other Revisions, Corrections, and 
+Clarifications, that BIS is issuing and making effective simultaneously 
+with this rule. Among other changes to the EAR, the ``corrections'' 
+rule removes an exemption for food and medicine designated as EAR99 
+from the license requirement for all items subject to the EAR set forth 
+in Sec.  744.21(b)(1)(ii) and specifies a case-by-case license review 
+policy for Russian and Belarusian `military end users' set forth in 
+Sec.  744.21(e)(1) with respect to food and medicine designated as 
+EAR99. This case-by-case review policy applies to the 66 entities that 
+are being added to the Entity List as part of this rule.
+    In addition, the ERC determined to add the following entities to 
+the Entity List on the basis of Sec.  744.11 under the destination of 
+Russia: ``A.A. Kharkevich Institute for Information Transmission 
+Problems (IITP), Russian Academy of Sciences (RAS),'' ``Ak Bars 
+Holding,'' ``Gazprom Neft Shelf,'' ``Special Research Bureau for 
+Automation of Marine Researches Far East Branch Russian Academy of 
+Sciences,'' and ``Systems of Biological Synthesis LLC.'' These entities 
+are being added to the Entity List consistent with BIS's response to 
+Russia's invasion of Ukraine, which includes restricting Russia's 
+access to items subject to the EAR that allow it to project power and 
+fulfill its strategic ambitions. ``A.A. Kharkevich Institute for 
+Information Transmission Problems (IITP), Russian Academy of Sciences 
+(RAS),'' ``Ak Bars Holding,'' ``Gazprom Neft Shelf,'' ``Special 
+Research Bureau for Automation of Marine Researches Far East Branch 
+Russian Academy of Sciences,'' and ``Systems of Biological Synthesis 
+LLC,'' are being added to the Entity List for acquiring and attempting 
+to acquire U.S.-origin items in support of activities contrary to U.S. 
+national security and foreign policy interests. These entities will be 
+added to the Entity List with a license requirement for all items 
+subject to the EAR. BIS will review license applications under a policy 
+of denial, and no license exceptions are available for these entities 
+being added.
+    For the reasons described above, this final rule adds the following 
+71 entities under 71 entries to the Entity List and includes, where 
+appropriate, aliases:
+
+Belarus
+
+    <bullet> Joint Stock Company Eleron.
+
+Russia
+
+    <bullet> A.A. Kharkevich Institute for Information Transmission 
+Problems (IITP), Russian Academy of Sciences (RAS),
+    <bullet> Ak Bars Holding,
+    <bullet> AO Rubin,
+    <bullet> Branch of AO Company Sukhoi Yuri Gagarin Komsomolsk on 
+Amur Aircraft Plant,
+    <bullet> Branch of PAO Il--Aviastar,
+    <bullet> Branch of RSK MiG Nizhny Novgorod Aircraft Construction 
+Plant Sokol,
+    <bullet> Chkalov Novosibirsk Aviation Plant,
+    <bullet> Concern Radio-Electronic Technologies, Joint Stock Company 
+Aeropribor Voskhod,
+    <bullet> Concern Radio-Electronic Technologies, Joint Stock Company 
+All Russian Scientific Research Institute Gradient,
+    <bullet> Concern Radio-Electronic Technologies, Joint Stock Company 
+Almatyevsk Radiopribor Plant,
+    <bullet> Concern Radio-Electronic Technologies, Joint Stock Company 
+Experimental Design Bureau Elektroavtomatika in the name of P.A. 
+Efimov,
+    <bullet> Concern Radio-Electronic Technologies, Joint Stock Company 
+Industrial Controls Design Bureau,
+    <bullet> Concern Radio-Electronic Technologies, Joint Stock Company 
+Kazan Instrument Engineering and Design Bureau,
+    <bullet> Concern Radio-Electronic Technologies, Joint Stock Company 
+Microtechnology,
+    <bullet> Concern Radio-Electronic Technologies, Joint Stock Company 
+Phasotron Scientific Research Institute of Radio Engineering,
+    <bullet> Concern Radio-Electronic Technologies, Joint Stock Company 
+Radiopribor,
+    <bullet> Concern Radio-Electronic Technologies, Joint Stock Company 
+Ramensk Instrument Engineering Bureau,
+    <bullet> Concern Radio-Electronic Technologies, Joint Stock Company 
+Research and Production Center SAPSAN,
+    <bullet> Concern Radio-Electronic Technologies, Joint Stock Company 
+Rychag,
+    <bullet> Concern Radio-Electronic Technologies, Joint Stock Company 
+Scientific Production Enterprise Izmeritel,
+    <bullet> Concern Radio-Electronic Technologies, Joint Stock Company 
+Scientific Production Union for Radioelectronics named after V.I. 
+Shimko,
+    <bullet> Concern Radio-Electronic Technologies, Joint Stock Company 
+Taganrog Communications Scientific Research Institute,
+    <bullet> Concern Radio-Electronic Technologies, Joint Stock Company 
+Urals Instrument Engineering Plant,
+
+[[Page 34156]]
+
+    <bullet> Concern Radio-Electronic Technologies, Joint Stock Company 
+Vzlet Engineering Testing Support,
+    <bullet> Concern Radio-Electronic Technologies, Joint Stock Company 
+Zhiguli Radio Plant,
+    <bullet> Concern Radio-Electronic Technologies, Public Joint Stock 
+Company Bryansk Special Design Bureau,
+    <bullet> Concern Radio-Electronic Technologies, Public Joint Stock 
+Company Moscow Institute of Electro Mechanics and Automation,
+    <bullet> Concern Radio-Electronic Technologies, Public Joint Stock 
+Company Stavropol Radio Plant Signal,
+    <bullet> Concern Radio-Electronic Technologies, Public Joint Stock 
+Company Techpribor,
+    <bullet> Concern Radio-Electronic Technologies, Ramensky Instrument 
+Engineering Plant,
+    <bullet> Concern Radio-Electronic Technologies, V.V. Tarasov Avia 
+Avtomatika,
+    <bullet> Design Bureau of Chemical Machine Building KBKhM,
+    <bullet> Far Eastern Shipbuilding and Ship Repair Center,
+    <bullet> Gazprom Neft Shelf,
+    <bullet> Ilyushin Aviation Complex Branch: Myasishcheva 
+Experimental Mechanical Engineering Plant,
+    <bullet> Institute of Marine Technology Problems Far East Branch 
+Russian Academy of Sciences,
+    <bullet> Irkutsk Aviation Plant,
+    <bullet> Joint Stock Company Aerocomposit,
+    <bullet> Joint Stock Company Avtomatika,
+    <bullet> Joint Stock Company Bryansk Electromechanical Plant,
+    <bullet> Joint Stock Company Eleron,
+    <bullet> Joint Stock Company Experimental Design Bureau named after 
+A.S. Yakovlev,
+    <bullet> Joint Stock Company Federal Research and Production Center 
+Altai,
+    <bullet> Joint Stock Company Head Special Design Bureau Prozhektor,
+    <bullet> Joint Stock Company Ilyushin Aviation Complex,
+    <bullet> Joint Stock Company Lazurit Central Design Bureau,
+    <bullet> Joint Stock Company Ramensky Instrument Engineering Plant,
+    <bullet> Joint Stock Company Research and Development Enterprise 
+Protek,
+    <bullet> Joint Stock Company SPMDB Malachite,
+    <bullet> Joint Stock Company Votkinsky Zavod,
+    <bullet> Kalyazinsky Machine Building Factory--Branch of RSK MiG,
+    <bullet> Main Directorate of Deep-Sea Research,
+    <bullet> NPP Start,
+    <bullet> OAO Radiofizika,
+    <bullet> P.A. Voronin Lukhovitsk Aviation Plant, branch of RSK MiG,
+    <bullet> Public Joint Stock Company Voronezh Joint Stock Aircraft 
+Company,
+    <bullet> Radio Technical Institute named after A. L. Mints,
+    <bullet> Russian Federal Nuclear Center--All Russian Research 
+Institute of Experimental Physics,
+    <bullet> Shvabe JSC,
+    <bullet> Special Research Bureau for Automation of Marine 
+Researches Far East Branch Russian Academy of Sciences,
+    <bullet> Special Technological Center LLC,
+    <bullet> St. Petersburg Marine Bureau of Machine Building Malakhit,
+    <bullet> St. Petersburg Naval Design Bureau Almaz,
+    <bullet> St. Petersburg Shipbuilding Institution Krylov 45,
+    <bullet> Strategic Control Posts Corporation,
+    <bullet> Systems of Biological Synthesis LLC.,
+    <bullet> TsKB MT Rubin,
+    <bullet> Vladimir Design Bureau for Radio Communications OJSC,
+    <bullet> V.A. Trapeznikov Institute of Control Sciences of Russian 
+Academy of Sciences, and
+    <bullet> Voentelecom JSC.
+
+Savings Clause
+
+    For the changes being made in this final rule, shipments of items 
+removed from eligibility for a License Exception or export, reexport, 
+or transfer (in-country) without a license (NLR) as a result of this 
+regulatory action that were en route aboard a carrier to a port of 
+export, reexport, or transfer (in-country), on June 2, 2022, pursuant 
+to actual orders for export, reexport, or transfer (in-country) to or 
+within a foreign destination, may proceed to that destination under the 
+previous eligibility for a License Exception or export, reexport, or 
+transfer (in-country) without a license (NLR).
+
+Export Control Reform Act of 2018
+
+    On August 13, 2018, the President signed into law the John S. 
+McCain National Defense Authorization Act for Fiscal Year 2019, which 
+included the Export Control Reform Act of 2018 (ECRA) (50 U.S.C. 4801-
+4852). ECRA provides the legal basis for BIS's principal authorities 
+and serves as the authority under which BIS issues this rule.
+
+Rulemaking Requirements
+
+    1. This rule has been determined to be not significant for purposes 
+of Executive Order 12866.
+    2. Notwithstanding any other provision of law, no person is 
+required to respond to or be subject to a penalty for failure to comply 
+with a collection of information, subject to the requirements of the 
+Paperwork Reduction Act of 1995 (44 U.S.C. 3501 et seq.) (PRA), unless 
+that collection of information displays a currently valid Office of 
+Management and Budget (OMB) Control Number. This regulation involves 
+collections previously approved by OMB under control number 0694-0088, 
+Simplified Network Application Processing System, which includes, among 
+other things, license applications and commodity classifications, and 
+carries a burden estimate of 29.6 minutes for a manual or electronic 
+submission for a total burden estimate of 33,133 hours. Total burden 
+hours associated with the PRA and OMB control number 0694-0088 are not 
+expected to increase as a result of this rule.
+    3. This rule does not contain policies with federalism implications 
+as that term is defined in Executive Order 13132.
+    4. Pursuant to section 1762 of the Export Control Reform Act of 
+2018, this action is exempt from the Administrative Procedure Act (5 
+U.S.C. 553) requirements for notice of proposed rulemaking, opportunity 
+for public participation, and delay in effective date.
+    5. Because a notice of proposed rulemaking and an opportunity for 
+public comment are not required to be given for this rule by 5 U.S.C. 
+553, or by any other law, the analytical requirements of the Regulatory 
+Flexibility Act, 5 U.S.C. 601, et seq., are not applicable. 
+Accordingly, no regulatory flexibility analysis is required and none 
+has been prepared.
+
+List of Subjects in 15 CFR Part 744
+
+    Exports, Reporting and recordkeeping requirements, Terrorism.
+
+    Accordingly, part 744 of the Export Administration Regulations (15 
+CFR parts 730-774) is amended as follows:
+
+PART 744--CONTROL POLICY: END-USER AND END-USE BASED
+
+0
+1. The authority citation for 15 CFR part 744 continues to read as 
+follows:
+
+    Authority:  50 U.S.C. 4801-4852; 50 U.S.C. 4601 et seq.; 50 
+U.S.C. 1701 et seq.; 22 U.S.C. 3201 et seq.; 42 U.S.C. 2139a; 22 
+U.S.C. 7201 et seq.; 22 U.S.C. 7210; E.O. 12058, 43 FR 20947, 3 CFR, 
+1978 Comp., p. 179; E.O. 12851, 58 FR 33181, 3 CFR, 1993 Comp., p. 
+608; E.O. 12938, 59 FR 59099, 3 CFR, 1994 Comp., p. 950; E.O. 13026, 
+61 FR 58767, 3 CFR, 1996 Comp., p. 228; E.O. 13099, 63 FR 45167, 3 
+CFR, 1998 Comp., p. 208; E.O. 13222, 66 FR 44025, 3 CFR, 2001 Comp., 
+p. 783; E.O. 13224, 66 FR 49079, 3 CFR, 2001 Comp., p. 786; Notice 
+of September 15, 2021, 86 FR 52069 (September 17, 2021); Notice of
+
+[[Page 34157]]
+
+November 10, 2021, 86 FR 62891 (November 12, 2021).
+
+
+0
+2. Amend Supplement No. 4 to part 744 by:
+0
+a. Under BELARUS adding, in alphabetical order, an entry for ``Joint 
+Stock Company Eleron''; and
+0
+b. Under RUSSIA adding, in alphabetical order, entries for ``A.A. 
+Kharkevich Institute for Information Transmission Problems (IITP), 
+Russian Academy of Sciences (RAS),'' ``Ak Bars Holding,'' ``AO Rubin,'' 
+``Branch of AO Company Sukhoi Yuri Gagarin Komsomolsk on Amur Aircraft 
+Plant,'' ``Branch of PAO Il--Aviastar,'' ``Branch of RSK MiG Nizhny 
+Novgorod Aircraft Construction Plant Sokol,'' ``Chkalov Novosibirsk 
+Aviation Plant,'' ``Concern Radio-Electronic Technologies, Joint Stock 
+Company Aeropribor Voskhod,'' ``Concern Radio-Electronic Technologies, 
+Joint Stock Company All Russian Scientific Research Institute 
+Gradient,'' ``Concern Radio-Electronic Technologies, Joint Stock 
+Company Almatyevsk Radiopribor Plant,'' ``Concern Radio-Electronic 
+Technologies, Joint Stock Company Experimental Design Bureau 
+Elektroavtomatika in the name of P.A. Efimov,'' ``Concern Radio-
+Electronic Technologies, Joint Stock Company Industrial Controls Design 
+Bureau,'' ``Concern Radio-Electronic Technologies, Joint Stock Company 
+Kazan Instrument Engineering and Design Bureau,'' ``Concern Radio-
+Electronic Technologies, Joint Stock Company Microtechnology,'' 
+``Concern Radio-Electronic Technologies, Joint Stock Company Phasotron 
+Scientific Research Institute of Radio Engineering,'' ``Concern Radio-
+Electronic Technologies, Joint Stock Company Radiopribor,'' ``Concern 
+Radio-Electronic Technologies, Joint Stock Company Ramensk Instrument 
+Engineering Bureau,'' ``Concern Radio-Electronic Technologies, Joint 
+Stock Company Research and Production Center SAPSAN,'' ``Concern Radio-
+Electronic Technologies, Joint Stock Company Rychag,'' ``Concern Radio-
+Electronic Technologies, Joint Stock Company Scientific Production 
+Enterprise Izmeritel,'' ``Concern Radio-Electronic Technologies, Joint 
+Stock Company Scientific Production Union for Radioelectronics named 
+after V.I. Shimko,'' ``Concern Radio-Electronic Technologies, Joint 
+Stock Company Taganrog Communications Scientific Research Institute,'' 
+``Concern Radio-Electronic Technologies, Joint Stock Company Urals 
+Instrument Engineering Plant,'' ``Concern Radio-Electronic 
+Technologies, Joint Stock Company Vzlet Engineering Testing Support,'' 
+``Concern Radio-Electronic Technologies, Joint Stock Company Zhiguli 
+Radio Plant,'' ``Concern Radio-Electronic Technologies, Public Joint 
+Stock Company Bryansk Special Design Bureau,'' ``Concern Radio-
+Electronic Technologies, Public Joint Stock Company Moscow Institute of 
+Electro Mechanics and Automation,'' ``Concern Radio-Electronic 
+Technologies, Public Joint Stock Company Stavropol Radio Plant 
+Signal,'' ``Concern Radio-Electronic Technologies, Public Joint Stock 
+Company Techpribor,'' ``Concern Radio-Electronic Technologies, Ramensky 
+Instrument Engineering Plant,'' ``Concern Radio-Electronic 
+Technologies, V.V. Tarasov Avia Avtomatika,'' ``Design Bureau of 
+Chemical Machine Building KBKhM,'' ``Far Eastern Shipbuilding and Ship 
+Repair Center,'' ``Gazprom Neft Shelf,'' ``Ilyushin Aviation Complex 
+Branch: Myasishcheva Experimental Mechanical Engineering Plant,'' 
+``Institute of Marine Technology Problems Far East Branch Russian 
+Academy of Sciences,'' ``Irkutsk Aviation Plant,'' ``Joint Stock 
+Company Aerocomposit,'' ``Joint Stock Company Avtomatika,'' ``Joint 
+Stock Company Bryansk Electromechanical Plant,'' ``Joint Stock Company 
+Eleron,'' ``Joint Stock Company Experimental Design Bureau named after 
+A.S. Yakovlev,'' ``Joint Stock Company Federal Research and Production 
+Center Altai,'' ``Joint Stock Company Head Special Design Bureau 
+Prozhektor,'' ``Joint Stock Company Ilyushin Aviation Complex,'' 
+``Joint Stock Company Lazurit Central Design Bureau,'' ``Joint Stock 
+Company Ramensky Instrument Engineering Plant,'' ``Joint Stock Company 
+Research and Development Enterprise Protek,'' ``Joint Stock Company 
+SPMDB Malachite,'' ``Joint Stock Company Votkinsky Zavod,'' 
+``Kalyazinsky Machine Building Factory--Branch of RSK MiG,'' ``Main 
+Directorate of Deep-Sea Research,'' ``NPP Start,'' ``OAO Radiofizika,'' 
+``P.A. Voronin Lukhovitsk Aviation Plant, branch of RSK MiG,'' ``Public 
+Joint Stock Company Voronezh Joint Stock Aircraft Company,'' ``Radio 
+Technical Institute named after A.L. Mints,'' ``Russian Federal Nuclear 
+Center--All Russian Research Institute of Experimental Physics,&rdquo; 
+``Shvabe JSC,'' ``Special Research Bureau for Automation of Marine 
+Researches Far East Branch Russian Academy of Sciences,'' ``Special 
+Technological Center LLC,'' ``St. Petersburg Marine Bureau of Machine 
+Building Malakhit,'' ``St. Petersburg Naval Design Bureau Almaz,'' 
+``St. Petersburg Shipbuilding Institution Krylov 45,'' ``Strategic 
+Control Posts Corporation,'' ``Systems of Biological Synthesis LLC.,'' 
+``TsKB MT Rubin,'' ``V.A. Trapeznikov Institute of Control Sciences of 
+Russian Academy of Sciences,'' ``Vladimir Design Bureau for Radio 
+Communications OJSC,'' ``Voentelecom JSC''.
+    The additions read as follows:
+
+Supplement No. 4 to Part 744--Entity List
+
+* * * * *
+
+----------------------------------------------------------------------------------------------------------------
+                                                             License         License  review    Federal Register
+        Country                     Entity                 requirement            policy            citation
+----------------------------------------------------------------------------------------------------------------
+BELARUS................  Joint Stock Company Eleron,   For all items        Policy of denial   87 FR [INSERT FR
+                          a.k.a., the following two     subject to the       for all items      PAGE NUMBER] 6/6/
+                          aliases:                      EAR. (See Sec.       subject to the     2022.
+                         --JSC FCS&HT ``SNPO            Sec.                 EAR apart from
+                          ``Eleron''; and               734.9(g),\3\         food and
+                         --SNPO Eleron.                 746.8(a)(3), and     medicine
+                         11 Kalinina Per., Minsk,       744.21(b) of the     designated as
+                          220012, Belarus.              EAR.)                EAR99, which
+                                                                             will be reviewed
+                                                                             on a case-by-
+                                                                             case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+ 
+                                                  * * * * * * *
+RUSSIA.................                                         * * * * * *
+                         A.A. Kharkevich Institute     For all items        Policy of Denial.  87 FR [INSERT FR
+                          for Information               subject to the EAR                      PAGE NUMBER] 6/6/
+                          Transmission Problems         (See Sec.   744.11                      2022.
+                          (IITP), Russian Academy of    of the EAR).
+                          Sciences (RAS), a.k.a., the
+                          following two aliases:
+                         --Institute for Information
+                          Transmission Problems; and
+                         --Institut Problem Peredachi
+                          Informatsii RAN.
+
+[[Page 34158]]
+
+ 
+                         19 Bolshoi Karetny, building
+                          1, Moscow, Russia, 127051.
+                                                                * * * * * *
+                         Ak Bars Holding, a.k.a., the  For all items        Policy of Denial.  87 FR [INSERT FR
+                          following one alias:          subject to the EAR                      PAGE NUMBER] 6/6/
+                         --Holding Company Ak Bars.     (See Sec.   744.11                      2022.
+                         58a Korolenko St., Kazan,      of the EAR).
+                          Republic of Tatarstan,
+                          Russia, 420094.
+                                                                * * * * * *
+                         AO Rubin, a.k.a., the         For all items        Policy of denial   87 FR [INSERT FR
+                          following one alias:          subject to the       for all items      PAGE NUMBER] 6/6/
+                         --Aktsionernoe Obshchestvo     EAR. (See Sec.       subject to the     2022.
+                          Rubin, Rubin ZAO.             Sec.                 EAR apart from
+                         8 11 Line of Vasilievsky       734.9(g),\3\         food and
+                          Island, St. Petersburg,       746.8(a)(3), and     medicine
+                          199034, Russia.               744.21(b) of the     designated as
+                                                        EAR.)                EAR99, which
+                                                                             will be reviewed
+                                                                             on a case-by-
+                                                                             case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                                                                * * * * * *
+                         Branch of AO Company Sukhoi   For all items        Policy of denial   87 FR [INSERT FR
+                          Yuri Gagarin Komsomolsk on    subject to the       for all items      PAGE NUMBER] 6/6/
+                          Amur Aircraft Plant,          EAR. (See Sec.       subject to the     2022.
+                          a.k.a., the following two     Sec.                 EAR apart from
+                          aliases:                      734.9(g),\3\         food and
+                         --KNAAZ; and                   746.8(a)(3), and     medicine
+                         --Aviation Holding Company     744.21(b) of the     designated as
+                          AKhK24912 Sukhoi.             EAR.)                EAR99, which
+                         5 Skakovaya Street, Building                        will be reviewed
+                          3, Moscow, 125040, Russia.                         on a case-by-
+                                                                             case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                         Branch of PAO Il--Aviastar,   For all items        Policy of denial   87 FR [INSERT FR
+                          a.k.a., the following one     subject to the       for all items      PAGE NUMBER] 6/6/
+                          alias:                        EAR. (See Sec.       subject to the     2022.
+                         --Aviastar-SP.                 Sec.                 EAR apart from
+                         1 Prospect Antonova,           734.9(g),\3\         food and
+                          Ulyanovsk, Ulanovsk Oblast,   746.8(a)(3), and     medicine
+                          432072, Russia.               744.21(b) of the     designated as
+                                                        EAR.)                EAR99, which
+                                                                             will be reviewed
+                                                                             on a case-by-
+                                                                             case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                         Branch of RSK MiG Nizhny      For all items        Policy of denial   87 FR [INSERT FR
+                          Novgorod Aircraft             subject to the       for all items      PAGE NUMBER] 6/6/
+                          Construction Plant Sokol,     EAR. (See Sec.       subject to the     2022.
+                          a.k.a., the following one     Sec.                 EAR apart from
+                          alias:                        734.9(g),\3\         food and
+                         --NAZ Sokol.                   746.8(a)(3), and     medicine
+                         1 Chaadaeva Street, Nizhny     744.21(b) of the     designated as
+                          Novgorod, Nizhny Novgorod     EAR.)                EAR99, which
+                          Oblast, 603035, Russia.                            will be reviewed
+                                                                             on a case-by-
+                                                                             case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                                                                * * * * * *
+                         Chkalov Novosibirsk Aviation  For all items        Policy of denial   87 FR [INSERT FR
+                          Plant, a.k.a., the            subject to the       for all items      PAGE NUMBER] 6/6/
+                          following two aliases:        EAR. (See Sec.       subject to the     2022.
+                         --NAZ; and                     Sec.                 EAR apart from
+                         --Aviation Holding Company     734.9(g),\3\         food and
+                          AKhK Sukhoi.                  746.8(a)(3), and     medicine
+                         15 Polzunova Street,           744.21(b) of the     designated as
+                          Novosibirsk, Novosibirsk      EAR.)                EAR99, which
+                          Oblast, 630051, Russia.                            will be reviewed
+                                                                             on a case-by-
+                                                                             case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                                                                * * * * * *
+                         Concern Radio-Electronic      For all items        Policy of denial   87 FR [INSERT FR
+                          Technologies, Joint Stock     subject to the       for all items      PAGE NUMBER] 6/6/
+                          Company Aeropribor Voskhod,   EAR. (See Sec.       subject to the     2022.
+                          a.k.a., the following one     Sec.                 EAR apart from
+                          alias:                        734.9(g),\3\         food and
+                         --AP-Voskhod.                  746.8(a)(3), and     medicine
+                         19 Tkatskaya Street, 4th       744.21(b) of the     designated as
+                          Floor, Room 400, Moscow,      EAR.)                EAR99, which
+                          105318, Russia.                                    will be reviewed
+                                                                             on a case-by-
+                                                                             case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                         Concern Radio-Electronic      For all items        Policy of denial   87 FR [INSERT FR
+                          Technologies, Joint Stock     subject to the       for all items      PAGE NUMBER] 6/6/
+                          Company All Russian           EAR. (See Sec.       subject to the     2022.
+                          Scientific Research           Sec.                 EAR apart from
+                          Institute Gradient, a.k.a.,   734.9(g),\3\         food and
+                          the following one alias:      746.8(a)(3), and     medicine
+                         --VNII Gradient.               744.21(b) of the     designated as
+                         96 Sokolov Prospect, Roston-   EAR.)                EAR99, which
+                          on-Don, 344010, Russia.                            will be reviewed
+                                                                             on a case-by-
+                                                                             case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                         Concern Radio-Electronic      For all items        Policy of denial   87 FR [INSERT FR
+                          Technologies, Joint Stock     subject to the       for all items      PAGE NUMBER] 6/6/
+                          Company Almatyevsk            EAR. (See Sec.       subject to the     2022.
+                          Radiopribor Plant, a.k.a.,    Sec.                 EAR apart from
+                          the following two aliases:    734.9(g),\3\         food and
+                         --JSC AZRP; and                746.8(a)(3), and     medicine
+                         --Alzar.                       744.21(b) of the     designated as
+                         2 Stroiteley Prspect,          EAR.)                EAR99, which
+                          Almatyevsk, Almetyevsk,                            will be reviewed
+                          Region, Republic of                                on a case-by-
+                          Tatarstan, 423461, Russia.                         case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                         Concern Radio-Electronic      For all items        Policy of denial   87 FR [INSERT FR
+                          Technologies, Joint Stock     subject to the       for all items      PAGE NUMBER] 6/6/
+                          Company Experimental Design   EAR. (See Sec.       subject to the     2022.
+                          Bureau Elektroavtomatika in   Sec.                 EAR apart from
+                          the name of P.A. Efimov,      734.9(g),\3\         food and
+                          a.k.a., the following one     746.8(a)(3), and     medicine
+                          alias:                        744.21(b) of the     designated as
+                         --AO OKB Elektroavtomatika.    EAR.)                EAR99, which
+                         40 Marshal Govorov, Saint                           will be reviewed
+                          Petersburg, 198095, Russia.                        on a case-by-
+                                                                             case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+
+[[Page 34159]]
+
+ 
+                         Concern Radio-Electronic      For all items        Policy of denial   87 FR [INSERT FR
+                          Technologies, Joint Stock     subject to the       for all items      PAGE NUMBER] 6/6/
+                          Company Industrial Controls   EAR. (See Sec.       subject to the     2022.
+                          Design Bureau, a.k.a., the    Sec.                 EAR apart from
+                          following two aliases:        734.9(g),\3\         food and
+                         --KBPA; and                    746.8(a)(3), and     medicine
+                         --Design Bureau for            744.21(b) of the     designated as
+                          Industrial Automatics.        EAR.)                EAR99, which
+                         239 Bolshaya Sadovaya                               will be reviewed
+                          Street, Saratov, Saratov                           on a case-by-
+                          Oblast, 410005, Russia.                            case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                         Concern Radio-Electronic      For all items        Policy of denial   87 FR [INSERT FR
+                          Technologies, Joint Stock     subject to the       for all items      PAGE NUMBER] 6/6/
+                          Company Kazan Instrument      EAR. (See Sec.       subject to the     2022.
+                          Engineering and Design        Sec.                 EAR apart from
+                          Bureau, a.k.a., the           734.9(g),\3\         food and
+                          following one alias:          746.8(a)(3), and     medicine
+                         --KPKB.                        744.21(b) of the     designated as
+                         Sibirsky Trakt Street,         EAR.)                EAR99, which
+                          Kazan, Republic of                                 will be reviewed
+                          Tartarstan, 420061, Russia.                        on a case-by-
+                                                                             case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                         Concern Radio-Electronic      For all items        Policy of denial   87 FR [INSERT FR
+                          Technologies, Joint Stock     subject to the       for all items      PAGE NUMBER] 6/6/
+                          Company Microtechnology,      EAR. (See Sec.       subject to the     2022.
+                          a.k.a., the following one     Sec.                 EAR apart from
+                          alias:                        734.9(g),\3\         food and
+                         --JSC Microtechnology.         746.8(a)(3), and     medicine
+                         44 Pioneer Street, Saint       744.21(b) of the     designated as
+                          Petersburg, 197110, Russia.   EAR.)                EAR99, which
+                                                                             will be reviewed
+                                                                             on a case-by-
+                                                                             case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                         Concern Radio-Electronic      For all items        Policy of denial   87 FR [INSERT FR
+                          Technologies, Joint Stock     subject to the       for all items      PAGE NUMBER] 6/6/
+                          Company Phasotron             EAR. (See Sec.       subject to the     2022.
+                          Scientific Research           Sec.                 EAR apart from
+                          Institute of Radio            734.9(g),\3\         food and
+                          Engineering, a.k.a., the      746.8(a)(3), and     medicine
+                          following one alias:          744.21(b) of the     designated as
+                         --Phasotron NIIR.              EAR.)                EAR99, which
+                         59 Kavkazky Boulevard, Floor                        will be reviewed
+                          3, Space XIV, Room 21,                             on a case-by-
+                          Moscow, 115516, Russia.                            case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                         Concern Radio-Electronic      For all items        Policy of denial   87 FR [INSERT FR
+                          Technologies, Joint Stock     subject to the       for all items      PAGE NUMBER] 6/6/
+                          Company Radiopribor,          EAR. (See Sec.       subject to the     2022.
+                          a.k.a., the following one     Sec.                 EAR apart from
+                          alias:                        734.9(g),\3\         food and
+                         --Radiopribor.                 746.8(a)(3), and     medicine
+                         2 Fatkulina Street, Kazan,     744.21(b) of the     designated as
+                          Republic of Tartarstan,       EAR.)                EAR99, which
+                          420021.                                            will be reviewed
+                                                                             on a case-by-
+                                                                             case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                         Concern Radio-Electronic      For all items        Policy of denial   87 FR [INSERT FR
+                          Technologies, Joint Stock     subject to the       for all items      PAGE NUMBER] 6/6/
+                          Company Ramensk Instrument    EAR. (See Sec.       subject to the     2022.
+                          Engineering Bureau, a.k.a.,   Sec.                 EAR apart from
+                          the following one alias:      734.9(g),\3\         food and
+                         --RPKB.                        746.8(a)(3), and     medicine
+                         2 Guriev Street, Ramensk,      744.21(b) of the     designated as
+                          Moscow Oblast, 140103,        EAR.)                EAR99, which
+                          Russia.                                            will be reviewed
+                                                                             on a case-by-
+                                                                             case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                         Concern Radio-Electronic      For all items        Policy of denial   87 FR [INSERT FR
+                          Technologies, Joint Stock     subject to the       for all items      PAGE NUMBER] 6/6/
+                          Company Research and          EAR. (See Sec.       subject to the     2022.
+                          Production Center SAPSAN,     Sec.                 EAR apart from
+                          a.k.a., the following one     734.9(g),\3\         food and
+                          alias:                        746.8(a)(3), and     medicine
+                         --NPTs SAPSAN.                 744.21(b) of the     designated as
+                         25 Avtozavodskaya Street,      EAR.)                EAR99, which
+                          Room 2, Moscow, 115280,                            will be reviewed
+                          Russia.                                            on a case-by-
+                                                                             case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                         Concern Radio-Electronic      For all items        Policy of denial   87 FR [INSERT FR
+                          Technologies, Joint Stock     subject to the       for all items      PAGE NUMBER] 6/6/
+                          Company Rychag, a.k.a., the   EAR. (See Sec.       subject to the     2022.
+                          following one alias:          Sec.                 EAR apart from
+                         --Rychag.                      734.9(g),\3\         food and
+                         37 Lipatova Street, Kazan,     746.8(a)(3), and     medicine
+                          Republic of Tatarstan,        744.21(b) of the     designated as
+                          420075, Russia.               EAR.)                EAR99, which
+                                                                             will be reviewed
+                                                                             on a case-by-
+                                                                             case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                         Concern Radio-Electronic      For all items        Policy of denial   87 FR [INSERT FR
+                          Technologies, Joint Stock     subject to the       for all items      PAGE NUMBER] 6/6/
+                          Company Scientific            EAR. (See Sec.       subject to the     2022.
+                          Production Enterprise         Sec.                 EAR apart from
+                          Izmeritel, a.k.a., the        734.9(g),\3\         food and
+                          following one alias:          746.8(a)(3), and     medicine
+                         --NPP Izmeritel.               744.21(b) of the     designated as
+                         5 Babushkina Street,           EAR.)                EAR99, which
+                          Smolensk, Smolensk Oblast,                         will be reviewed
+                          214031, Russia.                                    on a case-by-
+                                                                             case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                         Concern Radio-Electronic      For all items        Policy of denial   87 FR [INSERT FR
+                          Technologies, Joint Stock     subject to the       for all items      PAGE NUMBER] 6/6/
+                          Company Scientific            EAR. (See Sec.       subject to the     2022.
+                          Production Union for          Sec.                 EAR apart from
+                          Radioelectronics named        734.9(g),\3\         food and
+                          after V.I. Shimko, a.k.a.,    746.8(a)(3), and     medicine
+                          the following one alias:      744.21(b) of the     designated as
+                         --NPO Radioelectronics N.A.    EAR.)                EAR99, which
+                          V.I. Shimko.                                       will be reviewed
+                         50 Journalists Street,                              on a case-by-
+                          Republic of Tartarstan,                            case basis. See
+                          420029, Russia.                                    Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                         Concern Radio-Electronic      For all items        Policy of denial   87 FR [INSERT FR
+                          Technologies, Joint Stock     subject to the       for all items      PAGE NUMBER] 6/6/
+                          Company Taganrog              EAR. (See Sec.       subject to the     2022.
+                          Communications Scientific     Sec.                 EAR apart from
+                          Research Institute, a.k.a.,   734.9(g),\3\         food and
+                          the following one alias:      746.8(a)(3), and     medicine
+                         --TNIIS.                       744.21(b) of the     designated as
+                         3 Sedova Street, Taganrog,     EAR.)                EAR99, which
+                          Rostov Oblast, 347913,                             will be reviewed
+                          Russia.                                            on a case-by-
+                                                                             case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+
+[[Page 34160]]
+
+ 
+                         Concern Radio-Electronic      For all items        Policy of denial   87 FR [INSERT FR
+                          Technologies, Joint Stock     subject to the       for all items      PAGE NUMBER] 6/6/
+                          Company Urals Instrument      EAR. (See Sec.       subject to the     2022.
+                          Engineering Plant, a.k.a.,    Sec.                 EAR apart from
+                          the following one alias:      734.9(g),\3\         food and
+                         --JSC UPZ.                     746.8(a)(3), and     medicine
+                         25 Km Tract Street,            744.21(b) of the     designated as
+                          Chelyabinsk, Svertsky,        EAR.)                EAR99, which
+                          Sverdlovsk Oblast, 624000,                         will be reviewed
+                          Russia.                                            on a case-by-
+                                                                             case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                         Concern Radio-Electronic      For all items        Policy of denial   87 FR [INSERT FR
+                          Technologies, Joint Stock     subject to the       for all items      PAGE NUMBER] 6/6/
+                          Company Vzlet Engineering     EAR. (See Sec.       subject to the     2022.
+                          Testing Support, a.k.a.,      Sec.                 EAR apart from
+                          the following one alias:      734.9(g),\3\         food and
+                         --ISI Vzlet.                   746.8(a)(3), and     medicine
+                         ISI Vzlet Room, Aktyubinsk-    744.21(b) of the     designated as
+                          7, Aktyubinsk Region,         EAR.)                EAR99, which
+                          Astrakhan Oblast, 476507,                          will be reviewed
+                          Russia.                                            on a case-by-
+                                                                             case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                         Concern Radio-Electronic      For all items        Policy of denial   87 FR [INSERT FR
+                          Technologies, Joint Stock     subject to the       for all items      PAGE NUMBER] 6/6/
+                          Company Zhiguli Radio         EAR. (See Sec.       subject to the     2022.
+                          Plant, a.k.a., the            Sec.                 EAR apart from
+                          following one alias:          734.9(g),\3\         food and
+                         --ZhRZ.                        746.8(a)(3), and     medicine
+                         1 Radiozavod Street,           744.21(b) of the     designated as
+                          Zhigulevsk, Samara Oblast,    EAR.)                EAR99, which
+                          44539, Russia.                                     will be reviewed
+                                                                             on a case-by-
+                                                                             case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                         Concern Radio-Electronic      For all items        Policy of denial   87 FR [INSERT FR
+                          Technologies, Public Joint    subject to the       for all items      PAGE NUMBER] 6/6/
+                          Stock Company Bryansk         EAR. (See Sec.       subject to the     2022.
+                          Special Design Bureau,        Sec.                 EAR apart from
+                          a.k.a., the following one     734.9(g),\3\         food and
+                          alias:                        746.8(a)(3), and     medicine
+                         --BEMZ                         744.21(b) of the     designated as
+                         136 Vokzalnaya Street,         EAR.)                EAR99, which
+                          Bryansk, 241017, Russia                            will be reviewed
+                                                                             on a case-by-
+                                                                             case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                         Concern Radio-Electronic      For all items        Policy of denial   87 FR [INSERT FR
+                          Technologies, Public Joint    subject to the       for all items      PAGE NUMBER] 6/6/
+                          Stock Company Moscow          EAR. (See Sec.       subject to the     2022.
+                          Institute of Electro          Sec.                 EAR apart from
+                          Mechanics and Automation,     734.9(g),\3\         food and
+                          a.k.a., the following one     746.8(a)(3), and     medicine
+                          alias:                        744.21(b) of the     designated as
+                         --PAO MIEA.                    EAR.)                EAR99, which
+                         5 Aviation Pereulok, Moscow,                        will be reviewed
+                          125167, Russia.                                    on a case-by-
+                                                                             case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                         Concern Radio-Electronic      For all items        Policy of denial   87 FR [INSERT FR
+                          Technologies, Public Joint    subject to the       for all items      PAGE NUMBER] 6/6/
+                          Stock Company Stavropol       EAR. (See Sec.       subject to the     2022.
+                          Radio Plant Signal, a.k.a.,   Sec.                 EAR apart from
+                          the following one alias:      734.9(g),\3\         food and
+                         --Signal Radio Plant.          746.8(a)(3), and     medicine
+                         9A 2nd Yugo-Zapadny Proezd,    744.21(b) of the     designated as
+                          Stavropol, Stavropol Krai,    EAR.)                EAR99, which
+                          355037.                                            will be reviewed
+                                                                             on a case-by-
+                                                                             case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                         Concern Radio-Electronic      For all items        Policy of denial   87 FR [INSERT FR
+                          Technologies, Public Joint    subject to the       for all items      PAGE NUMBER] 6/6/
+                          Stock Company Techpribor,     EAR. (See Sec.       subject to the     2022.
+                          a.k.a., the following one     Sec.                 EAR apart from
+                          alias:                        734.9(g),\3\         food and
+                         --Techpribor.                  746.8(a)(3), and     medicine
+                         5A Varshavskaya Street,        744.21(b) of the     designated as
+                          Saint Petersburg, 196128,     EAR.)                EAR99, which
+                          Russia.                                            will be reviewed
+                                                                             on a case-by-
+                                                                             case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                         Concern Radio-Electronic      For all items        Policy of denial   87 FR [INSERT FR
+                          Technologies, Ramensky        subject to the       for all items      PAGE NUMBER] 6/6/
+                          Instrument Engineering        EAR. (See Sec.       subject to the     2022.
+                          Plant, a.k.a., the            Sec.                 EAR apart from
+                          following one alias:          734.9(g),\3\         food and
+                         --Ramensky Instrument-         746.8(a)(3), and     medicine
+                          Engineering Plant.            744.21(b) of the     designated as
+                         39 Mikhalevicha Street, Room   EAR.)                EAR99, which
+                          20, Floor 2, Space 124,                            will be reviewed
+                          Ramensk, Moscow Oblast,                            on a case-by-
+                          140100, Russia.                                    case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                         Concern Radio-Electronic      For all items        Policy of denial   87 FR [INSERT FR
+                          Technologies, V.V. Tarasov    subject to the       for all items      PAGE NUMBER] 6/6/
+                          Avia Avtomatika, a.k.a.,      EAR. (See Sec.       subject to the     2022.
+                          the following two aliases:    Sec.                 EAR apart from
+                         --Kursk Open Joint Stock       734.9(g),\3\         food and
+                          Company Kursk Pribor; and     746.8(a)(3), and     medicine
+                         --Kursk Pribor.                744.21(b) of the     designated as
+                         47 Zapolnaya Street, Kursk,    EAR.)                EAR99, which
+                          305040, Russia.                                    will be reviewed
+                                                                             on a case-by-
+                                                                             case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                                                                * * * * * *
+                         Design Bureau of Chemical     For all items        Policy of denial   87 FR [INSERT FR
+                          Machine Building KBKhM,       subject to the       for all items      PAGE NUMBER] 6/6/
+                          a.k.a., the following two     EAR. (See Sec.       subject to the     2022.
+                          aliases:                      Sec.                 EAR apart from
+                         --A.M. Isayev Chemical         734.9(g),\3\         food and
+                          Engineering Design Bureau;    746.8(a)(3), and     medicine
+                          and                           744.21(b) of the     designated as
+                         --KB KhimMash.                 EAR.)                EAR99, which
+                         12 Bogomolova St., Podlipki,                        will be reviewed
+                          Korolyev, Moscow oblast,                           on a case-by-
+                          141070, Russia.                                    case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                                                                * * * * * *
+                         Far Eastern Shipbuilding and  For all items        Policy of denial   87 FR [INSERT FR
+                          Ship Repair Center, a.k.a.,   subject to the       for all items      PAGE NUMBER] 6/6/
+                          the following one alias:      EAR. (See Sec.       subject to the     2022.
+                         --DTSSS, AO.                   Sec.                 EAR apart from
+                         72 Svetlanskaya Street,        734.9(g),\3\         food and
+                          Vladivostok, Russia.          746.8(a)(3), and     medicine
+                                                        744.21(b) of the     designated as
+                                                        EAR.)                EAR99, which
+                                                                             will be reviewed
+                                                                             on a case-by-
+                                                                             case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                                                                * * * * * *
+
+[[Page 34161]]
+
+ 
+                         Gazprom Neft Shelf, the       For all items        Policy of Denial.  87 FR [INSERT FR
+                          following one alias:          subject to the EAR                      PAGE NUMBER] 6/6/
+                         --Sevmorneftegaz.              (See Sec.   744.11                      2022.
+                         8 Lesteva Street, Moscow,      of the EAR).
+                          115162, Russia; and 31 I.M.
+                          V.I. Lenina Street, Naryan-
+                          Mar, Nenetski Autonomous
+                          District 166000, Russia;
+                          and 19 Karla Marksa,
+                          Murmansk, Murmanskaya
+                          Oblast, 183025, Russia; and
+                          38/4 Prospect Nevski, Saint
+                          Petersburg, 191036, Russia.
+                                                                * * * * * *
+                         Ilyushin Aviation Complex     For all items        Policy of denial   87 FR [INSERT FR
+                          Branch: Myasishcheva          subject to the       for all items      PAGE NUMBER] 6/6/
+                          Experimental Mechanical       EAR. (See Sec.       subject to the     2022.
+                          Engineering Plant, a.k.a.,    Sec.                 EAR apart from
+                          the following one alias:      734.9(g),\3\         food and
+                         --Myasishcheva EMZ.            746.8(a)(3), and     medicine
+                         7 Narkomvod Street,            744.21(b) of the     designated as
+                          Zhukovsky, Moscow Oblast,     EAR.)                EAR99, which
+                          140180, Russia.                                    will be reviewed
+                                                                             on a case-by-
+                                                                             case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                                                                * * * * * *
+                         Institute of Marine           For all items        Policy of denial   87 FR [INSERT FR
+                          Technology Problems Far       subject to the       for all items      PAGE NUMBER] 6/6/
+                          East Branch Russian Academy   EAR. (See Sec.       subject to the     2022.
+                          of Sciences, a.k.a., the      Sec.                 EAR apart from
+                          following one alias:          734.9(g),\3\         food and
+                         --IPMT FEB RAS.                746.8(a)(3), and     medicine
+                         5A Sukhanov Street,            744.21(b) of the     designated as
+                          Vladivostok, 690091,          EAR.)                EAR99, which
+                          Russia.                                            will be reviewed
+                                                                             on a case-by-
+                                                                             case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                                                                * * * * * *
+                         Irkutsk Aviation Plant,       For all items        Policy of denial   87 FR [INSERT FR
+                         3 Novatorov Street, Irkutsk,   subject to the       for all items      PAGE NUMBER] 6/6/
+                          664020, Russia.               EAR. (See Sec.       subject to the     2022.
+                                                        Sec.                 EAR apart from
+                                                        734.9(g),\3\         food and
+                                                        746.8(a)(3), and     medicine
+                                                        744.21(b) of the     designated as
+                                                        EAR.)                EAR99, which
+                                                                             will be reviewed
+                                                                             on a case-by-
+                                                                             case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                                                                * * * * * *
+                         Joint Stock Company           For all items        Policy of denial   87 FR [INSERT FR
+                          Aerocomposit, a.k.a., the     subject to the       for all items      PAGE NUMBER] 6/6/
+                          following one alias:          EAR. (See Sec.       subject to the     2022.
+                         --Aerocomposit.                Sec.                 EAR apart from
+                         47 Leningrad Prospect,         734.9(g),\3\         food and
+                          Building 2, Moscow, 125167,   746.8(a)(3), and     medicine
+                          Russia; and 23B Polikarpova   744.21(b) of the     designated as
+                          Street, Room 2, Moscow,       EAR.)                EAR99, which
+                          125284, Russia.                                    will be reviewed
+                                                                             on a case-by-
+                                                                             case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                                                                * * * * * *
+                         Joint Stock Company           For all items        Policy of denial   87 FR [INSERT FR
+                          Avtomatika, a.k.a., the       subject to the       for all items      PAGE NUMBER] 6/6/
+                          following one alias:          EAR. (See Sec.       subject to the     2022.
+                         --Avtomatika.                  Sec.                 EAR apart from
+                         113G Svetlanskaya Street,      734.9(g),\3\         food and
+                          Vladivostok, Primorsk Krai,   746.8(a)(3), and     medicine
+                          690001, Russia.               744.21(b) of the     designated as
+                                                        EAR.)                EAR99, which
+                                                                             will be reviewed
+                                                                             on a case-by-
+                                                                             case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                         Joint Stock Company Bryansk   For all items        Policy of denial   87 FR [INSERT FR
+                          Electromechanical Plant,      subject to the       for all items      PAGE NUMBER] 6/6/
+                          a.k.a., the following one     EAR. (See Sec.       subject to the     2022.
+                          alias:                        Sec.                 EAR apart from
+                         --BEMZ.                        734.9(g),\3\         food and
+                         136 Vokzalnaya Street,         746.8(a)(3), and     medicine
+                          Bryansk, 241017, Russia.      744.21(b) of the     designated as
+                                                        EAR.)                EAR99, which
+                                                                             will be reviewed
+                                                                             on a case-by-
+                                                                             case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                         Joint Stock Company Eleron,   For all items        Policy of denial   87 FR [INSERT FR
+                          a.k.a., the following two     subject to the       for all items      PAGE NUMBER] 6/6/
+                          aliases:                      EAR. (See Sec.       subject to the     2022.
+                         --JSC FCS&HT SNPO Eleron and   Sec.                 EAR apart from
+                         --SNPO Eleron.                 734.9(g),\3\         food and
+                         55 Dibunovskaya St., St.       746.8(a)(3), and     medicine
+                          Petersburg, 197183, Russia;   744.21(b) of the     designated as
+                          and 14 Generala Belova St.,   EAR.)                EAR99, which
+                          Moscow, 115563, Russia; and                        will be reviewed
+                          11 Oktyabrskava St.,                               on a case-by-
+                          Ozersk, Chelyabinsk Region,                        case basis. See
+                          456780, Russia.                                    Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                         Joint Stock Company           For all items        Policy of denial   87 FR [INSERT FR
+                          Experimental Design Bureau    subject to the       for all items      PAGE NUMBER] 6/6/
+                          named after A.S. Yakovlev,    EAR. (See Sec.       subject to the     2022.
+                          a.k.a., the following one     Sec.                 EAR apart from
+                          alias:                        734.9(g),\3\         food and
+                         --A.S. Yakovlev EDB.           746.8(a)(3), and     medicine
+                         68 Leningrad Prospect,         744.21(b) of the     designated as
+                          Moscow, 12531568, Russia.     EAR.)                EAR99, which
+                                                                             will be reviewed
+                                                                             on a case-by-
+                                                                             case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                         Joint Stock Company Federal   For all items        Policy of denial   87 FR [INSERT FR
+                          Research and Production       subject to the       for all items      PAGE NUMBER] 6/6/
+                          Center Altai,                 EAR. (See Sec.       subject to the     2022.
+                         1 Socialist Street, Biysk,     Sec.                 EAR apart from
+                          Altai Territory, 659322,      734.9(g),\3\         food and
+                          Russia.                       746.8(a)(3), and     medicine
+                                                        744.21(b) of the     designated as
+                                                        EAR.)                EAR99, which
+                                                                             will be reviewed
+                                                                             on a case-by-
+                                                                             case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+
+[[Page 34162]]
+
+ 
+                         Joint Stock Company Head      For all items        Policy of denial   87 FR [INSERT FR
+                          Special Design Bureau         subject to the       for all items      PAGE NUMBER] 6/6/
+                          Prozhektor,                   EAR. (See Sec.       subject to the     2022.
+                         56 Highway Enthusiasts,        Sec.                 EAR apart from
+                          Moscow, 111123, Russia.       734.9(g),\3\         food and
+                                                        746.8(a)(3), and     medicine
+                                                        744.21(b) of the     designated as
+                                                        EAR.)                EAR99, which
+                                                                             will be reviewed
+                                                                             on a case-by-
+                                                                             case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                         Joint Stock Company Ilyushin  For all items        Policy of denial   87 FR [INSERT FR
+                          Aviation Complex, a.k.a.,     subject to the       for all items      PAGE NUMBER] 6/6/
+                          the following one alias:      EAR. (See Sec.       subject to the     2022.
+                         --PAO Ilyushin.                Sec.                 EAR apart from
+                         45G Leningrad Prospect,        734.9(g),\3\         food and
+                          Moscow, 125190, Russia; and   746.8(a)(3), and     medicine
+                          2 Tupolev Street,             744.21(b) of the     designated as
+                          Zhukovsky, Moscow Oblast,     EAR.)                EAR99, which
+                          140185, Russia.                                    will be reviewed
+                                                                             on a case-by-
+                                                                             case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                         Joint Stock Company Lazurit   For all items        Policy of denial   87 FR [INSERT FR
+                          Central Design Bureau,        subject to the       for all items      PAGE NUMBER] 6/6/
+                          a.k.a., the following one     EAR. (See Sec.       subject to the     2022.
+                          alias:                        Sec.                 EAR apart from
+                         --Aktsionernoe Obshchestvo     734.9(g),\3\         food and
+                          Tsentralnoe Konstruktorskoe   746.8(a)(3), and     medicine
+                          Byuro Lazurit.                744.21(b) of the     designated as
+                         57 Svoboda Street, Nizhny      EAR.)                EAR99, which
+                          Novgorod, 603951, Russia;                          will be reviewed
+                          and 25H, 29H, Building 6/2,                        on a case-by-
+                          Lit. A, Ligovsky Prospect,                         case basis. See
+                          Saint Petersburg, 191036,                          Sec.  Sec.
+                          Russia; and 72 Svetlanskaya                        746.8(b) and
+                          Street, Vladivostok,                               744.21(e).
+                          Primorsky Territory,
+                          690091, Russia; and 1
+                          Lebedva Street, Bolshoy
+                          Kamen, Primorsky Territory,
+                          692801, Russia.
+                         Joint Stock Company Ramensky  For all items        Policy of denial   87 FR [INSERT FR
+                          Instrument Engineering        subject to the       for all items      PAGE NUMBER] 6/6/
+                          Plant, a.k.a., the            EAR. (See Sec.       subject to the     2022.
+                          following one alias:          Sec.                 EAR apart from
+                         --Ramensky Instrument-         734.9(g),\3\         food and
+                          Engineering Plant.            746.8(a)(3), and     medicine
+                         39 Mikhalevicha Street, Room   744.21(b) of the     designated as
+                          20, Floor 2, Space 124,       EAR.)                EAR99, which
+                          Ramensk, Moscow Oblast,                            will be reviewed
+                          140100, Russia.                                    on a case-by-
+                                                                             case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                         Joint Stock Company Research  For all items        Policy of denial   87 FR [INSERT FR
+                          and Development Enterprise    subject to the       for all items      PAGE NUMBER] 6/6/
+                          Protek, a.k.a., the           EAR. (See Sec.       subject to the     2022.
+                          following one alias:          Sec.                 EAR apart from
+                         --JSC NVP Protek.              734.9(g),\3\         food and
+                         6 Basic St., Voronezh,         746.8(a)(3), and     medicine
+                          394028, Russia.               744.21(b) of the     designated as
+                                                        EAR.)                EAR99, which
+                                                                             will be reviewed
+                                                                             on a case-by-
+                                                                             case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                         Joint Stock Company SPMDB     For all items        Policy of denial   87 FR [INSERT FR
+                          Malachite, a.k.a., the        subject to the       for all items      PAGE NUMBER] 6/6/
+                          following one alias:          EAR. (See Sec.       subject to the     2022.
+                         --Sankt-Peterburgskoe          Sec.                 EAR apart from
+                          Morskoe Byuro                 734.9(g),\3\         food and
+                          Mashinostroeniya Malakhit,    746.8(a)(3), and     medicine
+                          PAO.                          744.21(b) of the     designated as
+                         18 Frunze Street, Saint        EAR.)                EAR99, which
+                          Petersburg, 196135, Russia.                        will be reviewed
+                                                                             on a case-by-
+                                                                             case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                         Joint Stock Company           For all items        Policy of denial   87 FR [INSERT FR
+                          Votkinsky Zavod,              subject to the       for all items      PAGE NUMBER] 6/6/
+                         2 Kirova Street, Votkinsk,     EAR. (See Sec.       subject to the     2022.
+                          Udmurt Republic, 427430,      Sec.                 EAR apart from
+                          Russia.                       734.9(g),\3\         food and
+                                                        746.8(a)(3), and     medicine
+                                                        744.21(b) of the     designated as
+                                                        EAR.)                EAR99, which
+                                                                             will be reviewed
+                                                                             on a case-by-
+                                                                             case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                                                                * * * * * *
+                         Kalyazinsky Machine Building  For all items        Policy of denial   87 FR [INSERT FR
+                          Factory--Branch of RSK MiG,   subject to the       for all items      PAGE NUMBER] 6/6/
+                         5 Industrialnaya Ultisa,       EAR. (See Sec.       subject to the     2022.
+                          Kalyazin, Tver Oblast,        Sec.                 EAR apart from
+                          171573, Russia.               734.9(g),\3\         food and
+                                                        746.8(a)(3), and     medicine
+                                                        744.21(b) of the     designated as
+                                                        EAR.)                EAR99, which
+                                                                             will be reviewed
+                                                                             on a case-by-
+                                                                             case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                                                                * * * * * *
+                         Main Directorate of Deep-Sea  For all items        Policy of denial   87 FR [INSERT FR
+                          Research, a.k.a., the         subject to the       for all items      PAGE NUMBER] 6/6/
+                          following three aliases:      EAR. (See Sec.       subject to the     2022.
+                         --GUGI;                        Sec.                 EAR apart from
+                         --Hydrographic Service of      734.9(g),\3\         food and
+                          the Navy; and                 746.8(a)(3), and     medicine
+                         --Department of Navigation     744.21(b) of the     designated as
+                          and Oceanography of the       EAR.)                EAR99, which
+                          Ministry of Defense of the                         will be reviewed
+                          Russian Federation.                                on a case-by-
+                         8, 11 line of Vasilievsky                           case basis. See
+                          Island, St. Petersburg,                            Sec.  Sec.
+                          199034 Russia.                                     746.8(b) and
+                                                                             744.21(e).
+                                                                * * * * * *
+                         NPP Start, a.k.a., the        For all items        Policy of denial   87 FR [INSERT FR
+                          following one alias:          subject to the       for all items      PAGE NUMBER] 6/6/
+                         --NPP Start AE Yaskina.        EAR. (See Sec.       subject to the     2022.
+                         24 Pribaltiskaya St.,          Sec.                 EAR apart from
+                          Yekaterinburg, 620007,        734.9(g),\3\         food and
+                          Russia.                       746.8(a)(3), and     medicine
+                                                        744.21(b) of the     designated as
+                                                        EAR.)                EAR99, which
+                                                                             will be reviewed
+                                                                             on a case-by-
+                                                                             case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                                                                * * * * * *
+
+[[Page 34163]]
+
+ 
+                         OAO Radiofizika, a.k.a., the  For all items        Policy of denial   87 FR [INSERT FR
+                          following one alias:          subject to the       for all items      PAGE NUMBER] 6/6/
+                         --PJSC Radiophysics.           EAR. (See Sec.       subject to the     2022.
+                         10 Geroyev Panfilov St.,       Sec.                 EAR apart from
+                          Moscow, 125363, Russia.       734.9(g),\3\         food and
+                                                        746.8(a)(3), and     medicine
+                                                        744.21(b) of the     designated as
+                                                        EAR.)                EAR99, which
+                                                                             will be reviewed
+                                                                             on a case-by-
+                                                                             case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                                                                * * * * * *
+                         P.A. Voronin Lukhovitsk       For all items        Policy of denial   87 FR [INSERT FR
+                          Aviation Plant, branch of     subject to the       for all items      PAGE NUMBER] 6/6/
+                          RSK MiG, a.k.a., the          EAR. (See Sec.       subject to the     2022.
+                          following one alias:          Sec.                 EAR apart from
+                         --LAZ.                         734.9(g),\3\         food and
+                         Lukhovitsy District, Moscow    746.8(a)(3), and     medicine
+                          Region, 140500, Russia.       744.21(b) of the     designated as
+                                                        EAR.)                EAR99, which
+                                                                             will be reviewed
+                                                                             on a case-by-
+                                                                             case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                                                                * * * * * *
+                         Public Joint Stock Company    For all items        Policy of denial   87 FR [INSERT FR
+                          Voronezh Joint Stock          subject to the       for all items      PAGE NUMBER] 6/6/
+                          Aircraft Company, a.k.a.,     EAR. (See Sec.       subject to the     2022.
+                          the following one alias:      Sec.                 EAR apart from
+                         --VASO.                        734.9(g),\3\         food and
+                         27 Tsiolkovsk Street,          746.8(a)(3), and     medicine
+                          Vornezh, 394029, Russia.      744.21(b) of the     designated as
+                                                        EAR.)                EAR99, which
+                                                                             will be reviewed
+                                                                             on a case-by-
+                                                                             case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                                                                * * * * * *
+                         Radio Technical Institute     For all items        Policy of denial   87 FR [INSERT FR
+                          named after A. L. Mints,      subject to the       for all items      PAGE NUMBER] 6/6/
+                          a.k.a., the following two     EAR. (See Sec.       subject to the     2022.
+                          aliases:                      Sec.                 EAR apart from
+                         --Academician A.L. Mints       734.9(g),\3\         food and
+                          Radiotechnical Institute;     746.8(a)(3), and     medicine
+                          and                           744.21(b) of the     designated as
+                         --Mints Radio-Technical        EAR.)                EAR99, which
+                          Institute.                                         will be reviewed
+                         10/1 8th March St., North                           on a case-by-
+                          Administrative Okrug,                              case basis. See
+                          Moscow, 127083, Russia.                            Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                                                                * * * * * *
+                         Russian Federal Nuclear       For all items        Policy of denial   87 FR [INSERT FR
+                          Center--All-Russian           subject to the       for all items      PAGE NUMBER] 6/6/
+                          Research Institute of         EAR. (See Sec.       subject to the     2022.
+                          Experimental Physics,         Sec.                 EAR apart from
+                          a.k.a., the following four    734.9(g),\3\         food and
+                          aliases:                      746.8(a)(3), and     medicine
+                         --NIIIS;                       744.21(b) of the     designated as
+                         --Sedakova Research            EAR.)                EAR99, which
+                          Institute of Measuring                             will be reviewed
+                          Systems;                                           on a case-by-
+                         --NIIIS Named After Yu.E.                           case basis. See
+                          Sedakov; and                                       Sec.  Sec.
+                         --RFNC-VNIIEF.                                      746.8(b) and
+                         Box No. 486, Nizhny                                 744.21(e).
+                          Novgorod, Russia, 603951;
+                          and 47 Tropinina St.,
+                          Nizhny Novgorod, 603137,
+                          Russia.
+                                                                * * * * * *
+                         Shvabe JSC, a.k.a., the       For all items        Policy of denial   87 FR [INSERT FR
+                          following one alias:          subject to the       for all items      PAGE NUMBER] 6/6/
+                         --Shvabe.                      EAR. (See Sec.       subject to the     2022.
+                         176 Mira Prospekt, Moscow,     Sec.                 EAR apart from
+                          129366, Russia.               734.9(g),\3\         food and
+                                                        746.8(a)(3), and     medicine
+                                                        744.21(b) of the     designated as
+                                                        EAR.)                EAR99, which
+                                                                             will be reviewed
+                                                                             on a case-by-
+                                                                             case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                                                                * * * * * *
+                         Special Research Bureau for   For all items        Policy of Denial.  87 FR [INSERT FR
+                          Automation of Marine          subject to the EAR                      PAGE NUMBER] 6/6/
+                          Researches Far East Branch    (See Sec.   744.11                      2022.
+                          Russian Academy of            of the EAR).
+                          Sciences, a.k.a., the
+                          following one alias:
+                         --SKB SAMI DVO RAN.
+                         25 Alekseya Maksimovicha
+                          Gorkogo, Yuzhno-Sakhalinsk,
+                          Kakhalinskaya Oblast,
+                          693010, Russia.
+                         Special Technological Center  For all items        Policy of denial   87 FR [INSERT FR
+                          LLC, a.k.a., the following    subject to the       for all items      PAGE NUMBER] 6/6/
+                          one alias:                    EAR. (See Sec.       subject to the     2022.
+                         --OOO STTs.                    Sec.                 EAR apart from
+                         21B Gzhatskaya St., St.        734.9(g),\3\         food and
+                          Petersburg, 195220, Russia.   746.8(a)(3), and     medicine
+                                                        744.21(b) of the     designated as
+                                                        EAR.)                EAR99, which
+                                                                             will be reviewed
+                                                                             on a case-by-
+                                                                             case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                                                                * * * * * *
+                         St. Petersburg Marine Bureau  For all items        Policy of denial   87 FR [INSERT FR
+                          of Machine Building           subject to the       for all items      PAGE NUMBER] 6/6/
+                          Malakhit, a.k.a., the         EAR. (See Sec.       subject to the     2022.
+                          following two aliases:        Sec.                 EAR apart from
+                         --SPMBM Malakhit; and          734.9(g),\3\         food and
+                         --Malakhit.                    746.8(a)(3), and     medicine
+                         18 Frunze St., St.             744.21(b) of the     designated as
+                          Petersburg, 196135, Russia.   EAR.)                EAR99, which
+                                                                             will be reviewed
+                                                                             on a case-by-
+                                                                             case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                         St. Petersburg Naval Design   For all items        Policy of denial   87 FR [INSERT FR
+                          Bureau Almaz, a.k.a., the     subject to the       for all items      PAGE NUMBER] 6/6/
+                          following two aliases:        EAR. (See Sec.       subject to the     2022.
+                         --JSC TsMKB Almaz; and         Sec.                 EAR apart from
+                         --Almaz Central Marine         734.9(g),\3\         food and
+                          Design Bureau.                746.8(a)(3), and     medicine
+                         50 Varshavskaya, St.           744.21(b) of the     designated as
+                          Petersburg, 196128, Russia.   EAR.)                EAR99, which
+                                                                             will be reviewed
+                                                                             on a case-by-
+                                                                             case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+
+[[Page 34164]]
+
+ 
+                         St. Petersburg Shipbuilding   For all items        Policy of denial   87 FR [INSERT FR
+                          Institution Krylov 45,        subject to the       for all items      PAGE NUMBER] 6/6/
+                          a.k.a., the following one     EAR. (See Sec.       subject to the     2022.
+                          alias:                        Sec.                 EAR apart from
+                         --Krylov State Research        734.9(g),\3\         food and
+                          Center.                       746.8(a)(3), and     medicine
+                         44 Moskovskoe Highway, St.     744.21(b) of the     designated as
+                          Petersburg, Russia, 196158.   EAR.)                EAR99, which
+                                                                             will be reviewed
+                                                                             on a case-by-
+                                                                             case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                                                                * * * * * *
+                         Strategic Control Posts       For all items        Policy of denial   87 FR [INSERT FR
+                          Corporation, a.k.a., the      subject to the       for all items      PAGE NUMBER] 6/6/
+                          following two aliases:        EAR. (See Sec.       subject to the     2022.
+                         --Central Design Bureau of     Sec.                 EAR apart from
+                          Heavy Machine Building SPU    734.9(g),\3\         food and
+                          TsKB TM; and                  746.8(a)(3), and     medicine
+                         --JSC Corporation SPU-CCB      744.21(b) of the     designated as
+                          TM.                           EAR.)                EAR99, which
+                         12A Vozvodnaya St., Moscow,                         will be reviewed
+                          111024, Russia.                                    on a case-by-
+                                                                             case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                                                                * * * * * *
+                         Systems of Biological         For all items        Policy of Denial.  87 FR [INSERT FR
+                          Synthesis LLC., a.k.a., the   subject to the EAR                      PAGE NUMBER] 6/6/
+                          following three aliases:      (See Sec.   744.11                      2022.
+                         --Sistemy Biologicheskogo      of the EAR).
+                          Sinteza;
+                         --OOO SBS; and
+                         --SBS LLC.
+                         Akademika Koroleva Street,
+                          Building 13/1, Office 35-
+                          39, Moscow, 129515, Russia.
+                         TsKB MT Rubin, a.k.a., the    For all items        Policy of denial   87 FR [INSERT FR
+                          following two aliases:        subject to the       for all items      PAGE NUMBER] 6/6/
+                         --Tsentralnoe                  EAR. (See Sec.       subject to the     2022.
+                          Konstruktorskoe Byuro         Sec.                 EAR apart from
+                          Morskoi Tekhniki Rubin; and   734.9(g),\3\         food and
+                         --The Rubin Central Design     746.8(a)(3), and     medicine
+                          Bureau for Marine             744.21(b) of the     designated as
+                          Engineering.                  EAR.)                EAR99, which
+                         90 Marata Street, Saint                             will be reviewed
+                          Petersburg, 191119, Russia.                        on a case-by-
+                                                                             case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                                                                * * * * * *
+                         V.A. Trapeznikov Institute    For all items        Policy of denial   87 FR [INSERT FR
+                          of Control Sciences of        subject to the       for all items      PAGE NUMBER] 6/6/
+                          Russian Academy of            EAR. (See Sec.       subject to the     2022.
+                          Sciences, a.k.a., the         Sec.                 EAR apart from
+                          following two aliases:        734.9(g),\3\         food and
+                         --ICS RAS; and                 746.8(a)(3), and     medicine
+                         --IPU RAS.                     744.21(b) of the     designated as
+                         65 Profsoyuznaya Street,       EAR.)                EAR99, which
+                          Business Center                                    will be reviewed
+                          Vozdvizhenka Center                                on a case-by-
+                          Voentorg, Moscow, 117997,                          case basis. See
+                          Russia.                                            Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                         Vladimir Design Bureau for    For all items        Policy of denial   87 FR [INSERT FR
+                          Radio Communications OJSC,    subject to the       for all items      PAGE NUMBER] 6/6/
+                          a.k.a., the following one     EAR. (See Sec.       subject to the     2022.
+                          alias:                        Sec.                 EAR apart from
+                         --VKBR.                        734.9(g),\3\         food and
+                         28 Baturina St., Vladimir,     746.8(a)(3), and     medicine
+                          Vladimirskaya oblast,         744.21(b) of the     designated as
+                          600017, Russia.               EAR.)                EAR99, which
+                                                                             will be reviewed
+                                                                             on a case-by-
+                                                                             case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                         Voentelecom JSC,              For all items        Policy of denial   87 FR [INSERT FR
+                         15A/1 Bolshaya Olenya St.,     subject to the       for all items      PAGE NUMBER] 6/6/
+                          Moscow, 107014, Russia.       EAR. (See Sec.       subject to the     2022.
+                                                        Sec.                 EAR apart from
+                                                        734.9(g),\3\         food and
+                                                        746.8(a)(3), and     medicine
+                                                        744.21(b) of the     designated as
+                                                        EAR.)                EAR99, which
+                                                                             will be reviewed
+                                                                             on a case-by-
+                                                                             case basis. See
+                                                                             Sec.  Sec.
+                                                                             746.8(b) and
+                                                                             744.21(e).
+                                                                * * * * * *
+----------------------------------------------------------------------------------------------------------------
+
+* * * * *
+
+Thea D. Rozman Kendler,
+Assistant Secretary for Export Administration.
+[FR Doc. 2022-12144 Filed 6-2-22; 4:15 pm]
+BILLING CODE 3510-JT-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

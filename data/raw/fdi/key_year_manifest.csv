@@ -1,0 +1,5 @@
+﻿file,year,table_type,title,source_artifact,bytes,sha256,rows_extracted
+2017_inward.xlsx,2017,inward,"Table 6-i: Inward Direct Investment Positions by All Reporting Economies Cross-classified by Counterpart Economies, as of end-2017",data/raw/fdi/2017_inward.xlsx,249577,3887aeb2a63485737c2e09de88f279047ffc6d7abc0fe97360dffbf2978e2c35,12
+2017_outward.xlsx,2017,outward,"Table 6-o: Outward Direct Investment Positions by All Reporting Economies Cross-classified by Counterpart Economies, as of end-2017",data/raw/fdi/2017_outward.xlsx,213872,2f01f6fa0b448eec9e01e926cfe1fe7aef99dfb137f3329178d10429b77c082b,12
+2021_inward.xlsx,2021,inward,"Table 6-i: Inward Direct Investment Positions by All Reporting Economies Cross-classified by Counterpart Economies, as of end-2021",data/raw/fdi/2021_inward.xlsx,246863,3b2fd6d4e501bdaf318117ddfd383f55da0f10f4defa700a6141cd0bfefe4437,12
+2021_outward.xlsx,2021,outward,"Table 6-o: Outward Direct Investment Positions by All Reporting Economies Cross-classified by Counterpart Economies, as of end-2021",data/raw/fdi/2021_outward.xlsx,214178,d5d48eff19e458ed0e84f7a527a647aa8032d33433dfadfa5d7cfa3e30faffd9,12

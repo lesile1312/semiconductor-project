@@ -1,0 +1,97 @@
+{
+  "abstract": "This rule amends the Export Administration Regulations (EAR) by adding five persons to the Entity List. The five persons who are added to the Entity List have been determined by the U.S. Government to be acting contrary to the national security or foreign policy interests of the United States. These five persons will be listed on the Entity List under the destination of Turkey. This final rule also removes one entity from the Entity List under the destination of India as the result of a request for removal received by BIS and a review of information provided in the removal request in accordance with the procedure for requesting removal or modification of an Entity List entity. Finally, this rule is also revising five existing entries in the Entity List, under the destinations of Armenia, Greece, Pakistan, Russia and the United Kingdom (U.K.). Four of these entries are modified to reflect the removal from the Entity List of the entity located in India. The license requirement for the entry under the destination of Russia is being revised to conform with a general license issued by the Department of the Treasury's Office of Foreign Assets Control on December 20, 2016.",
+  "action": "Final rule.",
+  "agencies": [
+    {
+      "id": 54,
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+      "name": "Commerce Department",
+      "parent_id": null,
+      "raw_name": "DEPARTMENT OF COMMERCE",
+      "slug": "commerce-department",
+      "url": "https://www.federalregister.gov/agencies/commerce-department"
+    },
+    {
+      "id": 241,
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+      "name": "Industry and Security Bureau",
+      "parent_id": 54,
+      "raw_name": "Bureau of Industry and Security",
+      "slug": "industry-and-security-bureau",
+      "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2017/01/10/2016-31833.html",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 744,
+      "title": 15
+    }
+  ],
+  "citation": "82 FR 2883",
+  "comment_url": null,
+  "comments_close_on": null,
+  "correction_of": null,
+  "corrections": [],
+  "dates": "This rule is effective January 10, 2017.",
+  "disposition_notes": null,
+  "docket_ids": [
+    "Docket No. 161221999-6999-01"
+  ],
+  "dockets": [],
+  "document_number": "2016-31833",
+  "effective_on": "2017-01-10",
+  "end_page": 2889,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2017/01/10/2016-31833.xml",
+  "html_url": "https://www.federalregister.gov/documents/2017/01/10/2016-31833/addition-of-certain-persons-and-revisions-to-entries-on-the-entity-list-and-removal-of-a-person-from",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2016-31833?publication_date=2017-01-10",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2017-01-10/2016-31833/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 7,
+  "page_views": {
+    "count": 2080,
+    "last_updated": "2026-09-13 22:15:03 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2017-01-10/pdf/2016-31833.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2016-31833.pdf?1483969523",
+  "publication_date": "2017-01-10",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2017/01/10/2016-31833.txt",
+  "regulation_id_number_info": {
+    "0694-AH23": null
+  },
+  "regulation_id_numbers": [
+    "0694-AH23"
+  ],
+  "regulations_dot_gov_info": {
+    "checked_regulationsdotgov_at": "2017-01-30T06:00:18Z",
+    "comments_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=BIS_FRDOC_0001",
+    "docket_id": "BIS_FRDOC_0001",
+    "regulation_id_number": null,
+    "supporting_documents": [],
+    "supporting_documents_count": 0,
+    "title": "Recently Posted BIS Rules and Notices."
+  },
+  "regulations_dot_gov_url": null,
+  "significant": null,
+  "signing_date": null,
+  "start_page": 2883,
+  "subtype": null,
+  "title": "Addition of Certain Persons and Revisions to Entries on the Entity List; and Removal of a Person From the Entity List",
+  "toc_doc": "Certain Persons and Modification of Certain Entries to the Entity List; Additions and Removals",
+  "toc_subject": null,
+  "topics": [
+    "Exports",
+    "Reporting and recordkeeping requirements",
+    "Terrorism"
+  ],
+  "type": "Rule",
+  "volume": 82
+}

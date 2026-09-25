@@ -1,0 +1,311 @@
+<html>
+<head>
+<title>Federal Register, Volume 82 Issue 243 (Wednesday, December 20, 2017)</title>
+</head>
+<body><pre>
+[Federal Register Volume 82, Number 243 (Wednesday, December 20, 2017)]
+[Rules and Regulations]
+[Pages 60304-60306]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2017-27388]
+
+
+
+[[Page 60304]]
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF COMMERCE
+
+Bureau of Industry and Security
+
+15 CFR Part 744
+
+[Docket No. 140908761-7999-02]
+RIN 0694--AG29
+
+
+Addition of Certain Entities to the Entity List
+
+AGENCY: Bureau of Industry and Security, Commerce.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This rule amends the Export Administration Regulations (EAR) 
+by adding two entities to the Entity List. The two entities being added 
+to the Entity List have been determined by the U.S. Government to be 
+acting contrary to the national security or foreign policy interests of 
+the United States. These two entities will be listed on the Entity List 
+under the destination of Russia.
+
+DATES: This rule is effective December 20, 2017.
+
+FOR FURTHER INFORMATION CONTACT: Chair, End-User Review Committee, 
+Office of the Assistant Secretary, Export Administration, Bureau of 
+Industry and Security, Department of Commerce, Phone: (202) 482-5991, 
+Email: <a href="/cdn-cgi/l/email-protection#99dccbdad9fbf0eab7fdf6fab7fef6ef"><span class="__cf_email__" data-cfemail="6f2a3d2c2f0d061c410b000c41080019">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION: 
+
+Background
+
+    The Entity List (Supplement No. 4 to part 744 of the Export 
+Administration Regulations (EAR)) identifies entities and other persons 
+reasonably believed to be involved, or to pose a significant risk of 
+being or becoming involved, in activities contrary to the national 
+security or foreign policy interests of the United States. The EAR 
+imposes additional license requirements on, and limits the availability 
+of most license exceptions for, exports, reexports, and transfers (in-
+country) to those listed. The ``license review policy'' for each listed 
+entity or other person is identified in the License Review Policy 
+column on the Entity List and the impact on the availability of license 
+exceptions is described in the Federal Register document adding 
+entities or other persons to the Entity List. BIS places entities and 
+other persons on the Entity List pursuant to sections of part 744 
+(Control Policy: End-User and End-Use Based) and part 746 (Embargoes 
+and Other Special Controls) of the EAR.
+    The End-User Review Committee (ERC), composed of representatives of 
+the Departments of Commerce (Chair), State, Defense, Energy and, where 
+appropriate, the Treasury, makes all decisions regarding additions to, 
+removals from, or other modifications to the Entity List. The ERC makes 
+decisions to add an entry to the Entity List by majority vote and 
+decisions to remove or modify an entry by unanimous vote. The 
+Departments represented on the ERC have approved these changes to the 
+Entity List.
+
+ERC Entity List Decisions
+
+Additions to the Entity List
+
+    This rule implements the decision of the ERC to add two entities to 
+the Entity List. These two entities are being added on the basis of 
+Sec.  744.11 (License requirements that apply to entities acting 
+contrary to the national security or foreign policy interests of the 
+United States) of the EAR. The two entries added to the Entity List 
+consist of two entities located in Russia.
+    Under Sec.  744.11(b) (Criteria for revising the Entity List) of 
+the EAR, persons for whom there is reasonable cause to believe, based 
+on specific and articulable facts, that they have been involved, are 
+involved, or pose a significant risk of being or becoming involved in, 
+activities that are contrary to the national security or foreign policy 
+interests of the United States and those acting on behalf of such 
+persons may be added to the Entity List. Paragraphs (b)(1) through 
+(b)(5) of Sec.  744.11 provide an illustrative list of activities that 
+could be contrary to the national security or foreign policy interests 
+of the United States.
+    BIS, pursuant to Section 744.11(b) of the EAR, and in consultation 
+with the Departments of State, Defense, Energy and the Treasury, has 
+designated the two persons, located in the Russian Federation, to be 
+added to the Entity List for actions contrary to the national security 
+or foreign policy interests of the United States. Specifically, these 
+entities produced, for the Russian Federation Ministry of Defense, a 
+ground-launched cruise missile system, and associated transporter-
+erector-launcher, with a range prohibited by the Intermediate-Range 
+Nuclear Forces Treaty. Both the Russian Federation and the United 
+States are party to the INF Treaty. Therefore, there is reasonable 
+cause to believe, based on specific and articulable facts, that Joint 
+Stock Company Experimental Design Bureau Novator, and Joint Stock 
+Company Federal Scientific and Production Center Titan-Barrikady have 
+been involved in actions contrary to the national security or foreign 
+policy interests of the United States.
+    The prior review of exports, reexports or transfers (in-country) of 
+all items subject to the EAR involving these persons, and the possible 
+imposition of license conditions or license denials on shipments to the 
+persons, will enhance BIS's ability to prevent use of items subject to 
+the EAR contrary to U.S. national security or foreign policy interests.
+    For the two persons added to the Entity List, BIS imposes a license 
+requirement for all items subject to the EAR, and a license review 
+policy of presumption of denial. The license requirements apply to any 
+transaction in which items are to be exported, reexported, or 
+transferred (in-country) to either of the persons or in which such 
+persons act as purchaser, intermediate consignee, ultimate consignee, 
+or end-user. In addition, no license exceptions are available for 
+exports, reexports, or transfers (in-country) to the persons being 
+added to the Entity List in this rule. The acronym ``a.k.a.'' (also 
+known as) is used in entries on the Entity List to identify aliases and 
+help exporters, reexporters and transferors to better identify persons 
+on the Entity List.
+    This final rule adds the following two entities to the Entity List:
+
+Russia
+
+    (1) Joint Stock Company Experimental Design Bureau Novator, a.k.a., 
+the following two aliases:
+
+--Novator Design Bureau; and
+--JSC OKB Novator.
+
+    18 Prospekt Kosmonavtov, 620017 Yekaterinburg, Russia; and
+    (2) Joint Stock Company Federal Scientific and Production Center 
+Titan-Barrikady, a.k.a., the following three aliases:
+
+--Federal Research and Production Center Titan Barrikady JSC;
+--Titan Design Bureau; and
+--JSC FNPTS Titan-Barrikady.
+
+    Prospekt Imeni V.I. Lenina, b/n 400071, Volgograd, Russia.
+
+Export Administration Act of 1979
+
+    Although the Export Administration Act of 1979 expired on August 
+20, 2001, the President, through Executive Order 13222 of August 17, 
+2001, 3 CFR, 2001 Comp., p. 783 (2002), as amended by Executive Order 
+13637 of March 8, 2013, 78 FR 16129 (March 13, 2013) and as extended by 
+the Notice of August 15, 2017, 82 FR 39005 (August 16, 2017), has 
+continued the Export Administration Regulations in effect under the 
+International Emergency Economic Powers Act. BIS continues to carry out 
+the provisions of the Export Administration Act of 1979, as appropriate 
+and to the extent permitted by law, pursuant to Executive Order
+
+[[Page 60305]]
+
+13222, as amended by Executive Order 13637.
+
+Rulemaking Requirements
+
+    1. Executive Orders 13563 and 12866 direct agencies to assess all 
+costs and benefits of available regulatory alternatives and, if 
+regulation is necessary, to select regulatory approaches that maximize 
+net benefits (including potential economic, environmental, public 
+health and safety effects, distributive impacts, and equity). Executive 
+Order 13563 emphasizes the importance of quantifying both costs and 
+benefits, of reducing costs, of harmonizing rules, and of promoting 
+flexibility. This rule has been determined to be not significant for 
+purposes of Executive Order 12866. This rule is not an Executive Order 
+13771 regulatory action because this rule is not significant under 
+Executive Order 12866.
+    2. Notwithstanding any other provision of law, no person is 
+required to respond to nor be subject to a penalty for failure to 
+comply with a collection of information, subject to the requirements of 
+the Paperwork Reduction Act of 1995 (44 U.S.C. 3501 et seq.) (PRA), 
+unless that collection of information displays a currently valid Office 
+of Management and Budget (OMB) Control Number. This regulation involves 
+collections previously approved by OMB under control number 0694-0088, 
+Simplified Network Application Processing System, which includes, among 
+other things, license applications, and carries a burden estimate of 
+43.8 minutes for a manual or electronic submission.
+    Total burden hours associated with the PRA and OMB control number 
+0694-0088 are not expected to increase as a result of this rule. You 
+may send comments regarding the collection of information associated 
+with this rule, including suggestions for reducing the burden, to 
+Jasmeet K. Seehra, Office of Management and Budget (OMB), by email to 
+<a href="/cdn-cgi/l/email-protection#98d2f9ebf5fdfdecc7d3b6c7cbfdfdf0eaf9d8f7f5fab6fdf7e8b6fff7ee"><span class="__cf_email__" data-cfemail="c18ba0b2aca4a4b59e8aef9e92a4a4a9b3a081aeaca3efa4aeb1efa6aeb7">[email&#160;protected]</span></a>, or by fax to (202) 395-7285.
+    3. This rule does not contain policies with Federalism implications 
+as that term is defined in Executive Order 13132.
+    4. For the two persons added to the Entity List in this final rule, 
+the provisions of the Administrative Procedure Act (5 U.S.C. 553) 
+requiring notice of proposed rulemaking, the opportunity for public 
+participation and a 30-day delay in effective date are inapplicable 
+because this regulation involves a military or foreign affairs function 
+of the United States (5 U.S.C. 553(a)(1)). BIS implementation of this 
+rule is necessary to protect U.S. national security or foreign policy 
+interests by preventing items from being exported, reexported, or 
+transferred (in-country) to the persons being added to the Entity List. 
+If this rule were delayed to allow for notice and comment and a delay 
+in effective date, the entities being added to the Entity List by this 
+action would continue to be able to receive items without a license and 
+to conduct activities contrary to the national security or foreign 
+policy interests of the United States. In addition, publishing a 
+proposed rule would give these parties notice of the U.S. Government's 
+intention to place them on the Entity List, which could create an 
+incentive for these persons to accelerate receiving items subject to 
+the EAR to conduct activities that are contrary to the national 
+security or foreign policy interests of the United States, including 
+taking steps to set up additional aliases, change addresses, and other 
+measures to try to limit the impact of the listing on the Entity List 
+once a final rule is published. Further, no other law requires that a 
+notice of proposed rulemaking and an opportunity for public comment be 
+given for this rule. Because a notice of proposed rulemaking and an 
+opportunity for public comment are not required to be given for this 
+rule by 5 U.S.C. 553, or by any other law, the analytical requirements 
+of the Regulatory Flexibility Act, 5 U.S.C. 601 et seq., are not 
+applicable. Accordingly, no regulatory flexibility analysis is required 
+and none has been prepared.
+
+List of Subjects in 15 CFR Part 744
+
+    Exports, Reporting and recordkeeping requirements, Terrorism.
+
+    Accordingly, part 744 of the Export Administration Regulations (15 
+CFR parts 730-774) is amended as follows:
+
+PART 744--[AMENDED]
+
+0
+1. The authority citation for part 744 is revised to read as follows:
+
+    Authority: 50 U.S.C. 4601 et seq.; 50 U.S.C. 1701 et seq.; 22 
+U.S.C. 3201 et seq.; 42 U.S.C. 2139a; 22 U.S.C. 7201 et seq.; 22 
+U.S.C. 7210; E.O. 12058, 43 FR 20947, 3 CFR, 1978 Comp., p. 179; 
+E.O. 12851, 58 FR 33181, 3 CFR, 1993 Comp., p. 608; E.O. 12938, 59 
+FR 59099, 3 CFR, 1994 Comp., p. 950; E.O. 12947, 60 FR 5079, 3 CFR, 
+1995 Comp., p. 356; E.O. 13026, 61 FR 58767, 3 CFR, 1996 Comp., p. 
+228; E.O. 13099, 63 FR 45167, 3 CFR, 1998 Comp., p. 208; E.O. 13222, 
+66 FR 44025, 3 CFR, 2001 Comp., p. 783; E.O. 13224, 66 FR 49079, 3 
+CFR, 2001 Comp., p. 786; Notice of January 13, 2017, 82 FR 6165 
+(January 18, 2017); Notice of August 15, 2017, 82 FR 39005 (August 
+16, 2017); Notice of September 18, 2017, 82 FR 43825 (September 19, 
+2017); Notice of November 6, 2017, 82 FR 51971 (November 8, 2017).
+
+0
+2. Supplement No. 4 to part 744 is amended by adding under Russia, two 
+Russian entities.
+    The additions read as follows:
+
+Supplement No. 4 to Part 744--Entity List
+
+* * * * *
+
+----------------------------------------------------------------------------------------------------------------
+                                                                              License review    Federal Register
+        Country                     Entity             License requirement        policy            citation
+----------------------------------------------------------------------------------------------------------------
+ 
+                                                  * * * * * * *
+----------------------------------------------------------------------------------------------------------------
+RUSSIA.................                                         * * * * * *
+                        ----------------------------------------------------------------------------------------
+                         Joint Stock Company           For all items        Presumption of     82 FR [INSERT FR
+                          Experimental Design Bureau    subject to the       denial.            PAGE NUMBER],
+                          Novator, a.k.a., the          EAR. (See Sec.                          December 12/20/
+                          following two aliases:        744.11 of the                           17.
+                         --Novator Design Bureau; and   EAR).
+                         --JSC OKB Novator.
+                         18 Prospekt Kosmonavtov,
+                          620017 Yekaterinburg,
+                          Russia.
+
+[[Page 60306]]
+
+ 
+                         Joint Stock Company Federal   For all items        Presumption of     82 FR [INSERT FR
+                          Scientific and Production     subject to the       denial.            PAGE NUMBER], 12/
+                          Center Titan-Barrikady,       EAR. (See Sec.                          20/17.
+                          a.k.a., the following three   744.11 of the
+                          aliases:                      EAR).
+                         --Federal Research and
+                          Production Center Titan
+                          Barrikady JSC;
+                         --Titan Design Bureau; and
+                         --JSC FNPTS Titan-Barrikady.
+                         Prospekt Imeni V.I. Lenina,
+                          b/n 400071, Volgograd,
+                          Russia.
+----------------------------------------------------------------------------------------------------------------
+ 
+                                                  * * * * * * *
+----------------------------------------------------------------------------------------------------------------
+
+
+    Dated: December 15, 2017.
+Richard E. Ashooh,
+Assistant Secretary for Export Administration.
+[FR Doc. 2017-27388 Filed 12-19-17; 8:45 am]
+ BILLING CODE 3510-33-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

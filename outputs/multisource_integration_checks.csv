@@ -1,0 +1,16 @@
+﻿check_id,observed,expected,status,detail
+panel_country_year_coverage,24.0,24,PASS,Expected the exact 12-economy x 2-year key grid.
+panel_primary_key_unique,0.0,0,PASS,No duplicate country/ISO/year rows.
+core_scoring_field_completeness,0.0,0,PASS,Core score inputs must be populated; only explicit source exceptions may be retained in separate raw/reference fields.
+N4_formula_max_abs_error,9.194034422677078e-17,<= 1e-12,PASS,N4 must equal N2 multiplied by N3 for every row.
+P2_target_year_source_alignment,1.0,1,PASS,2017 rows use 2017 evidence; 2022 rows use 2022 evidence; ATOP 2018 remains separately labelled.
+Mexico_ATOP_OAS_conflict_explicit,1.0,1,PASS,Raw ATOP=1 is preserved; audited P2=0 follows OAS's 2004 treaty-cessation record.
+P2_2022_official_overlay_matches_source,1.0,1,PASS,Merged P2 values reproduce the line-level manually coded official-source input file.
+P2_2022_row_level_basis_and_link_quality,1.0,1,PASS,"All 12 country rows have a coding note and parseable URLs; each positive row links to country-specific or NATO membership evidence, not only a general inventory."
+P2_official_treaty_reference_files_and_row_links,1.0,1,PASS,"Official State TIF 2020 and 2021-2023 supplement are retained, hashed in the registry, and linked from all 12 target-year coding rows."
+CDIS_target_year_lag_and_score_boundary,1.0,1,PASS,2017 maps to 2017 and 2022 maps to 2021 with one-year lag; CDIS stays outside the score.
+CDIS_reported_flags_match_unfilled_values,1.0,1,PASS,Direction flags are derived from actual reported cells; absent CDIS values remain null rather than being converted to zero.
+P3_scope_and_non_scoring_boundary,1.0,1,PASS,The selected candidate set is explicitly non-exhaustive; no zero is interpreted as no overall exposure.
+no_machine_local_paths_in_panel,1.0,1,PASS,"Public-facing panel stores source URLs or project-relative artifacts, not private workstation paths."
+field_level_lineage_covers_entire_panel,46.0,46,PASS,"Every core, context, provenance, and missingness field has a declared source, transformation, join key, and boundary."
+source_coverage_by_target_year_artifact,22.0,22,PASS,"Coverage distinguishes source records from observed values, reports CDIS directions separately, and marks unjoined candidates as unavailable rather than zero risk."

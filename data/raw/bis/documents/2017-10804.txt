@@ -1,0 +1,585 @@
+<html>
+<head>
+<title>Federal Register, Volume 82 Issue 101 (Friday, May 26, 2017)</title>
+</head>
+<body><pre>
+[Federal Register Volume 82, Number 101 (Friday, May 26, 2017)]
+[Rules and Regulations]
+[Pages 24242-24248]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2017-10804]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF COMMERCE
+
+Bureau of Industry and Security
+
+15 CFR Part 744
+
+[Docket No. 170303229-7229-01]
+RIN 0694-AH36
+
+
+Addition of Certain Persons and Revisions to Entries on the 
+Entity List
+
+AGENCY: Bureau of Industry and Security, Commerce.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This rule amends the Export Administration Regulations (EAR) 
+by
+
+[[Page 24243]]
+
+adding sixteen persons to the Entity List. The sixteen persons who are 
+added to the Entity List have been determined by the U.S. Government to 
+be acting contrary to the national security or foreign policy interests 
+of the United States. These sixteen persons will be listed on the 
+Entity List under the destinations of Pakistan, Turkey and the United 
+Arab Emirates. This final rule is also modifying two existing entries 
+in the Entity List under the destinations of China and Hong Kong.
+
+DATES: This rule is effective May 26, 2017.
+
+FOR FURTHER INFORMATION CONTACT: Chair, End-User Review Committee, 
+Office of the Assistant Secretary, Export Administration, Bureau of 
+Industry and Security, Department of Commerce, Phone: (202) 482-5991, 
+Email: <a href="/cdn-cgi/l/email-protection#fbbea9b8bb999288d59f9498d59c948d"><span class="__cf_email__" data-cfemail="30756273705259431e545f531e575f46">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION: 
+
+Background
+
+    The Entity List (15 CFR, subchapter C, part 744, Supplement No. 4) 
+identifies entities and other persons reasonably believed to be 
+involved, or to pose a significant risk of being or becoming involved, 
+in activities contrary to the national security or foreign policy 
+interests of the United States. The Export Administration Regulations 
+(EAR) (15 CFR, subchapter C, parts 730-774) imposes additional license 
+requirements on, and limits the availability of most license exceptions 
+for, exports, reexports, and transfers (in-country) to those listed. 
+The license review policy for each listed entity or other person is 
+identified in the License Review Policy column on the Entity List, and 
+the impact on the availability of license exceptions is described in 
+the relevant Federal Register notice adding entities or other persons 
+to the Entity List. BIS places entities and other persons on the Entity 
+List pursuant to part 744 (Control Policy: End-User and End-Use Based) 
+and part 746 (Embargoes and Other Special Controls) of the EAR.
+    The End-User Review Committee (ERC), composed of representatives of 
+the Departments of Commerce (Chair), State, Defense, Energy and, where 
+appropriate, the Treasury, makes all decisions regarding additions to, 
+removals from, or other modifications to the Entity List. The ERC makes 
+all decisions to add an entry to the Entity List by majority vote, and 
+makes all decisions to remove or modify an entry by unanimous vote.
+
+ERC Entity List Decisions
+
+Additions to the Entity List
+
+    This rule implements the decision of the ERC to add sixteen persons 
+to the Entity List. These sixteen persons are being added on the basis 
+of Sec.  744.11 (License requirements that apply to entities acting 
+contrary to the national security or foreign policy interests of the 
+United States) of the EAR. The sixteen entries added to the Entity List 
+consist of eleven entries located in Pakistan, three entries in Turkey 
+and two entries in the United Arab Emirates (UAE).
+    The ERC reviewed Sec.  744.11(b) (Criteria for revising the Entity 
+List) in making the determination to add these sixteen persons to the 
+Entity List. Under that paragraph, persons for whom there is reasonable 
+cause to believe, based on specific and articulable facts, that they 
+have been involved, are involved, or pose a significant risk of being 
+or becoming involved in, activities that are contrary to the national 
+security or foreign policy interests of the United States and those 
+acting on behalf of such persons may be added to the Entity List. 
+Paragraphs (b)(1) through (5) of Sec.  744.11 provide an illustrative 
+list of activities that could be contrary to the national security or 
+foreign policy interests of the United States.
+    Of the eleven entries that are being added to the Entity List under 
+the destination of Pakistan, the ERC determined that nine of the 
+entities--MSN International, Creative Dynamics Engineering, FACO 
+Trading, Interscan, Micado, Premier International, Sumico Technologies, 
+Oriental Engineers and Imam Group--are government, parastatal and 
+private entities involved in activities that are contrary to the 
+national security and/or foreign policy interests of the United States. 
+The ERC determined that for one entity, KMA International Import and 
+Export Co., information is available indicating that the company is 
+acting and procuring items on behalf of Abdul Qader Khan Research 
+Laboratories (AQKRL). AQKRL was added to the Entity list on November 
+19, 1998 (63 FR 64322).
+    One of the Pakistani entities, Makkays Hi-Tech Systems, is being 
+added to the Entity List, along with two persons under the destination 
+of the UAE, Euromoto Middle East FZE and its owner, Talaat Mehmood. The 
+ERC determined that Makkays Hi-Tech Systems directed Euromoto Middle 
+East FZE and Talaat Mehmood to supply U.S.-origin items, without 
+obtaining the necessary licenses, to Pakistan's Advanced Engineering 
+Research Organization (AERO). AERO was added to the Entity List on 
+September 18, 2014 (79 FR 5999), based on its involvement in the 
+procurement of sensitive U.S. technology in support of Pakistan's 
+development of its missile and strategic unmanned aerial vehicle (UAV) 
+programs.
+    This final rule also adds three persons located in the destination 
+of Turkey--ERA Metalurji San. Ve Tic. Ltd. Sti., Mehmet Cingi and Cenk 
+Ozturk--to the Entity List. These persons are being added on the basis 
+of their involvement in the reexportation of U.S.-origin metal alloy 
+powders with aerospace, missile and nuclear applications to Iran 
+without the required license, in violation of both the EAR and the 
+Department of the Treasury's Iranian Transactions and Sanctions 
+Regulations (ITSR).
+    Pursuant to Sec.  744.11(b) of the EAR, the ERC determined that the 
+conduct of these sixteen persons raises sufficient concern that prior 
+review of exports, reexports or transfers (in-country) of all items 
+subject to the EAR involving these persons, and the possible imposition 
+of license conditions or license denials on shipments to the persons, 
+will enhance BIS's ability to prevent violations of the EAR.
+    For the sixteen persons added to the Entity List, BIS imposes a 
+license requirement for all items subject to the EAR, and a license 
+review policy of presumption of denial. The license requirements apply 
+to any transaction in which items are to be exported, reexported, or 
+transferred (in-country) to any of the persons or in which such persons 
+act as purchaser, intermediate consignee, ultimate consignee, or end-
+user. In addition, no license exceptions are available for exports, 
+reexports, or transfers (in-country) to the persons being added to the 
+Entity List in this rule. The acronym ``a.k.a.'' (also known as) is 
+used in entries on the Entity List to identify aliases and help 
+exporters, reexporters and transferors to better identify persons on 
+the Entity List.
+    This final rule adds the following sixteen persons to the Entity 
+List:
+
+Pakistan
+
+(1) Creative Dynamics Engineering, a.k.a., the following one alias:
+    --Creative Dynamics.
+    66/1-M Block 6, PECHS, Karachi, Sindh 75400, Pakistan;
+(2) FACO Trading,
+    204, Bank & Business Centre Near Duty Free Shop off Shahrah-e-
+Faisal, Karachi, Sindh, Pakistan;
+(3) Imam Group, a.k.a., the following one alias:
+    --Pana Communication Inc.
+    Plot No. 227, St. No. 7, Sector I-9/2, Industrial Area, Near Dry 
+Port, Islamabad, Pakistan; and 70-East
+
+[[Page 24244]]
+
+A.A. Plaza, Mezz. Floor Blue Area, Islamabad 44000, Capital, Pakistan;
+(4) Interscan,
+    Sattar Villa B, 32/1-C-1 Block-6, P.E.C.H.S., Karachi 75400i, 
+Singh, Pakistan;
+(5) KMA International Import and Export Co.,
+    Sector I-8/4, House No. 460, Street No. 105, Islamabad 44000, 
+Pakistan;
+(6) Makkays Hi-Tech Systems, a.k.a., the following one alias:
+    --Zaib Electronics.
+    Block 14 Civic Centre, G-6 Markaz, Islamabad, Pakistan; and Kulsum 
+Plaza, 42 Jinnah Avenue, Islamabad, Pakistan; and Basement Khyber 
+Plaza, Barma Town, near Barma Bridge, Lehtrar Road; and House No. 675, 
+Street No. 19, G-9/3, Islamabad, Pakistan;
+(7) Micado,
+    40-C, Block-6, P.E.C.H.S., Shahrah-e-Faisal, Karachi, Singh, 
+Pakistan;
+(8) MSN International,
+    Office No. 32/37, 1st Floor, Behind NBP, Aslam Market, Wah Cantt, 
+Pakistan;
+(9) Oriental Engineers,
+    11-B Main Gulberg, Lahore, Pakistan;
+(10) Premier International, a.k.a., the following one alias:
+    --Align Impex.
+    Suite E-2, E-Market, DHA EME Sector, Multan Road, Lahore-54500, 
+Pakistan; and Suite 22 1st Floor Lodhi Arcade, 42 Ferozpur Road, 
+Lahore, Pakistan; and
+(11) Sumico Technologies,
+    185-J-1, Muhammad Ali Johar Town, Lahore, Pakistan; and House #307-
+B Upper Floor Main Margalla Road, F-11/3 Islamabad, Pakistan; and House 
+#E-26 Block A Railway Society, Gulshan-E-Jamal, Karachi, Pakistan.
+
+Turkey
+
+(1) Cenk Ozturk,
+    Aktepe Sanayi Sitesi, Kinalikar Sokak, Orta Mahalle No. 19, 
+Orhanli--Tuzla, Istanbul, Turkey;
+(2) ERA Metalurji San. Ve Tic. Ltd. Sti.,
+    Aktepe Sanayi Sitesi, Kinalikar Sokak, Orta Mahalle No. 19, 
+Orhanli--Tuzla, Istanbul, Turkey; and
+(3) Mehmet Cingi,
+    Aktepe Sanayi Sitesi, Kinalikar Sokak, Orta Mahalle No. 19, 
+Orhanli--Tuzla, Istanbul, Turkey.
+
+United Arab Emirates
+
+(1) Euromoto Middle East FZE,
+    Q-4 136 Warehouse, Sharjah Airport International Free (SAIF) Zone, 
+Sharjah, UAE; and Q1-08-051/B, Sharjah Airport International Free 
+(SAIF) Zone, Sharjah, UAE; and P.O. Box 121826, Sharjah Airport 
+International Free (SAIF) Zone, Sharjah, UAE; and
+(2) Talaat Mehmood,
+    Q-4 136 Warehouse, Sharjah Airport International Free (SAIF) Zone, 
+Sharjah, UAE; and Q1-08-051/B, Sharjah Airport International Free 
+(SAIF) Zone, Sharjah, UAE; and P.O. Box 121826, Sharjah Airport 
+International Free (SAIF) Zone, Sharjah, UAE.
+
+Modifications to Entries on the Entity List
+
+    This final rule implements a decision of the ERC to modify two 
+existing entries on the Entity List under the destinations of China and 
+Hong Kong. The modifications include the addition of the name Xianfa 
+Lin to two existing entries and the identification of the previously 
+listed name (Alpha Lam) in these entries as an alias. This final rule 
+does not make any other changes to these two entries, except for 
+revising the Federal Register citation column to reflect this 
+modification. The license requirement for these two existing entries 
+remains for all items subject to the EAR and the license review policy 
+remains a presumption of denial.
+    This final rule makes the following revisions to two entries on the 
+Entity List:
+
+China
+
+(1) Xianfa Lin, a.k.a., the following one alias:
+    --Alpha Lam.
+    15H Office Building, Buji Central Plaza, Jihua Road, Buji Longgang, 
+Shenzhen, China (See alternate address under Hong Kong).
+
+Hong Kong
+
+(1) Xianfa Lin, a.k.a., the following one alias:
+    --Alpha Lam.
+    Room 1041 Pacific Trade Center No. 2 Kai Hing Road, Kowloon Bay, 
+Hong Kong (See alternate address under China).
+
+Savings Clause
+
+    Shipments of items removed from eligibility for a License Exception 
+or export or reexport without a license (NLR) as a result of this 
+regulatory action that were en route aboard a carrier to a port of 
+export or reexport, on May 26, 2017, pursuant to actual orders for 
+export or reexport to a foreign destination, may proceed to that 
+destination under the previous eligibility for a License Exception or 
+export or reexport without a license (NLR).
+
+Export Administration Act of 1979
+
+    Although the Export Administration Act of 1979 expired on August 
+20, 2001, the President, through Executive Order 13222 of August 17, 
+2001, 3 CFR, 2001 Comp., p. 783 (2002), as amended by Executive Order 
+13637 of March 8, 2013, 78 FR 16129 (March 13, 2013) and as extended by 
+the Notice of August 4, 2016, 81 FR 52587 (August 8, 2016), has 
+continued the EAR in effect under the International Emergency Economic 
+Powers Act (15 U.S.C. 1701 et seq.). BIS continues to carry out the 
+provisions of the Export Administration Act of 1979, as appropriate and 
+to the extent permitted by law, pursuant to Executive Order 13222, as 
+amended by Executive Order 13637.
+
+Rulemaking Requirements
+
+    1. Executive Orders 13563 and 12866 direct agencies to assess all 
+costs and benefits of available regulatory alternatives and, if 
+regulation is necessary, to select regulatory approaches that maximize 
+net benefits (including potential economic, environmental, public 
+health and safety effects, distributive impacts, and equity). Executive 
+Order 13563 emphasizes the importance of quantifying both costs and 
+benefits, of reducing costs, of harmonizing rules, and of promoting 
+flexibility. This rule has been determined to be not significant for 
+purposes of Executive Order 12866.
+    2. Notwithstanding any other provision of law, no person is 
+required to respond to nor be subject to a penalty for failure to 
+comply with a collection of information, subject to the requirements of 
+the Paperwork Reduction Act of 1995 (44 U.S.C. 3501 et seq.) (PRA), 
+unless that collection of information displays a currently valid Office 
+of Management and Budget (OMB) Control Number. This regulation involves 
+collections previously approved by OMB under control number 0694-0088, 
+Simplified Network Application Processing System, which includes, among 
+other things, license applications, and carries a burden estimate of 
+43.8 minutes for a manual or electronic submission.
+    Total burden hours associated with the PRA and OMB control number 
+0694-0088 are not expected to increase as a result of this rule. You 
+may send comments regarding the collection of information associated 
+with this rule, including suggestions for reducing the burden, to 
+Jasmeet K. Seehra, Office of Management and Budget (OMB), by email to 
+Jasmeet_K._Seehra@
+
+[[Page 24245]]
+
+omb.eop.gov, or by fax to (202) 395-7285.
+    3. This rule does not contain policies with Federalism implications 
+as that term is defined in Executive Order 13132.
+    4. For the sixteen persons added to the Entity List in this final 
+rule, the provisions of the Administrative Procedure Act (5 U.S.C. 553) 
+requiring notice of proposed rulemaking, the opportunity for public 
+participation and a 30-day delay in effective date are inapplicable, 
+because this regulation involves a military or foreign affairs function 
+of the United States (5 U.S.C. 553(a)(1)). BIS implementation of this 
+rule is necessary to protect U.S. national security or foreign policy 
+interests by preventing items from being exported, reexported, or 
+transferred (in-country) to the persons being added to the Entity List. 
+If this rule were delayed to allow for notice and comment and a delay 
+in effective date, the entities being added to the Entity List by this 
+action would continue to be able to receive items without a license and 
+to conduct activities contrary to the national security or foreign 
+policy interests of the United States. In addition, publishing a 
+proposed rule would give these parties notice of the U.S. Government's 
+intention to place them on the Entity List, which could create an 
+incentive for these persons to either accelerate receiving items 
+subject to the EAR to conduct activities that are contrary to the 
+national security or foreign policy interests of the United States, 
+including taking steps to set up additional aliases, change addresses, 
+and other measures to try to limit the impact of the listing on the 
+Entity List once a final rule is published. Further, no other law 
+requires that a notice of proposed rulemaking and an opportunity for 
+public comment be given for this rule.
+    5. The Department finds that there is good cause under 5 U.S.C. 
+553(b)(3)(B) to waive the provisions of the Administrative Procedure 
+Act (APA) requiring prior notice and the opportunity for public comment 
+for the two modifications included in this rule because, as described 
+above, they are impracticable and are contrary to the public interest. 
+In addition, these two changes are limited to the addition of the name 
+of an entity on the Entity List under two entries, which will assist 
+the public in more easily identifying this listed person on the Entity 
+List.
+    6. Because a notice of proposed rulemaking and an opportunity for 
+public comment are not required to be given for this rule by 5 U.S.C. 
+553, or by any other law, the analytical requirements of the Regulatory 
+Flexibility Act, 5 U.S.C. 601 et seq., are not applicable. Accordingly, 
+no regulatory flexibility analysis is required and none has been 
+prepared.
+
+List of Subjects in 15 CFR Part 744
+
+    Exports, Reporting and recordkeeping requirements, Terrorism.
+
+    Accordingly, part 744 of the Export Administration Regulations (15 
+CFR parts 730-774) is amended as follows:
+
+PART 744--[AMENDED]
+
+0
+1. The authority citation for 15 CFR part 744 continues to read as 
+follows:
+
+    Authority: 50 U.S.C. 4601 et seq.; 50 U.S.C. 1701 et seq.; 22 
+U.S.C. 3201 et seq.; 42 U.S.C. 2139a; 22 U.S.C. 7201 et seq.; 22 
+U.S.C. 7210; E.O. 12058, 43 FR 20947, 3 CFR, 1978 Comp., p. 179; 
+E.O. 12851, 58 FR 33181, 3 CFR, 1993 Comp., p. 608; E.O. 12938, 59 
+FR 59099, 3 CFR, 1994 Comp., p. 950; E.O. 12947, 60 FR 5079, 3 CFR, 
+1995 Comp., p. 356; E.O. 13026, 61 FR 58767, 3 CFR, 1996 Comp., p. 
+228; E.O. 13099, 63 FR 45167, 3 CFR, 1998 Comp., p. 208; E.O. 13222, 
+66 FR 44025, 3 CFR, 2001 Comp., p. 783; E.O. 13224, 66 FR 49079, 3 
+CFR, 2001 Comp., p. 786; Notice of August 4, 2016, 81 FR 52587 
+(August 8, 2016); Notice of September 15, 2016, 81 FR 64343 
+(September 19, 2016); Notice of November 8, 2016, 81 FR 79379 
+(November 10, 2016); Notice of January 13, 2017, 82 FR 6165 (January 
+18, 2017).
+
+
+0
+2. Supplement No. 4 to part 744 is amended:
+0
+a. By revising, under China, People's Republic of, one Chinese entity 
+``Alpha Lam, 15H Office Building, Buji Central Plaza, Jihua Road, Buji 
+Longgang, Shenzhen, China (See alternate address under Hong Kong)'';
+0
+b. By revising, under Hong Kong, one Hong Kong entity ``Alpha Lam, Room 
+1041 Pacific Trade Center No. 2 Kai Hing Road, Kowloon Bay, Hong Kong 
+(See alternate address under China)'';
+0
+c. By adding, under Pakistan, in alphabetical order, eleven Pakistani 
+entities;
+0
+d. By adding, under Turkey, in alphabetical order, three Turkish 
+entities; and
+0
+e. By adding, under the United Arab Emirates, in alphabetical order, 
+two Emirati entities.
+    The additions and revisions read as follows:
+
+Supplement No. 4 to Part 744--Entity List
+
+* * * * *
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                                     Federal Register
+              Country                            Entity                     License requirement           License review policy          citation
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+                                                                      * * * * * * *
+CHINA, PEOPLE's REPUBLIC OF.......                                                       * * * * * *
+                                    Xianfa Lin, a.k.a., the          For all items subject to the EAR.  Presumption of denial.    79 FR 32445, 6/5/14.
+                                     following alias:                 (See Sec.   744.11 of the EAR).                              82 FR [INSERT FR PAGE
+                                    --Alpha Lam.                                                                                   NUMBER AND 5/26/17].
+                                    15H Office Building, Buji
+                                     Central Plaza, Jihua Road,
+                                     Buji Longgang, Shenzhen, China
+                                     (See alternate address under
+                                     Hong Kong).
+                                                                                         * * * * * *
+ 
+                                                                      * * * * * * *
+HONG KONG.........................                                                       * * * * * *
+
+[[Page 24246]]
+
+ 
+                                    Xianfa Lin, a.k.a., the          For all items subject to the EAR.  Presumption of denial     79 FR 32445, 6/5/14.
+                                     following alias:                 (See Sec.   744.11 of the EAR).                              82 FR [INSERT FR PAGE
+                                    --Alpha Lam.                                                                                   NUMBER AND 5/26/17].
+                                    Room 1041 Pacific Trade Center
+                                     No. 2 Kai Hing Road, Kowloon
+                                     Bay, Hong Kong (See alternate
+                                     address under China).
+                                                                                         * * * * * *
+ 
+                                                                      * * * * * * *
+PAKISTAN..........................                                                       * * * * * *
+                                    Creative Dynamics Engineering,   For all items subject to the EAR.  Presumption of denial     82 FR [INSERT FR PAGE
+                                     a.k.a., the following one        (See Sec.   744.11 of the EAR).                              NUMBER AND 5/26/17].
+                                     alias:
+                                    --Creative Dynamics.
+                                    66/1-M Block 6, PECHS, Karachi,
+                                     Sindh 75400, Pakistan.
+                                                                                         * * * * * *
+                                    FACO Trading,                    For all items subject to the EAR.  Presumption of denial     82 FR [INSERT FR PAGE
+                                    204, Bank & Business Centre       (See Sec.   744.11 of the EAR).                              NUMBER AND 5/26/17].
+                                     Near Duty Free Shop off
+                                     Shahrah-e-Faisal, Karachi,
+                                     Sindh, Pakistan.
+                                                                                         * * * * * *
+                                    Imam Group, a.k.a., the          For all items subject to the EAR.  Presumption of denial     82 FR [INSERT FR PAGE
+                                     following one alias:             (See Sec.   744.11 of the EAR).                              NUMBER AND 5/26/17].
+                                    --Pana Communication Inc.
+                                    Plot No. 227, St. No. 7, Sector
+                                     I-9/2, Industrial Area, Near
+                                     Dry Port, Islamabad, Pakistan;
+                                     and 70-East A.A. Plaza, Mezz.
+                                     Floor Blue Area, Islamabad
+                                     44000, Capital, Pakistan.
+                                    Interscan,                       For all items subject to the EAR.  Presumption of denial     82 FR [INSERT FR PAGE
+                                    Sattar Villa B, 32/1-C-1 Block-   (See Sec.   744.11 of the EAR).                              NUMBER AND 5/26/17].
+                                     6, P.E.C.H.S., Karachi 75400i,
+                                     Singh, Pakistan.
+                                                                                         * * * * * *
+                                    KMA International Import and     For all items subject to the EAR.  Presumption of denial     82 FR [INSERT FR PAGE
+                                     Export Co.,                      (See Sec.   744.11 of the EAR).                              NUMBER AND 5/26/17].
+                                    Sector I-8/4, House No. 460,
+                                     Street No. 105, Islamabad
+                                     44000, Pakistan.
+                                                                                         * * * * * *
+                                    Makkays Hi-Tech Systems,         For all items subject to the EAR.  Presumption of denial     82 FR [INSERT FR PAGE
+                                     a.k.a., the following one        (See Sec.   744.11 of the EAR).                              NUMBER AND 5/26/17].
+                                     alias:
+                                    --Zaib Electronics.
+                                    Block 14 Civic Centre, G-6
+                                     Markaz, Islamabad, Pakistan;
+                                     and Kulsum Plaza, 42 Jinnah
+                                     Avenue, Islamabad, Pakistan;
+                                     and Basement Khyber Plaza,
+                                     Barma Town, near Barma Bridge,
+                                     Lehtrar Road; and House No.
+                                     675, Street No. 19 , G-9/3,
+                                     Islamabad, Pakistan.
+                                                                                         * * * * * *
+                                    Micado,                          For all items subject to the EAR.  Presumption of denial     82 FR [INSERT FR PAGE
+                                    40-C, Block-6, P.E.C.H.S.,        (See Sec.   744.11 of the EAR).                              NUMBER AND 5/26/17].
+                                     Shahrah-e-Faisal, Karachi,
+                                     Singh, Pakistan.
+                                                                                         * * * * * *
+                                    MSN International,               For all items subject to the EAR.  Presumption of denial     82 FR [INSERT FR PAGE
+                                    Office No. 32/37, 1st Floor,      (See Sec.   744.11 of the EAR).                              NUMBER AND 5/26/17].
+                                     Behind NBP, Aslam Market, Wah
+                                     Cantt, Pakistan.
+                                                                                         * * * * * *
+                                    Oriental Engineers,              For all items subject to the EAR.  Presumption of denial     82 FR [INSERT FR PAGE
+                                    11-B Main Gulberg, Lahore,        (See Sec.   744.11 of the EAR).                              NUMBER AND 5/26/17].
+                                     Pakistan.
+                                                                                         * * * * * *
+
+[[Page 24247]]
+
+ 
+                                    Premier International, a.k.a.,   For all items subject to the EAR.  Presumption of denial     82 FR [INSERT FR PAGE
+                                     the following one alias:         (See Sec.   744.11 of the EAR).                              NUMBER AND 5/26/17].
+                                    --Align Impex.
+                                    Suite E-2, E-Market, DHA EME
+                                     Sector, Multan Road, Lahore-
+                                     54500, Pakistan; and Suite 22
+                                     1st Floor Lodhi Arcade, 42
+                                     Ferozpur Road, Lahore,
+                                     Pakistan.
+                                                                                         * * * * * *
+                                    Sumico Technologies,             For all items subject to the EAR.  Presumption of denial     82 FR [INSERT FR PAGE
+                                    185-J-1, Muhammad Ali Johar       (See Sec.   744.11 of the EAR).                              NUMBER AND 5/26/17].
+                                     Town, Lahore, Pakistan; and
+                                     House #307-B Upper Floor Main
+                                     Margalla Road, F-11/3
+                                     Islamabad, Pakistan; and House
+                                     #E-26 Block A Railway Society,
+                                     Gulshan-E-Jamal, Karachi,
+                                     Pakistan.
+                                                                                         * * * * * *
+ 
+                                                                      * * * * * * *
+TURKEY............................                                                       * * * * * *
+                                    Cenk Ozturk,                     For all items subject to the EAR.  Presumption of denial     82 FR [INSERT FR PAGE
+                                    Aktepe Sanayi Sitesi, Kinalikar   (See Sec.   744.11 of the EAR).                              NUMBER AND 5/26/17].
+                                     Sokak, Orta Mahalle No. 19,
+                                     Orhanli-Tuzla, Istanbul,
+                                     Turkey.
+                                    ERA Metalurji San. Ve Tic. Ltd.  For all items subject to the EAR.  Presumption of denial     82 FR [INSERT FR PAGE
+                                     Sti.,                            (See Sec.   744.11 of the EAR).                              NUMBER AND 5/26/17].
+                                    Aktepe Sanayi Sitesi, Kinalikar
+                                     Sokak, Orta Mahalle No. 19,
+                                     Orhanli-Tuzla, Istanbul,
+                                     Turkey.
+                                                                                         * * * * * *
+                                    Mehmet Cingi,                    For all items subject to the EAR.  Presumption of denial     82 FR [INSERT FR PAGE
+                                    Aktepe Sanayi Sitesi, Kinalikar   (See Sec.   744.11 of the EAR).                              NUMBER AND 5/26/17].
+                                     Sokak, Orta Mahalle No. 19,
+                                     Orhanli-Tuzla, Istanbul,
+                                     Turkey.
+                                                                                         * * * * * *
+ 
+                                                                      * * * * * * *
+UNITED ARAB EMIRATES..............                                                       * * * * * *
+                                    Euromoto Middle East FZE,        For all items subject to the EAR.  Presumption of denial     82 FR [INSERT FR PAGE
+                                    Q-4 136 Warehouse, Sharjah        (See Sec.   744.11 of the EAR).                              NUMBER AND 5/26/17].
+                                     Airport International Free
+                                     (SAIF) Zone, Sharjah, UAE; and
+                                     Q1-08-051/B, Sharjah Airport
+                                     International Free (SAIF)
+                                     Zone, Sharjah, UAE; and P.O.
+                                     Box 121826, Sharjah Airport
+                                     International Free (SAIF)
+                                     Zone, Sharjah, UAE.
+                                                                                         * * * * * *
+                                    Talaat Mehmood,                  For all items subject to the EAR.  Presumption of denial     82 FR [INSERT FR PAGE
+                                    Q-4 136 Warehouse, Sharjah        (See Sec.   744.11 of the EAR).                              NUMBER AND 5/26/17].
+                                     Airport International Free
+                                     (SAIF) Zone, Sharjah, UAE; and
+                                     Q1-08-051/B, Sharjah Airport
+                                     International Free (SAIF)
+                                     Zone, Sharjah, UAE; and P.O.
+                                     Box 121826, Sharjah Airport
+                                     International Free (SAIF)
+                                     Zone, Sharjah, UAE.
+                                                                                         * * * * * *
+ 
+                                                                      * * * * * * *
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+[[Page 24248]]
+
+    Dated: May 22, 2017.
+Matthew S. Borman,
+Deputy Assistant Secretary for Export Administration.
+[FR Doc. 2017-10804 Filed 5-25-17; 8:45 am]
+BILLING CODE 3510-33-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

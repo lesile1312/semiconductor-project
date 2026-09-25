@@ -1,0 +1,107 @@
+{
+  "abstract": "This rule amends the Export Administration Regulations (EAR) by adding sixteen persons to the Entity List. The sixteen persons who are added to the Entity List have been determined by the U.S. Government to be acting contrary to the national security or foreign policy interests of the United States. These sixteen persons will be listed on the Entity List under the destinations of Pakistan, Turkey and the United Arab Emirates. This final rule is also modifying two existing entries in the Entity List under the destinations of China and Hong Kong.",
+  "action": "Final rule.",
+  "agencies": [
+    {
+      "id": 54,
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+      "name": "Commerce Department",
+      "parent_id": null,
+      "raw_name": "DEPARTMENT OF COMMERCE",
+      "slug": "commerce-department",
+      "url": "https://www.federalregister.gov/agencies/commerce-department"
+    },
+    {
+      "id": 241,
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+      "name": "Industry and Security Bureau",
+      "parent_id": 54,
+      "raw_name": "Bureau of Industry and Security",
+      "slug": "industry-and-security-bureau",
+      "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2017/05/26/2017-10804.html",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 744,
+      "title": 15
+    }
+  ],
+  "citation": "82 FR 24242",
+  "comment_url": null,
+  "comments_close_on": null,
+  "correction_of": null,
+  "corrections": [],
+  "dates": "This rule is effective May 26, 2017.",
+  "disposition_notes": null,
+  "docket_ids": [
+    "Docket No. 170303229-7229-01"
+  ],
+  "dockets": [],
+  "document_number": "2017-10804",
+  "effective_on": "2017-05-26",
+  "end_page": 24248,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2017/05/26/2017-10804.xml",
+  "html_url": "https://www.federalregister.gov/documents/2017/05/26/2017-10804/addition-of-certain-persons-and-revisions-to-entries-on-the-entity-list",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2017-10804?publication_date=2017-05-26",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2017-05-26/2017-10804/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 7,
+  "page_views": {
+    "count": 4916,
+    "last_updated": "2026-09-13 22:15:03 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2017-05-26/pdf/2017-10804.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2017-10804.pdf?1495716351",
+  "publication_date": "2017-05-26",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2017/05/26/2017-10804.txt",
+  "regulation_id_number_info": {
+    "0694-AH36": {
+      "html_url": "https://www.federalregister.gov/regulations/0694-AH36/addition-of-certain-persons-to-and-modification-of-certain-persons-on-the-entity-list-",
+      "issue": "201704",
+      "priority_category": "Substantive, Nonsignificant",
+      "title": "Addition of Certain Persons to and Modification of Certain Persons on the Entity List ",
+      "xml_url": "http://www.reginfo.gov/public/do/eAgendaViewRule?pubId=201704&RIN=0694-AH36&operation=OPERATION_EXPORT_XML"
+    }
+  },
+  "regulation_id_numbers": [
+    "0694-AH36"
+  ],
+  "regulations_dot_gov_info": {
+    "checked_regulationsdotgov_at": "2017-06-15T06:00:16Z",
+    "comments_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=BIS-2017-0018",
+    "docket_id": "BIS-2017-0018",
+    "regulation_id_number": "0694-AH36",
+    "regulatory_plan": {
+      "html_url": "https://www.federalregister.gov/regulations/0694-AH36/addition-of-certain-persons-to-and-modification-of-certain-persons-on-the-entity-list-",
+      "title": "Addition of Certain Persons to and Modification of Certain Persons on the Entity List "
+    },
+    "supporting_documents": [],
+    "supporting_documents_count": 0,
+    "title": "Addition of Certain Persons and Revisions to Entries on the Entity List"
+  },
+  "regulations_dot_gov_url": null,
+  "significant": false,
+  "signing_date": null,
+  "start_page": 24242,
+  "subtype": null,
+  "title": "Addition of Certain Persons and Revisions to Entries on the Entity List",
+  "toc_doc": "Addition of Certain Persons and Revisions to Entries on the Entity List",
+  "toc_subject": null,
+  "topics": [
+    "Exports",
+    "Reporting and recordkeeping requirements",
+    "Terrorism"
+  ],
+  "type": "Rule",
+  "volume": 82
+}

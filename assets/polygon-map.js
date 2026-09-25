@@ -543,5 +543,52 @@
     global.addEventListener('scroll', function () { if (!scrollRaf) scrollRaf = requestAnimationFrame(scrollProgress); }, { passive: true });
     scrollProgress();
   }
+  function installSupplementalEvidence() {
+    var doc = global.document;
+    var select = doc && doc.querySelector('#country');
+    var timeline = doc && doc.querySelector('#timeline');
+    var footer = doc && doc.querySelector('footer.source');
+    var rows = global.PANEL;
+    if (!select || !timeline || !footer || !Array.isArray(rows)) return;
+    var names = { Malaysia: '马来西亚', Vietnam: '越南', Singapore: '新加坡', Thailand: '泰国', India: '印度', Indonesia: '印度尼西亚', Philippines: '菲律宾', Japan: '日本', 'South Korea': '韩国', Mexico: '墨西哥', Germany: '德国', Netherlands: '荷兰' };
+    var section = doc.createElement('section');
+    section.className = 'sourceLedger';
+    section.innerHTML = '<div class="sourceLedger__head"><div><span>ADDITIONAL SOURCES · NOT SCORED</span><h2>把来源、年份和证据边界放在一起</h2><p>当前国家联动显示政策与资本背景。补充数据用于核查和解释，不直接改变GTRI-v0分数。</p></div><b id="ledger-country">—</b></div><div class="sourceLedger__grid"><article><small>P2 · 正式防务安排</small><div id="ledger-p2">—</div><a id="ledger-p2-link" target="_blank" rel="noopener noreferrer" hidden>查看所选官方来源 ↗</a></article><article><small>P3 · BIS人工范围核对</small><div id="ledger-p3">—</div><p>仅限所选候选规则集合；没有命中不表示没有其他法律暴露。</p><a href="https://www.federalregister.gov/" target="_blank" rel="noopener noreferrer">Federal Register ↗</a></article><article><small>IMF CDIS · 投资头寸</small><div id="ledger-cdis">—</div><p>按直接对手方、不同报告方分别记录；非半导体专项，不代表最终所有者。</p><a href="https://data.imf.org/Datasets/DIP" target="_blank" rel="noopener noreferrer">IMF数据说明 ↗</a></article></div>';
+    footer.parentNode.insertBefore(section, footer);
+    var style = doc.createElement('style');
+    style.textContent = '.sourceLedger{margin:0 0 24px;padding:clamp(20px,3vw,34px);border:1px solid rgba(91,174,184,.2);border-radius:20px;background:linear-gradient(120deg,rgba(13,35,45,.96),rgba(8,23,33,.96))}.sourceLedger__head{display:flex;justify-content:space-between;gap:20px;align-items:flex-end;margin-bottom:20px}.sourceLedger__head span,.sourceLedger article small{color:#67d7cd;font:10px ui-monospace,Consolas,monospace;letter-spacing:.14em}.sourceLedger h2{margin:8px 0;font-size:clamp(20px,2.4vw,27px);color:#eaf4f2}.sourceLedger__head p,.sourceLedger article p{max-width:650px;color:#94aeb7;font-size:12px;line-height:1.7}.sourceLedger__head>b{flex:none;color:#d5e7e4;font:12px ui-monospace,Consolas,monospace}.sourceLedger__grid{display:grid;grid-template-columns:.9fr 1fr 1.3fr;border-top:1px solid rgba(138,180,189,.16)}.sourceLedger article{padding:18px 20px 2px 0}.sourceLedger article+article{padding-left:20px;border-left:1px solid rgba(138,180,189,.13)}.sourceLedger article div{margin-top:12px;color:#e9f3f1;font-size:14px;line-height:1.65}.sourceLedger article a{display:inline-block;margin-top:9px;color:#65d8cf;font-size:11px;text-decoration:none}.sourceLedger article a:hover{text-decoration:underline}.sourceLedger__cdis{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:9px}.sourceLedger__cdis span{padding-top:8px;border-top:1px solid rgba(138,180,189,.15);color:#91aab2;font-size:11px}.sourceLedger__cdis b{display:block;margin-top:4px;color:#eef7f5;font-size:13px}@media(max-width:700px){.sourceLedger__grid{grid-template-columns:1fr}.sourceLedger article,.sourceLedger article+article{padding:16px 0 4px;border-left:0;border-top:1px solid rgba(138,180,189,.13)}.sourceLedger__head{display:block}.sourceLedger__head>b{display:inline-block;margin-top:8px}}';
+    doc.head.appendChild(style);
+    var walker = doc.createTreeWalker(doc.body, global.NodeFilter.SHOW_TEXT);
+    var textNode;
+    while ((textNode = walker.nextNode())) {
+      textNode.nodeValue = textNode.nodeValue
+        .replace(/候选规则已做定向人工核对，尚未逐条法律复核/g, '所选10条候选规则已逐条做范围核对；复核集合非穷尽')
+        .replace(/尚未完成覆盖全部实体、产品范围和例外条款的逐条法律复核/g, '尚未覆盖全部规则、实体和产品例外的法律审查')
+        .replace(/15项数据完整性与计算检查通过/g, '16项数据与计算检查通过');
+    }
+    var safeNumber = function (value) { return value == null || value === '' || !isFinite(Number(value)) ? '未报告' : (Number(value) < 0 ? '−' : '') + Math.abs(Number(value)).toLocaleString('zh-CN', { maximumFractionDigits: 1 }) + ' 百万美元'; };
+    var render = function () {
+      var country = select.value;
+      var pair = rows.filter(function (row) { return row.country === country; }).sort(function (a, b) { return Number(a.year) - Number(b.year); });
+      if (!pair.length) return;
+      var base = pair.find(function (row) { return Number(row.year) === 2017; });
+      var recent = pair.find(function (row) { return Number(row.year) === 2022; });
+      doc.querySelector('#ledger-country').textContent = (names[country] || country) + ' · 2017 / 2022';
+      var p2Label = function (row) { return row.p2_oas_adjustment ? 'ATOP原值 ' + row.p2_atop_observed + '，OAS条约状态核验为 ' + row.p2_us_formal_alliance : (Number(row.p2_us_formal_alliance) === 1 ? '识别到正式安排' : '所选来源未识别到'); };
+      doc.querySelector('#ledger-p2').textContent = '2017：' + p2Label(base) + '；2022：' + p2Label(recent) + '。来源：ATOP观察值 / 美国国务院条约记录与目标年逐国材料、NATO成员年份，存在口径断点。';
+      var p2url = String(recent.p2_evidence_source_url || '').split(';')[0].trim();
+      var link = doc.querySelector('#ledger-p2-link');
+      if (p2url.indexOf('https://') === 0) { link.href = p2url; link.hidden = false; } else link.hidden = true;
+      doc.querySelector('#ledger-p3').textContent = '2022：文本提及 ' + Number(recent.p3_reviewed_candidate_literal_count || 0) + ' 条；经范围核对为直接新增管制 ' + Number(recent.p3_bis_direct_increase_events_reviewed_subset || 0) + ' 条。仅为非穷尽复核集。';
+      var year = recent.cdis_observation_year;
+      var lag = Number(recent.cdis_observation_lag_years || 0);
+      var inward = safeNumber(recent.cdis_sample_country_inward_from_china_usd_millions);
+      var outward = safeNumber(recent.cdis_china_outward_position_in_sample_country_usd_millions);
+      doc.querySelector('#ledger-cdis').innerHTML = '<b>' + (year || '年份未提供') + '年末' + (lag ? ' · 目标年滞后' + lag + '年' : '') + '</b><div class="sourceLedger__cdis"><span>该经济体报告：来自中国<b>' + inward + '</b></span><span>中国报告：对该经济体<b>' + outward + '</b></span></div>';
+    };
+    select.addEventListener('change', render);
+    render();
+  }
+  installSupplementalEvidence();
   installPremiumMotion();
 })(this);

@@ -1,0 +1,137 @@
+<html>
+<head>
+<title>Federal Register, Volume 87 Issue 234 (Wednesday, December 7, 2022)</title>
+</head>
+<body><pre>
+[Federal Register Volume 87, Number 234 (Wednesday, December 7, 2022)]
+[Rules and Regulations]
+[Pages 74966-74967]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2022-26662]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF COMMERCE
+
+Bureau of Industry and Security
+
+15 CFR Parts 734, 736, 740, 742, 744, 762, 772, and 774
+
+[Docket No. 220930-0204]
+RIN 0694-AI94
+
+
+Implementation of Additional Export Controls: Certain Advanced 
+Computing and Semiconductor Manufacturing Items; Supercomputer and 
+Semiconductor End Use; Entity List Modification
+
+AGENCY: Bureau of Industry and Security, U.S. Department of Commerce.
+
+ACTION: Interim final rule; request for comments; extension of comment 
+period.
+
+-----------------------------------------------------------------------
+
+SUMMARY: On October 13, 2022, the Bureau of Industry and Security (BIS) 
+published the interim final rule Implementation of Additional Export 
+Controls: Certain Advanced Computing and Semiconductor Manufacturing 
+Items; Supercomputer and Semiconductor End Use; Entity List 
+Modification. This document extends the deadline for written comments 
+to January 31, 2023. This extension is being made to allow for 
+commenters to have additional time to review the interim final rule and 
+to benefit from the significant amount of public outreach that BIS is 
+conducting on the rule in preparing their comments.
+
+DATES: The comment period for the interim final rule published October 
+13, 2022, at 87 FR 62186, is extended until January 31, 2023.
+
+ADDRESSES: Comments on this rule may be submitted to the Federal 
+rulemaking portal (<a href="http://www.regulations.gov">www.regulations.gov</a>). The <a href="http://regulations.gov">regulations.gov</a> ID for 
+this rule is: BIS-2022-0025. Please refer to RIN 0694-AI94 in all 
+comments.
+    All filers using the portal should use the name of the person or 
+entity submitting the comments as the name of their files, in 
+accordance with the instructions below. Anyone submitting business 
+confidential information should clearly identify the business 
+confidential portion at the time of submission, file a statement 
+justifying nondisclosure and referring to the specific legal authority 
+claimed, and provide a non-confidential version of the submission.
+    For comments submitted electronically containing business 
+confidential information, the file name of the business confidential 
+version should begin with the characters ``BC.'' Any page containing 
+business confidential information must be clearly marked ``BUSINESS 
+CONFIDENTIAL'' on the top of that page. The corresponding non-
+confidential version of those comments must be clearly marked 
+``PUBLIC.'' The file name of the non-confidential version should begin 
+with the character ``P.'' Any submissions with file names that do not 
+begin with either a ``BC'' or a ``P'' will be assumed to be public and 
+will be made publicly available through <a href="https://www.regulations.gov">https://www.regulations.gov</a>.
+
+FOR FURTHER INFORMATION CONTACT: 
+    For questions on the license requirements in this interim final 
+rule, contact Eileen Albanese, Director, Office of National Security 
+and Technology Transfer Controls, Bureau of Industry and Security, 
+Department of Commerce, Phone: (202) 482-0092, Fax: (202) 482-482-3355, 
+Email: <a href="/cdn-cgi/l/email-protection#f5878591c7b5979c86db919a96db929a83"><span class="__cf_email__" data-cfemail="afdddfcb9defcdc6dc81cbc0cc81c8c0d9">[email&#160;protected]</span></a>. For
+
+[[Page 74967]]
+
+emails, include ``Advanced computing controls'' or ``Semiconductor 
+manufacturing items control'' as applicable in the subject line.
+    For questions on the Entity List revisions, contact: Chair, End-
+User Review Committee, Office of the Assistant Secretary for Export 
+Administration, Bureau of Industry and Security, Department of 
+Commerce, Phone: (202) 482-5991, Email: <a href="/cdn-cgi/l/email-protection#387d6a7b785a514b165c575b165f574e"><span class="__cf_email__" data-cfemail="f1b4a3b2b1939882df959e92df969e87">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION:
+
+Background
+
+    On October 13, 2022, the Bureau of Industry and Security (BIS) 
+published the interim final rule Implementation of Additional Export 
+Controls: Certain Advanced Computing and Semiconductor Manufacturing 
+Items; Supercomputer and Semiconductor End Use; Entity List 
+Modifications (87 FR 62186), hereinafter the October 7 advanced 
+computing and semiconductor manufacturing equipment rule.
+    In the rule, BIS amended the Export Administration Regulations 
+(EAR) to implement necessary controls on advanced computing integrated 
+circuits (ICs), computer commodities that contain such ICs, and certain 
+semiconductor manufacturing items. In addition, BIS expanded controls 
+on transactions involving items for supercomputer and semiconductor 
+manufacturing end uses. For example, the rule expanded the scope of 
+foreign-produced items subject to license requirements for twenty-eight 
+existing entities on the Entity List that are located in China. BIS 
+also informed the public that specific activities of ``U.S. persons'' 
+that `support' the ``development'' or ``production'' of certain ICs in 
+the PRC require a license. Lastly, to minimize the short-term impact on 
+the semiconductor supply chain from the rule, BIS established a 
+Temporary General License to permit specific, limited manufacturing 
+activities in China related to items destined for use outside China and 
+identified a model certificate that may be used in compliance programs 
+to assist, along with other measures, in conducting due diligence. The 
+October 7 advanced computing and semiconductor manufacturing equipment 
+rule also solicits public comments on the changes included in that 
+rule.
+
+Extension of Comment Period Deadline
+
+    The October 7 advanced computing and semiconductor manufacturing 
+equipment rule included a comment period deadline of December 12, 2022. 
+The Department of Commerce has determined at this time that it is 
+warranted to extend the comment period through January 31, 2023 to 
+allow for commenters to have additional time to review the interim 
+final rule and to benefit from the significant amount of public 
+outreach that BIS is conducting on the rule in preparing their 
+comments. This document specifies that comments may be submitted at any 
+time but must be received by January 31, 2023, to be considered.
+
+Matthew S. Borman,
+Deputy Assistant Secretary for Export Administration.
+[FR Doc. 2022-26662 Filed 12-5-22; 4:15 pm]
+BILLING CODE 3510-33-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

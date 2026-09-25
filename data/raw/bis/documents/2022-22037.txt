@@ -1,0 +1,164 @@
+<html>
+<head>
+<title>Federal Register, Volume 87 Issue 197 (Thursday, October 13, 2022)</title>
+</head>
+<body><pre>
+[Federal Register Volume 87, Number 197 (Thursday, October 13, 2022)]
+[Rules and Regulations]
+[Pages 61970-61971]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2022-22037]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF COMMERCE
+
+Bureau of Industry and Security
+
+15 CFR Parts 734, 736, 740, 742, 744, 762, 772, and 774
+
+[Docket No. 220930-0204]
+RIN 0694-AI94
+
+
+Procedures for Access to the Public Briefing on Additional Export 
+Controls on Certain Advanced Computing and Semiconductor Manufacturing 
+Items
+
+AGENCY: Bureau of Industry and Security, U.S. Department of Commerce.
+
+ACTION: Procedures for accessing a public briefing on regulatory 
+actions.
+
+-----------------------------------------------------------------------
+
+SUMMARY: On October 7, 2022, the Bureau of Industry and Security (BIS) 
+placed on public display an interim final rule: ``Implementation of 
+Additional Export Controls: Certain Advanced Computing and 
+Semiconductor Manufacturing Items; Supercomputer and Semiconductor End 
+Use; Entity List Modification.'' On October 13, 2022, Under Secretary 
+for Industry and Security Alan F. Estevez and Assistant Secretary for 
+Export Administration Thea D. Rozman Kendler will conduct a public 
+briefing on the rule and associated actions. This announcement provides 
+details on the procedures for attending the public briefing.
+
+DATES: 
+    Public briefing: The public briefing call will be held on October 
+13, 2022. The public briefing call will begin at 9 a.m. Eastern 
+Daylight Time (EDT) local time and conclude at 10 a.m. EDT. The 
+telephone number for attending this event will be posted on the BIS 
+website at <a href="https://bis.doc.gov/index.php/about-bis/newsroom/2082">https://bis.doc.gov/index.php/about-bis/newsroom/2082</a> no 
+later than October 7 at 5 p.m.
+    Deadline for submitting questions for public briefing: Questions 
+for BIS for the public briefing may be submitted until 3 p.m. EDT on 
+October 11, 2022.
+
+ADDRESSES: 
+    Submitting questions: Questions for BIS for the public briefing may 
+be submitted in writing to <a href="/cdn-cgi/l/email-protection#b4fbf1ece7c7c1d6d9ddc7c7dddbdac7f4d6ddc79ad0dbd79ad3dbc2"><span class="__cf_email__" data-cfemail="2e616b767d5d5b4c43475d5d4741405d6e4c475d004a414d00494158">[email&#160;protected]</span></a>. Please tag the 
+questions submitted by adding ``Public Briefing on China Actions'' in 
+the subject line.
+    Recording: Within 7 business days after the public briefing on the 
+rule and associated actions is completed, BIS will add a link to a 
+recording, including captioning, of the public briefing to make the 
+recording physically accessible to people with disabilities.
+
+FOR FURTHER INFORMATION CONTACT: Karen Nies-Vogel, Director, Office of 
+Exporter Services, Bureau of Industry and Security, Department of 
+Commerce, Phone: (202) 482-3811, Email: <a href="/cdn-cgi/l/email-protection#b1c3c1d583f1d3d8c29fd5ded29fd6dec7"><span class="__cf_email__" data-cfemail="e0929084d2a0828993ce848f83ce878f96">[email&#160;protected]</span></a>. For emails, 
+include ``Public Briefing on China Actions'' in the subject line.
+
+SUPPLEMENTARY INFORMATION: 
+
+Background
+
+    On October 7, 2022, the Bureau of Industry and Security (BIS) 
+placed on public display an interim final rule: ``Implementation of 
+Additional Export Controls: Certain Advanced Computing and 
+Semiconductor Manufacturing Items; Supercomputer and Semiconductor End 
+Use; Entity List Modification'' (October 7 rule). That rule amends the 
+Export Administration Regulations (EAR) to implement controls on 
+advanced computing integrated circuits (ICs), computer commodities that 
+contain such ICs, and certain semiconductor manufacturing items. 
+Additionally, the rule expands controls on transactions involving items 
+for supercomputer and semiconductor manufacturing end uses, for 
+example, it expands the scope of foreign-produced items subject to 
+license requirements for twenty-eight existing entities on the Entity 
+List that are located in the Peoples' Republic of China (PRC, China). 
+The rule also informs the public that specific activities of ``U.S. 
+persons'' that `support' the ``development'' or ``production'' of 
+certain ICs in the PRC require a license.
+    Advanced computing commodities and supercomputers, in which ICs are 
+an essential component, can be used for purposes detrimental to U.S. 
+national security and foreign policy interests, including for weapons 
+of mass destruction, military modernization, and human rights abuses. 
+Certain semiconductor manufacturing equipment is needed to develop, 
+produce, or use ICs. With the October 7 rule, BIS addresses these 
+concerns by:
+    (1) Adding certain advanced and less advanced computing chips and 
+computer commodities that contain such chips to the Commerce Control 
+List (CCL);
+    (2) Adding new license requirements for items destined for 
+supercomputer and semiconductor end use in China;
+    (3) Expanding the scope of foreign-produced advanced computing 
+items and foreign-produced items for supercomputer end uses subject to 
+the EAR;
+
+[[Page 61971]]
+
+    (4) Expanding the scope of foreign-produced items subject to 
+license requirements for twenty-eight existing entities on the Entity 
+List that are located in China;
+    (5) Adding certain semiconductor manufacturing equipment to the 
+CCL;
+    (6) Adding new license requirements for items destined to a 
+semiconductor fabrication ``facility'' in China that fabricates ICs 
+meeting specified criteria;
+    (7) Adding new license requirements for items used in the 
+``development'' or ``production'' of semiconductor manufacturing 
+equipment and related items in China; and
+    (8) Informing the public that specific activities of ``U.S. 
+persons'' that `support' the ``development'' or ``production'' of 
+certain ICs in the PRC require a license.
+    Lastly, to minimize the short term impact on the semiconductor 
+supply chain from this rule, BIS is establishing a Temporary General 
+License to permit specific, limited manufacturing activities in China 
+related to items destined for use outside China and is identifying a 
+model certificate that may be used in compliance programs to assist, 
+along with other measures, in conducting due diligence.
+
+Scope of the Briefing and Process for Submitting Questions
+
+    The briefing conducted by Under Secretary Estevez and Assistant 
+Secretary Kendler will address important aspects of the October 7 
+interim final rule and associated actions. The October 7 interim final 
+rule is open for a sixty-day public comment until the date specified in 
+the DATES section of the interim final rule.
+    Note that no verbal public comments will be accepted during the 
+public briefing, which will be held virtually via audio only. Questions 
+for BIS may be submitted in writing to <a href="/cdn-cgi/l/email-protection#b8f7fde0ebcbcddad5d1cbcbd1d7d6cbf8dad1cb96dcd7db96dfd7ce"><span class="__cf_email__" data-cfemail="f2bdb7aaa18187909f9b81819b9d9c81b2909b81dc969d91dc959d84">[email&#160;protected]</span></a> 
+until 3 p.m. EDT on October 11, 2022. Please tag the questions 
+submitted by adding ``Public Briefing on China Actions'' in the subject 
+line. Such questions will be addressed as time and subject matter 
+permit.
+
+Process for Submitting Comments on the Interim Final Rule
+
+    Written comments on the rule must be received by BIS no later than 
+the date specified in the DATES section of the October 7 interim final 
+rule: Implementation of Additional Export Controls: Certain Advanced 
+Computing and Semiconductor Manufacturing Items; Supercomputer and 
+Semiconductor End Use; Entity List Modification. See the ADDRESSES 
+section of the interim final rule for instructions on submitting 
+written comments.
+
+Matthew S. Borman,
+Deputy Assistant Secretary for Export Administration.
+[FR Doc. 2022-22037 Filed 10-7-22; 11:15 am]
+BILLING CODE 3510-33-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

@@ -1,0 +1,10 @@
+{
+  "downloaded_at_utc": "2026-09-11T16:04:36+00:00",
+  "source_url": "https://www.atopdata.org/uploads/6/9/1/3/69134503/atop_5.1__.csv_.zip",
+  "version": "5.1",
+  "coverage_end_year": 2018,
+  "dyad_file": "ATOP 5.1 (.csv)/atop5_1dy.csv",
+  "sha256": "387e1960cd3341432d433c68e2ca73f24fd245d780530c19fb137a7dd5e30e89",
+  "p2_definition": "ATOP dyad-year defense obligation with the United States (COW code 2)",
+  "why_not_atopally": "atopally also marks non-aggression-only ties; obligation fields are retained for audit"
+}

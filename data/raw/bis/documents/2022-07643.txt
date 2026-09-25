@@ -1,0 +1,435 @@
+<html>
+<head>
+<title>Federal Register, Volume 87 Issue 69 (Monday, April 11, 2022)</title>
+</head>
+<body><pre>
+[Federal Register Volume 87, Number 69 (Monday, April 11, 2022)]
+[Rules and Regulations]
+[Pages 21011-21015]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2022-07643]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF COMMERCE
+
+Bureau of Industry and Security
+
+15 CFR Part 744
+
+[Docket No. 220203-0039]
+RIN 0694-AI70
+
+
+Addition of Certain Entities to the Entity List; Correction
+
+AGENCY: Bureau of Industry and Security, Commerce.
+
+ACTION: Correcting amendments.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The Bureau of Industry and Security (BIS) publishes these 
+amendments to correct three errors contained in the revisions to the 
+Entity List that were published in a final rule on February 14, 2022. 
+That final rule amended the Export Administration Regulations (EAR) by 
+revising the Entity List entry for ``Huawei Cloud Brazil'' (under 
+Brazil) and by adding a new entry for ``Huawei Technologies Co., Ltd.'' 
+(under China, People's Republic of). However, the references to the 
+foreign direct product provisions in the EAR that apply to these two 
+entities were incorrect. This rule amends the entries for the two 
+entities to include the correct references to these EAR provisions and 
+also corrects a typographical error in one of these entries.
+
+DATES: This rule is effective April 11, 2022. This rule is applicable 
+as of February 14, 2022.
+
+FOR FURTHER INFORMATION CONTACT: Chair, End-User Review Committee, 
+Office of the Assistant Secretary for Export Administration, Bureau of 
+Industry and Security, Department of Commerce, Phone: 202-482-5991; 
+Email: <a href="/cdn-cgi/l/email-protection#0d485f4e4d6f647e2369626e236a627b"><span class="__cf_email__" data-cfemail="4c091e0f0c2e253f6228232f622b233a">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION: The Entity List in supplement no. 4 to part 
+744 of the Export Administration Regulations (EAR) (15 CFR parts 730-
+774) identifies entities for which there is reasonable cause to 
+believe, based on specific and articulable facts, that the entities 
+have been involved, are involved, or pose a significant risk of being 
+or becoming involved in activities contrary to the national security or 
+foreign policy interests of the United States. The EAR impose 
+additional license requirements on, and limit the availability of most 
+license exceptions for, exports, reexports and transfers (in-country) 
+to listed entities. These additional license requirements are 
+referenced, together with other relevant EAR provisions, in the 
+``License requirement'' column for each entity. The license review 
+policy for each listed entity is identified in the ``License review 
+policy'' column for that entity on the Entity List, and the impact on 
+the availability of license exceptions is described in the relevant 
+Federal Register document adding the entities to the Entity List. BIS 
+places entities on the Entity List pursuant to part 744 (Control 
+Policy: End-User and End-Use Based) and part 746 (Embargoes and Other 
+Special Controls) of the EAR.
+    The End-User Review Committee (ERC), composed of representatives of 
+the Departments of Commerce (Chair), State, Defense, Energy and, where 
+appropriate, the Treasury, makes all decisions regarding additions to, 
+removals from, or other modifications to the Entity List. The ERC makes 
+all decisions to add an entry to the Entity List by majority vote and 
+makes all
+
+[[Page 21012]]
+
+decisions to remove or modify an entry by unanimous vote.
+    On February 14, 2022 (87 FR 8180), BIS published a final rule 
+titled ``Addition of Certain Entities to the Entity List,'' which 
+amended the Entity List by, inter alia, revising the entry for ``Huawei 
+Cloud Brazil'' (under Brazil) and adding a new entry for ``Huawei 
+Technologies Co., Ltd.'' (under China, People's Republic of). However, 
+the references to certain EAR foreign direct product provisions that 
+were identified in the ``License requirement'' column for each of these 
+entities were incorrect. Specifically, the ``License requirement'' 
+column for each of these entries incorrectly referenced Sec.  
+736.2(b)(3)(vi) of the EAR, instead of Sec.  734.9(e) of the EAR.
+    The references to Sec.  734.9(e) of the EAR were added to a number 
+of entities on the Entity List, replacing previous references to Sec.  
+736.2(b)(3)(vi) of the EAR, by a final rule that BIS published in the 
+Federal Register on February 3, 2022 (87 FR 6022). That final rule 
+consolidated the foreign direct product (FDP) provisions in Sec.  734.9 
+of the EAR. Prior to the publication of the February 3, 2022, final 
+rule (hereinafter, the ``FDP rule''), the FDP provisions of the EAR 
+were found in Sec.  736.2(b)(3) (General Prohibition 3) and footnote 1 
+to supplement no. 4 to part 744 (the Entity List). The FDP rule 
+relocated the license requirement, license review policy, and license 
+exception applicability provisions for certain listed entities from the 
+Entity List's footnote 1 to Sec.  744.11(a) of the EAR, where the 
+overall license requirements pertaining to listed entities are located. 
+In addition, the FDP rule moved the description of the product scope 
+and end-user scope of the Entity List FDP requirements from the 
+aforementioned footnote 1 to Sec.  734.9 of the EAR, where the FDP 
+provisions are now consolidated. However, the scope of the global 
+amendatory instruction that made conforming changes to the Entity List 
+table in supplement no. 4 to part 744 did not include the entry for 
+``Huawei Cloud Brazil'' (under Brazil). As a result, the reference to 
+Sec.  736.2(b)(3), in the ``License requirement'' column for this 
+entity was not removed and replaced with a reference to Sec.  734.9(e) 
+as should have been the case.
+    Although the February 14, 2022, Entity List rule included a 
+revision of the entry for ``Huawei Cloud Brazil'' (under Brazil), the 
+rule inadvertently failed to change the reference in the ``License 
+requirement'' column for this entity from Sec.  736.2(b)(3) to Sec.  
+734.9(e). Furthermore, the addition of a new entry for ``Huawei 
+Technologies Co., Ltd.'' (under China, People's Republic of) to the 
+Entity List, also incorrectly referenced Sec.  736.2(b)(3), instead of 
+Sec.  734.9(e), in the ``License requirement'' column for the entity.
+    These correcting amendments revise the ``License requirement'' 
+column in each of the aforementioned Entity List entries to correctly 
+reference Sec.  734.9(e), instead of Sec.  736.2(b)(3). These 
+amendments also correct a typographical error, in the ``License 
+requirement'' column for ``Huawei Technologies Co., Ltd.'' (under 
+China, People's Republic of), by revising the phrase ``except for'' to 
+read ``EXCEPT\2\ for'', consistent with the application of Entity List 
+footnote 2 to this entity (i.e., with respect to the provision of 
+ongoing security research critical to maintaining the integrity and 
+reliability of an existing and currently fully operational `third 
+party' network and equipment providing services to the `third party's' 
+customers--in this instance, the term `third party' refers to a party 
+that is not Huawei, one of its listed non-U.S. affiliates, or the 
+exporter, reexporter, or transferor, but rather an organization such as 
+a telecommunications service provider).
+
+List of Subjects in 15 CFR Part 744
+
+    Exports, Reporting and recordkeeping requirements, Terrorism.
+
+    For the reasons stated in the preamble, part 744 of the Export 
+Administration Regulations (15 CFR parts 730-774) is corrected by 
+making the following correcting amendments:
+
+PART 744--[AMENDED]
+
+0
+1. The authority citation for 15 CFR part 744 continues to read as 
+follows:
+
+    Authority: 50 U.S.C. 4801-4852; 50 U.S.C. 4601 et seq.; 50 
+U.S.C. 1701 et seq.; 22 U.S.C. 3201 et seq.; 42 U.S.C. 2139a; 22 
+U.S.C. 7201 et seq.; 22 U.S.C. 7210; E.O. 12058, 43 FR 20947, 3 CFR, 
+1978 Comp., p. 179; E.O. 12851, 58 FR 33181, 3 CFR, 1993 Comp., p. 
+608; E.O. 12938, 59 FR 59099, 3 CFR, 1994 Comp., p. 950; E.O. 13026, 
+61 FR 58767, 3 CFR, 1996 Comp., p. 228; E.O. 13099, 63 FR 45167, 3 
+CFR, 1998 Comp., p. 208; E.O. 13222, 66 FR 44025, 3 CFR, 2001 Comp., 
+p. 783; E.O. 13224, 66 FR 49079, 3 CFR, 2001 Comp., p. 786; Notice 
+of September 15, 2021, 86 FR 52069 (September 17, 2021); Notice of 
+November 10, 2021, 86 FR 62891 (November 12, 2021).
+
+
+0
+2. Supplement no. 4 to part 744 is amended:
+0
+a. Under BRAZIL by revising the entry for ``Huawei Cloud Brazil''; and
+0
+b. Under CHINA, PEOPLE'S REPUBLIC OF by revising the entry for ``Huawei 
+Technologies Co., Ltd.''.
+    The revisions read as follows:
+
+Supplement No. 4 to Part 744--Entity List
+
+* * * * *
+
+[[Page 21013]]
+
+
+
+----------------------------------------------------------------------------------------------------------------
+                                                             License         License review     Federal Register
+        Country                     Entity                 requirement           policy             citation
+----------------------------------------------------------------------------------------------------------------
+ 
+                                                  * * * * * * *
+----------------------------------------------------------------------------------------------------------------
+BRAZIL.................  Huawei Cloud Brazil, Sao      For all items       Presumption of      85 FR 51603, 8/20/
+                          Paulo, Brazil.                subject to the      denial.             20.
+                                                        EAR, see Sec.                          87 FR 8182, 2/14/
+                                                        Sec.                                    22.
+                                                        734.9(e),\1\ and                       87 FR [INSERT FR
+                                                        744.11 of the                           PAGE NUMBER] 4/
+                                                        EAR, EXCEPT \2\                         11/22.
+                                                        for technology
+                                                        subject to the
+                                                        EAR that is
+                                                        designated as
+                                                        EAR99, or
+                                                        controlled on the
+                                                        Commerce Control
+                                                        List for anti-
+                                                        terrorism reasons
+                                                        only, when
+                                                        released to
+                                                        members of a
+                                                        ``standards
+                                                        organization''
+                                                        (see Sec.
+                                                        772.1) for the
+                                                        purpose of
+                                                        contributing to
+                                                        the revision or
+                                                        development of a
+                                                        ``standard'' (see
+                                                        Sec.   772.1).
+                                                                * * * * * *
+----------------------------------------------------------------------------------------------------------------
+ 
+                                                  * * * * * * *
+----------------------------------------------------------------------------------------------------------------
+CHINA, PEOPLE'S                                                 * * * * * *
+ REPUBLIC OF.
+                         Huawei Technologies Co.,      For all items       Presumption of      84 FR 22963, 5/21/
+                          Ltd., a.k.a., the following   subject to the      denial.             19.
+                          two aliases:                  EAR, see Sec.                          84 FR 43495, 8/21/
+                         --Shenzhen Huawei              Sec.                                    19.
+                          Technologies; and             734.9(e),\1\ and                       85 FR 29853, 5/19/
+                         --Huawei Technology, and to    744.11 of the                           20.
+                          include the following         EAR, EXCEPT \2\                        85 FR 36720, 6/18/
+                          addresses and the following   for technology                          20.
+                          22 affiliated entities:       subject to the                         85 FR 51603, 8/20/
+                         Addresses for Huawei           EAR that is                             20.
+                          Technologies Co., Ltd.:       designated as                          87 FR 8182, 2/14/
+                          Bantian Huawei Base,          EAR99, or                               22.
+                          Longgang District,            controlled on the                      87 FR [INSERT FR
+                          Shenzhen, 518129, China;      Commerce Control                        PAGE NUMBER] 4/
+                          and No. 1899 Xi Yuan Road,    List for anti-                          11/22.
+                          High-Tech West District,      terrorism reasons
+                          Chengdu, 611731; and C1,      only, when
+                          Wuhan Future City, No. 999    released to
+                          Gaoxin Ave., Wuhan, Hebei     members of a
+                          Province; and Banxuegang      ``standards
+                          Industrial Park, Buji         organization''
+                          Longgang, Shenzhen,           (see Sec.
+                          Guangdong, 518129, China;     772.1) for the
+                          and R&D Center, No. 2222,     purpose of
+                          Golden Bridge Road, Pu Dong   contributing to
+                          District, Shanghai, China;    the revision or
+                          and Zone G, Huawei Base,      development of a
+                          Bantian, Longgang District,   ``standard'' (see
+                          Shenzhen, China; and Tsim     Sec.   772.1).
+                          Sha Tsui, Kowloon, Hong
+                          Kong.
+
+[[Page 21014]]
+
+ 
+                         Affiliated entities:
+                         Beijing Huawei Longshine
+                          Information Technology Co.,
+                          Ltd., a.k.a., the following
+                          one alias:
+                         --Beijing Huawei Longshine,
+                          to include the following
+                          subordinate. Q80-3-25R, 3rd
+                          Floor, No. 3, Shangdi
+                          Information Road, Haidian
+                          District, Beijing, China.
+                         Hangzhou New Longshine
+                          Information Technology Co.,
+                          Ltd., Room 605, No. 21,
+                          Xinba, Xiachang District,
+                          Hangzhou, China.
+                         Hangzhou Huawei
+                          Communication Technology
+                          Co., Ltd., Building 1, No.
+                          410, Jianghong Road,
+                          Changhe Street, Binjiang
+                          District, Hangzhou,
+                          Zhejiang, China.
+                         Hangzhou Huawei Enterprises,
+                          No. 410 Jianghong Road,
+                          Building 1, Hangzhou,
+                          China.
+                         Huawei Digital Technologies
+                          (Suzhou) Co., Ltd., No. 328
+                          XINHU STREET, Building A3,
+                          Suzhou (Huawei R&D Center,
+                          Building A3, Creative
+                          Industrial Park, No. 328,
+                          Xinghu Street, Suzhou),
+                          Suzhou, Jiangsu, China.
+                         Huawei Marine Networks Co.,
+                          Ltd., a.k.a., the following
+                          four aliases:
+                         --Huawei Marine;
+                         --HMN Technologies;
+                         --Huahai Zhihui Technology
+                          Co., Ltd.,; and
+                         --HMN Tech. Building R4, No.
+                          2 City Avenue, Songshan
+                          Lake Science & Tech
+                          Industry Park, Dongguan,
+                          523808, and No. 62, Second
+                          Ave., 5/F-6/F, TEDA, MSD-B2
+                          Area, Tianjin Economic and
+                          Technological Development
+                          Zone, Tianjin, 300457,
+                          China.
+                         Huawei Mobile Technology
+                          Ltd., Huawei Base, Building
+                          2, District B, Shenzhen,
+                          China.
+                         Huawei Tech. Investment Co.,
+                          U1 Building, No. 1899
+                          Xiyuan Avenue, West Gaoxin
+                          District, Chengdu City,
+                          611731, China.
+                         Huawei Technology Co., Ltd.
+                          Chengdu Research Institute,
+                          No. 1899, Xiyuan Ave., Hi-
+                          Tech Western District,
+                          Chengdu, Sichuan Province,
+                          610041, China.
+                         Huawei Technology Co., Ltd.
+                          Hangzhou Research
+                          Institute, No. 410,
+                          Jianghong Rd., Building 4,
+                          Changhe St., Binjiang
+                          District, Hangzhou,
+                          Zhejiang Province, 310007,
+                          China.
+                         Huawei Technologies Co.,
+                          Ltd. Beijing Research
+                          Institute, No. 3, Xinxi
+                          Rd., Huawei Building,
+                          ShangDi Information
+                          Industrial Base, Haidian
+                          District, Beijing, 100095,
+                          China; and No. 18, Muhe
+                          Rd., Building 1-4, Haidian
+                          District, Beijing, China.
+                         Huawei Technologies Co.,
+                          Ltd. Material
+                          Characterization Lab,
+                          Huawei Base, Bantian,
+                          Shenzhen 518129, China.
+
+[[Page 21015]]
+
+ 
+                         Huawei Technologies Co.,
+                          Ltd. Xi'an Research
+                          Institute, National
+                          Development Bank Building
+                          (Zhicheng Building), No. 2,
+                          Gaoxin 1st Road, Xi'an High-
+                          tech Zone, Xi'an, China.
+                         Huawei Terminal (Shenzhen)
+                          Co., Ltd., Huawei Base, B1,
+                          Shenzhen, China.
+                         Nanchang Huawei
+                          Communication Technology,
+                          No. 188 Huoju Street, F10-
+                          11, Nanchang, China.
+                         Ningbo Huawei Computer & Net
+                          Co., Ltd., No. 48 Daliang
+                          Street, Ningbo, China.
+                         Shanghai Huawei Technologies
+                          Co., Ltd., R&D center, No.
+                          2222, Golden Bridge Road,
+                          Pu Dong District, Shanghai,
+                          286305 Shanghai, China,
+                          China.
+                         Shenzhen Huawei Anjiexin
+                          Electricity Co., Ltd.,
+                          a.k.a., the following one
+                          alias: -Shenzhen Huawei
+                          Agisson Electric Co., Ltd.
+                          Building 2, Area B, Putian
+                          Huawei Base, Longgang
+                          District, Shenzhen, China;
+                          and Huawei Base, Building
+                          2, District B, Shenzhen,
+                          China.
+                         Shenzhen Huawei New
+                          Technology Co., Ltd.,
+                          Huawei Production Center,
+                          Gangtou Village, Buji Town,
+                          Longgang District,
+                          Shenzhen, China.
+                         Shenzhen Huawei Technology
+                          Service, Huawei Base,
+                          Building 2, District B,
+                          Shenzhen, China.
+                         Shenzhen Huawei Technologies
+                          Software, Huawei Base,
+                          Building 2, District B,
+                          Shenzhen, China.
+                         Zhejiang Huawei
+                          Communications Technology
+                          Co., Ltd., No. 360 Jiangshu
+                          Road, Building 5, Hangzhou,
+                          Zhejiang, China.
+ 
+                                                  * * * * * * *
+----------------------------------------------------------------------------------------------------------------
+\1\ For this entity, see Sec.   734.9(e) of the EAR for foreign-produced items that are subject to the EAR and
+  Sec.   744.11 of the EAR for related license requirements, license review policy, and applicable license
+  exceptions.
+\2\ Cybersecurity research and vulnerability disclosure. The following exports, reexports, and transfers (in-
+  country) to Huawei Technologies Co., Ltd. (Huawei) and its non-U.S. affiliates on the Entity List for
+  cybersecurity research and vulnerability disclosure subject to other provisions of the EAR are excluded from
+  the Entity List license requirements: when the disclosure to Huawei and/or to its listed non-U.S. affiliates
+  is limited to information regarding security vulnerabilities in items owned, possessed, or controlled by
+  Huawei or any of its non-U.S. affiliates when related to the process of providing ongoing security research
+  critical to maintaining the integrity and reliability of existing and currently 'fully operational network'
+  and equipment. A 'fully operational network' refers to a 'third party' network providing services to the
+  'third party's' customers. The term 'third party' refers to a party that is not Huawei, one of its listed non-
+  U.S. affiliates, or the exporter, reexporter, or transferor, but rather an organization such as a
+  telecommunications service provider.
+
+* * * * *
+
+Thea D. Rozman Kendler,
+Assistant Secretary for Export Administration.
+[FR Doc. 2022-07643 Filed 4-8-22; 8:45 am]
+BILLING CODE 3510-33-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

@@ -1,0 +1,199 @@
+<html>
+<head>
+<title>Federal Register, Volume 82 Issue 36 (Friday, February 24, 2017)</title>
+</head>
+<body><pre>
+[Federal Register Volume 82, Number 36 (Friday, February 24, 2017)]
+[Rules and Regulations]
+[Pages 11505-11506]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2017-03664]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF COMMERCE
+
+Bureau of Industry and Security
+
+15 CFR Part 744
+
+[Docket No. 160106014-7155-06]
+RIN 0694-AG82
+
+
+Temporary General License: Extension of Validity
+
+AGENCY: Bureau of Industry and Security, Commerce.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: On March 24, 2016, the Bureau of Industry and Security (BIS) 
+published a final rule, Temporary General License. The March 24 final 
+rule created a temporary general license that restored, for a specified 
+time period, the licensing requirements and policies under the Export 
+Administration Regulations (EAR) for exports, reexports, and transfers 
+(in-country) as of March 7, 2016, to two entities (ZTE Corporation and 
+ZTE Kangxun) that were added to the Entity List on March 8, 2016. At 
+this time, the U.S. Government has decided to extend the temporary 
+general license until March 29, 2017. In order to implement this 
+decision, this final rule revises the temporary general license to 
+remove the expiration date of February 27, 2017, and to substitute the 
+date of March 29, 2017. This final rule makes no other changes to the 
+EAR.
+
+DATES: This rule is effective February 24, 2017 through March 29, 2017. 
+The expiration date of the final rule published on March 24, 2016 (81 
+FR 15633) is extended until March 29, 2017.
+
+FOR FURTHER INFORMATION CONTACT: Chair, End-User Review Committee, 
+Office of the Assistant Secretary, Export Administration, Bureau of 
+Industry and Security, Department of Commerce, Phone: (202) 482-5991, 
+Email: <a href="/cdn-cgi/l/email-protection#0346514043616a702d676c602d646c75"><span class="__cf_email__" data-cfemail="2f6a7d6c6f4d465c014b404c01484059">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION: 
+
+Background
+
+    On March 24, 2016, the Bureau of Industry and Security (BIS) 
+published a final rule, Temporary General License (81 FR 15633). The 
+March 24 final rule amended the EAR by adding Supplement No. 7 to part 
+744 to create a temporary general license that returned, until June 30, 
+2016, the licensing and other policies of the EAR regarding exports, 
+reexports, and transfers (in-country) to Zhongxing Telecommunications 
+Equipment (ZTE) Corporation and ZTE Kangxun to that which were in 
+effect prior to their addition to the Entity List on March 8, 2016.
+    On June 28, 2016, BIS published a final rule, Temporary General 
+License: Extension of Validity (81 FR 41799), which extended the 
+validity of the temporary general license until August 30, 2016. On 
+August 19, 2016, BIS published a final rule, Temporary General License: 
+Extension of Validity (81 FR 55372), which extended, for a second time, 
+the validity of the Temporary General License until November 28, 2016. 
+On November 18, 2016, BIS published a final rule, Temporary General 
+License: Extension of Validity (81 FR 81663), which extended, for a 
+third time, the validity of the Temporary General License until 
+February 27, 2017. Details regarding the scope of the listing are at 81 
+FR 12004 (Mar. 8, 2016), (``Additions to the Entity List''). Details 
+regarding the Temporary General License can be found in the March 24 
+final rule and in Supplement No. 7 to Part 744--Temporary General 
+License.
+    BIS issued the March 24 final rule, and the June 28, August 19, and 
+November 18 extension of validity final rules, in connection with a 
+request to remove or modify the listings. The March 24 final rule, and 
+the June 28, August 19, and November 18 final rules, specified that the 
+temporary general license was renewable if the U.S. Government 
+determined, in its sole discretion, that ZTE Corporation and ZTE 
+Kangxun were performing their undertakings to the U.S. Government in a 
+timely manner and otherwise cooperating with the U.S. Government in 
+resolving the matter which led to the two entities' listing.
+    At this time, the U.S. Government has decided to extend the 
+temporary general license until March 29, 2017. In order to implement 
+this U.S. Government decision, this final rule revises the temporary 
+general license to remove the date of February 27, 2017, and substitute 
+the date of March 29, 2017. This final rule makes no other changes to 
+the EAR.
+
+Export Administration Act
+
+    Although the Export Administration Act expired on August 20, 2001, 
+the President, through Executive Order 13222 of August 17, 2001, 3 CFR, 
+2001 Comp., p. 783 (2002), as amended by Executive Order 13637 of March 
+8, 2013, 78 FR 16129 (March 13, 2013) and as extended by the Notice of 
+August 4, 2016, 81 FR 52587 (August 8, 2016), has continued the Export 
+Administration Regulations in effect under the International Emergency 
+Economic
+
+[[Page 11506]]
+
+Powers Act. BIS continues to carry out the provisions of the Export 
+Administration Act, as appropriate and to the extent permitted by law, 
+pursuant to Executive Order 13222, as amended by Executive Order 13637.
+
+Rulemaking Requirements
+
+    1. Executive Orders 13563 and 12866 direct agencies to assess all 
+costs and benefits of available regulatory alternatives and, if 
+regulation is necessary, to select regulatory approaches that maximize 
+net benefits (including potential economic, environmental, public 
+health and safety effects, distributive impacts, and equity). Executive 
+Order 13563 emphasizes the importance of quantifying both costs and 
+benefits, of reducing costs, of harmonizing rules, and of promoting 
+flexibility. This rule has been determined to be not significant for 
+purposes of Executive Order 12866.
+    2. Notwithstanding any other provision of law, no person is 
+required to respond to or be subject to a penalty for failure to comply 
+with a collection of information, subject to the requirements of the 
+Paperwork Reduction Act of 1995 (44 U.S.C. 3501 et seq.) (PRA), unless 
+that collection of information displays a currently valid Office of 
+Management and Budget (OMB) Control Number. This regulation involves 
+collections previously approved by OMB under control number 0694-0088, 
+Simplified Network Application Processing System, which includes, among 
+other things, license applications and carries a burden estimate of 
+43.8 minutes for a manual or electronic submission. Total burden hours 
+associated with the PRA and OMB control number 0694-0088 are not 
+expected to increase as a result of this rule. You may send comments 
+regarding the collection of information associated with this rule, 
+including suggestions for reducing the burden, to Jasmeet K. Seehra, 
+Office of Management and Budget (OMB), by email to 
+<a href="/cdn-cgi/l/email-protection#763c17051b131302293d58292513131e041736191b145813190658111900"><span class="__cf_email__" data-cfemail="662c07150b030312392d48393503030e140726090b044803091648010910">[email&#160;protected]</span></a>, or by fax to (202) 395-7285.
+    3. This rule does not contain policies with Federalism implications 
+as that term is defined in Executive Order 13132.
+    4. The provisions of the Administrative Procedure Act (5 U.S.C. 
+553) requiring notice of proposed rulemaking, the opportunity for 
+public comment, and a delay in effective date are inapplicable because 
+this regulation involves a military or foreign affairs function of the 
+United States. (See 5 U.S.C. 553(a)(1)). If this rule were delayed to 
+allow for notice and comment and a delay in effective date, then the 
+national security and foreign policy objectives of this rule would be 
+harmed. Because a notice of proposed rulemaking and an opportunity for 
+public comment are not required to be given for this rule by 5 U.S.C. 
+553, or by any other law, the analytical requirements of the Regulatory 
+Flexibility Act, 5 U.S.C. 601 et seq., are not applicable. Accordingly, 
+no regulatory flexibility analysis is required and none has been 
+prepared.
+
+List of Subject in 15 CFR Part 744
+
+    Exports, Reporting and recordkeeping requirements, Terrorism.
+
+    Accordingly, part 744 of the Export Administration Regulations (15 
+CFR parts 730 through 774) is amended as follows:
+
+PART 744--[AMENDED]
+
+0
+1. The authority citation for 15 CFR part 744 continues to read as 
+follows:
+
+
+    Authority:  50 U.S.C. 4601 et seq.; 50 U.S.C. 1701 et seq.; 22 
+U.S.C. 3201 et seq.; 42 U.S.C. 2139a; 22 U.S.C. 7201 et seq.; 22 
+U.S.C. 7210; E.O. 12058, 43 FR 20947, 3 CFR, 1978 Comp., p. 179; 
+E.O. 12851, 58 FR 33181, 3 CFR, 1993 Comp., p. 608; E.O. 12938, 59 
+FR 59099, 3 CFR, 1994 Comp., p. 950; E.O. 12947, 60 FR 5079, 3 CFR, 
+1995 Comp., p. 356; E.O. 13026, 61 FR 58767, 3 CFR, 1996 Comp., p. 
+228; E.O. 13099, 63 FR 45167, 3 CFR, 1998 Comp., p. 208; E.O. 13222, 
+66 FR 44025, 3 CFR, 2001 Comp., p. 783; E.O. 13224, 66 FR 49079, 3 
+CFR, 2001 Comp., p. 786; Notice of January 20, 2016, 81 FR 3937 
+(January 22, 2016); Notice of August 4, 2016, 81 FR 52587 (August 8, 
+2016); Notice of September 15, 2016, 81 FR 64343 (September 19, 
+2016); Notice of November 8, 2016, 81 FR 79379 (November 10, 2016).
+
+Supplement No. 7 to Part 744--[AMENDED]
+
+0
+2. In Supplement No. 7 to part 744, remove ``February 27, 2017'' and 
+add in its place ``March 29, 2017''.
+
+    Dated: February 21, 2017.
+Matthew S. Borman,
+Deputy Assistant Secretary for Export Administration.
+[FR Doc. 2017-03664 Filed 2-23-17; 8:45 am]
+ BILLING CODE 3510-33-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

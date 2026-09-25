@@ -1,0 +1,25 @@
+﻿country,iso3,year,p2_us_formal_alliance,p2_us_formal_alliance_structural_2018,p2_source_year,atopally,defense,offense,neutral,nonagg,consultation,alliance_count,source_flag,notes
+Malaysia,MYS,2017,0,0,2017,1,0,0,0,1,0,1,ATOP_v5.1_observed,
+Malaysia,MYS,2022,,0,2018,,,,,,,,ATOP_v5.1_structural_2018_only,source coverage ends 2018; 2022 dynamic P2 intentionally missing; structural field is 2018 status
+Vietnam,VNM,2017,0,0,2017,1,0,0,0,1,0,1,ATOP_v5.1_observed,
+Vietnam,VNM,2022,,0,2018,,,,,,,,ATOP_v5.1_structural_2018_only,source coverage ends 2018; 2022 dynamic P2 intentionally missing; structural field is 2018 status
+Singapore,SGP,2017,0,0,2017,1,0,0,0,1,0,1,ATOP_v5.1_observed,
+Singapore,SGP,2022,,0,2018,,,,,,,,ATOP_v5.1_structural_2018_only,source coverage ends 2018; 2022 dynamic P2 intentionally missing; structural field is 2018 status
+Thailand,THA,2017,1,1,2017,1,1,0,0,1,1,2,ATOP_v5.1_observed,
+Thailand,THA,2022,,1,2018,,,,,,,,ATOP_v5.1_structural_2018_only,source coverage ends 2018; 2022 dynamic P2 intentionally missing; structural field is 2018 status
+India,IND,2017,0,0,2017,1,0,0,0,1,0,1,ATOP_v5.1_observed,
+India,IND,2022,,0,2018,,,,,,,,ATOP_v5.1_structural_2018_only,source coverage ends 2018; 2022 dynamic P2 intentionally missing; structural field is 2018 status
+Indonesia,IDN,2017,0,0,2017,1,0,0,0,1,0,1,ATOP_v5.1_observed,
+Indonesia,IDN,2022,,0,2018,,,,,,,,ATOP_v5.1_structural_2018_only,source coverage ends 2018; 2022 dynamic P2 intentionally missing; structural field is 2018 status
+Philippines,PHL,2017,1,1,2017,1,1,0,0,1,1,2,ATOP_v5.1_observed,
+Philippines,PHL,2022,,1,2018,,,,,,,,ATOP_v5.1_structural_2018_only,source coverage ends 2018; 2022 dynamic P2 intentionally missing; structural field is 2018 status
+Japan,JPN,2017,1,1,2017,1,1,0,0,1,1,2,ATOP_v5.1_observed,
+Japan,JPN,2022,,1,2018,,,,,,,,ATOP_v5.1_structural_2018_only,source coverage ends 2018; 2022 dynamic P2 intentionally missing; structural field is 2018 status
+South Korea,KOR,2017,1,1,2017,1,1,0,0,1,1,2,ATOP_v5.1_observed,
+South Korea,KOR,2022,,1,2018,,,,,,,,ATOP_v5.1_structural_2018_only,source coverage ends 2018; 2022 dynamic P2 intentionally missing; structural field is 2018 status
+Mexico,MEX,2017,1,1,2017,1,1,0,0,1,1,1,ATOP_v5.1_observed,
+Mexico,MEX,2022,,1,2018,,,,,,,,ATOP_v5.1_structural_2018_only,source coverage ends 2018; 2022 dynamic P2 intentionally missing; structural field is 2018 status
+Germany,DEU,2017,1,1,2017,1,1,0,0,1,1,2,ATOP_v5.1_observed,
+Germany,DEU,2022,,1,2018,,,,,,,,ATOP_v5.1_structural_2018_only,source coverage ends 2018; 2022 dynamic P2 intentionally missing; structural field is 2018 status
+Netherlands,NLD,2017,1,1,2017,1,1,0,0,1,1,2,ATOP_v5.1_observed,
+Netherlands,NLD,2022,,1,2018,,,,,,,,ATOP_v5.1_structural_2018_only,source coverage ends 2018; 2022 dynamic P2 intentionally missing; structural field is 2018 status

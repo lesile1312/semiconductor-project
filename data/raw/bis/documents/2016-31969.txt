@@ -1,0 +1,409 @@
+<html>
+<head>
+<title>Federal Register, Volume 82 Issue 2 (Wednesday, January 4, 2017)</title>
+</head>
+<body><pre>
+[Federal Register Volume 82, Number 2 (Wednesday, January 4, 2017)]
+[Rules and Regulations]
+[Pages 722-725]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2016-31969]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF COMMERCE
+
+Bureau of Industry and Security
+
+15 CFR Part 744
+
+[Docket No. 161228999-6999-01]
+RIN 0694-AH27
+
+
+Addition of Certain Entities to the Entity List
+
+AGENCY: Bureau of Industry and Security, Commerce.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The Bureau of Industry and Security (BIS) amends the Export 
+Administration Regulations (EAR) by adding five entities to the Entity 
+List. These five entities have been determined by the U.S. Government 
+to be acting contrary to the national security or foreign policy 
+interests of the United States. BIS is taking this action in 
+conjunction with the designations made by the Office of Foreign Asset 
+Controls, Department of the Treasury, under amended Executive Order 
+13694. This final rule lists these entities on the Entity List under 
+the destination of Russia.
+
+DATES: This rule is effective January 4, 2017.
+
+FOR FURTHER INFORMATION CONTACT: Chair, End-User Review Committee, 
+Office of the Assistant Secretary, Export Administration, Bureau of 
+Industry and Security, Department of Commerce, Phone: (202) 482-5991, 
+Email: <a href="/cdn-cgi/l/email-protection#5510071615373c267b313a367b323a23"><span class="__cf_email__" data-cfemail="94d1c6d7d4f6fde7baf0fbf7baf3fbe2">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION:
+
+Background
+
+    The Entity List (Supplement No. 4 to part 744 of the EAR) 
+identifies entities and other persons reasonably believed to be 
+involved in, or that pose a significant risk of being or becoming 
+involved in, activities that are contrary to the national security or 
+foreign policy of the United States. The EAR imposes additional 
+licensing requirements on, and limits the availability of most license 
+exceptions for exports, reexports, and transfers (in-country) to those 
+persons or entities listed on the Entity List. The license review 
+policy for each listed entity is identified in the ``License review 
+policy'' column on the Entity List and the impact on the availability 
+of license exceptions is described in the Federal Register notice 
+adding entities or other persons to the Entity List. BIS places 
+entities on the Entity List based on certain sections of part 744 
+(Control Policy: End-User and End-Use Based) and part 746 (Embargoes 
+and Other Special Controls) of the EAR.
+    The End-User Review Committee (ERC) is composed of representatives 
+of the Departments of Commerce (Chair), State, Defense, Energy, and 
+where appropriate, the Treasury. The ERC makes decisions to add an 
+entry to the Entity List by majority vote and to remove or modify an 
+entry by unanimous vote. The Departments represented on the ERC have 
+approved these changes to the Entity List.
+
+Entity List Additions
+
+Additions to the Entity List
+
+    This rule implements the decision of the agencies of the ERC to add 
+five entities to the Entity List. These five entities are being added 
+on the basis of Sec.  744.11 (License requirements that apply to 
+entities acting contrary to the national security or foreign policy 
+interests of the United States) of the EAR. The five entries being 
+added to the Entity List are in Russia.
+    Under Sec.  744.11(b) (Criteria for revising the Entity List) of 
+the EAR, persons for whom there is reasonable cause to believe, based 
+on specific and articulable facts, have been involved, are involved, or 
+pose a significant risk of being or becoming involved in, activities 
+that are contrary to the national security or foreign policy interests 
+of the United States and those acting on behalf of such persons may be 
+added to the Entity List. The entities being added to the Entity List 
+have been determined to be involved in activities that are contrary to 
+the national security or foreign policy interests of the United States. 
+Specifically, in this rule, BIS adds five entities to the Entity List, 
+as further described below.
+
+Entity Additions Consistent With Executive Order 13694
+
+    Five entities are added based on activities that are described in 
+Executive Order 13694 (80 FR 18077), Blocking the Property of Certain 
+Persons Engaging in Significant Malicious Cyber-Enabled Activities, 
+issued by the President on April 1, 2015 and amended on December 29, 
+2016.
+    As originally issued in April 2015, Executive Order 13694 created a 
+new, targeted authority for the U.S. government to respond more 
+effectively to the most significant of cyber threats, particularly in 
+situations where malicious cyber actors operate beyond the reach of 
+existing authorities, focusing on cyber-enabled malicious activities. 
+Executive Order 13694 authorized the imposition of sanctions on 
+individuals and entities determined
+
+[[Page 723]]
+
+to be responsible for or complicit in malicious cyber-enabled 
+activities that result in enumerated harms that are reasonably likely 
+to result in, or have materially contributed to, a significant threat 
+to the national security, foreign policy, or economic health or 
+financial stability of the United States. Under Section 8 of the 
+Executive Order 13694, all agencies of the United States Government are 
+directed to take all appropriate measures within their authority to 
+carry out the provisions of the Order.
+    On December 29, 2016, the President issued an Executive Order 
+Taking Additional Steps To Address The National Emergency With Respect 
+To Significant Malicious Cyber-Enabled Activities, which amended 
+Executive Order 13694. With this action, the existing authorities have 
+been amended to also allow for the imposition of sanctions on 
+individuals and entities determined to be responsible for tampering, 
+altering, or causing the misappropriation of information with the 
+purpose or effect of interfering with or undermining election processes 
+or institutions. Five entities and four individuals are identified in 
+the Annex of the amended Executive Order and have been added to OFAC's 
+list of Specially Designated Nationals and Blocked Persons (SDN List). 
+OFAC also designated an additional two individuals who also were added 
+to the SDN List.
+    BIS, pursuant to Executive Order 13694, as amended, and in 
+consultation with the Departments of State, Defense, Energy, and the 
+Treasury, has designated the five entities specified in the next three 
+paragraphs.
+    The Main Intelligence Directorate (a.k.a., the following two 
+aliases: Glavnoe Razvedyvatel'noe Upravlenie; and GRU) is involved in 
+external collection using human intelligence officers and a variety of 
+technical tools, and is designated for tampering, altering, or causing 
+a misappropriation of information with the purpose or effect of 
+interfering with the 2016 U.S. election processes.
+    The Federal Security Service (FSB), (f.k.a., Esage Lab) a.k.a., 
+Federalnaya Sluzhba Bezopasnosti, assisted the GRU in conducting the 
+activities described above.
+    There were also three other entities involved: (1) The Special 
+Technology Center, (a.k.a., STLC, Ltd.) assisted the GRU in conducting 
+signals intelligence operations; (2) Zorsecurity Center (a.k.a., Esage 
+Lab) provided the GRU with technical research and development; and (3) 
+the Autonomous Noncommercial Organization Professional Association of 
+Designers of Data Processing Systems (a.k.a., ANO PO KSI) provided 
+specialized training to the GRU.
+    With these additions, BIS imposes on these entities a license 
+requirement for exports, reexports, or transfers (in-country) of all 
+items subject to the EAR and a license review policy of presumption of 
+denial. The license requirement applies to any transaction in which 
+items are to be exported, reexported, or transferred (in-country) to 
+any of the entities or in which such entities act as purchaser, 
+intermediate consignee, ultimate consignee, or end-user. In addition, 
+no license exceptions are available for exports, reexports, or 
+transfers (in-country) to the persons being added to the Entity List in 
+this rule. This license requirement implements an appropriate measure 
+within the authority of the EAR to carry out the provisions of 
+Executive Order 13694.
+    This final rule adds the following five entities to the Entity 
+List:
+Russia
+    (1) Autonomous Noncommercial Organization Professional Association 
+of Designers of Data Processing Systems, a.k.a., the following one 
+alias:
+
+--ANO PO KSI.
+
+    Prospekt Mira D 68, Str 1A, Moscow 129110, Russia; and Dom 3, 
+Lazurnaya Ulitsa, Solnechnogorskiy Raion, Andreyevka, Moscow Region 
+141551, Russia;
+    (2) Federal Security Service (FSB), a.k.a., the following one 
+alias:
+
+--Federalnaya Sluzhba Bezopasnosti.
+
+    Ulitsa Kuznetskiy Most, Dom 22, Moscow 107031, Russia; and 
+Lubyanskaya Ploschad, Dom 2, Moscow 107031, Russia;
+    (3) Main Intelligence Directorate, a.k.a., the following three 
+aliases
+
+--Glavnoe Razvedyvatel'noe Upravlenie;
+--GRU; and
+--Main Intelligence Department.
+
+    Khoroshevskoye Shosse 76, Khodinka, Moscow, Russia; and Ministry of 
+Defence of the Russian Federation, Frunzenskaya nab., 22/2, Moscow 
+119160, Russia;
+    (4) Special Technology Center, a.k.a., the following one alias:
+
+--STC, Ltd.
+
+    Gzhatskaya 21 k2, St. Petersburg, Russia; and 21-2 Gzhatskaya 
+Street, St. Petersburg, Russia; and
+    (5) Zorsecurity Center (f.k.a., Esage Lab), a.k.a., the following 
+one alias:
+
+--TSOR Security.
+
+    Luzhnetskaya Embankment \2/4\, Building 17, Office 444, Moscow 
+119270, Russia.
+Export Administration Act
+    Although the Export Administration Act expired on August 20, 2001, 
+the President, through Executive Order 13222 of August 17, 2001, 3 CFR, 
+2001 Comp., p. 783 (2002), as amended by Executive Order 13637 of March 
+8, 2013, 78 FR 16129 (March 13, 2013) and as extended by the Notice of 
+August 4, 2016, 81 FR 52587 (August 8, 2016), has continued the Export 
+Administration Regulations in effect under the International Emergency 
+Economic Powers Act. BIS continues to carry out the provisions of the 
+Export Administration Act, as appropriate and to the extent permitted 
+by law, pursuant to Executive Order 13222, as amended by Executive 
+Order 13637.
+Rulemaking Requirements
+    1. Executive Orders 13563 and 12866 direct agencies to assess all 
+costs and benefits of available regulatory alternatives and, if 
+regulation is necessary, to select regulatory approaches that maximize 
+net benefits (including potential economic, environmental, public 
+health and safety effects, distributive impacts, and equity). Executive 
+Order 13563 emphasizes the importance of quantifying both costs and 
+benefits, of reducing costs, of harmonizing rules, and of promoting 
+flexibility. This rule has been determined to be not significant for 
+purposes of Executive Order 12866.
+    2. Notwithstanding any other provision of law, no person is 
+required to respond to nor be subject to a penalty for failure to 
+comply with a collection of information, subject to the requirements of 
+the Paperwork Reduction Act of 1995 (44 U.S.C. 3501 et seq.) (PRA), 
+unless that collection of information displays a currently valid Office 
+of Management and Budget (OMB) Control Number. This regulation involves 
+collections previously approved by OMB under control number 0694-0088, 
+Simplified Network Application Processing System, which includes, among 
+other things, license applications and carries a burden estimate of 
+43.8 minutes for a manual or electronic submission. Total burden hours 
+associated with the PRA and OMB control number 0694-0088 are not 
+expected to increase as a result of this rule. You may send comments 
+regarding the collection of information associated with this rule, 
+including suggestions for reducing the burden, to Jasmeet K. Seehra, 
+Office of Management and
+
+[[Page 724]]
+
+Budget (OMB), by email to <a href="/cdn-cgi/l/email-protection#c78da6b4aaa2a2b3988ce99894a2a2afb5a687a8aaa5e9a2a8b7e9a0a8b1"><span class="__cf_email__" data-cfemail="115b70627c7474654e5a3f4e427474796370517e7c733f747e613f767e67">[email&#160;protected]</span></a>, or by fax to 
+(202) 395-7285.
+    3. This rule does not contain policies with Federalism implications 
+as that term is defined in Executive Order 13132.
+    4. The provisions of the Administrative Procedure Act (5 U.S.C. 
+553) requiring notice of proposed rulemaking, the opportunity for 
+public comment and a delay in effective date are inapplicable because 
+this regulation involves a military or foreign affairs function of the 
+United States. (See 5 U.S.C. 553(a)(1)). BIS implements this rule to 
+protect U.S. national security or foreign policy interests by 
+preventing items from being exported, reexported, or transferred (in 
+country) to the entities being added to the Entity List. If the 
+effective date of this rule were delayed to allow for notice and 
+comment, then the entities being added to the Entity List by this 
+action would continue to be able to receive items without a license and 
+to conduct activities contrary to the national security or foreign 
+policy interests of the United States. In addition, publishing a 
+proposed rule would give these parties notice of the U.S. Government's 
+intention to place them on the Entity List and would create an 
+incentive for these persons to either accelerate their receipt of items 
+subject to the EAR to conduct activities that are contrary to the 
+national security or foreign policy interests of the United States, 
+and/or to take steps to set up additional aliases, change addresses, 
+and/or take other measures to try to limit the impact of the listing on 
+the Entity List once a final rule is published.
+    Further, no other law requires that a notice of proposed rulemaking 
+and an opportunity for public comment be given for this rule. Because a 
+notice of proposed rulemaking and an opportunity for public comment are 
+not required to be given for this rule by 5 U.S.C. 553, or by any other 
+law, the analytical requirements of the Regulatory Flexibility Act, 5 
+U.S.C. 601 et seq., are not applicable. Accordingly, no regulatory 
+flexibility analysis is required and none has been prepared.
+
+List of Subjects in 15 CFR Part 744
+
+    Exports, Reporting and recordkeeping requirements, Terrorism.
+
+    For the reasons stated in the preamble, the Bureau of Industry and 
+Security amends part 744 of the Export Administration Regulations (15 
+CFR parts 730-774) as follows:
+
+PART 744--[AMENDED]
+
+0
+1. The authority citation for 15 CFR part 744 continues to read as 
+follows:
+
+    Authority: 50 U.S.C. 4601 et seq.; 50 U.S.C. 1701 et seq.; 22 
+U.S.C. 3201 et seq.; 42 U.S.C. 2139a; 22 U.S.C. 7201 et seq.; 22 
+U.S.C. 7210; E.O. 12058, 43 FR 20947, 3 CFR, 1978 Comp., p. 179; 
+E.O. 12851, 58 FR 33181, 3 CFR, 1993 Comp., p. 608; E.O. 12938, 59 
+FR 59099, 3 CFR, 1994 Comp., p. 950; E.O. 12947, 60 FR 5079, 3 CFR, 
+1995 Comp., p. 356; E.O. 13026, 61 FR 58767, 3 CFR, 1996 Comp., p. 
+228; E.O. 13099, 63 FR 45167, 3 CFR, 1998 Comp., p. 208; E.O. 13222, 
+66 FR 44025, 3 CFR, 2001 Comp., p. 783; E.O. 13224, 66 FR 49079, 3 
+CFR, 2001 Comp., p. 786; Notice of November 12, 2015, 80 FR 70667 
+(November 13, 2015); Notice of January 20, 2016, 81 FR 3937 (January 
+22, 2016); Notice of August 4, 2016, 81 FR 52587 (August 8, 2016); 
+Notice of September 15, 2016, 81 FR 64343 (September 19, 2016).
+
+0
+2. Supplement No. 4 to part 744 is amended by adding under the 
+destination of Russia, in alphabetical order, five Russian entities.
+    The additions read as follows:
+Supplement No. 4 to Part 744--Entity List
+* * * * *
+
+----------------------------------------------------------------------------------------------------------------
+                                                                License        License review   Federal Register
+           Country                       Entity               requirement          policy           citation
+----------------------------------------------------------------------------------------------------------------
+ 
+                                                  * * * * * * *
+----------------------------------------------------------------------------------------------------------------
+RUSSIA
+ 
+                                                   * * * * * *
+                               Autonomous Noncommercial    For all items      Presumption of    82 FR [INSERT FR
+                                Organization Professional   subject to the     denial.           PAGE NUMBER AND
+                                Association of Designers    EAR. (See Sec.                       1/4/2017]
+                                of Data Processing          744.11 of the
+                                Systems, a.k.a., the        EAR)
+                                following one alias:
+                               --ANO PO KSI
+                               Prospekt Mira D 68, Str
+                                1A, Moscow 129110,
+                                Russia; and Dom 3,
+                                Lazurnaya Ulitsa,
+                                Solnechnogorskiy Raion,
+                                Andreyevka, Moscow Region
+                                141551, Russia
+ 
+                                                   * * * * * *
+                               Federal Security Service    For all items      Presumption of    82 FR [INSERT FR
+                                (FSB), a.k.a., the          subject to the     denial.           PAGE NUMBER AND
+                                following one alias:        EAR. (See Sec.                       1/4/2017]
+                               --Federalnaya Sluzhba        744.11 of the
+                                Bezopasnosti                EAR)
+                               Ulitsa Kuznetskiy Most,
+                                Dom 22, Moscow 107031,
+                                Russia; and Lubyanskaya
+                                Ploschad, Dom 2, Moscow
+                                107031, Russia
+ 
+
+[[Page 725]]
+
+ 
+                                                   * * * * * *
+                               Main Intelligence           For all items      Presumption of    82 FR [INSERT FR
+                                Directorate, a.k.a., the    subject to the     denial.           PAGE NUMBER AND
+                                following three aliases:    EAR. (See Sec.                       1/4/2017]
+                               --Glavnoe Razvedyvatel'noe   744.11 of the
+                                Upravlenie;                 EAR)
+                               --GRU; and
+                               --Main Intelligence
+                                Department
+                               Khoroshevskoye Shosse 76,
+                                Khodinka, Moscow, Russia;
+                                and Ministry of Defence
+                                of the Russian
+                                Federation, Frunzenskaya
+                                nab., 22/2, Moscow
+                                119160, Russia
+ 
+                                                   * * * * * *
+                               Special Technology Center,  For all items      Presumption of    82 FR [INSERT FR
+                                a.k.a., the following one   subject to the     denial.           PAGE NUMBER AND
+                                alias:                      EAR. (See Sec.                       1/4/2017]
+                               --STC, Ltd                   744.11 of the
+                                                            EAR)
+                               Gzhatskaya 21 k2, St.
+                                Petersburg, Russia; and
+                                21-2 Gzhatskaya Street,
+                                St. Petersburg, Russia.
+ 
+                                                   * * * * * *
+                               Zorsecurity Center          For all items      Presumption of    82 FR [INSERT FR
+                                (f.k.a., Esage Lab),        subject to the     denial.           PAGE NUMBER AND
+                                a.k.a., the following one   EAR. (See Sec.                       1/4/2017]
+                                alias:                      744.11 of the
+                               --TSOR Security              EAR)
+                               Luzhnetskaya Embankment \2/
+                                4\, Building 17, Office
+                                444, Moscow 119270,
+                                Russia
+ 
+                                                   * * * * * *
+----------------------------------------------------------------------------------------------------------------
+
+
+    Dated: December 29, 2016.
+Eric L. Hirschhorn,
+Under Secretary of Commerce for Industry and Security.
+[FR Doc. 2016-31969 Filed 12-30-16; 4:15 pm]
+BILLING CODE 3510-33-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

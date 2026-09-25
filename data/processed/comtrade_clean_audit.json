@@ -1,0 +1,10 @@
+{
+  "input_rows": 4647,
+  "clean_partner_rows": 4599,
+  "aggregate_rows_removed": 48,
+  "classifications_by_year": {
+    "2017": "H4,H5",
+    "2022": "H5,H6"
+  },
+  "anomalies": []
+}

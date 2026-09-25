@@ -1,0 +1,17 @@
+{
+  "downloaded_at_utc": "2026-09-13T10:48:40+00:00",
+  "queries": [
+    {
+      "year": 2017,
+      "records": 119,
+      "url": "https://www.federalregister.gov/api/v1/documents.json?conditions%5Bagencies%5D%5B%5D=industry-and-security-bureau&conditions%5Bpublication_date%5D%5Byear%5D=2017&per_page=1000&order=oldest",
+      "sha256": "bbfe4fcf234d2d4f6107d7c119faffe231b0a93aa6e0086294dddfe90051e9e2"
+    },
+    {
+      "year": 2022,
+      "records": 173,
+      "url": "https://www.federalregister.gov/api/v1/documents.json?conditions%5Bagencies%5D%5B%5D=industry-and-security-bureau&conditions%5Bpublication_date%5D%5Byear%5D=2022&per_page=1000&order=oldest",
+      "sha256": "25d3790fff296e9edbb0a24607c7438564524f83d728e9b71a382cded5aa441b"
+    }
+  ]
+}

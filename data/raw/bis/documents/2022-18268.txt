@@ -1,0 +1,449 @@
+<html>
+<head>
+<title>Federal Register, Volume 87 Issue 163 (Wednesday, August 24, 2022)</title>
+</head>
+<body><pre>
+[Federal Register Volume 87, Number 163 (Wednesday, August 24, 2022)]
+[Rules and Regulations]
+[Pages 51876-51880]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2022-18268]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF COMMERCE
+
+Bureau of Industry and Security
+
+15 CFR Part 744
+
+[Docket No. 220818-0172]
+RIN 0694-AI79
+
+
+Additions of Entities to the Entity List
+
+AGENCY: Bureau of Industry and Security, Department of Commerce.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The Department of Commerce is amending the Export 
+Administration Regulations (EAR) by adding seven entities under seven 
+entries to the Entity List. These entities have been determined by the 
+U.S. Government to be acting contrary to the national security or 
+foreign policy interests of the United States and will be listed on the 
+Entity List under the destination of the People's Republic of China 
+(China). This final rule also corrects typographical errors in two 
+existing entries on the Entity List.
+
+DATES: This rule is effective August 24, 2022.
+
+FOR FURTHER INFORMATION CONTACT: Chair, End-User Review Committee, 
+Office of the Assistant Secretary for Export Administration, Bureau of 
+Industry and Security, Department of Commerce, Phone: (202) 482-5991, 
+Email: <a href="/cdn-cgi/l/email-protection#92d7c0d1d2f0fbe1bcf6fdf1bcf5fde4"><span class="__cf_email__" data-cfemail="4d081f0e0d2f243e6329222e632a223b">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION:
+
+Background
+
+Additions to the Entity List
+
+    The Entity List (supplement No. 4 to part 744 of the EAR (15 CFR 
+parts 730-774)) identifies entities for which there is reasonable cause 
+to believe, based on specific and articulable facts, that the entities 
+have been involved, are involved, or pose a significant risk of being 
+or becoming involved in activities contrary to the national security or 
+foreign policy interests of the United States, pursuant to Sec.  
+744.11(b). The EAR imposes additional license requirements on, and 
+limits the availability of, most license exceptions for exports, 
+reexports, and transfers (in-country) to listed entities. The license 
+review policy for each listed entity is identified in the ``License 
+Review Policy'' column on the Entity List, and the impact on the 
+availability of license exceptions is described in the relevant Federal 
+Register document that added the entity to the Entity List. The Bureau 
+of Industry and Security (BIS) places entities on the Entity List 
+pursuant to part 744 (Control Policy: End-User and End-Use Based) and 
+part 746 (Embargoes and Other Special Controls) of the EAR.
+    The End-User Review Committee (ERC), composed of representatives of 
+the Departments of Commerce (Chair), State, Defense, Energy and, where 
+appropriate, the Treasury, makes all decisions regarding additions to, 
+removals from, or other modifications to the Entity List. The ERC makes 
+all decisions to add an entry to the Entity List by majority vote and 
+makes all decisions to remove or modify an entry by unanimous vote. 
+This rule implements the ERC's decisions to add seven entities to the 
+Entity List on the basis of Sec.  744.11(b). Paragraphs (b)(1) through 
+(5) of Sec.  744.11 include an illustrative list of activities that 
+could be contrary to the national security or foreign policy interests 
+of the United States.
+    The ERC determined to add China Aerospace Science and Technology 
+Corporation (CASC) 9th Academy 771 Research Institute, China Aerospace 
+Science and Technology Corporation (CASC) 9th Academy 772 Research 
+Institute, China Academy of Space Technology 502 Research Institute, 
+China Academy of Space Technology 513 Research Institute, China 
+Electronics Technology Group Corporation 43 Research Institute, China 
+Electronics Technology Group Corporation 58 Research Institute, and 
+Zhuhai Orbita Control Systems to the Entity List for acquiring and 
+attempting to acquire U.S.-origin items in support of China's military 
+modernization efforts. This activity is contrary to national security 
+and foreign policy interests under Sec.  744.11(b) of the EAR. For 
+these seven entities added to the Entity List, BIS imposes a license 
+requirement for all items subject to the EAR. For these seven entities, 
+BIS will review license applications under a presumption of denial.
+    For the reasons described above, this final rule adds the following 
+seven entities under seven entries to the Entity List and includes, 
+where appropriate, aliases:
+
+China
+
+    <bullet> China Aerospace Science and Technology Corporation (CASC) 
+9th Academy 771 Research Institute,
+    <bullet> China Aerospace Science and Technology Corporation (CASC) 
+9th Academy 772 Research Institute,
+    <bullet> China Academy of Space Technology 502 Research Institute,
+    <bullet> China Academy of Space Technology 513 Research Institute,
+    <bullet> China Electronics Technology Group Corporation 43 Research 
+Institute,
+    <bullet> China Electronics Technology Group Corporation 58 Research 
+Institute, and
+    <bullet> Zhuhai Orbita Control Systems
+
+Corrections to the Entity List
+
+    This final rule also makes typographical corrections to two 
+existing entities on the Entity List. Beijing Tianhua and Tenfine Ltd. 
+are revised by correcting ``Haidain'' to ``Haidian'' in their 
+addresses.
+
+[[Page 51877]]
+
+Savings Clause
+
+    For the changes being made in this final rule, shipments of items 
+removed from eligibility for a License Exception or export, reexport, 
+or transfer (in-country) without a license (NLR) as a result of this 
+regulatory action that were en route aboard a carrier to a port of 
+export, reexport, or transfer (in-country), on August 24, 2022, 
+pursuant to actual orders for export, reexport, or transfer (in-
+country) to or within a foreign destination, may proceed to that 
+destination under the previous eligibility for a License Exception or 
+export, reexport, or transfer (in-country) without a license (NLR).
+
+Export Control Reform Act of 2018
+
+    On August 13, 2018, the President signed into law the John S. 
+McCain National Defense Authorization Act for Fiscal Year 2019, which 
+included the Export Control Reform Act of 2018 (ECRA) (50 U.S.C. 4801-
+4852). ECRA provides the legal basis for BIS's principal authorities 
+and serves as the authority under which BIS issues this rule.
+
+Rulemaking Requirements
+
+    1. This rule has been determined to be not significant for purposes 
+of Executive Order 12866.
+    2. Notwithstanding any other provision of law, no person is 
+required to respond to or be subject to a penalty for failure to comply 
+with a collection of information, subject to the requirements of the 
+Paperwork Reduction Act of 1995 (44 U.S.C. 3501 et seq.) (PRA), unless 
+that collection of information displays a currently valid Office of 
+Management and Budget (OMB) Control Number. This regulation involves 
+collections previously approved by OMB under control number 0694-0088, 
+Simplified Network Application Processing System, which includes, among 
+other things, license applications and commodity classifications, and 
+carries a burden estimate of 29.4 minutes for a manual or electronic 
+submission for a total burden estimate of 33,133 hours. Total burden 
+hours associated with the PRA and OMB control number 0694-0088 are not 
+expected to increase as a result of this rule.
+    3. This rule does not contain policies with federalism implications 
+as that term is defined in Executive Order 13132.
+    4. Pursuant to section 1762 of the Export Control Reform Act of 
+2018, this action is exempt from the Administrative Procedure Act (5 
+U.S.C. 553) requirements for notice of proposed rulemaking, opportunity 
+for public participation, and delay in effective date.
+    5. Because a notice of proposed rulemaking and an opportunity for 
+public comment are not required to be given for this rule by 5 U.S.C. 
+553, or by any other law, the analytical requirements of the Regulatory 
+Flexibility Act, 5 U.S.C. 601, et seq., are not applicable. 
+Accordingly, no regulatory flexibility analysis is required and none 
+has been prepared.
+
+List of Subjects in 15 CFR Part 744
+
+    Exports, Reporting and recordkeeping requirements, Terrorism.
+
+    Accordingly, part 744 of the Export Administration Regulations (15 
+CFR parts 730-774) is amended as follows:
+
+PART 744--CONTROL POLICY: END-USER AND END-USE BASED
+
+0
+1. The authority citation for 15 CFR part 744 continues to read as 
+follows:
+
+    Authority: 50 U.S.C. 4801-4852; 50 U.S.C. 4601 et seq.; 50 
+U.S.C. 1701 et seq.; 22 U.S.C. 3201 et seq.; 42 U.S.C. 2139a; 22 
+U.S.C. 7201 et seq.; 22 U.S.C. 7210; E.O. 12058, 43 FR 20947, 3 CFR, 
+1978 Comp., p. 179; E.O. 12851, 58 FR 33181, 3 CFR, 1993 Comp., p. 
+608; E.O. 12938, 59 FR 59099, 3 CFR, 1994 Comp., p. 950; E.O. 13026, 
+61 FR 58767, 3 CFR, 1996 Comp., p. 228; E.O. 13099, 63 FR 45167, 3 
+CFR, 1998 Comp., p. 208; E.O. 13222, 66 FR 44025, 3 CFR, 2001 Comp., 
+p. 783; E.O. 13224, 66 FR 49079, 3 CFR, 2001 Comp., p. 786; Notice 
+of September 15, 2021, 86 FR 52069 (September 17, 2021); Notice of 
+November 10, 2021, 86 FR 62891 (November 12, 2021).
+
+
+0
+2. Supplement No. 4 to part 744 is amended under CHINA, PEOPLE'S 
+REPUBLIC OF:
+0
+a. By revising the entry for ``Beijing Tianhua'';
+0
+a. By adding, in alphabetical order, entries for ``China Aerospace 
+Science and Technology Corporation (CASC) 9th Academy 771 Research 
+Institute'', ``China Aerospace Science and Technology Corporation 
+(CASC) 9th Academy 772 Research Institute'', ``China Academy of Space 
+Technology 502 Research Institute, China Academy of Space Technology 
+513 Research Institute'', ``China Electronics Technology Group 
+Corporation 43 Research Institute'', ``China Electronics Technology 
+Group Corporation 58 Research Institute'';
+0
+c. By revising the entry for ``Tenfine Ltd.'', and
+0
+d. By adding, in alphabetical order, an entry for ``Zhuhai Orbita 
+Control Systems''.
+    The additions and revisions read as follows:
+
+Supplement No. 4 to Part 744--Entity List
+
+* * * * *
+
+----------------------------------------------------------------------------------------------------------------
+                                                             License         License  review    Federal Register
+        Country                     Entity                 requirement            policy            citation
+----------------------------------------------------------------------------------------------------------------
+ 
+                                                  * * * * * * *
+----------------------------------------------------------------------------------------------------------------
+CHINA, PEOPLE'S          Beijing Tianhua, a.k.a., the  For all items        Presumption of     78 FR 75463 12/12/
+ REPUBLIC OF.             following seventeen           subject to the       denial.            13.
+                          aliases:                      EAR. (See Sec.                         87 FR [INSERT FR
+                         --Beijing Tianhua              744.11 of the                           PAGE NUMBER] 8/
+                          International Co., Ltd.;      EAR).                                   24/22.
+                         --Beijing BUAA Tianhua
+                          Technology Company;
+                         --Beijing BUAA Tianhua
+                          Technology Co., Ltd.;
+                         --Beijing Aerospace
+                          Technology Limited
+                          Liability Company;
+                         --Beihang Tenfine Industry
+                          Group;
+                         --Beijing Beihang Assets
+                          Management Co., Ltd.;
+                         --Beijing Beihang Science &
+                          Technology Co., Ltd.;
+                         --Beijing Aerospace
+                          Technology LLC;
+
+[[Page 51878]]
+
+ 
+                         --Beijing North China
+                          Aerospace Science &
+                          Technology Ltd., Co.;
+                         --Beijing North Space
+                          Technology Co., Ltd.;
+                         --Beijing the Tianhua
+                          Easytouch International
+                          Trade Co., Ltd.;
+                         --North and Astronautics,
+                          Beijing China Times
+                          Technology Co., Ltd.;
+                         --Beijing Beihang Haier
+                          Software Co., Ltd.;
+                         --Red Technology;
+                         --TRW Navigation
+                          Communication Technology
+                          Co., Ltd.;
+                         --Beijing North Aerospace Co-
+                          Technology Co., Ltd.; and
+                         --Beijing Full Three
+                          Dimensional Power
+                          Engineering Co., Ltd.
+                         --37 Xue Yuan Rd., Beijing,
+                          China; and
+                         --Room 301, 3f Shining
+                          Tower, 35 Xue Yuan Lu,
+                          Haidian District, Beijing,
+                          China; and
+                         --Room 311A, 3f Shining
+                          Tower, 35 Xue Yuan Lu,
+                          Haidian, Beijing, China;
+                          and
+                         --Room 411A, 4f Shining
+                          Tower, 35 Xue Yuan Lu,
+                          Haidian, Beijing, China;
+                          and
+                         --Room 401, 4f Shining
+                          Tower, 35 Xue Yuan Lu,
+                          Haidian District, Beijing,
+                          China; and
+                         --Room 402a, 4f Shining
+                          Tower, 35 Xue Yuan Lu,
+                          Haidian, Beijing, China;
+                          and
+                         --Xueyan Road, Haidian
+                          District, Beijing City,
+                          35th Ning Building, Room
+                          402a.
+                                                                * * * * * *
+                         China Aerospace Science and   For all items        Presumption of     87 FR [INSERT FR
+                          Technology Corporation        subject to the       Denial.            PAGE NUMBER] 8/
+                          (CASC) 9th Academy 771        EAR. (See Sec.                          24/22.
+                          Research Institute, a.k.a.,   744.11 of the
+                          the following five aliases:   EAR).
+                         --Xi'an Institute of
+                          Microelectronics;
+                         --Xi'an Microelectronics
+                          Technology Institute;
+                         --XMTI;
+                         --771 Research Institute;
+                          and
+                         --Lishan Microelectronics
+                          Company.
+                         --No. 198 Taibai South Road,
+                          Shaanxi, China; and No. 198
+                          Taibai Nan Road, Xian,
+                          China.
+                         China Aerospace Science and   For all items        Presumption of     87 FR [INSERT FR
+                          Technology Corporation        subject to the       Denial.            PAGE NUMBER] 8/
+                          (CASC) 9th Academy 772        EAR. (See Sec.                          24/22.
+                          Research Institute a.k.a.,    744.11 of the
+                          the following four aliases:   EAR).
+                         --772 Research Institute;
+                         --Beijing Institute of
+                          Microelectronics
+                          Technology;
+                         --Beijing Microelectronics
+                          Technology Institute; and
+                         --BMTI.
+                         --No. 2, Siyingmen North
+                          Road, Donggaodi, Fengtai
+                          District, Beijing, China.
+                         China Academy of Space        For all items        Presumption of     87 FR [INSERT FR
+                          Technology 502 Research       subject to the       Denial.            PAGE NUMBER] 8/
+                          Institute, a.k.a., the        EAR. (See Sec.                          24/22.
+                          following three aliases:      744.11 of the
+                                                        EAR).
+                         --502 Research Institute;
+                         --Beijing Institute of
+                          Control Engineering; and
+                         --BICE.
+
+[[Page 51879]]
+
+ 
+                         --No. 31 Zhongguancun Nan
+                          Street, Beijing, China; and
+                          No. 16 South 3rd Street,
+                          Zhonggu, Haidian District,
+                          Beijing, China.
+                         China Academy of Space        For all items        Presumption of     87 FR [INSERT FR
+                          Technology 513 Research       subject to the       Denial.            PAGE NUMBER] 8/
+                          Institute, a.k.a., the        EAR. (See Sec.                          24/22.
+                          following three aliases:      744.11 of the
+                                                        EAR).
+                         --513 Research Institute;
+                         --Shandong Institute of
+                          Space Electronic
+                          Technology; and
+                         --SISET.
+                         --No. 513 Spaceflight Road,
+                          High-Tech Zone, Shandong,
+                          China.
+                                                                * * * * * *
+                         China Electronics Technology  For all items        Presumption of     87 FR [INSERT FR
+                          Group Corporation 43          subject to the       Denial.            PAGE NUMBER] 8/
+                          Research Institute, a.k.a.,   EAR. (See Sec.                          24/22.
+                          the following three           744.11 of the
+                          aliases:                      EAR).
+                         --East China Research
+                          Institute of
+                          Microelectronics;
+                         --ECRIM; and
+                         --CETC 43.
+                         --No. 19, Hehuan Road, High-
+                          tech Zone, Hefei City,
+                          China.
+                         China Electronics Technology  For all items        Presumption of     87 FR [INSERT FR
+                          Group Corporation 58          subject to the       Denial.            PAGE NUMBER] 8/
+                          Research Institute, a.k.a.,   EAR. (See Sec.                          24/22.
+                          the following two aliases:    744.11 of the
+                                                        EAR).
+                         --Wuxi Microelectronics
+                          Research Center; and
+                         --CETC 58.
+                         --No. 777 Jianzhu West Road,
+                          Wuxi City, China, and No. 5
+                          Huihe Road, Wuxi City,
+                          China.
+                                                                * * * * * *
+                         Tenfine Ltd., a.k.a., the     For all items        Presumption of     78 FR 75463 12/12/
+                          following two aliases:        subject to the       denial.            13.
+                         --Beijing Beihang Assets       EAR. (See Sec.                         87 FR [INSERT FR
+                          Management Co. Ltd.; and      744.11 of the                           PAGE NUMBER] 8/
+                                                        EAR).                                   24/22.
+                         --Tenfine Limited Company.
+                         --No 37 Xue Yuan Lu,
+                          Haidian, Beijing, China;
+                          and
+                         --37 Xue Yuan Road, Beijing,
+                          China; and
+                         --Room 401, 4f Shining
+                          Tower, 35 Xue Yuan Lu,
+                          Haidian District, Beijing,
+                          China; and
+                         --Room 402b, 4F Shining
+                          Tower, 35 Xue Yuan Lu,
+                          Haidian, Beijing, China;
+                          and
+                         --Xueyan Road, Haidian
+                          District, Beijing City,
+                          35th Ning Building, Room
+                          402a.
+                                                                * * * * * *
+                         Zhuhai Orbita Control         For all items        Presumption of     87 FR [INSERT FR
+                          Systems, a.k.a., the          subject to the       Denial.            PAGE NUMBER] 8/
+                          following three aliases:      EAR. (See Sec.                          24/22.
+                         --Zhuhai Orbita Control        744.11 of the
+                          Engineering;                  EAR).
+                         --Zhuhai Orbita Aerospace
+                          Science and Technology; and
+                         --Orbita.
+                         --Orbita Tech Park, No.1,
+                          Baisha Road, Tangjia
+                          Dongan, Zhuhai, China.
+                                                                * * * * * *
+----------------------------------------------------------------------------------------------------------------
+ 
+                                                  * * * * * * *
+----------------------------------------------------------------------------------------------------------------
+
+
+[[Page 51880]]
+
+* * * * *
+
+
+Matthew S. Borman,
+Deputy Assistant Secretary for Export Administration.
+[FR Doc. 2022-18268 Filed 8-23-22; 8:45 am]
+BILLING CODE 3510-33-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

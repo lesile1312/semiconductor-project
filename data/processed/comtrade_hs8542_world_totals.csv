@@ -1,0 +1,49 @@
+﻿classification,reporter_code,reporter_iso3,reporter,partner_code,partner_iso3,partner,partner_is_group,flow,year,cmd_code,trade_value,is_reported_api_field,is_aggregate_api_field,source_flag,fetched_at_utc
+H5,458,MYS,Malaysia,0,W00,World,True,M,2017,8542,31036547735.916,False,True,UN_Comtrade_official_public_preview_reporter_query,2026-09-11T16:05:47+00:00
+H5,458,MYS,Malaysia,0,W00,World,True,X,2017,8542,32978910700.28,False,True,UN_Comtrade_official_public_preview_reporter_query,2026-09-11T16:05:47+00:00
+H6,458,MYS,Malaysia,0,W00,World,True,M,2022,8542,53537634824.92,False,True,UN_Comtrade_official_public_preview_reporter_query,2026-09-11T16:05:47+00:00
+H6,458,MYS,Malaysia,0,W00,World,True,X,2022,8542,78556470551.431,False,True,UN_Comtrade_official_public_preview_reporter_query,2026-09-11T16:05:47+00:00
+H4,704,VNM,Viet Nam,0,W00,World,True,M,2017,8542,21049567769.8,False,True,UN_Comtrade_official_public_preview_reporter_query,2026-09-11T16:05:47+00:00
+H4,704,VNM,Viet Nam,0,W00,World,True,X,2017,8542,6771740527.4,False,True,UN_Comtrade_official_public_preview_reporter_query,2026-09-11T16:05:47+00:00
+H6,704,VNM,Viet Nam,0,W00,World,True,M,2022,8542,54343666981.446,False,True,UN_Comtrade_official_public_preview_reporter_query,2026-09-11T16:05:47+00:00
+H6,704,VNM,Viet Nam,0,W00,World,True,X,2022,8542,13257879104.012,False,True,UN_Comtrade_official_public_preview_reporter_query,2026-09-11T16:05:47+00:00
+H4,702,SGP,Singapore,0,W00,World,True,M,2017,8542,59174904370.677,False,True,UN_Comtrade_official_public_preview_reporter_query,2026-09-11T16:05:47+00:00
+H4,702,SGP,Singapore,0,W00,World,True,X,2017,8542,79986641362.046,False,True,UN_Comtrade_official_public_preview_reporter_query,2026-09-11T16:05:47+00:00
+H6,702,SGP,Singapore,0,W00,World,True,M,2022,8542,107960571688.397,False,True,UN_Comtrade_official_public_preview_reporter_query,2026-09-11T16:05:47+00:00
+H6,702,SGP,Singapore,0,W00,World,True,X,2022,8542,121992934040.502,False,True,UN_Comtrade_official_public_preview_reporter_query,2026-09-11T16:05:47+00:00
+H5,764,THA,Thailand,0,W00,World,True,M,2017,8542,11141372218.53,False,True,UN_Comtrade_official_public_preview_reporter_query,2026-09-11T16:05:47+00:00
+H5,764,THA,Thailand,0,W00,World,True,X,2017,8542,8267381910.74,False,True,UN_Comtrade_official_public_preview_reporter_query,2026-09-11T16:05:47+00:00
+H6,764,THA,Thailand,0,W00,World,True,M,2022,8542,19039358936.845,False,True,UN_Comtrade_official_public_preview_reporter_query,2026-09-11T16:05:47+00:00
+H6,764,THA,Thailand,0,W00,World,True,X,2022,8542,9308113258.867,False,True,UN_Comtrade_official_public_preview_reporter_query,2026-09-11T16:05:47+00:00
+H5,699,IND,India,0,W00,World,True,M,2017,8542,2104623437.586,False,True,UN_Comtrade_official_public_preview_reporter_query,2026-09-11T16:05:47+00:00
+H5,699,IND,India,0,W00,World,True,X,2017,8542,77064631.165,False,True,UN_Comtrade_official_public_preview_reporter_query,2026-09-11T16:05:47+00:00
+H6,699,IND,India,0,W00,World,True,M,2022,8542,16122209275.129,False,True,UN_Comtrade_official_public_preview_reporter_query,2026-09-11T16:05:47+00:00
+H6,699,IND,India,0,W00,World,True,X,2022,8542,476192970.411,False,True,UN_Comtrade_official_public_preview_reporter_query,2026-09-11T16:05:47+00:00
+H5,360,IDN,Indonesia,0,W00,World,True,M,2017,8542,1561528890.0,False,True,UN_Comtrade_official_public_preview_reporter_query,2026-09-11T16:05:47+00:00
+H5,360,IDN,Indonesia,0,W00,World,True,X,2017,8542,361216967.58,False,True,UN_Comtrade_official_public_preview_reporter_query,2026-09-11T16:05:47+00:00
+H6,360,IDN,Indonesia,0,W00,World,True,M,2022,8542,3959818735.0,False,True,UN_Comtrade_official_public_preview_reporter_query,2026-09-11T16:05:47+00:00
+H6,360,IDN,Indonesia,0,W00,World,True,X,2022,8542,517694451.755,False,True,UN_Comtrade_official_public_preview_reporter_query,2026-09-11T16:05:47+00:00
+H4,608,PHL,Philippines,0,W00,World,True,M,2017,8542,12720090592.0,False,True,UN_Comtrade_official_public_preview_reporter_query,2026-09-11T16:05:47+00:00
+H4,608,PHL,Philippines,0,W00,World,True,X,2017,8542,13982206627.0,False,True,UN_Comtrade_official_public_preview_reporter_query,2026-09-11T16:05:47+00:00
+H5,608,PHL,Philippines,0,W00,World,True,M,2022,8542,17265725474.0,False,True,UN_Comtrade_official_public_preview_reporter_query,2026-09-11T16:05:47+00:00
+H5,608,PHL,Philippines,0,W00,World,True,X,2022,8542,28943505451.0,False,True,UN_Comtrade_official_public_preview_reporter_query,2026-09-11T16:05:47+00:00
+H5,392,JPN,Japan,0,W00,World,True,M,2017,8542,19451341082.514,False,True,UN_Comtrade_official_public_preview_reporter_query,2026-09-11T16:05:47+00:00
+H5,392,JPN,Japan,0,W00,World,True,X,2017,8542,26673541180.398,False,True,UN_Comtrade_official_public_preview_reporter_query,2026-09-11T16:05:47+00:00
+H6,392,JPN,Japan,0,W00,World,True,M,2022,8542,31666849627.998,False,True,UN_Comtrade_official_public_preview_reporter_query,2026-09-11T16:05:47+00:00
+H6,392,JPN,Japan,0,W00,World,True,X,2022,8542,33627038485.197,False,True,UN_Comtrade_official_public_preview_reporter_query,2026-09-11T16:05:47+00:00
+H5,410,KOR,Rep. of Korea,0,W00,World,True,M,2017,8542,33386617494.0,False,True,UN_Comtrade_official_public_preview_reporter_query,2026-09-11T16:05:47+00:00
+H5,410,KOR,Rep. of Korea,0,W00,World,True,X,2017,8542,86103151684.0,False,True,UN_Comtrade_official_public_preview_reporter_query,2026-09-11T16:05:47+00:00
+H6,410,KOR,Rep. of Korea,0,W00,World,True,M,2022,8542,62400258370.0,False,True,UN_Comtrade_official_public_preview_reporter_query,2026-09-11T16:05:47+00:00
+H6,410,KOR,Rep. of Korea,0,W00,World,True,X,2022,8542,112847160489.0,False,True,UN_Comtrade_official_public_preview_reporter_query,2026-09-11T16:05:47+00:00
+H4,484,MEX,Mexico,0,W00,World,True,M,2017,8542,16387089163.0,False,True,UN_Comtrade_official_public_preview_reporter_query,2026-09-11T16:05:47+00:00
+H4,484,MEX,Mexico,0,W00,World,True,X,2017,8542,2182795291.0,False,True,UN_Comtrade_official_public_preview_reporter_query,2026-09-11T16:05:47+00:00
+H6,484,MEX,Mexico,0,W00,World,True,M,2022,8542,26341937985.0,False,True,UN_Comtrade_official_public_preview_reporter_query,2026-09-11T16:05:47+00:00
+H6,484,MEX,Mexico,0,W00,World,True,X,2022,8542,4188422877.0,False,True,UN_Comtrade_official_public_preview_reporter_query,2026-09-11T16:05:47+00:00
+H5,276,DEU,Germany,0,W00,World,True,M,2017,8542,17413854409.61,False,True,UN_Comtrade_official_public_preview_reporter_query,2026-09-11T16:05:47+00:00
+H5,276,DEU,Germany,0,W00,World,True,X,2017,8542,15177647839.784,False,True,UN_Comtrade_official_public_preview_reporter_query,2026-09-11T16:05:47+00:00
+H6,276,DEU,Germany,0,W00,World,True,M,2022,8542,23886749040.484,False,True,UN_Comtrade_official_public_preview_reporter_query,2026-09-11T16:05:47+00:00
+H6,276,DEU,Germany,0,W00,World,True,X,2022,8542,20196987611.405,False,True,UN_Comtrade_official_public_preview_reporter_query,2026-09-11T16:05:47+00:00
+H5,528,NLD,Netherlands,0,W00,World,True,M,2017,8542,10625730746.822,False,True,UN_Comtrade_official_public_preview_reporter_query,2026-09-11T16:05:47+00:00
+H5,528,NLD,Netherlands,0,W00,World,True,X,2017,8542,9306187350.076,False,True,UN_Comtrade_official_public_preview_reporter_query,2026-09-11T16:05:47+00:00
+H6,528,NLD,Netherlands,0,W00,World,True,M,2022,8542,5686629912.472,False,True,UN_Comtrade_official_public_preview_reporter_query,2026-09-11T16:05:47+00:00
+H6,528,NLD,Netherlands,0,W00,World,True,X,2022,8542,5232775519.889,False,True,UN_Comtrade_official_public_preview_reporter_query,2026-09-11T16:05:47+00:00

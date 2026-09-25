@@ -1,0 +1,125 @@
+<html>
+<head>
+<title>Federal Register, Volume 87 Issue 226 (Friday, November 25, 2022)</title>
+</head>
+<body><pre>
+[Federal Register Volume 87, Number 226 (Friday, November 25, 2022)]
+[Notices]
+[Pages 72446-72447]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2022-25700]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF COMMERCE
+
+Bureau of Industry and Security
+
+
+Agency Information Collection Activities; Submission to the 
+Office of Management and Budget (OMB) for Review and Approval; Comment 
+Request; Entity List and Unverified List Requests
+
+AGENCY: Bureau of Industry and Security, Commerce.
+
+ACTION: Notice of information collection, request for comment.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The Department of Commerce, in accordance with the Paperwork 
+Reduction Act of 1995 (PRA), invites the general public and other 
+Federal agencies to comment on proposed, and continuing information 
+collections, which helps us assess the impact of our information 
+collection requirements and minimize the public's reporting burden. The 
+purpose of this notice is to allow for 60 days of public comment 
+preceding submission of the collection to OMB.
+
+DATES: To ensure consideration, comments regarding this proposed 
+information collection must be received on or before January 24, 2023.
+
+ADDRESSES: Interested persons are invited to submit comments by email 
+to Mark Crace, IC Liaison, Bureau of Industry and Security, at 
+<a href="/cdn-cgi/l/email-protection#432e2231286d203122202603212a306d272c206d242c35"><span class="__cf_email__" data-cfemail="bfd2decdd491dccddedcdaffddd6cc91dbd0dc91d8d0c9">[email&#160;protected]</span></a> or to <a href="/cdn-cgi/l/email-protection#81d1d3c0e2eeecece4eff5f2c1e5eee2afe6eef7"><span class="__cf_email__" data-cfemail="14444655777b7979717a606754707b773a737b62">[email&#160;protected]</span></a>). Please reference OMB 
+Control Number 0694-0134 in the subject line of your comments. Do not 
+submit Confidential Business Information or otherwise sensitive or 
+protected information.
+
+FOR FURTHER INFORMATION CONTACT: Requests for additional information or 
+specific questions related to collection activities should be directed 
+to Mark Crace, IC Liaison, Bureau of Industry and Security, phone 202-
+482-8093 or by email at <a href="/cdn-cgi/l/email-protection#432e2231286d203122202603212a306d272c206d242c35"><span class="__cf_email__" data-cfemail="ff929e8d94d19c8d9e9c9abf9d968cd19b909cd1989089">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION:
+
+I. Abstract
+
+    This collection is needed to provide a procedure for persons or 
+organizations listed on the Entity List and Unverified List to request 
+removal or modification of the entry that affects them. The Entity List 
+appears at 15 CFR part 744, Supp. No. 4, and the Unverified List 
+appears at 15 CFR part 744, Supp. No. 6. The Entity List and Unverified 
+List are used to inform the public of certain parties whose presence in 
+a transaction that is subject to the Export Administration Regulations 
+(15 CFR parts 730-799) requires a license from the Bureau of Industry 
+and Security (BIS). Requests for removal from the Entity List would be 
+reviewed by the Departments of Commerce, State, and Defense, and Energy 
+and Treasury as appropriate. The interagency decision, as communicated 
+to the requesting entity by BIS, would be the final agency action on 
+such a request. Requests for removal from the Unverified List would be 
+reviewed by the Department of Commerce. The decision, as communicated 
+to the requesting entity by BIS, would be the final agency action on 
+such a request. This is a voluntary collection.
+
+II. Method of Collection
+
+    Electronic.
+
+III. Data
+
+    OMB Control Number: 0694-0134.
+    Form Number(s): None.
+    Type of Review: Regular submission, extension of a current 
+information collection.
+    Affected Public: Business or other for-profit organizations.
+    Estimated Number of Respondents: 5.
+    Estimated Time per Response: 3 hours.
+    Estimated Total Annual Burden Hours: 15.
+
+[[Page 72447]]
+
+    Estimated Total Annual Cost to Public: 0.
+    Respondent's Obligation: Voluntary.
+    Legal Authority: Sections 744.15, and 744.16 of the EAR.
+
+IV. Request for Comments
+
+    We are soliciting public comments to permit the Department/Bureau 
+to: (a) Evaluate whether the proposed information collection is 
+necessary for the proper functions of the Department, including whether 
+the information will have practical utility; (b) Evaluate the accuracy 
+of our estimate of the time and cost burden for this proposed 
+collection, including the validity of the methodology and assumptions 
+used; (c) Evaluate ways to enhance the quality, utility, and clarity of 
+the information to be collected; and (d) Minimize the reporting burden 
+on those who are to respond, including the use of automated collection 
+techniques or other forms of information technology.
+    Comments that you submit in response to this notice are a matter of 
+public record. We will include or summarize each comment in our request 
+to OMB to approve this ICR. Before including your address, phone 
+number, email address, or other personal identifying information in 
+your comment, you should be aware that your entire comment--including 
+your personal identifying information--may be made publicly available 
+at any time. While you may ask us in your comment to withhold your 
+personal identifying information from public review, we cannot 
+guarantee that we will be able to do so.
+
+Sheleen Dumas,
+Department PRA Clearance Officer, Office of the Chief Information 
+Officer, Commerce Department.
+[FR Doc. 2022-25700 Filed 11-23-22; 8:45 am]
+BILLING CODE 3510-33-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

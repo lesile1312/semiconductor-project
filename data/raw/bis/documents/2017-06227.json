@@ -1,0 +1,97 @@
+{
+  "abstract": "This rule amends the Export Administration Regulations (EAR) by removing two persons listed under the destination of China from the Entity List. The two removals are the result of a request for removal received by BIS pursuant to the section of the EAR used for requesting removal or modification of an Entity List entry and a review of information provided in the removal request in accordance with the procedure for requesting removal or modification of an Entity List entity. In light of the recent settlement of administrative and criminal enforcement actions against ZTE Corporation and ZTE Kangxun, the End-User Review Committee (ERC) has determined that these two persons being removed have performed their undertakings to the U.S. Government in a timely manner and have otherwise cooperated with the U.S. Government in resolving the matter which led to the two entities' listing. This final rule also adds one person to the Entity List. This person who is added to the Entity List has been determined by the U.S. Government to be acting contrary to the national security or foreign policy interests of the United States. This person will be listed on the Entity List under the destination of China. Lastly, this final rule makes a conforming change to the EAR as a result of the removal of these two persons from the Entity List.",
+  "action": "Final rule.",
+  "agencies": [
+    {
+      "id": 54,
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+      "name": "Commerce Department",
+      "parent_id": null,
+      "raw_name": "DEPARTMENT OF COMMERCE",
+      "slug": "commerce-department",
+      "url": "https://www.federalregister.gov/agencies/commerce-department"
+    },
+    {
+      "id": 241,
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+      "name": "Industry and Security Bureau",
+      "parent_id": 54,
+      "raw_name": "Bureau of Industry and Security",
+      "slug": "industry-and-security-bureau",
+      "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2017/03/29/2017-06227.html",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 744,
+      "title": 15
+    }
+  ],
+  "citation": "82 FR 15458",
+  "comment_url": null,
+  "comments_close_on": null,
+  "correction_of": null,
+  "corrections": [],
+  "dates": "This rule is effective March 29, 2017.",
+  "disposition_notes": null,
+  "docket_ids": [
+    "Docket No. 170109042-7255-01"
+  ],
+  "dockets": [],
+  "document_number": "2017-06227",
+  "effective_on": "2017-03-29",
+  "end_page": 15461,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2017/03/29/2017-06227.xml",
+  "html_url": "https://www.federalregister.gov/documents/2017/03/29/2017-06227/removal-of-certain-persons-from-the-entity-list-addition-of-a-person-to-the-entity-list-and-ear",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2017-06227?publication_date=2017-03-29",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2017-03-29/2017-06227/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 4,
+  "page_views": {
+    "count": 5053,
+    "last_updated": "2026-09-13 22:15:03 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2017-03-29/pdf/2017-06227.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2017-06227.pdf?1490705162",
+  "publication_date": "2017-03-29",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2017/03/29/2017-06227.txt",
+  "regulation_id_number_info": {
+    "0694-AH30": null
+  },
+  "regulation_id_numbers": [
+    "0694-AH30"
+  ],
+  "regulations_dot_gov_info": {
+    "checked_regulationsdotgov_at": "2017-04-18T06:00:16Z",
+    "comments_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=BIS-2017-0014",
+    "docket_id": "BIS-2017-0014",
+    "regulation_id_number": "0694-AH30",
+    "supporting_documents": [],
+    "supporting_documents_count": 0,
+    "title": "Removal of Certain Persons from the Entity List; Addition of a Person to the Entity List; and EAR Conforming Change"
+  },
+  "regulations_dot_gov_url": null,
+  "significant": null,
+  "signing_date": null,
+  "start_page": 15458,
+  "subtype": null,
+  "title": "Removal of Certain Persons From the Entity List; Addition of a Person to the Entity List; and EAR Conforming Change",
+  "toc_doc": "Removal and Addition; and Export Administration Regulations Conforming Change",
+  "toc_subject": "Certain Persons from the Entity List:",
+  "topics": [
+    "Exports",
+    "Reporting and recordkeeping requirements",
+    "Terrorism"
+  ],
+  "type": "Rule",
+  "volume": 82
+}

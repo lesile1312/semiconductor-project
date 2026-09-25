@@ -1,0 +1,368 @@
+<html>
+<head>
+<title>Federal Register, Volume 82 Issue 59 (Wednesday, March 29, 2017)</title>
+</head>
+<body><pre>
+[Federal Register Volume 82, Number 59 (Wednesday, March 29, 2017)]
+[Rules and Regulations]
+[Pages 15461-15463]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2017-06228]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF COMMERCE
+
+Bureau of Industry and Security
+
+15 CFR Part 744
+
+[Docket No. 170103009-7300-02]
+RIN 0694-AH28
+
+
+Removal of Certain Persons From the Entity List
+
+AGENCY: Bureau of Industry and Security, Commerce.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This rule amends the Export Administration Regulations (EAR) 
+by removing seven persons under ten entries from the Entity List. This 
+rule removes four persons listed under the destination of Germany, one 
+person listed under the destination of Hong Kong, one person listed 
+under the destination of India, one person listed under the destination 
+of Singapore, one person listed under the destination of Switzerland, 
+and two persons under the destination of the United Arab Emirates from 
+the Entity List. The three additional entries are being removed to 
+account for two persons listed under more than one destination on the 
+Entity List. All seven of the removals are the result of requests for 
+removal received by BIS pursuant to the section of the EAR used for 
+requesting removal or modification of an Entity List entity and a 
+review of information provided in the removal requests in accordance 
+with the procedure for requesting removal or modification of an Entity 
+List entity.
+
+DATES: This rule is effective March 29, 2017.
+
+FOR FURTHER INFORMATION CONTACT: Chair, End-User Review Committee, 
+Office of the Assistant Secretary, Export Administration, Bureau of 
+Industry and Security, Department of Commerce, Phone: (202) 482-5991, 
+Email: <a href="/cdn-cgi/l/email-protection#8acfd8c9cae8e3f9a4eee5e9a4ede5fc"><span class="__cf_email__" data-cfemail="f4b1a6b7b4969d87da909b97da939b82">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION: 
+
+Background
+
+    The Entity List (Supplement No. 4 to part 744) identifies entities 
+and other persons reasonably believed to be involved, or to pose a 
+significant risk of being or becoming involved, in activities contrary 
+to the national security or foreign policy interests of the United 
+States. The EAR imposes additional license requirements on, and limits 
+the availability of most license exceptions for, exports, reexports, 
+and transfers (in-country) to those listed. The ``license review 
+policy'' for each listed entity or other person is identified in the 
+License Review Policy column on the Entity List and the impact on the 
+availability of license exceptions is described in the Federal Register 
+notice adding entities or other persons to the Entity List. BIS places 
+entities and other persons on the Entity List pursuant to sections of 
+part 744 (Control Policy: End-User and End-Use Based) and part 746 
+(Embargoes and Other Special Controls) of the EAR.
+    The ERC, composed of representatives of the Departments of Commerce 
+(Chair), State, Defense, Energy and, where appropriate, the Treasury, 
+makes all decisions regarding additions to, removals from, or other 
+modifications to the Entity List. The ERC makes all decisions to add an 
+entry to the Entity List by majority vote and all decisions to remove 
+or modify an entry by unanimous vote.
+
+ERC Entity List Decisions
+
+Removal From the Entity List
+
+    This rule implements a decision of the ERC to remove the following 
+ten entries from the Entity List on the basis of removal requests 
+received by BIS: Industrio GmbH, Martin Hess, Peter Duenker, and 
+Wilhelm ``Bill'' Holler, all located in Germany; Frank Genin, located 
+in Hong Kong and the U.A.E. (which accounts for two of the entries this 
+final rule removes); Beaumont Trading AG, located in India, 
+Switzerland, and the U.A.E. (which accounts for three of the entries 
+this final rule removes); and Amanda Sng, located in Singapore. These 
+seven persons under ten entries were added to the Entity List on March 
+21, 2016 (see 81 FR 14958). The ERC decided to remove these seven 
+persons under ten entries based on information received by BIS pursuant 
+to Sec.  744.16 of the EAR
+
+[[Page 15462]]
+
+and further review conducted by the ERC.
+    This final rule implements the decision to remove the following 
+four entities located in Germany, one entity located in Hong Kong, one 
+entity located in India, one entity located in Singapore, one entity 
+located in Switzerland, and two entities located in the U.A.E. from the 
+Entity List:
+
+Germany
+
+    (1) Industrio GmbH, Dreichlinger Street 79, Neumarkt, 92318 
+Germany;
+    (2) Martin Hess, Dreichlinger Street 79, Neumarkt, 92318 Germany;
+    (3) Peter Duenker, a.k.a., the following alias: -Peter Dunker. 
+Dreichlinger Street 79, Neumarkt, 92318 Germany; and
+    (4) Wilhelm ``Bill'' Holler, Dreichlinger Street 79, Neumarkt, 
+92318 Germany.
+
+Hong Kong
+
+    (1) Frank Genin, a.k.a., the following one alias: -Franck Genin. RM 
+1905, 19/F, Nam Wo Hong Bldg., 148 Wing Lok Street, Sheung Wang, Hong 
+Kong (See alternate addresses under U.A.E.).
+
+India
+
+    (1) Beaumont Trading AG, a.k.a., the following one alias: -Beaumont 
+Tradex India. 412 World Trade Center, Conaught Place, New Delhi--
+110001, India; and 4th Floor Statesman House Building, Barakhamba Road, 
+New Delhi 11001, India; and Express Towers, 1st Floor, Express 
+Building, 9-10 Bahadurshah Zafar Marg, New Delhi-12, India (See 
+alternate addresses under Switzerland and U.A.E.).
+
+Singapore
+
+    (1) Amanda Sng, 211 Henderson Road, #13-02 Henderson Industrial 
+Park, Singapore 159552.
+
+Switzerland
+
+    (1) Beaumont Trading AG, a.k.a., the following one alias: -Beaumont 
+Tradex India. Haldenstrasse 5, Baar (Zug Canton), CH 6342 Switzerland 
+(See alternate addresses in India and the U.A.E.).
+
+United Arab Emirates
+
+    (1) Beaumont Trading AG, a.k.a., the following one alias: -Beaumont 
+Tradex India. DMCC Business Center, 49 Almas Tower--JLT Dubai, U.A.E. 
+(See alternate addresses in India and Switzerland); and
+    (2) Frank Genin, a.k.a., the following one alias: -Franck Genin. 
+Villa No. 6 AL WASL RD, 332/45b Jumeira 1, Dubai, Dubai 25344, U.A.E.; 
+and Suite 608 Atrium Center, Bank St., Bur Dubai, Dubai, U.A.E., P.O. 
+Box 16048; and Suite 706 Atrium Center Bank Street Bur Dubai, Dubai 
+U.A.E.; and P.O. Box 10559 Ras Al Khaimah, U.A.E.; and P.O. Box 25344 
+Bur Dubai, Dubai, U.A.E.; and 2nd Floor, #202 Sheik Zayed Road Dubai 
+POB 25344 U.A.E.; and P.O. Box 28515, Dubai, U.A.E.; and 202 B Sama 
+Tower Sheikh Tayed Road #3 Dubai, U.A.E. P.O. Box 16048; and BC2-414, 
+RAK Free Trade Zone P.O. Box 16048 Ras Al Khaimah, U.A.E.; and G1/RAK 
+Free Trade Zone RAK--U.A.E.; and G-17 Sheikh Tayed Road #3 Ras Al 
+Khaimah Free Trade Zone, Dubai, U.A.E. (See alternate address under 
+Hong Kong).
+    The removal of the persons referenced above, which was approved by 
+the ERC, eliminates the existing license requirements in Supplement No. 
+4 to part 744 for exports, reexports and transfers (in-country) to 
+these entities. However, the removal of these persons from the Entity 
+List does not relieve persons of other obligations under part 744 of 
+the EAR or under other parts of the EAR. Neither the removal of an 
+entity from the Entity List nor the removal of Entity List-based 
+license requirements relieves persons of their obligations under 
+General Prohibition 5 in Sec.  736.2(b)(5) of the EAR which provides 
+that, ``you may not, without a license, knowingly export or reexport 
+any item subject to the EAR to an end-user or end-use that is 
+prohibited by part 744 of the EAR.'' Additionally, this removal does 
+not relieve persons of their obligation to apply for export, reexport 
+or in-country transfer licenses required by other provisions of the 
+EAR. BIS strongly urges the use of Supplement No. 3 to part 732 of the 
+EAR, ``BIS's `Know Your Customer' Guidance and Red Flags,'' when 
+persons are involved in transactions that are subject to the EAR.
+
+Export Administration Act of 1979
+
+    Although the Export Administration Act of 1979 expired on August 
+20, 2001, the President, through Executive Order 13222 of August 17, 
+2001, 3 CFR, 2001 Comp., p. 783 (2002), as amended by Executive Order 
+13637 of March 8, 2013, 78 FR 16129 (March 13, 2013) and as extended by 
+the Notice of August 4, 2016, 81 FR 52587 (August 8, 2016), has 
+continued the Export Administration Regulations in effect under the 
+International Emergency Economic Powers Act. BIS continues to carry out 
+the provisions of the Export Administration Act of 1979, as appropriate 
+and to the extent permitted by law, pursuant to Executive Order 13222, 
+as amended by Executive Order 13637.
+
+Rulemaking Requirements
+
+    1. Executive Orders 13563 and 12866 direct agencies to assess all 
+costs and benefits of available regulatory alternatives and, if 
+regulation is necessary, to select regulatory approaches that maximize 
+net benefits (including potential economic, environmental, public 
+health and safety effects, distributive impacts, and equity). Executive 
+Order 13563 emphasizes the importance of quantifying both costs and 
+benefits, of reducing costs, of harmonizing rules, and of promoting 
+flexibility. This rule has been determined to be not significant for 
+purposes of Executive Order 12866.
+    2. Notwithstanding any other provision of law, no person is 
+required to respond to nor be subject to a penalty for failure to 
+comply with a collection of information, subject to the requirements of 
+the Paperwork Reduction Act of 1995 (44 U.S.C. 3501 et seq.) (PRA), 
+unless that collection of information displays a currently valid Office 
+of Management and Budget (OMB) Control Number. This regulation involves 
+collections previously approved by OMB under control number 0694-0088, 
+Simplified Network Application Processing System, which includes, among 
+other things, license applications and carries a burden estimate of 
+43.8 minutes for a manual or electronic submission. Total burden hours 
+associated with the PRA and OMB control number 0694-0088 are not 
+expected to increase as a result of this rule. You may send comments 
+regarding the collection of information associated with this rule, 
+including suggestions for reducing the burden, to Jasmeet K. Seehra, 
+Office of Management and Budget (OMB), by email to 
+<a href="/cdn-cgi/l/email-protection#ce84afbda3ababba9185e0919dababa6bcaf8ea1a3ace0aba1bee0a9a1b8"><span class="__cf_email__" data-cfemail="561c37253b333322091d78090533333e243716393b347833392678313920">[email&#160;protected]</span></a>, or by fax to (202) 395-7285.
+    3. This rule does not contain policies with Federalism implications 
+as that term is defined in Executive Order 13132.
+    4. For the seven persons under ten entries removed from the Entity 
+List in this final rule, pursuant to the Administrative Procedure Act 
+(APA), 5 U.S.C. 553(b)(B), BIS finds good cause to waive requirements 
+that this rule be subject to notice and the opportunity for public 
+comment because it would be contrary to the public interest.
+    In determining whether to grant a request for removal from the 
+Entity List, a committee of U.S. Government agencies (the End-User 
+Review Committee (ERC)) evaluates information about and commitments 
+made by listed persons requesting removal from the
+
+[[Page 15463]]
+
+Entity List, the nature and terms of which are set forth in 15 CFR part 
+744, Supplement No. 5, as noted in 15 CFR 744.16(b). The information, 
+commitments, and criteria for this extensive review were all 
+established through the notice of proposed rulemaking and public 
+comment process (72 FR 31005 (June 5, 2007) (proposed rule), and 73 FR 
+49311 (August 21, 2008) (final rule)). These seven removals under ten 
+entries have been made within the established regulatory framework of 
+the Entity List. If the rule were to be delayed to allow for public 
+comment, U.S. exporters may face unnecessary economic losses as they 
+turn away potential sales to the entities removed by this rule because 
+the customer remained a listed person on the Entity List even after the 
+ERC approved the removal pursuant to the rule published at 73 FR 49311 
+on August 21, 2008. By publishing without prior notice and comment, BIS 
+allows the applicants to receive U.S. exports immediately because the 
+applicants already have received approval by the ERC pursuant to 15 CFR 
+part 744, Supplement No. 5, as noted in 15 CFR 744.16(b).
+    Removals from the Entity List granted by the ERC involve 
+interagency deliberation and result from review of public and non-
+public sources, including sensitive law enforcement information and 
+classified information, and the measurement of such information against 
+the Entity List removal criteria. This information is extensively 
+reviewed according to the criteria for evaluating removal requests from 
+the Entity List, as set out in 15 CFR part 744, Supplement No. 5 and 15 
+CFR 744.16(b). For reasons of national security, BIS is not at liberty 
+to provide to the public detailed information on which the ERC relied 
+to make the decisions to remove these entities. In addition, the 
+information included in the removal request is information exchanged 
+between the applicant and the ERC, which by law (section 12(c) of the 
+Export Administration Act of 1979), BIS is restricted from sharing with 
+the public. Moreover, removal requests from the Entity List contain 
+confidential business information, which is necessary for the extensive 
+review conducted by the U.S. Government in assessing such removal 
+requests.
+    Section 553(d) of the APA generally provides that rules may not 
+take effect earlier than thirty (30) days after they are published in 
+the Federal Register. BIS finds good cause to waive the 30-day delay in 
+effectiveness under 5 U.S.C. 553(d)(1) because this rule is a 
+substantive rule which relieves a restriction. This rule's removal of 
+seven persons under ten entries from the Entity List removes 
+requirements (the Entity-List-based license requirement and limitation 
+on use of license exceptions) on these seven persons being removed from 
+the Entity List. The rule does not impose a requirement on any other 
+person for these removals from the Entity List.
+    No other law requires that a notice of proposed rulemaking and an 
+opportunity for public comment be given for this final rule. Because a 
+notice of proposed rulemaking and an opportunity for public comment are 
+not required under the APA or by any other law, the analytical 
+requirements of the Regulatory Flexibility Act (5 U.S.C. 601 et seq.) 
+are not applicable. As a result, no final regulatory flexibility 
+analysis is required and none has been prepared.
+
+List of Subjects in 15 CFR Part 744
+
+    Exports, Reporting and recordkeeping requirements, Terrorism.
+
+    Accordingly, part 744 of the Export Administration Regulations (15 
+CFR parts 730-774) is amended as follows:
+
+PART 744--[AMENDED]
+
+0
+1. The authority citation for 15 CFR part 744 is revised to read as 
+follows:
+
+    Authority: 50 U.S.C. 4601 et seq.; 50 U.S.C. 1701 et seq.; 22 
+U.S.C. 3201 et seq.; 42 U.S.C. 2139a; 22 U.S.C. 7201 et seq.; 22 
+U.S.C. 7210; E.O. 12058, 43 FR 20947, 3 CFR, 1978 Comp., p. 179; 
+E.O. 12851, 58 FR 33181, 3 CFR, 1993 Comp., p. 608; E.O. 12938, 59 
+FR 59099, 3 CFR, 1994 Comp., p. 950; E.O. 12947, 60 FR 5079, 3 CFR, 
+1995 Comp., p. 356; E.O. 13026, 61 FR 58767, 3 CFR, 1996 Comp., p. 
+228; E.O. 13099, 63 FR 45167, 3 CFR, 1998 Comp., p. 208; E.O. 13222, 
+66 FR 44025, 3 CFR, 2001 Comp., p. 783; E.O. 13224, 66 FR 49079, 3 
+CFR, 2001 Comp., p. 786; Notice of August 4, 2016, 81 FR 52587 
+(August 8, 2016); Notice of September 15, 2016, 81 FR 64343 
+(September 19, 2016); Notice of November 8, 2016, 81 FR 79379 
+(November 10, 2016); Notice of January 13, 2017, 82 FR 6165 (January 
+18, 2017).
+
+Supplement No. 4 to Part 744--[Amended]
+
+0
+2. Supplement No. 4 to Part 744 is amended:
+0
+a. By removing, under Germany, four German entities, ``Industrio GmbH, 
+Dreichlinger Street 79, Neumarkt, 92318 Germany''; ``Martin Hess, 
+Dreichlinger Street 79, Neumarkt, 92318 Germany''; ``Peter Duenker, 
+a.k.a., the following alias: -Peter Dunker. Dreichlinger Street 79, 
+Neumarkt, 92318 Germany''; and ``Wilhelm ``Bill'' Holler, Dreichlinger 
+Street 79, Neumarkt, 92318 Germany'';
+0
+b. By removing, under Hong Kong, one Hong Kong entity, ``Frank Genin, 
+a.k.a., the following one alias: -Franck Genin. RM 1905, 19/F, Nam Wo 
+Hong Bldg., 148 Wing Lok Street, Sheung Wang, Hong Kong (See alternate 
+addresses under U.A.E.)'';
+0
+c. By removing, under India, one Indian entity, ``Beaumont Trading AG, 
+a.k.a., the following one alias: -Beaumont Tradex India. 412 World 
+Trade Center, Conaught Place, New Delhi--110001, India; and 4th Floor 
+Statesman House Building, Barakhamba Road, New Delhi 11001, India; and 
+Express Towers, 1st Floor, Express Building, 9-10 Bahadurshah Zafar 
+Marg, New Delhi-12, India (See alternate addresses under Switzerland 
+and U.A.E.)'';
+0
+d. By removing, under Singapore, one Singaporean entity, ``Amanda Sng, 
+211 Henderson Road, #13-02 Henderson Industrial Park, Singapore 
+159552'';
+0
+e. By removing under Switzerland, one Swiss entity, ``Beaumont Trading 
+AG, a.k.a., the following one alias: -Beaumont Tradex India. 
+Haldenstrasse 5, Baar (Zug Canton), CH 6342 Switzerland (See alternate 
+addresses in India and the U.A.E.)''; and
+0
+ f. By removing under the United Arab Emirates, two Emirati entities, 
+``Beaumont Trading AG, a.k.a., the following one alias: -Beaumont 
+Tradex India. DMCC Business Center, 49 Almas Tower--JLT Dubai, U.A.E. 
+(See alternate addresses in India and Switzerland)''; and ``Frank 
+Genin, a.k.a., the following one alias: -Franck Genin. Villa No. 6 AL 
+WASL RD, 332/45b Jumeira 1, Dubai, Dubai 25344, U.A.E.; and Suite 608 
+Atrium Center, Bank St., Bur Dubai, Dubai, U.A.E., P.O. Box 16048; and 
+Suite 706 Atrium Center Bank Street Bur Dubai, Dubai U.A.E.; and P.O. 
+Box 10559 Ras Al Khaimah, U.A.E.; and P.O. Box 25344 Bur Dubai, Dubai, 
+U.A.E.; and 2nd Floor, #202 Sheik Zayed Road Dubai POB 25344 U.A.E.; 
+and P.O. Box 28515, Dubai, U.A.E.; and 202 B Sama Tower Sheikh Tayed 
+Road #3 Dubai, U.A.E. P.O.Box 16048; and BC2-414, RAK Free Trade Zone 
+P.O. Box 16048 Ras Al Khaimah, U.A.E.; and G1/RAK Free Trade Zone RAK--
+U.A.E.; and G-17 Sheikh Tayed Road #3 Ras Al Khaimah Free Trade Zone, 
+Dubai, U.A.E. (See alternate address under Hong Kong)''.
+
+    Dated: March 24, 2017.
+Matthew S. Borman,
+Deputy Assistant Secretary for Export Administration.
+[FR Doc. 2017-06228 Filed 3-28-17; 8:45 am]
+ BILLING CODE 3510-33-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

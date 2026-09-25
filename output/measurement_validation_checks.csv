@@ -1,0 +1,17 @@
+﻿check_group,check_id,observed,expected,tolerance,absolute_difference,status,interpretation
+external_manual_benchmark,Malaysia_2022_n2_china_hs8542_import_share,0.1706007876866205,0.1709,0.003,0.00029921231337950993,PASS,既有人工核对参考值，仅用于检查数据口径；不是独立外部验证。
+external_manual_benchmark,Malaysia_2022_n3_us_hs8542_export_share,0.0784204153255683,0.0788,0.003,0.0003795846744316933,PASS,既有人工核对参考值，仅用于检查数据口径；不是独立外部验证。
+external_manual_benchmark,Malaysia_2022_n4_dual_dependency,0.0133785846252538,0.0135,0.001,0.00012141537474619907,PASS,既有人工核对参考值，仅用于检查数据口径；不是独立外部验证。
+external_manual_benchmark,Malaysia_2022_v1_hs8542_import_hhi,0.1483534270842849,0.148,0.005,0.0003534270842849019,PASS,既有人工核对参考值，仅用于检查数据口径；不是独立外部验证。
+external_manual_benchmark,Malaysia_2022_v2_effective_supplier_count,13.0,13.0,0.0,0.0,PASS,既有人工核对参考值，仅用于检查数据口径；不是独立外部验证。
+external_manual_benchmark,Vietnam_2022_n2_china_hs8542_import_share,0.1802424888623401,0.1805,0.003,0.0002575111376598993,PASS,既有人工核对参考值，仅用于检查数据口径；不是独立外部验证。
+external_manual_benchmark,Vietnam_2022_n3_us_hs8542_export_share,0.0465892513141927,0.0465,0.003,8.925131419269816e-05,PASS,既有人工核对参考值，仅用于检查数据口径；不是独立外部验证。
+external_manual_benchmark,Vietnam_2022_n4_dual_dependency,0.0083973626111031,0.0084,0.001,2.6373888968988374e-06,PASS,既有人工核对参考值，仅用于检查数据口径；不是独立外部验证。
+external_manual_benchmark,Vietnam_2022_v1_hs8542_import_hhi,0.2062658973721466,0.207,0.005,0.0007341026278533946,PASS,既有人工核对参考值，仅用于检查数据口径；不是独立外部验证。
+external_manual_benchmark,Vietnam_2022_v2_effective_supplier_count,9.0,9.0,0.0,0.0,PASS,既有人工核对参考值，仅用于检查数据口径；不是独立外部验证。
+internal_formula,all_rows_N4_equals_N2_times_N3,9.194034422677078e-17,0.0,1e-12,9.194034422677078e-17,PASS,Checks mathematical consistency for every country-year.
+range_and_coverage,unique_country_year_keys,0.0,0.0,0.0,0.0,PASS,Panel keys must be unique.
+range_and_coverage,complete_12_by_2_panel,24.0,24.0,0.0,0.0,PASS,Expected 12 economies in 2017 and 2022.
+range_and_coverage,share_and_hhi_ranges,1.0,1.0,0.0,0.0,PASS,"All shares, relative positions, and HHI values must lie in [0,1]."
+source_coverage,target_year_P2_sources_and_values_complete,24.0,24.0,0.0,0.0,PASS,2017 P2 is ATOP-based (Mexico audited against OAS treaty status); 2022 P2 screens State TIF 2020 and its 2021-2023 supplement with target-year bilateral documents and NATO accession dates. Source break is explicit.
+source_conflict_resolution,Mexico_2017_ATOP_raw_vs_OAS_audited_P2,0.0,0.0,0.0,0.0,PASS,Preserves raw ATOP=1 while using the OAS-recorded 2004 treaty cessation for audited active-tie P2=0.

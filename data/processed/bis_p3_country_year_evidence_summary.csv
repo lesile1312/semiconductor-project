@@ -1,0 +1,23 @@
+﻿event_year,country_target,p3_candidate_events,direct_semiconductor_events,restriction_increase_events,restriction_decrease_events,mixed_direction_events,metadata_only_events_needing_manual_review
+2017,Armenia,1,0,0,0,1,1
+2017,China,4,0,1,0,3,4
+2017,Germany,1,0,0,0,1,1
+2017,Greece,1,0,0,0,1,1
+2017,India,2,0,0,0,2,2
+2017,Pakistan,3,0,1,0,2,3
+2017,Russia,5,0,4,0,1,5
+2017,Singapore,1,0,0,0,1,1
+2017,Switzerland,1,0,0,0,1,1
+2017,Turkey,2,0,1,0,1,2
+2017,United Arab Emirates,3,0,1,0,2,3
+2017,United Kingdom,1,0,0,0,1,1
+2022,Belarus,6,0,4,0,2,6
+2022,China,9,1,5,0,4,8
+2022,Japan,1,0,0,0,1,1
+2022,Pakistan,4,0,2,0,2,4
+2022,Russia,12,0,8,0,3,12
+2022,Singapore,3,0,1,0,2,3
+2022,Switzerland,1,0,0,0,1,1
+2022,United Arab Emirates,3,0,1,0,2,3
+2022,United Kingdom,2,0,1,0,1,2
+2022,Vietnam,1,0,0,0,1,1

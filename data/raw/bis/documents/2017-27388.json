@@ -1,0 +1,107 @@
+{
+  "abstract": "This rule amends the Export Administration Regulations (EAR) by adding two entities to the Entity List. The two entities being added to the Entity List have been determined by the U.S. Government to be acting contrary to the national security or foreign policy interests of the United States. These two entities will be listed on the Entity List under the destination of Russia.",
+  "action": "Final rule.",
+  "agencies": [
+    {
+      "id": 54,
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+      "name": "Commerce Department",
+      "parent_id": null,
+      "raw_name": "DEPARTMENT OF COMMERCE",
+      "slug": "commerce-department",
+      "url": "https://www.federalregister.gov/agencies/commerce-department"
+    },
+    {
+      "id": 241,
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+      "name": "Industry and Security Bureau",
+      "parent_id": 54,
+      "raw_name": "Bureau of Industry and Security",
+      "slug": "industry-and-security-bureau",
+      "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2017/12/20/2017-27388.html",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 744,
+      "title": 15
+    }
+  ],
+  "citation": "82 FR 60304",
+  "comment_url": null,
+  "comments_close_on": null,
+  "correction_of": null,
+  "corrections": [],
+  "dates": "This rule is effective December 20, 2017.",
+  "disposition_notes": null,
+  "docket_ids": [
+    "Docket No. 140908761-7999-02"
+  ],
+  "dockets": [],
+  "document_number": "2017-27388",
+  "effective_on": "2017-12-20",
+  "end_page": 60306,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2017/12/20/2017-27388.xml",
+  "html_url": "https://www.federalregister.gov/documents/2017/12/20/2017-27388/addition-of-certain-entities-to-the-entity-list",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2017-27388?publication_date=2017-12-20",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2017-12-20/2017-27388/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 3,
+  "page_views": {
+    "count": 2135,
+    "last_updated": "2026-09-13 22:15:03 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2017-12-20/pdf/2017-27388.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2017-27388.pdf?1513691161",
+  "publication_date": "2017-12-20",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2017/12/20/2017-27388.txt",
+  "regulation_id_number_info": {
+    "0694-AG29": {
+      "html_url": "https://www.federalregister.gov/regulations/0694-AG29/addition-of-certain-persons-to-the-entity-list",
+      "issue": "201710",
+      "priority_category": "Substantive, Nonsignificant",
+      "title": "Addition of Certain Persons to the Entity List",
+      "xml_url": "http://www.reginfo.gov/public/do/eAgendaViewRule?pubId=201710&RIN=0694-AG29&operation=OPERATION_EXPORT_XML"
+    }
+  },
+  "regulation_id_numbers": [
+    "0694-AG29"
+  ],
+  "regulations_dot_gov_info": {
+    "checked_regulationsdotgov_at": "2018-01-09T06:00:21Z",
+    "comments_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=BIS-2017-0031",
+    "docket_id": "BIS-2017-0031",
+    "regulation_id_number": "0694-AG29",
+    "regulatory_plan": {
+      "html_url": "https://www.federalregister.gov/regulations/0694-AG29/addition-of-certain-persons-to-the-entity-list",
+      "title": "Addition of Certain Persons to the Entity List"
+    },
+    "supporting_documents": [],
+    "supporting_documents_count": 0,
+    "title": "Addition of Certain Entities to the Entity List "
+  },
+  "regulations_dot_gov_url": null,
+  "significant": false,
+  "signing_date": null,
+  "start_page": 60304,
+  "subtype": null,
+  "title": "Addition of Certain Entities to the Entity List",
+  "toc_doc": "Russian Sanctions",
+  "toc_subject": "Certain Entities to the Entity List; Additions:",
+  "topics": [
+    "Exports",
+    "Reporting and recordkeeping requirements",
+    "Terrorism"
+  ],
+  "type": "Rule",
+  "volume": 82
+}

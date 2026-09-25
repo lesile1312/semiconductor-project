@@ -1,0 +1,100 @@
+{
+  "abstract": "In response to the Russian Federation's (Russia's) further invasion of Ukraine on February 24, 2022, the Department of Commerce is amending the Export Administration Regulations (EAR) by adding 91 new entities to the Entity List under the destinations of Belize, Estonia, Kazakhstan, Latvia, Malta, Russia, Singapore, Slovakia, Spain, and United Kingdom with this final rule. These 91 entities have been determined by the U.S. Government to be acting contrary to the foreign policy or national security interests of the United States.",
+  "action": "Final rule.",
+  "agencies": [
+    {
+      "id": 54,
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+      "name": "Commerce Department",
+      "parent_id": null,
+      "raw_name": "DEPARTMENT OF COMMERCE",
+      "slug": "commerce-department",
+      "url": "https://www.federalregister.gov/agencies/commerce-department"
+    },
+    {
+      "id": 241,
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+      "name": "Industry and Security Bureau",
+      "parent_id": 54,
+      "raw_name": "Bureau of Industry and Security",
+      "slug": "industry-and-security-bureau",
+      "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2022/03/09/2022-04925.html",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": "744",
+      "title": 15
+    }
+  ],
+  "citation": "87 FR 13141",
+  "comment_url": null,
+  "comments_close_on": null,
+  "correction_of": null,
+  "corrections": [],
+  "dates": "This rule is effective March 3, 2022",
+  "disposition_notes": null,
+  "docket_ids": [
+    "Docket No. 220303-0067"
+  ],
+  "dockets": [],
+  "document_number": "2022-04925",
+  "effective_on": "2022-03-03",
+  "end_page": 13153,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2022/03/09/2022-04925.xml",
+  "html_url": "https://www.federalregister.gov/documents/2022/03/09/2022-04925/further-imposition-of-sanctions-against-russia-with-the-addition-of-certain-entities-to-the-entity",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2022-04925?publication_date=2022-03-09",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2022-03-09/2022-04925/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 13,
+  "page_views": {
+    "count": 22379,
+    "last_updated": "2026-09-13 22:15:03 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2022-03-09/pdf/2022-04925.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2022-04925.pdf?1646344817",
+  "publication_date": "2022-03-09",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2022/03/09/2022-04925.txt",
+  "regulation_id_number_info": {
+    "0694-AI73": null
+  },
+  "regulation_id_numbers": [
+    "0694-AI73"
+  ],
+  "regulations_dot_gov_info": {
+    "agency_id": "BIS",
+    "checked_regulationsdotgov_at": "2022-03-19T03:30:05Z",
+    "comments_count": 0,
+    "comments_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=BIS-2022-0011",
+    "docket_id": "BIS-2022-0011",
+    "document_id": "BIS-2022-0011-0001",
+    "regulation_id_number": null,
+    "supporting_documents": [],
+    "supporting_documents_count": 0,
+    "title": "Further Imposition of Sanctions  Against Russia With the Addition of  Certain Entities to the Entity List"
+  },
+  "regulations_dot_gov_url": null,
+  "significant": null,
+  "signing_date": null,
+  "start_page": 13141,
+  "subtype": null,
+  "title": "Further Imposition of Sanctions Against Russia With the Addition of Certain Entities to the Entity List",
+  "toc_doc": "Further Imposition of Sanctions Against Russia With the Addition of Certain Entities to the Entity List",
+  "toc_subject": "Export Administration Regulations:\n",
+  "topics": [
+    "Exports",
+    "Reporting and recordkeeping requirements",
+    "Terrorism"
+  ],
+  "type": "Rule",
+  "volume": 87
+}

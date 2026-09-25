@@ -1,0 +1,1835 @@
+<html>
+<head>
+<title>Federal Register, Volume 87 Issue 67 (Thursday, April 7, 2022)</title>
+</head>
+<body><pre>
+[Federal Register Volume 87, Number 67 (Thursday, April 7, 2022)]
+[Rules and Regulations]
+[Pages 20295-20312]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2022-07284]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF COMMERCE
+
+Bureau of Industry and Security
+
+15 CFR Part 744
+
+[Docket No. 220331-0082]
+RIN 0694-AI67
+
+
+Additions of Entities to the Entity List
+
+AGENCY: Bureau of Industry and Security, Commerce.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: In response to the Russian Federation's (Russia's) further 
+invasion of Ukraine on February 24, 2022, the Department of Commerce is 
+amending the Export Administration Regulations (EAR) by adding 120 
+entities under 120 entries to the Entity List. These 120 entities have 
+been determined by the U.S. Government to be acting contrary to the 
+national security interests or foreign policy of the United States and 
+will be listed on the Entity List under the destinations of Belarus and 
+Russia.
+
+DATES: This rule is effective April 1, 2022.
+
+FOR FURTHER INFORMATION CONTACT: Chair, End-User Review Committee, 
+Office of the Assistant Secretary for Export Administration, Bureau of 
+Industry and Security, Department of Commerce, Phone: (202) 482-5991, 
+Email: <a href="/cdn-cgi/l/email-protection#eca9beafac8e859fc288838fc28b839a"><span class="__cf_email__" data-cfemail="aeebfcedeeccc7dd80cac1cd80c9c1d8">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION: 
+
+Background
+
+    The Entity List (supplement no. 4 to part 744 of the Export 
+Administration Regulations (EAR)) identifies entities for which there 
+is reasonable cause to believe, based on specific and articulable 
+facts, that the entities have been involved, are involved, or pose a 
+significant risk of being or becoming involved in activities contrary 
+to the national security or foreign policy interests of the United 
+States. The EAR (15 CFR parts 730-774) imposes additional license 
+requirements on, and limit the availability of most license exceptions 
+for exports, reexports, and transfers (in-country) to listed entities. 
+The license review policy for each listed entity is identified in the 
+``License Review Policy'' column on the Entity List, and the impact on 
+the availability of license exceptions is described in the relevant 
+Federal Register document that added the entity to the Entity List. The 
+Bureau of Industry and Security (BIS) places entities on the Entity 
+List pursuant to part 744 (Control Policy: End-User and End-Use Based) 
+and part 746 (Embargoes and Other Special Controls) of the EAR. 
+Paragraphs (b)(1)
+
+[[Page 20296]]
+
+through (5) of Sec.  744.11 include an illustrative list of activities 
+that could be contrary to the national security or foreign policy 
+interests of the United States. As discussed further later in this 
+preamble, 95 entities are being added in this rule on the basis of 
+Sec. Sec.  744.11(b) and 744.21 and will receive a footnote 3 
+designation because the End-User Review Committee (ERC) has determined 
+they are `military end users' in accordance with Sec.  744.21. A 
+footnote 3 designation subjects these entities to the Russia/Belarus 
+foreign ``direct product'' (FDP) rule, detailed in Sec.  734.9(g). The 
+other 25 entities are being added solely on the basis of Sec.  
+744.11(b).
+    The ERC, composed of representatives of the Departments of Commerce 
+(Chair), State, Defense, Energy and, where appropriate, the Treasury, 
+makes all decisions regarding additions to, removals from, or other 
+modifications to the Entity List. The ERC makes all decisions to add an 
+entry to the Entity List by majority vote and makes all decisions to 
+remove or modify an entry by unanimous vote.
+    The ERC determined to add the following entities to the Entity List 
+on the basis of Sec. Sec.  744.11(b) and 744.21 under the destination 
+of Belarus: 140 Repair Plant JSC; 558 Aircraft Repair Plant JSC; 2566 
+Radioelectronic Armament Repair Plant JSC; AGAT--Control Systems--
+Managing Company of Geoinformation Control Systems Holding JSC; Agat-
+Electromechanical Plant OJSC; AGAT-SYSTEM; ATE-Engineering LLC; BelOMO 
+Holding; Belspetsvneshtechnika SFTUE; BSVT-New Technologies; CJSC 
+Beltechexport; Department of Internal Affairs of the Gomel Region 
+Executive Committee; Internal Troops of The Ministry of Internal 
+Affairs of the Republic of Belarus; JSC Transaviaexport Airlines; KGB 
+Alpha; Kidma Tech OJSC; Minotor-Service; Minsk Wheeled Tractor Plant; 
+Oboronnye Initsiativy LLC; OJS KB Radar Managing Company; Peleng JSC; 
+State Authority for Military Industry of the Republic of Belarus; State 
+Security Committee of the Republic of Belarus; and Volatavto OJSC to 
+the Entity List. All of these entities will be designated with a 
+footnote 3. These entities are being added to the Entity List 
+consistent with BIS's response to Belarus's substantial enabling and 
+support of Russia's invasion of Ukraine and of Russia's military 
+forces. Specifically, these entities are being added to the Entity List 
+for acquiring and attempting to acquire items subject to the EAR in 
+support of Belarus' military. Their addition to the Entity List and a 
+footnote 3 designation means these entities are subject to a license 
+requirement for the export, reexport, export from abroad (as described 
+under Russia/Belarus foreign ``direct product'' (FDP) rule, Sec.  
+746.8(a)(3)), or transfers (in-country) of all items subject to the EAR 
+that are destined to these entities. BIS will review license 
+applications under a policy of denial. No license exceptions are 
+available for exports, reexports, exports from abroad (as described 
+under Russia/Belarus foreign ``direct product'' (FDP) rule, Sec.  
+746.8(a)(3)), or transfers (in-country) to the entities being added.
+    In addition, the ERC determined to add the following entities to 
+the Entity List on the basis of Sec. Sec.  744.11(b) and 744.21 under 
+the destination of Russia: 5th Shipyard; Alagir Resistor Factory; All-
+Russian Scientific-Research Institute Etalon JSC; Almaz JSC; 
+Dolgoprudniy Design Bureau of Automatics; Electronic Computing 
+Technology Scientific-Research Center; Electrosignal JSC; Inteltech 
+PJSC; Joint Stock Company NPO Elektromechaniki; Kulon Scientific-
+Research Institute JSC; Lutch Design Office JSC; Meteor Plant JSC; 
+Moscow Communications Research Institute JSC; Moscow Order of the Red 
+Banner of Labor Research Radio Engineering Institute JSC; Omsk 
+Production Union Irtysh JSC; Omsk Scientific-Research Institute of 
+Instrument Engineering JSC; Optron JSC; Polyot Chelyabinsk Radio Plant 
+JSC; Pskov Distance Communications Equipment Plant; Radiozavod JSC; 
+Razryad JSC; Research Production Association Mars; Ryazan Radio-Plant; 
+Scientific-Production Association and Scientific-Research Institute of 
+Radio-Components; Scientific-Production Enterprise Almaz JSC; 
+Scientific-Production Enterprise ``Kant''; Scientific Production 
+Enterprise ``Radiosviaz''; Scientific-Production Enterprise ``Svyaz''; 
+Scientific-Production Enterprise Volna; Scientific-Production 
+Enterprise Vostok JSC; Scientific-Research Institute ``Argon''; 
+Scientific-Research Institute of Automated Systems and Communications 
+Complexes Neptune JSC; Scientific Research Institute of Communication 
+Management Systems; Scientific Research Institute Ferrite-Domen; 
+Special Design and Technical Bureau for Relay Technology; Tactical 
+Missile Corporation, 711 Aircraft Repair Plant (711 ARZ); Tactical 
+Missile Corporation, AO GNPP ``Region''; Tactical Missile Corporation, 
+AO TMKB ``Soyuz''; Tactical Missile Corporation, Azov Optical and 
+Mechanical Plant; Tactical Missile Corporation, ``Central Design Bureau 
+of Automation''; Tactical Missile Corporation, Concern ``MPO--
+Gidropribor''; Tactical Missile Corporation, Joint Stock Company 
+Avangard; Tactical Missile Corporation, Joint Stock Company Concern 
+Granit-Electron; Tactical Missile Corporation, Joint Stock Company 
+Elektrotyaga; Tactical Missile Corporation, Joint Stock Company 
+GosNIIMash; Tactical Missile Corporation JSC ``KRASNY GIDROPRESS''; 
+Tactical Missile Corporation, Joint Stock Company PA Strela; Tactical 
+Missile Corporation, Joint Stock Company ``Plant Dagdiesel''; Tactical 
+Missile Corporation, Joint Stock Company Plant Kulakov; Tactical 
+Missile Corporation, Joint Stock Company Ravenstvo; Tactical Missile 
+Corporation, Joint Stock Company Ravenstvo-service; Tactical Missile 
+Corporation, Joint-Stock Company ``Research Center for Automated 
+Design''; Tactical Missile Corporation, Joint Stock Company ``Salute''; 
+Tactical Missile Corporation, Joint Stock Company Saratov Radio 
+Instrument Plant; Tactical Missile Corporation Joint Stock Company 
+``Scientific Research Institute of Marine Heat Engineering''; Tactical 
+Missile Corporation, Joint Stock Company Severny Press; Tactical 
+Missile Corporation, Joint Stock Company ``State Machine Building 
+Design Bureau ``Vympel'' By Name I.I. Toropov''; Tactical Missile 
+Corporation, Joint Stock Company ``URALELEMENT''; Tactical Missile 
+Corporation, KB Mashinostroeniya; Tactical Missile Corporation, NPO 
+Electromechanics; Tactical Missile Corporation, NPO Lightning; Tactical 
+Missile Corporation, Petrovsky Electromechanical Plant ``Molot''; 
+Tactical Missile Corporation, PJSC ANPP Temp Avia; Tactical Missile 
+Corporation, PJSC ``MBDB ISKRA''; Tactical Missile Corporation, Raduga 
+Design Bureau; Tactical Missile Corporation, RKB Globus; Tactical 
+Missile Corporation, Smolensk Aviation Plant; Tactical Missile 
+Corporation, TRV Engineering; Tactical Missile Corporation, Ural Design 
+Bureau ``Detal''; Tactical Missile Corporation, Zvezda-Strela Limited 
+Liability Company; and United Shipbuilding Corporation ``Production 
+Association Northern Machine Building Enterprise''. All the entities 
+will be designated with footnote 3. These entities are being added to 
+the Entity List consistent with BIS's response to Russia's invasion of 
+Ukraine, which include restricting Russia's access to items subject to 
+the EAR that allow it to project power and fulfill its strategic 
+ambitions. Specifically, these entities are being added to the Entity 
+List for acquiring and attempting to acquire items subject
+
+[[Page 20297]]
+
+to the EAR in support of Russia's military. Their addition to the 
+Entity List and footnote 3 designation means these entities are subject 
+to a license requirement for exports, reexports, exports from abroad 
+(as described under Russia/Belarus foreign ``direct product'' (FDP) 
+rule, Sec.  746.8(a)(3)), or transfers (in-country) of all items 
+subject to the EAR that are destined to these entities. BIS will review 
+license applications under a policy of denial. No license exceptions 
+are available for exports, reexports, exports from abroad (as described 
+under Russia/Belarus foreign ``direct product'' (FDP) rule Sec.  
+746.8(a)(3)), or transfers (in-country) to the entities being added.
+    Moreover, the ERC determined to add the following entities to the 
+Entity List on the basis of Sec.  744.11(b) under the destination of 
+Russia: 46th TSNII Central Scientific Research Institute; All Russia 
+Scientific Research Institute of Optical Physical Measurements; Arzam 
+Scientific Production Enterprise Temp Avia; Automated Procurement 
+System for State Defense Orders, LLC; Engineering Center 
+Moselectronproekt; Etalon Scientific and Production Association; Evgeny 
+Krayushin; Far-East Factory Zvezda; Federal Center for Dual-Use 
+Technology (FTsDT) Soyuz; Foreign Trade Association Mashpriborintorg; 
+Ineko LLC; Informakustika JSC; Institute of High Energy Physics; 
+Institute of Theoretical and Experimental Physics; ISE SO RAN Institute 
+of High-Current Electronics; JSC Energiya, Kaluga Scientific-Research 
+Institute of Telemechanical Devices JSC; OJSC Pella Shipyard; 
+Scientific Production Center Vigstar JSC; Scientific-Production 
+Enterprise Salyut JSC; Scientific-Research Institute and Factory 
+Platan; Special Design Bureau Salute JSC; Tambov Plant (TZ) 
+``October''; Turayev Machine Building Design Bureau Soyuz; and 
+Zhukovskiy Central Aerohydrodynamics Institute (TsAGI). These entities 
+are being added to the Entity List consistent with BIS's response to 
+Russia's invasion of Ukraine, which include restricting Russia's access 
+to items subject to the EAR that allow it to project power and fulfill 
+its strategic ambitions. Specifically, BIS is adding these entities to 
+the Entity List for acquiring and attempting to acquire items subject 
+to the EAR in support of Russia's military modernization efforts. These 
+entities will be added to the Entity List with a license requirement 
+for all items subject to the EAR. BIS will review license applications 
+under a policy of denial. No license exceptions are available for 
+exports, reexports, or transfers (in-country) to the entities being 
+added.
+    For the reasons described above, this final rule adds the following 
+120 entities under 120 entries to the Entity List and includes, where 
+appropriate, aliases:
+
+Belarus
+
+<bullet> 140 Repair Plant JSC,
+<bullet> 558 Aircraft Repair Plant JSC,
+<bullet> 2566 Radioelectronic Armament Repair Plant JSC,
+<bullet> AGAT--Control Systems--Managing Company of Geoinformation 
+Control Systems Holding JSC,
+<bullet> Agat-Electromechanical Plant OJSC,
+<bullet> AGAT-SYSTEM,
+<bullet> ATE-Engineering LLC,
+<bullet> BelOMO Holding,
+<bullet> Belspetsvneshtechnika SFTUE,
+<bullet> BSVT-New Technologies,
+<bullet> CJSC Beltechexport,
+<bullet> Department of Internal Affairs of the Gomel Region Executive 
+Committee,
+<bullet> Internal Troops of The Ministry of Internal Affairs of the 
+Republic of Belarus,
+<bullet> JSC Transaviaexport Airlines,
+<bullet> KGB Alpha,
+<bullet> Kidma Tech OJSC,
+<bullet> Minotor-Service,
+<bullet> Minsk Wheeled Tractor Plant,
+<bullet> Oboronnye Initsiativy LLC,
+<bullet> OJS KB Radar Managing Company,
+<bullet> Peleng JSC,
+<bullet> State Authority for Military Industry of the Republic of 
+Belarus,
+<bullet> State Security Committee of the Republic of Belarus, and
+<bullet> Volatavto OJSC.
+
+Russia
+
+<bullet> 5th Shipyard,
+<bullet> 46th TSNII Central Scientific Research Institute,
+<bullet> Alagir Resistor Factory,
+<bullet> All Russia Scientific Research Institute of Optical Physical 
+Measurements,
+<bullet> All-Russian Scientific-Research Institute Etalon JSC,
+<bullet> Almaz JSC,
+<bullet> Arzam Scientific Production Enterprise Temp Avia,
+<bullet> Automated Procurement System for State Defense Orders, LLC,
+<bullet> Dolgoprudniy Design Bureau of Automatics,
+<bullet> Electronic Computing Technology Scientific-Research Center,
+<bullet> Electrosignal JSC,
+<bullet> Engineering Center Moselectronproekt,
+<bullet> Etalon Scientific and Production Association,
+<bullet> Evgeny Krayushin,
+<bullet> Far-East Factory Zvezda,
+<bullet> Federal Center for Dual-Use Technology (FTsDT) Soyuz,
+<bullet> Foreign Trade Association Mashpriborintorg, Ineko LLC,
+<bullet> Ineko LLC
+<bullet> Informakustika JSC,
+<bullet> Institute of High Energy Physics,
+<bullet> Institute of Theoretical and Experimental Physics,
+<bullet> Inteltech PJSC,
+<bullet> ISE SO RAN Institute of High-Current Electronics,
+<bullet> Joint Stock Company NPO Elektromechaniki,
+<bullet> JSC Energiya,
+<bullet> Kaluga Scientific-Research Institute of Telemechanical Devices 
+JSC,
+<bullet> Kulon Scientific-Research Institute JSC,
+<bullet> Lutch Design Office JSC,
+<bullet> Meteor Plant JSC,
+<bullet> Moscow Communications Research Institute JSC,
+<bullet> Moscow Order of the Red Banner of Labor Research Radio 
+Engineering Institute JSC,
+<bullet> OJSC Pella Shipyard,
+<bullet> Omsk Production Union Irtysh JSC,
+<bullet> Omsk Scientific-Research Institute of Instrument Engineering 
+JSC,
+<bullet> Optron JSC,
+<bullet> Polyot Chelyabinsk Radio Plant JSC,
+<bullet> Pskov Distance Communications Equipment Plant,
+<bullet> Radiozavod JSC,
+<bullet> Razryad JSC,
+<bullet> Research Production Association Mars,
+<bullet> Ryazan Radio-Plant,
+<bullet> Scientific-Production Association and Scientific-Research 
+Institute of Radio-Components,
+<bullet> Scientific Production Center Vigstar JSC,
+<bullet> Scientific-Production Enterprise Almaz JSC,
+<bullet> Scientific-Production Enterprise ``Kant'',
+<bullet> Scientific Production Enterprise ``Radiosviaz'',
+<bullet> Scientific-Production Enterprise Salyut JSC,
+<bullet> Scientific-Production Enterprise ``Svyaz'',
+<bullet> Scientific-Production Enterprise Volna,
+<bullet> Scientific-Production Enterprise Vostok JSC,
+<bullet> Scientific-Research Institute and Factory Platan,
+<bullet> Scientific-Research Institute ``Argon'',
+<bullet> Scientific Research Institute Ferrite-Domen,
+<bullet> Scientific-Research Institute of Automated Systems and 
+Communications Complexes Neptune JSC,
+<bullet> Scientific Research Institute of Communication Management 
+Systems,
+<bullet> Special Design and Technical Bureau for Relay Technology,
+
+[[Page 20298]]
+
+<bullet> Special Design Bureau Salute JSC,
+<bullet> Tactical Missile Corporation, 711 Aircraft Repair Plant (711 
+ARZ),
+<bullet> Tactical Missile Corporation, AO GNPP ``Region'',
+<bullet> Tactical Missile Corporation, AO TMKB ``Soyuz'',
+<bullet> Tactical Missile Corporation, Azov Optical and Mechanical 
+Plant,
+<bullet> Tactical Missile Corporation, ``Central Design Bureau of 
+Automation'',
+<bullet> Tactical Missile Corporation, Concern ``MPO--Gidropribor'',
+<bullet> Tactical Missile Corporation, Joint Stock Company Avangard,
+<bullet> Tactical Missile Corporation, Joint Stock Company Concern 
+Granit-Electron,
+<bullet> Tactical Missile Corporation, Joint Stock Company 
+Elektrotyaga,
+<bullet> Tactical Missile Corporation, Joint Stock Company GosNIIMash,
+<bullet> Tactical Missile Corporation, Joint Stock Company PA Strela,
+<bullet> Tactical Missile Corporation, Joint Stock Company ``Plant 
+Dagdiesel'',
+<bullet> Tactical Missile Corporation, Joint Stock Company Plant 
+Kulakov,
+<bullet> Tactical Missile Corporation, Joint Stock Company Ravenstvo,
+<bullet> Tactical Missile Corporation, Joint Stock Company Ravenstvo-
+service,
+<bullet> Tactical Missile Corporation, Joint-Stock Company ``Research 
+Center for Automated Design'',
+<bullet> Tactical Missile Corporation, Joint Stock Company ``Salute'',
+<bullet> Tactical Missile Corporation, Joint Stock Company Saratov 
+Radio Instrument Plant,
+<bullet> Tactical Missile Corporation Joint Stock Company ``Scientific 
+Research Institute of Marine Heat Engineering'',
+<bullet> Tactical Missile Corporation, Joint Stock Company Severny 
+Press,
+<bullet> Tactical Missile Corporation, Joint Stock Company ``State 
+Machine Building Design Bureau ``Vympel'' By Name I.I. Toropov'',
+<bullet> Tactical Missile Corporation, Joint Stock Company 
+``URALELEMENT'',
+<bullet> Tactical Missile Corporation JSC ``KRASNY GIDROPRESS'',
+<bullet> Tactical Missile Corporation, KB Mashinostroeniya,
+<bullet> Tactical Missile Corporation, NPO Electromechanics,
+<bullet> Tactical Missile Corporation, NPO Lightning,
+<bullet> Tactical Missile Corporation, Petrovsky Electromechanical 
+Plant ``Molot'',
+<bullet> Tactical Missile Corporation, PJSC ANPP Temp Avia,
+<bullet> Tactical Missile Corporation, PJSC ``MBDB ISKRA'',
+<bullet> Tactical Missile Corporation, Raduga Design Bureau,
+<bullet> Tactical Missile Corporation, RKB Globus,
+<bullet> Tactical Missile Corporation, Smolensk Aviation Plant,
+<bullet> Tactical Missile Corporation, TRV Engineering,
+<bullet> Tactical Missile Corporation, Ural Design Bureau ``Detal'',
+<bullet> Tactical Missile Corporation, Zvezda-Strela Limited Liability 
+Company,
+<bullet> Tambov Plant (TZ) ``October'',
+<bullet> Turayev Machine Building Design Bureau Soyuz,
+<bullet> United Shipbuilding Corporation ``Production Association 
+Northern Machine Building Enterprise'', and
+<bullet> Zhukovskiy Central Aerohydrodynamics Institute (TsAGI).
+
+    In summary, for the 120 entities added to the Entity List by this 
+final rule, BIS imposes a license requirement that applies to all items 
+subject to the EAR. For the 95 entities added under both Sec. Sec.  
+744.11 and 744.21, BIS is also listing those entities with a footnote 3 
+designation. No license exceptions are available for exports, 
+reexports, exports from abroad (as described under Russia/Belarus 
+foreign ``direct product'' (FDP) rule, Sec.  746.8(a)(3)), or transfers 
+(in-country) to these entities; BIS will review all license 
+applications for these entities under a policy of denial.
+    For the 25 entities added solely on the basis of Sec.  744.11, BIS 
+is not listing those entities with a footnote 3 designation. No license 
+exceptions are available for exports, reexports, or transfers (in-
+country) to these entities. BIS will review all license applications 
+for these entities under a policy of denial.
+
+Savings Clause
+
+    For the changes being made in this final rule, shipments of items 
+removed from eligibility for a License Exception or export, reexport, 
+or transfer (in-country) without a license (NLR) as a result of this 
+regulatory action that were en route aboard a carrier to a port of 
+export, reexport, or transfer (in-country), on April 1, 2022, pursuant 
+to actual orders for export, reexport, or transfer (in-country) to or 
+within a foreign destination, may proceed to that destination under the 
+previous eligibility for a License Exception or export, reexport, or 
+transfer (in-country) without a license (NLR).
+
+Export Control Reform Act of 2018
+
+    On August 13, 2018, the President signed into law the John S. 
+McCain National Defense Authorization Act for Fiscal Year 2019, which 
+included the Export Control Reform Act of 2018 (ECRA) (50 U.S.C. 4801-
+4852). ECRA provides the legal basis for BIS's principal authorities 
+and serves as the authority under which BIS issues this rule.
+
+Rulemaking Requirements
+
+    1. This rule has been determined to be not significant for purposes 
+of Executive Order 12866.
+    2. Notwithstanding any other provision of law, no person is 
+required to respond to or be subject to a penalty for failure to comply 
+with a collection of information, subject to the requirements of the 
+Paperwork Reduction Act of 1995 (44 U.S.C. 3501 et seq.) (PRA), unless 
+that collection of information displays a currently valid Office of 
+Management and Budget (OMB) Control Number. This regulation involves 
+collections previously approved by OMB under control number 0694-0088, 
+Simplified Network Application Processing System, which includes, among 
+other things, license applications and commodity classifications, and 
+carries a burden estimate of 29.6 minutes for a manual or electronic 
+submission for a total burden estimate of 33,133 hours. Total burden 
+hours associated with the PRA and OMB control number 0694-0088 are not 
+expected to increase as a result of this rule.
+    3. This rule does not contain policies with federalism implications 
+as that term is defined in Executive Order 13132.
+    4. Pursuant to section 1762 of the Export Control Reform Act of 
+2018, this action is exempt from the Administrative Procedure Act (5 
+U.S.C. 553) requirements for notice of proposed rulemaking, opportunity 
+for public participation, and delay in effective date.
+    5. Because a notice of proposed rulemaking and an opportunity for 
+public comment are not required to be given for this rule by 5 U.S.C. 
+553, or by any other law, the analytical requirements of the Regulatory 
+Flexibility Act, 5 U.S.C. 601, et seq., are not applicable. 
+Accordingly, no regulatory flexibility analysis is required and none 
+has been prepared.
+
+List of Subjects in 15 CFR Part 744
+
+    Exports, Reporting and recordkeeping requirements, Terrorism.
+
+    Accordingly, part 744 of the Export Administration Regulations (15 
+CFR parts 730-774) is amended as follows:
+
+PART 744--[AMENDED]
+
+0
+1. The authority citation for 15 CFR part 744 continues to read as 
+follows:
+
+    Authority: 50 U.S.C. 4801-4852; 50 U.S.C. 4601 et seq.; 50 
+U.S.C. 1701 et seq.; 22 U.S.C. 3201 et seq.; 42 U.S.C. 2139a; 22 
+U.S.C. 7201 et seq.; 22 U.S.C. 7210; E.O. 12058, 43 FR 20947, 3 CFR, 
+1978 Comp., p. 179; E.O. 12851, 58 FR 33181, 3 CFR, 1993 Comp., p.
+
+[[Page 20299]]
+
+608; E.O. 12938, 59 FR 59099, 3 CFR, 1994 Comp., p. 950; E.O. 13026, 
+61 FR 58767, 3 CFR, 1996 Comp., p. 228; E.O. 13099, 63 FR 45167, 3 
+CFR, 1998 Comp., p. 208; E.O. 13222, 66 FR 44025, 3 CFR, 2001 Comp., 
+p. 783; E.O. 13224, 66 FR 49079, 3 CFR, 2001 Comp., p. 786; Notice 
+of September 15, 2021, 86 FR 52069 (September 17, 2021); Notice of 
+November 10, 2021, 86 FR 62891 (November 12, 2021).
+
+0
+2. Supplement No. 4 to part 744 is amended:
+0
+a. Under BELARUS by adding, in alphabetical order, entries for ``140 
+Repair Plant JSC,'' ``558 Aircraft Repair Plant JSC,'' ``2566 
+Radioelectronic Armament Repair Plant JSC,'' ``AGAT--Control Systems--
+Managing Company of Geoinformation Control Systems Holding JSC,'' 
+``Agat-Electromechanical Plant OJSC,'' ``AGAT-SYSTEM,'' ``ATE-
+Engineering LLC,'' ``BelOMO Holding,'' ``Belspetsvneshtechnika SFTUE,'' 
+``BSVT-New Technologies,'' ``CJSC Beltechexport,'' ``Department of 
+Internal Affairs of the Gomel Region Executive Committee,'' ``Internal 
+Troops of The Ministry of Internal Affairs of the Republic of 
+Belarus,'' ``JSC Transaviaexport Airlines,'' ``KGB Alpha,'' ``Kidma 
+Tech OJSC,'' ``Minotor-Service,'' ``Minsk Wheeled Tractor Plant,'' 
+``Oboronnye Initsiativy LLC,'' ``OJS KB Radar Managing Company,'' 
+``Peleng JSC,'' ``State Authority for Military Industry of the Republic 
+of Belarus,'' ``State Security Committee of the Republic of Belarus,'' 
+and ``Volatavto OJSC''.
+0
+b. Under RUSSIA by adding, in alphabetical order, entries for ``5th 
+Shipyard,'' ``46th TSNII Central Scientific Research Institute,'' 
+``Alagir Resistor Factory,'' ``All Russia Scientific Research Institute 
+of Optical Physical Measurements,'' ``All-Russian Scientific-Research 
+Institute Etalon JSC,'' ``Almaz JSC,'' ``Arzam Scientific Production 
+Enterprise Temp Avia,'' ``Automated Procurement System for State 
+Defense Orders, LLC,'' ``Dolgoprudniy Design Bureau of Automatics,'' 
+``Electronic Computing Technology Scientific-Research Center,'' 
+``Electrosignal JSC,'' ``Engineering Center Moselectronproekt,'' 
+``Etalon Scientific and Production Association,'' ``Evgeny Krayushin,'' 
+``Far-East Factory Zvezda,'' ``Federal Center for Dual-Use Technology 
+(FTsDT) Soyuz,'' ``Foreign Trade Association Mashpriborintorg,'' 
+``Ineko LLC,'' ``Informakustika JSC,'' ``Institute of High Energy 
+Physics,'' ``Institute of Theoretical and Experimental Physics,'' 
+``Inteltech PJSC,'' ``ISE SO RAN Institute of High-Current 
+Electronics,'' ``Joint Stock Company NPO Elektromechaniki,'' ``JSC 
+Energiya,'' ``Kaluga Scientific-Research Institute of Telemechanical 
+Devices JSC,'' ``Kulon Scientific-Research Institute JSC,'' ``Lutch 
+Design Office JSC,'' ``Meteor Plant JSC,'' ``Moscow Communications 
+Research Institute JSC,'' ``Moscow Order of the Red Banner of Labor 
+Research Radio Engineering Institute JSC,'' ``OJSC Pella Shipyard,'' 
+``Omsk Production Union Irtysh JSC,'' ``Omsk Scientific-Research 
+Institute of Instrument Engineering JSC,'' ``Optron JSC,'' ``Polyot 
+Chelyabinsk Radio Plant JSC,'' ``Pskov Distance Communications 
+Equipment Plant,'' ``Radiozavod JSC,'' ``Razryad JSC,'' ``Research 
+Production Association Mars,'' ``Ryazan Radio-Plant,'' ``Scientific-
+Production Association and Scientific-Research Institute of Radio-
+Components,'' ``Scientific Production Center Vigstar JSC,'' 
+``Scientific-Production Enterprise Almaz JSC,'' ``Scientific-Production 
+Enterprise ``Kant'','' ``Scientific Production Enterprise 
+``Radiosviaz'','' ``Scientific-Production Enterprise Salyut JSC,'' 
+``Scientific-Production Enterprise ``Svyaz'','' ``Scientific-Production 
+Enterprise Volna,'' ``Scientific-Production Enterprise Vostok JSC,'' 
+``Scientific-Research Institute and Factory Platan,'' ``Scientific-
+Research Institute ``Argon'','' ``Scientific Research Institute 
+Ferrite-Domen,'' ``Scientific-Research Institute of Automated Systems 
+and Communications Complexes Neptune JSC,'' ``Scientific Research 
+Institute of Communication Management Systems,'' ``Special Design and 
+Technical Bureau for Relay Technology,'' ``Special Design Bureau Salute 
+JSC,'' ``Tactical Missile Corporation, 711 Aircraft Repair Plant (711 
+ARZ),'' ``Tactical Missile Corporation, AO GNPP ``Region'','' 
+``Tactical Missile Corporation, AO TMKB ``Soyuz'','' ``Tactical Missile 
+Corporation, Azov Optical and Mechanical Plant,'' ``Tactical Missile 
+Corporation, ``Central Design Bureau of Automation'','' ``Tactical 
+Missile Corporation, Concern ``MPO--Gidropribor'','' ``Tactical Missile 
+Corporation, Joint Stock Company Avangard,'' ``Tactical Missile 
+Corporation, Joint Stock Company Concern Granit-Electron,'' ``Tactical 
+Missile Corporation, Joint Stock Company Elektrotyaga,'' ``Tactical 
+Missile Corporation, Joint Stock Company GosNIIMash,'' ``Tactical 
+Missile Corporation, Joint Stock Company PA Strela,'' ``Tactical 
+Missile Corporation, Joint Stock Company ``Plant Dagdiesel'','' 
+``Tactical Missile Corporation, Joint Stock Company Plant Kulakov,'' 
+``Tactical Missile Corporation, Joint Stock Company Ravenstvo,'' 
+``Tactical Missile Corporation, Joint Stock Company Ravenstvo-
+service,'' ``Tactical Missile Corporation, Joint-Stock Company 
+``Research Center for Automated Design'','' ``Tactical Missile 
+Corporation, Joint Stock Company ``Salute'','' ``Tactical Missile 
+Corporation, Joint Stock Company Saratov Radio Instrument Plant,'' 
+``Tactical Missile Corporation Joint Stock Company ``Scientific 
+Research Institute of Marine Heat Engineering'','' ``Tactical Missile 
+Corporation, Joint Stock Company Severny Press,'' ``Tactical Missile 
+Corporation, Joint Stock Company ``State Machine Building Design Bureau 
+``Vympel'' By Name I.I. Toropov'','' ``Tactical Missile Corporation, 
+Joint Stock Company ``URALELEMENT'','' ``Tactical Missile Corporation 
+JSC ``KRASNY GIDROPRESS'','' ``Tactical Missile Corporation, KB 
+Mashinostroeniya,'' ``Tactical Missile Corporation, NPO 
+Electromechanics,'' ``Tactical Missile Corporation, NPO Lightning,'' 
+``Tactical Missile Corporation, Petrovsky Electromechanical Plant 
+``Molot'','' ``Tactical Missile Corporation, PJSC ANPP Temp Avia,'' 
+``Tactical Missile Corporation, PJSC ``MBDB ISKRA'','' ``Tactical 
+Missile Corporation, Raduga Design Bureau,'' ``Tactical Missile 
+Corporation, RKB Globus,'' ``Tactical Missile Corporation, Smolensk 
+Aviation Plant,'' ``Tactical Missile Corporation, TRV Engineering,'' 
+``Tactical Missile Corporation, Ural Design Bureau ``Detal'','' 
+``Tactical Missile Corporation, Zvezda-Strela Limited Liability 
+Company,'' ``Tambov Plant (TZ) ``October'','' ``Turayev Machine 
+Building Design Bureau Soyuz,'' ``United Shipbuilding Corporation 
+``Production Association Northern Machine Building Enterprise'','' and 
+``Zhukovskiy Central Aerohydrodynamics Institute (TsAGI)''.
+    The additions read as follows:
+
+Supplement No. 4 to Part 744--Entity List
+
+* * * * *
+
+[[Page 20300]]
+
+
+
+----------------------------------------------------------------------------------------------------------------
+                                                             License         License review     Federal Register
+        Country                     Entity                 requirement           policy             citation
+----------------------------------------------------------------------------------------------------------------
+ 
+                                                  * * * * * * *
+----------------------------------------------------------------------------------------------------------------
+BELARUS................  140 Repair Plant JSC,         For all items       Policy of Denial..  87 FR [INSERT FR
+                          a.k.a., the following two     subject to the                          PAGE NUMBER AND
+                          aliases:                      EAR. (See Sec.                          4/7/2022].
+                         --Open Joint Stock Company     Sec.
+                          140 Repair Plant; and         734.9(g),\3\
+                         --JSC 140 Repair Plant.        746.8(a)(3), and
+                         19 Luysi Chalovskoy St.,       744.21(b) of the
+                          Borisov, 222512, Belarus.     EAR).
+                         558 Aircraft Repair Plant     For all items       Policy of Denial..  87 FR [INSERT FR
+                          JSC, a.k.a., the following    subject to the                          PAGE NUMBER AND
+                          one alias:                    EAR. (See Sec.                          4/7/2022].
+                         --JSC 558 ARP.                 Sec.
+                         7 50 Years VLKSM St.,          734.9(g),\3\
+                          Baranovichi, Brest region,    746.8(a)(3), and
+                          225320, Belarus.              744.21(b) of the
+                                                        EAR).
+                         2566 Radioelectronic          For all items       Policy of Denial..  87 FR [INSERT FR
+                          Armament Repair Plant JSC,    subject to the                          PAGE NUMBER AND
+                          a.k.a., the following one     EAR. (See Sec.                          4/7/2022].
+                          alias:                        Sec.
+                         --JSC 2566 ZRREV.              734.9(g),\3\
+                         54 Gagarina St., Borisov,      746.8(a)(3), and
+                          222511, Belarus.              744.21(b) of the
+                                                        EAR).
+                         AGAT--Control Systems--       For all items       Policy of Denial..  87 FR [INSERT FR
+                          Managing Company of           subject to the                          PAGE NUMBER AND
+                          Geoinformation Control        EAR. (See Sec.                          4/7/2022].
+                          Systems Holding JSC,          Sec.
+                          a.k.a., the following one     734.9(g),\3\
+                          alias:                        746.8(a)(3), and
+                         --AGAT--Control Systems.       744.21(b) of the
+                         117/1 Nezavisimosti Ave.,      EAR).
+                          Minsk, 220114, Belarus.
+                         Agat-Electromechanical Plant  For all items       Policy of Denial..  87 FR [INSERT FR
+                          OJSC, a.k.a., the following   subject to the                          PAGE NUMBER AND
+                          two aliases:                  EAR. (See Sec.                          4/7/2022].
+                         --JSC Agat Electromechanical   Sec.
+                          Plant; and                    734.9(g),\3\
+                         --Agat-Elektromekhanicheski    746.8(a)(3), and
+                          Zavod.                        744.21(b) of the
+                         6 Volgogradskaya St., Minsk,   EAR).
+                          220012, Belarus; and 117,
+                          Bld. 3, Nezavisimosti Ave.,
+                          Minsk 220114, Belarus.
+                         AGAT-SYSTEM, 51B Francyska    For all items       Policy of Denial..  87 FR [INSERT FR
+                          Skaryna St., Minsk, 220141,   subject to the                          PAGE NUMBER AND
+                          Belarus.                      EAR. (See Sec.                          4/7/2022].
+                                                        Sec.
+                                                        734.9(g),\3\
+                                                        746.8(a)(3), and
+                                                        744.21(b) of the
+                                                        EAR).
+                         ATE-Engineering LLC, 15A      For all items       Policy of Denial..  87 FR [INSERT FR
+                          Smolenskaya St., Minsk,       subject to the                          PAGE NUMBER AND
+                          220088, Belarus.              EAR. (See Sec.                          4/7/2022].
+                                                        Sec.
+                                                        734.9(g),\3\
+                                                        746.8(a)(3), and
+                                                        744.21(b) of the
+                                                        EAR).
+                                                                * * * * * *
+                         BelOMO Holding, a.k.a., the   For all items       Policy of Denial..  87 FR [INSERT FR
+                          following one alias:          subject to the                          PAGE NUMBER AND
+                         --The Belarusian Optical and   EAR. (See Sec.                          4/7/2022].
+                          Mechanical Association.       Sec.
+                         23 Makaenka St., Minsk,        734.9(g),\3\
+                          220114, Belarus.              746.8(a)(3), and
+                                                        744.21(b) of the
+                                                        EAR).
+                         Belspetsyneshtechnika SFTUE,  For all items       Policy of Denial..  87 FR [INSERT FR
+                          a.k.a., the following two     subject to the                          PAGE NUMBER AND
+                          aliases:                      EAR. (See Sec.                          4/7/2022].
+                         --State-Owned Foreign Trade    Sec.
+                          Unitary Enterprise            734.9(g),\3\
+                          Belspetsvneshtechnika; and    746.8(a)(3), and
+                         --BSVT.                        744.21(b) of the
+                         8 Kalinovsky St., Minks,       EAR).
+                          220103, Belarus.
+                         Beltechexport, CJSC, 86-B     For all items       Policy of Denial..  87 FR [INSERT FR
+                          Nezavisimosti Ave., Minks,    subject to the                          PAGE NUMBER AND
+                          220012, Belarus.              EAR. (See Sec.                          4/7/2022].
+                                                        Sec.
+                                                        734.9(g),\3\
+                                                        746.8(a)(3), and
+                                                        744.21(b) of the
+                                                        EAR).
+                         BSVT-New Technologies, 187    For all items       Policy of Denial..  87 FR [INSERT FR
+                          Soltysa Street, Minsk,        subject to the                          PAGE NUMBER AND
+                          Belarus.                      EAR. (See Sec.                          4/7/2022].
+                                                        Sec.
+                                                        734.9(g),\3\
+                                                        746.8(a)(3), and
+                                                        744.21(b) of the
+                                                        EAR).
+
+[[Page 20301]]
+
+ 
+                         Department of Internal        For all items       Policy of Denial..  87 FR [INSERT FR
+                          Affairs of the Gomel Region   subject to the                          PAGE NUMBER AND
+                          Executive Committee,          EAR. (See Sec.                          4/7/2022].
+                          a.k.a., the following one     Sec.
+                          alias:                        734.9(g),\3\
+                         --UVD of the Gomel Region      746.8(a)(3), and
+                          Executive Committee.          744.21(b) of the
+                         3 Kommunarov Street, Gomel,    EAR).
+                          246050, Belarus.
+                         Internal Troops of The        For all items       Policy of Denial..  87 FR [INSERT FR
+                          Ministry of Internal          subject to the                          PAGE NUMBER AND
+                          Affairs of the Republic of    EAR. (See Sec.                          4/7/2022].
+                          Belarus, a.k.a., the          Sec.
+                          following one alias:          734.9(g),\3\
+                         --MVD Internal Troops.         746.8(a)(3), and
+                         4 Gorodskoi Val, Minsk,        744.21(b) of the
+                          220030, Belarus.              EAR).
+                                                                * * * * * *
+                         KGB Alpha, a.k.a., the        For all items       Policy of Denial..  87 FR [INSERT FR
+                          following three aliases:      subject to the                          PAGE NUMBER AND
+                         --the State Security           EAR. (See Sec.                          4/7/2022].
+                          Committee Alpha;              Sec.
+                         --Alpha Group; and             734.9(g),\3\
+                         --Group A.                     746.8(a)(3), and
+                         Belarus.                       744.21(b) of the
+                                                        EAR).
+                         Kidma Tech OJSC, a.k.a., the  For all items       Policy of Denial..  87 FR [INSERT FR
+                          following two aliases:        subject to the                          PAGE NUMBER AND
+                         --BSVT-New Technologies; and   EAR. (See Sec.                          4/7/2022].
+                         --BSVT-NT.                     Sec.
+                         187 Soltysa Street, Minsk,     734.9(g),\3\
+                          220070, Belarus; and 5/1      746.8(a)(3), and
+                          Ustenskiy Selsovyet,          744.21(b) of the
+                          Orshanskiy Region,            EAR).
+                          Vitebskaya Oblast, Ag.
+                          Ustye, 211003, Belarus.
+                         Minotor-Service, a.k.a., the  For all items       Policy of Denial..  87 FR [INSERT FR
+                          following one alias:          subject to the                          PAGE NUMBER AND
+                         --Industrial-Commercial        EAR. (See Sec.                          4/7/2022].
+                          Private Unitary Enterprise    Sec.
+                          Minotor-Service.              734.9(g),\3\
+                         40 Radialnaya St., Minsk,      746.8(a)(3), and
+                          220070, Belarus.              744.21(b) of the
+                                                        EAR).
+                         Minsk Wheeled Tractor Plant,  For all items       Policy of Denial..  87 FR [INSERT FR
+                          a.k.a., the following two     subject to the                          PAGE NUMBER AND
+                          aliases:                      EAR. (See Sec.                          4/7/2022].
+                         --MZKT; and                    Sec.
+                         --Production Republican        734.9(g),\3\
+                          Unitary Enterprise Minsk      746.8(a)(3), and
+                          Wheeled Tractor Plant.        744.21(b) of the
+                         150 Partizansky Avenue,        EAR).
+                          Minsk, 220021, Belarus.
+                                                                * * * * * *
+                         Oboronnye Initsiativy LLC,    For all items       Policy of Denial..  87 FR [INSERT FR
+                          a.k.a., the following one     subject to the                          PAGE NUMBER AND
+                          alias:                        EAR. (See Sec.                          4/7/2022].
+                         --LLC Defense Initiatives.     Sec.
+                         18 1st Lane F. Skaryna,        734.9(g),\3\
+                          Minsk, 220070, Belarus.       746.8(a)(3), and
+                                                        744.21(b) of the
+                                                        EAR).
+                         OJS KB Radar Managing         For all items       Policy of Denial..  87 FR [INSERT FR
+                          Company, a.k.a., the          subject to the                          PAGE NUMBER AND
+                          following two aliases:        EAR. (See Sec.                          4/7/2022].
+                         --JSC KB Radar; and            Sec.
+                         -- KB Radar.                   734.9(g),\3\
+                         64A Partizanskyi Prospect,     746.8(a)(3), and
+                          Minsk, 220026, Belarus.       744.21(b) of the
+                                                        EAR).
+                         Peleng JSC, 25 Makaenka St.,  For all items       Policy of Denial..  87 FR [INSERT FR
+                          Minsk, 220114, Belarus.       subject to the                          PAGE NUMBER AND
+                                                        EAR. (See Sec.                          4/7/2022].
+                                                        Sec.
+                                                        734.9(g),\3\
+                                                        746.8(a)(3), and
+                                                        744.21(b) of the
+                                                        EAR).
+                                                                * * * * * *
+                         State Authority for Military  For all items       Policy of Denial..  87 FR [INSERT FR
+                          Industry of the Republic of   subject to the                          PAGE NUMBER AND
+                          Belarus, 115 Nezavisimosti    EAR. (See Sec.                          4/7/2022].
+                          Avenue, Minsk, 220114,        Sec.
+                          Belarus.                      734.9(g),\3\
+                                                        746.8(a)(3), and
+                                                        744.21(b) of the
+                                                        EAR).
+                         State Security Committee of   For all items       Policy of Denial..  87 FR [INSERT FR
+                          the Republic of Belarus, 17   subject to the                          PAGE NUMBER AND
+                          Nezavisimosti Avenue,         EAR. (See Sec.                          4/7/2022].
+                          Minsk, 220030, Belarus.       Sec.
+                                                        734.9(g),\3\
+                                                        746.8(a)(3), and
+                                                        744.21(b) of the
+                                                        EAR).
+                                                                * * * * * *
+
+[[Page 20302]]
+
+ 
+                         Transaviaexport Airlines      For all items       Policy of Denial..  87 FR [INSERT FR
+                          JSC, 44 Zakhariva Street,     subject to the                          PAGE NUMBER AND
+                          Minsk, 220034, Republic of    EAR. (See Sec.                          4/7/2022].
+                          Belarus.                      Sec.
+                                                        734.9(g),\3\
+                                                        746.8(a)(3), and
+                                                        744.21(b) of the
+                                                        EAR).
+                                                                * * * * * *
+                         Volatavto OJSC, a.k.a., the   For all items       Policy of Denial..  87 FR [INSERT FR
+                          following one alias:          subject to the                          PAGE NUMBER AND
+                         --NPP VOLATauto.               EAR. (See Sec.                          4/7/2022].
+                         2/1 Kulman St., Office 1-      Sec.
+                          143, Minsk, 220013,           734.9(g),\3\
+                          Belarus; and 133 Socialist    746.8(a)(3), and
+                          Street, Slutsk, Minsk         744.21(b) of the
+                          Region, 223610, Belarus.      EAR).
+----------------------------------------------------------------------------------------------------------------
+ 
+                                                  * * * * * * *
+----------------------------------------------------------------------------------------------------------------
+RUSSIA.................  5th Shipyard, a.k.a., the     For all items       Policy of Denial..  87 FR [INSERT FR
+                          following three aliases:      subject to the                          PAGE NUMBER AND
+                         --5-y Sudoremontnyy Zavod;     EAR. (See Sec.                          4/7/2022].
+                         --5 SRZ; and                   Sec.
+                         --JSC GF 5 SRZ JSC TsS         734.9(g),\3\
+                          Zvezdochka.                   746.8(a)(3), and
+                         67 Lenina Street, Port,        744.21(b) of the
+                          Temryuk, Krasnodarskiy        EAR).
+                          Kray, 353500, Russia.
+                                                                * * * * * *
+                         46th TSNII Central            For all items       Policy of Denial..  87 FR [INSERT FR
+                          Scientific Research           subject to the                          PAGE NUMBER AND
+                          Institute, a.k.a., the        EAR. (See Sec.                          4/7/2022].
+                          following two aliases:        744.11 of the
+                         --46 TsNII; and                EAR).
+                         --46 TsNII MO RF.
+                         10 Chukotskiy Proyezd,
+                          Moscow, 129327, Russia.
+                                                                * * * * * *
+                         Alagir Resistor Factory,      For all items       Policy of Denial..  87 FR [INSERT FR
+                          a.k.a., the following one     subject to the                          PAGE NUMBER AND
+                          alias:                        EAR. (See Sec.                          4/7/2022].
+                         --Alagirsky Resistor           Sec.
+                          Factory.                      734.9(g),\3\
+                         202 L. Tolstogo Street,        746.8(a)(3), and
+                          Alagir, Alagirsky District,   744.21(b) of the
+                          Severnaya Ossetia-Alania      EAR).
+                          Republic, Russia, 363240.
+                                                                * * * * * *
+                         All Russia Scientific         For all items       Policy of Denial..  87 FR [INSERT FR
+                          Research Institute of         subject to the                          PAGE NUMBER AND
+                          Optical Physical              EAR. (See Sec.                          4/7/2022].
+                          Measurements, a.k.a., the     744.11 of the
+                          following two aliases:        EAR).
+                         --All-Russian Research
+                          Institute for Optical and
+                          Physical Measurements
+                          Federal State Unitary
+                          Enterprise; and
+                         --FSUE VNIIOFI.
+                         46 Ozernaya St., Moscow,
+                          119361, Russia.
+                         All-Russian Scientific-       For all items       Policy of Denial..  87 FR [INSERT FR
+                          Research Institute Etalon     subject to the                          PAGE NUMBER AND
+                          JSC, a.k.a., the following    EAR. (See Sec.                          4/7/2022].
+                          one alias:                    Sec.
+                         --VNII Etalon JSC.             734.9(g),\3\
+                         19/1 1st Yamskogo Polya St.,   746.8(a)(3), and
+                          Moscow, 125124, Russia.       744.21(b) of the
+                                                        EAR).
+                                                                * * * * * *
+                         Almaz JSC, a.k.a., the        For all items       Policy of Denial..  87 FR [INSERT FR
+                          following one alias:          subject to the                          PAGE NUMBER AND
+                         --Almaz.                       EAR. (See Sec.                          4/7/2022].
+                         16 Tupoleva Street, Rostov-    Sec.
+                          na-Donu, Rostovskaya          734.9(g),\3\
+                          Oblast, 344093, Russia.       746.8(a)(3), and
+                                                        744.21(b) of the
+                                                        EAR).
+                                                                * * * * * *
+                         Arzam Scientific Production   For all items       Policy of Denial..  87 FR [INSERT FR
+                          Enterprise Temp Avia,         subject to the                          PAGE NUMBER AND
+                          a.k.a., the following three   EAR. (See Sec.                          4/7/2022].
+                          aliases:                      744.11 of the
+                         --OKB Temp;                    EAR).
+                         --Temp-Avia Arzamas Research
+                          and Production Association
+                          JSC; and
+                         --ANPP Temp-Avia.
+                         26 Kirova St., Arzamas,
+                          607220, Russia.
+                                                                * * * * * *
+
+[[Page 20303]]
+
+ 
+                         Automated Procurement System  For all items       Policy of Denial..  87 FR [INSERT FR
+                          for State Defense Orders,     subject to the                          PAGE NUMBER AND
+                          LLC, a.k.a., the following    EAR. (See Sec.                          4/7/2022].
+                          one alias:                    744.11 of the
+                         --AST GOZ LLC.                 EAR).
+                         78/1 Profsoyuznaya St.,
+                          Moscow, 117393, Russia.
+                                                                * * * * * *
+                         Dolgoprudniy Design Bureau    For all items       Policy of Denial..  87 FR [INSERT FR
+                          of Automatics, a.k.a., the    subject to the                          PAGE NUMBER AND
+                          following three aliases:      EAR. (See Sec.                          4/7/2022].
+                         --DKBA JSC;                    Sec.
+                         --Dolgoprudny; and             734.9(g),\3\
+                         --Dolgoprudno Design Bureau    746.8(a)(3), and
+                          of Automation.                744.21(b) of the
+                         Lyotnaya Street,               EAR).
+                          Dolgoprudniy, Moskovskaya
+                          Oblast, 141700, Russia.
+                                                                * * * * * *
+                         Electronic Computing          For all items       Policy of Denial..  87 FR [INSERT FR
+                          Technology Scientific-        subject to the                          PAGE NUMBER AND
+                          Research Center, a.k.a.,      EAR. (See Sec.                          4/7/2022].
+                          the following one alias:      Sec.
+                         --NICEVEY.                     734.9(g),\3\
+                         125 Varshavskoye Highway,      746.8(a)(3), and
+                          Moscow, 117587, Russia.       744.21(b) of the
+                                                        EAR).
+                         Electrosignal JSC,            For all items       Policy of Denial..  87 FR [INSERT FR
+                          Electrosignalnaya Street,     subject to the                          PAGE NUMBER AND
+                          Voronezh, Voronezhskaya       EAR. (See Sec.                          4/7/2022].
+                          Oblast, 394026, Russia.       Sec.
+                                                        734.9(g),\3\
+                                                        746.8(a)(3), and
+                                                        744.21(b) of the
+                                                        EAR).
+                                                                * * * * * *
+                         Engineering Center            For all items       Policy of Denial..  87 FR [INSERT FR
+                          Moselectronproekt, a.k.a.,    subject to the                          PAGE NUMBER AND
+                          the following two aliases:    EAR. (See Sec.                          4/7/2022].
+                         --Moselectronproekt (JSC);     744.11 of the
+                          and                           EAR).
+                         --MosEP JSC.
+                         12 Kosmonavta Volkova St.,
+                          Room 22, Moscow, 127299,
+                          Russia.
+                         Etalon Scientific and         For all items       Policy of Denial..  87 FR [INSERT FR
+                          Production Association,       subject to the                          PAGE NUMBER AND
+                          a.k.a., the following one     EAR. (See Sec.                          4/7/2022].
+                          alias:                        744.11 of the
+                         --NPO Etalon.                  EAR).
+                         3 Tsentralny Proezd,
+                          Dobryanka, Perm Territory,
+                          Russia.
+                                                                * * * * * *
+                         Evgeny Krayushin, Building    For all items       Policy of Denial..  87 FR [INSERT FR
+                          41, 3 Zheleznodorozhniy       subject to the                          PAGE NUMBER AND
+                          Lane, Dmitrov, Moscow,        EAR. (See Sec.                          4/7/2022].
+                          Russia; and 9                 744.11 of the
+                          Melitopolskaya ul., Str. 3,   EAR).
+                          Moscow, Russia.
+                                                                * * * * * *
+                         Far-East Factory Zvezda,      For all items       Policy of Denial..  87 FR [INSERT FR
+                          a.k.a., the following one     subject to the                          PAGE NUMBER AND
+                          alias:                        EAR. (See Sec.                          4/7/2022].
+                         --AO FEP Zvezda.               744.11 of the
+                         1 Stepan Lebedev St.,          EAR).
+                          Bolshoy Kamen, Primorsky
+                          krai, 692801, Russia.
+                                                                * * * * * *
+                         Federal Center for Dual-Use   For all items       Policy of Denial..  87 FR [INSERT FR
+                          Technology (FTsDT) Soyuz,     subject to the                          PAGE NUMBER AND
+                          a.k.a., the following one     EAR. (See Sec.                          4/7/2022].
+                          alias:                        744.11 of the
+                         --FSUE FCDT Soyuz.             EAR).
+                         42 Academician Zhukov St.,
+                          Dzerzhinsky, 140090,
+                          Russia.
+                                                                * * * * * *
+                         Foreign Trade Association     For all items       Policy of Denial..  87 FR [INSERT FR
+                          Mashpriborintorg, a.k.a.,     subject to the                          PAGE NUMBER AND
+                          the following one alias:      EAR. (See Sec.                          4/7/2022].
+                         --FTA Mashpriborintorg JSC.    744.11 of the
+                         3 Sherbakovskaya St.,          EAR).
+                          Moscow, 105318, Russia.
+                                                                * * * * * *
+
+[[Page 20304]]
+
+ 
+                         Ineko LLC, a.k.a., the        For all items       Policy of Denial..  87 FR [INSERT FR
+                          following one alias:          subject to the                          PAGE NUMBER AND
+                         --OOO Ineko.                   EAR. (See Sec.                          4/7/2022].
+                         Building 41, 3                 744.11 of the
+                          Zheleznodorozhniy Lane,       EAR).
+                          Dmitrov, Moscow, Russia;
+                          and 9 Melitopolskaya ul.,
+                          Str. 3, Moscow, Russia.
+                         Informakustika JSC, 22A       For all items       Policy of Denial..  87 FR [INSERT FR
+                          Polytechnic St., St.          subject to the                          PAGE NUMBER AND
+                          Petersburg, 194021, Russia.   EAR. (See Sec.                          4/7/2022].
+                                                        744.11 of the
+                                                        EAR).
+                                                                * * * * * *
+                         Institute of High Energy      For all items       Policy of Denial..  87 FR [INSERT FR
+                          Physics, a.k.a., the          subject to the                          PAGE NUMBER AND
+                          following two aliases:        EAR. (See Sec.                          4/7/2022].
+                         --IHEP; and                    744.11 of the
+                         --Kurchatovskiy Institute      EAR).
+                          ITEF.
+                         1/1 Pobeda St., Science
+                          Square, Protvino
+                          Moskovskaya Oblast, 142281,
+                          Russia.
+                         Institute of Theoretical and  For all items       Policy of Denial..  87 FR [INSERT FR
+                          Experimental Physics,         subject to the                          PAGE NUMBER AND
+                          a.k.a., the following three   EAR. (See Sec.                          4/7/2022].
+                          aliases:                      744.11 of the
+                         --ITEP;                        EAR).
+                         --ITEF; and
+                         --Kurchatovskiy Institute
+                          ITEF.
+                         25 Bolshaya
+                          Cheremushkinskaya St.,
+                          117218; and 24
+                          Sevastopolskiy Avenue,
+                          Moscow, 117186, Russia.
+                                                                * * * * * *
+                         Inteltech PJSC, a.k.a., the   For all items       Policy of Denial..  87 FR [INSERT FR
+                          following three aliases:      subject to the                          PAGE NUMBER AND
+                         --Information                  EAR. (See Sec.                          4/7/2022].
+                          Telecommunications            Sec.
+                          Technology PJSC;              734.9(g),\3\
+                         --Inteltech; and               746.8(a)(3), and
+                         --Inteltekh.                   744.21(b) of the
+                         Electrosignalnaya Street,      EAR).
+                          Voronezh, Voronezhskaya
+                          Oblast, 394026, Russia.
+                                                                * * * * * *
+                         ISE SO RAN Institute of High- For all items       Policy of Denial..  87 FR [INSERT FR
+                          Current Electronics,          subject to the                          PAGE NUMBER AND
+                          a.k.a., the following three   EAR. (See Sec.                          4/7/2022].
+                          aliases:                      744.11 of the
+                         --Institute of High Current    EAR).
+                          Electronics Siberian Branch
+                          Russian Academy of Science
+                         --IHCE; and
+                         --IHCE SB RAS.
+                         2/3 Prospekt
+                          Akeademicheskiy, Tomsk,
+                          634055, Russia.
+                                                                * * * * * *
+                         Joint Stock Company NPO       For all items       Policy of Denial..  87 FR [INSERT FR
+                          Elektromechaniki, a.k.a.,     subject to the                          PAGE NUMBER AND
+                          the following one alias:      EAR. (See Sec.                          4/7/2022].
+                         --JSC Scientific and           Sec.
+                          Production Association of     734.9(g),\3\
+                          Electro Mechanic.             746.8(a)(3), and
+                         31 Mendeleeva street, Miass,   744.21(b) of the
+                          Chelyabinsk Region, 456320,   EAR).
+                          Russia.
+                                                                * * * * * *
+                         JSC Energiya, 1 Elektrik      For all items       Policy of Denial..  87 FR [INSERT FR
+                          St., Yelets, Lipetskaya       subject to the                          PAGE NUMBER AND
+                          Oblast, 399775, Russia.       EAR. (See Sec.                          4/7/2022].
+                                                        744.11 of the
+                                                        EAR).
+                                                                * * * * * *
+                         Kaluga Scientific-Research    For all items       Policy of Denial..  87 FR [INSERT FR
+                          Institute of Telemechanical   subject to the                          PAGE NUMBER AND
+                          Devices JSC, a.k.a., the      EAR. (See Sec.                          4/7/2022].
+                          following one alias:          744.11 of the
+                         --KNIITMU JSC.                 EAR).
+                         4 Karla Marksa St., Kaluga,
+                          248000, Russia.
+                                                                * * * * * *
+                         Kulon Scientific-Research     For all items       Policy of Denial..  87 FR [INSERT FR
+                          Institute JSC, a.k.a., the    subject to the                          PAGE NUMBER AND
+                          following one alias:          EAR. (See Sec.                          4/7/2022].
+                         --NII Kulon JSC.               Sec.
+                         14 Murmankiv proezd, Moscow,   734.9(g),\3\
+                          129075, Russia.               746.8(a)(3), and
+                                                        744.21(b) of the
+                                                        EAR).
+
+[[Page 20305]]
+
+ 
+                                                                * * * * * *
+                         Lutch Design Office JSC,      For all items       Policy of Denial..  87 FR [INSERT FR
+                          a.k.a., the following three   subject to the                          PAGE NUMBER AND
+                          aliases:                      EAR. (See Sec.                          4/7/2022].
+                         --Lutch Design Bureau JCS;     Sec.
+                         --Lutch JSC; and               734.9(g),\3\
+                         --KB-Lutch.                    746.8(a)(3), and
+                         25 Pobeda Blvd. Rybinsk,       744.21(b) of the
+                          Yaroslavskaya Oblast,         EAR).
+                          152920, Russia.
+                                                                * * * * * *
+                         Meteor Plant JSC, 1 Gorky     For all items       Policy of Denial..  87 FR [INSERT FR
+                          St., Volzhkiy, Volgograd      subject to the                          PAGE NUMBER AND
+                          Oblast, 404130, Russia.       EAR. (See Sec.                          4/7/2022].
+                                                        Sec.
+                                                        734.9(g),\3\
+                                                        746.8(a)(3), and
+                                                        744.21(b) of the
+                                                        EAR).
+                                                                * * * * * *
+                         Moscow Communications         For all items       Policy of Denial..  87 FR [INSERT FR
+                          Research Institute JSC,       subject to the                          PAGE NUMBER AND
+                          a.k.a., the following one     EAR. (See Sec.                          4/7/2022].
+                          alias:                        Sec.
+                         --MNIIS JSC.                   734.9(g),\3\
+                         34 Kutuzovsky prospect,        746.8(a)(3), and
+                          Moscow, Russia, 121170; and   744.21(b) of the
+                          3/2 Kirovogradsky proezd,     EAR).
+                          Moscow, 109044, Russia.
+                                                                * * * * * *
+                         Moscow Order of the Red       For all items       Policy of Denial..  87 FR [INSERT FR
+                          Banner of Labor Research      subject to the                          PAGE NUMBER AND
+                          Radio Engineering Institute   EAR. (See Sec.                          4/7/2022].
+                          JSC, a.k.a., the following    Sec.
+                          one alias:                    734.9(g),\3\
+                         --MNIRTI JSC.                  746.8(a)(3), and
+                         2/1 Boshoy Trehsvyatitelskiy   744.21(b) of the
+                          per., Moscow, 109028,         EAR).
+                          Russia.
+                                                                * * * * * *
+                         OJSC Pella Shipyard, a.k.a.,  For all items       Policy of Denial..  87 FR [INSERT FR
+                          the following one alias:      subject to the                          PAGE NUMBER AND
+                         --OJSC Leningrad Shipyard      EAR. (See Sec.                          4/7/2022].
+                          Pella.                        744.11 of the
+                         4 Tsentralnaya St., Kirovski   EAR).
+                          raion, Otradnoe,
+                          Leningradskaya Obl.,
+                          187330, Russia.
+                                                                * * * * * *
+                         Omsk Production Union Irtysh  For all items       Policy of Denial..  87 FR [INSERT FR
+                          JSC, a.k.a., the following    subject to the                          PAGE NUMBER AND
+                          one alias:                    EAR. (See Sec.                          4/7/2022].
+                         --OmPO Irtysh.                 Sec.
+                         18 Gurt'yeva St., Omsk,        734.9(g),\3\
+                          644060, Russia.               746.8(a)(3), and
+                                                        744.21(b) of the
+                                                        EAR).
+                         Omsk Scientific-Research      For all items       Policy of Denial..  87 FR [INSERT FR
+                          Institute of Instrument       subject to the                          PAGE NUMBER AND
+                          Engineering JSC, a.k.a.,      EAR. (See Sec.                          4/7/2022].
+                          the following one alias:      Sec.
+                         --JSC ONIP.                    734.9(g),\3\
+                         231 Maslennikova St., Omsk,    746.8(a)(3), and
+                          644009, Russia.               744.21(b) of the
+                                                        EAR).
+                                                                * * * * * *
+                         Optron JSC, 53                For all items       Policy of Denial..  87 FR [INSERT FR
+                          Sherbakovskaya St., Office    subject to the                          PAGE NUMBER AND
+                          37, Moscow, 105187, Russia.   EAR. (See Sec.                          4/7/2022].
+                                                        Sec.
+                                                        734.9(g),\3\
+                                                        746.8(a)(3), and
+                                                        744.21(b) of the
+                                                        EAR).
+                                                                * * * * * *
+                         Polyot Chelyabinsk Radio      For all items       Policy of Denial..  87 FR [INSERT FR
+                          Plant JSC, a.k.a., the        subject to the                          PAGE NUMBER AND
+                          following one alias:          EAR. (See Sec.                          4/7/2022].
+                         --ChRZ Polyot (flight) JSC.    Sec.
+                         6 Ternopol'skaya St.,          734.9(g),\3\
+                          Chelyabinsk, 454126,          746.8(a)(3), and
+                          Russia.                       744.21(b) of the
+                                                        EAR).
+                                                                * * * * * *
+                         Pskov Distance                For all items       Policy of Denial..  87 FR [INSERT FR
+                          Communications Equipment      subject to the                          PAGE NUMBER AND
+                          Plant, a.k.a., the            EAR. (See Sec.                          4/7/2022].
+                          following two aliases:        Sec.
+                         --Pskov Plant ADS JSC; and     734.9(g),\3\
+                         --Pskov Distance               746.8(a)(3), and
+                          Communications Equipment      744.21(b) of the
+                          (ADS) Plant JSC.              EAR).
+                         4 Yuri Gagarin Street,
+                          Pskov, Pskovskaya Oblast,
+                          180004, Russia.
+                                                                * * * * * *
+
+[[Page 20306]]
+
+ 
+                         Radiozavod JSC, 1 Baydukova   For all items       Policy of Denial..  87 FR [INSERT FR
+                          Street, Penza, Penzenskaya    subject to the                          PAGE NUMBER AND
+                          Oblast, 440015, Russia.       EAR. (See Sec.                          4/7/2022].
+                                                        Sec.
+                                                        734.9(g),\3\
+                                                        746.8(a)(3), and
+                                                        744.21(b) of the
+                                                        EAR).
+                                                                * * * * * *
+                         Razryad JSC, 233 Kosta        For all items       Policy of Denial..  87 FR [INSERT FR
+                          Avenue, Vladikavkaz,          subject to the                          PAGE NUMBER AND
+                          Severnaya Ossetia-Alania      EAR. (See Sec.                          4/7/2022].
+                          Republic, 362035, Russia.     Sec.
+                                                        734.9(g),\3\
+                                                        746.8(a)(3), and
+                                                        744.21(b) of the
+                                                        EAR).
+                                                                * * * * * *
+                         Research Production           For all items       Policy of Denial..  87 FR [INSERT FR
+                          Association Mars, a.k.a.,     subject to the                          PAGE NUMBER AND
+                          the following two aliases:    EAR. (See Sec.                          4/7/2022].
+                         --RPA Mars; and                Sec.
+                         --NPO Mars.                    734.9(g),\3\
+                         20 Solnechnaya Street,         746.8(a)(3), and
+                          Ulyanovsk, 432022, Russia.    744.21(b) of the
+                                                        EAR).
+                                                                * * * * * *
+                         Ryazan Radio-Plant, 11        For all items       Policy of Denial..  87 FR [INSERT FR
+                          Lermontova Street, Ryazan,    subject to the                          PAGE NUMBER AND
+                          Ryazanskaya Oblast, 390023,   EAR. (See Sec.                          4/7/2022].
+                          Russia.                       Sec.
+                                                        734.9(g),\3\
+                                                        746.8(a)(3), and
+                                                        744.21(b) of the
+                                                        EAR).
+                                                                * * * * * *
+                         Scientific-Production         For all items       Policy of Denial..  87 FR [INSERT FR
+                          Association and Scientific-   subject to the                          PAGE NUMBER AND
+                          Research Institute of Radio-  EAR. (See Sec.                          4/7/2022].
+                          Components, a.k.a., the       Sec.
+                          following one alias:          734.9(g),\3\
+                         --NIIRK.                       746.8(a)(3), and
+                         3 Krymsky Val Street,          744.21(b) of the
+                          Building 1, Office 1,         EAR).
+                          Moscow, 119049, Russia.
+                         Scientific Production Center  For all items       Policy of Denial..  87 FR [INSERT FR
+                          Vigstar JSC, a.k.a., the      subject to the                          PAGE NUMBER AND
+                          following two aliases:        EAR. (See Sec.                          4/7/2022].
+                         --AO Nauchno-                  744.11 of the
+                          proizvodstvennyy tsentr       EAR).
+                          Vigstar; and
+                         --JSC SRC Vigstar.
+                         8 1st Dorozhnyy proyezd,
+                          Moscow, 117545, Russia.
+                         Scientific-Production         For all items       Policy of Denial..  87 FR [INSERT FR
+                          Enterprise Almaz JSC,         subject to the                          PAGE NUMBER AND
+                          a.k.a., the following one     EAR. (See Sec.                          4/7/2022].
+                          alias:                        Sec.
+                         --JSC NPP Almaz.               734.9(g),\3\
+                         1 I.V. Panfilov St.,           746.8(a)(3), and
+                          Saratov, 410033, Russia.      744.21(b) of the
+                                                        EAR).
+                         Scientific-Production         For all items       Policy of Denial..  87 FR [INSERT FR
+                          Enterprise ``Kant'',          subject to the                          PAGE NUMBER AND
+                          a.k.a., the following two     EAR. (See Sec.                          4/7/2022].
+                          aliases:                      Sec.
+                         --Kant; and                    734.9(g),\3\
+                         --NPP Kant.                    746.8(a)(3), and
+                         12 Talalikhina Street Floor    744.21(b) of the
+                          7, Moscow, 109316, Russia.    EAR).
+                         Scientific Production         For all items       Policy of Denial..  87 FR [INSERT FR
+                          Enterprise ``Radiosviaz'',    subject to the                          PAGE NUMBER AND
+                          a.k.a., the following one     EAR. (See Sec.                          4/7/2022].
+                          alias:                        Sec.
+                         --Radiosviaz.                  734.9(g),\3\
+                         19 Dekabristov Street,         746.8(a)(3), and
+                          Krasnoyarsk, 660021,          744.21(b) of the
+                          Russia.                       EAR).
+                         Scientific-Production         For all items       Policy of Denial..  87 FR [INSERT FR
+                          Enterprise Salyut JSC,        subject to the                          PAGE NUMBER AND
+                          a.k.a., the following one     EAR. (See Sec.                          4/7/2022].
+                          alias:                        744.11 of the
+                         --JSC NPP Salyut.              EAR).
+                         7 Larina St., Nizhny
+                          Novgorod, 603950, Russia.
+                         Scientific-Production         For all items       Policy of Denial..  87 FR [INSERT FR
+                          Enterprise ``Svyaz'',         subject to the                          PAGE NUMBER AND
+                          a.k.a., the following two     EAR. (See Sec.                          4/7/2022].
+                          aliases:                      Sec.
+                         --Svyaz; and                   734.9(g),\3\
+                         --NPP Svyaz.                   746.8(a)(3), and
+                         19 Shkolnaya Street, Yasnaya   744.21(b) of the
+                          Polyana Village, Shekinsky    EAR).
+                          District, Tulskaya Oblast,
+                          301214, Russia.
+
+[[Page 20307]]
+
+ 
+                         Scientific-Production         For all items       Policy of Denial..  87 FR [INSERT FR
+                          Enterprise Volna, a.k.a.,     subject to the                          PAGE NUMBER AND
+                          the following one alias:      EAR. (See Sec.                          4/7/2022].
+                         --NPP Volna.                   Sec.
+                         26 Varshavskoe Highway,        734.9(g),\3\
+                          Moscow, 117105, Russia.       746.8(a)(3), and
+                                                        744.21(b) of the
+                                                        EAR).
+                         Scientific-Production         For all items       Policy of Denial..  87 FR [INSERT FR
+                          Enterprise Vostok JSC,        subject to the                          PAGE NUMBER AND
+                          a.k.a., the following one     EAR. (See Sec.                          4/7/2022].
+                          alias:                        Sec.
+                         --JSC NPP Vostok.              734.9(g),\3\
+                         276, D. Kovalchuk St.,         746.8(a)(3), and
+                          Novosibirsk, 630075,          744.21(b) of the
+                          Russia.                       EAR).
+                         Scientific-Research           For all items       Policy of Denial..  87 FR [INSERT FR
+                          Institute and Factory         subject to the                          PAGE NUMBER AND
+                          Platan, a.k.a., the           EAR. (See Sec.                          4/7/2022].
+                          following one alias:          744.11 of the
+                         --NII Platan.                  EAR).
+                         2 Zavodskoy Dr., Fryazino,
+                          Moscow oblast, 141190,
+                          Russia.
+                         Scientific-Research           For all items       Policy of Denial..  87 FR [INSERT FR
+                          Institute ``Argon'',          subject to the                          PAGE NUMBER AND
+                          a.k.a., the following two     EAR. (See Sec.                          4/7/2022].
+                          aliases:                      Sec.
+                         --Argon Scientific-Research    734.9(g),\3\
+                          Institute JSC; and            746.8(a)(3), and
+                         --NII Argon JSC.               744.21(b) of the
+                         4 Karla Marksa Street,         EAR).
+                          Kaluga, 248000, Russia; and
+                          125 Varshavskoe Shosse,
+                          Building 1, Moscow, 117587,
+                          Russia.
+                         Scientific Research           For all items       Policy of Denial..  87 FR [INSERT FR
+                          Institute Ferrite-Domen,      subject to the                          PAGE NUMBER AND
+                          a.k.a., the following two     EAR. (See Sec.                          4/7/2022].
+                          aliases:                      Sec.
+                         --NII Domen; and               734.9(g),\3\
+                         --Ferrite-Domen Co.            746.8(a)(3), and
+                         25/3B Zvetochnaya St., Room    744.21(b) of the
+                          417, St. Petersburg,          EAR).
+                          196006, Russia.
+                                                                * * * * * *
+                         Scientific-Research           For all items       Policy of Denial..  87 FR [INSERT FR
+                          Institute of Automated        subject to the                          PAGE NUMBER AND
+                          Systems and Communications    EAR. (See Sec.                          4/7/2022].
+                          Complexes Neptune JSC,        Sec.
+                          a.k.a., the following one     734.9(g),\3\
+                          alias:                        746.8(a)(3), and
+                         --NII Neptune JSC.             744.21(b) of the
+                         80-1/A, 7th Line of            EAR).
+                          Vasilyavskiy Island, St.
+                          Petersburg, 199178, Russia.
+                         Scientific Research           For all items       Policy of Denial..  87 FR [INSERT FR
+                          Institute of Communication    subject to the                          PAGE NUMBER AND
+                          Management Systems, a.k.a.,   EAR. (See Sec.                          4/7/2022].
+                          the following two aliases:    Sec.
+                         --NIISU; and                   734.9(g),\3\
+                         --NIISU JSC.                   746.8(a)(3), and
+                         25/3B Zvetochnaya St., Room    744.21(b) of the
+                          417, St. Petersburg,          EAR).
+                          196006, Russia.
+                                                                * * * * * *
+                         Special Design and Technical  For all items       Policy of Denial..  87 FR [INSERT FR
+                          Bureau for Relay              subject to the                          PAGE NUMBER AND
+                          Technology, a.k.a., the       EAR. (See Sec.                          4/7/2022].
+                          following two aliases:        Sec.
+                         --Relay Technology Bureau      734.9(g),\3\
+                          JSC; and                      746.8(a)(3), and
+                         --JSCT SKTB RT.                744.21(b) of the
+                         55 Nehinskaya St., Velikiy     EAR).
+                          Novgorod, 173021, Russia.
+                         Special Design Bureau Salute  For all items       Policy of Denial..  87 FR [INSERT FR
+                          JSC, a.k.a., the following    subject to the                          PAGE NUMBER AND
+                          two aliases:                  EAR. (See Sec.                          4/7/2022].
+                         --OKB Salute JSC; and          744.11 of the
+                         --OKB Salyut JSC.              EAR).
+                         153 Krasniy Pr.,
+                          Novosibirsk, Russia,
+                          630049.
+                                                                * * * * * *
+                         Tactical Missile              For all items       Policy of Denial..  87 FR [INSERT FR
+                          Corporation, 711 Aircraft     subject to the                          PAGE NUMBER AND
+                          Repair Plant (711 ARZ), 18    EAR. (See Sec.                          4/7/2022].
+                          Chkalova Pereulok,            Sec.
+                          Borisoglebsk, Voronezhskaya   734.9(g),\3\
+                          Oblast, 397171, Russia.       746.8(a)(3), and
+                                                        744.21(b) of the
+                                                        EAR).
+
+[[Page 20308]]
+
+ 
+                         Tactical Missile              For all items       Policy of Denial..  87 FR [INSERT FR
+                          Corporation, AO GNPP          subject to the                          PAGE NUMBER AND
+                          ``Region'', a.k.a., the       EAR. (See Sec.                          4/7/2022].
+                          following three aliases:      Sec.
+                         --GNPP Region, PAO;            734.9(g),\3\
+                         --Aktsionernoe Obshchestvo     746.8(a)(3), and
+                          ``Gosudarstvennoe Nauchno-    744.21(b) of the
+                          Proizvodstvennoe              EAR).
+                          Predpriyatie ``Region,'';
+                          and
+                         --``Region'' Scientific &
+                          Production Enterprise JSC.
+                         10 Turaevo I.Z., Lytkarino
+                          City, Moscow Region,
+                          140080, Russia.
+                         Tactical Missile              For all items       Policy of Denial..  87 FR [INSERT FR
+                          Corporation, AO TMKB          subject to the                          PAGE NUMBER AND
+                          ``Soyuz'', a.k.a., the        EAR. (See Sec.                          4/7/2022].
+                          following four aliases:       Sec.
+                         --Turaevskoe MKB ``Soyuz'';    734.9(g),\3\
+                         --Aktsionernoe Obshchestvo     746.8(a)(3), and
+                          Turaevskoe                    744.21(b) of the
+                          Mashinostroitelnoe            EAR).
+                          Konstruktorskoe Byuro
+                          ``Soyuz'';
+                         --Soyuz PAO; and
+                         --JSC ``Turaevskoe Machine-
+                          Building Design Bureau
+                          ``Soyuz.
+                         10 Turaevo I.Z., Lytkarino
+                          City, Moscow Region,
+                          140080, Russia.
+                         Tactical Missile              For all items       Policy of Denial..  87 FR [INSERT FR
+                          Corporation, Azov Optical     subject to the                          PAGE NUMBER AND
+                          and Mechanical Plant,         EAR. (See Sec.                          4/7/2022].
+                          a.k.a., the following three   Sec.
+                          aliases:                      734.9(g),\3\
+                         --PPO Azovski Optiko-          746.8(a)(3), and
+                          Mekhanicheski Zavod;          744.21(b) of the
+                         --Pervichnaya Profsoyuznaya    EAR).
+                          Organizatsiya ``Azovski
+                          Optiko-Mekhanicheski
+                          Zavod'' Rossiskogo
+                          Profsoyuza Rabotnikov
+                          Promyshlennosti; and
+                         --JSC AOMZ).
+                         5 Promyshlennaya Street,
+                          Azov, Rostovskaya Oblast,
+                          346780, Russia.
+                         Tactical Missile              For all items       Policy of Denial..  87 FR [INSERT FR
+                          Corporation, ``Central        subject to the                          PAGE NUMBER AND
+                          Design Bureau of              EAR. (See Sec.                          4/7/2022].
+                          Automation'', a.k.a., the     Sec.
+                          following three aliases:      734.9(g),\3\
+                         -- JSC ``TsKBA'';              746.8(a)(3), and
+                         -- AO ``TsKBA''; and           744.21(b) of the
+                         -- Aktsionernoe Obshchestvo    EAR).
+                          ``Tsentralnoe
+                          Konstruktorskoe Byuro
+                          Avtomatiki''.
+                         24A Kosmicheski Prospekt,
+                          Omsk, Omskaya Oblast,
+                          44027, Russia.
+                         Tactical Missile              For all items       Policy of Denial..  87 FR [INSERT FR
+                          Corporation, Concern ``MPO--  subject to the                          PAGE NUMBER AND
+                          Gidropribor'', a.k.a., the    EAR. (See Sec.                          4/7/2022].
+                          following two aliases:        Sec.
+                         --Joint Stock Company          734.9(g),\3\
+                          Concern Sea Underwater        746.8(a)(3), and
+                          Weapons Gidropribor; and      744.21(b) of the
+                         --Research Institute           EAR).
+                          ``Gidpropridor''; Central
+                          Research Institute
+                          ``Gidropribor''.
+                         24, Sampsonievskiy pr.,
+                          Saint Petersburg, 194044,
+                          Russia.
+                         Tactical Missile              For all items       Policy of Denial..  87 FR [INSERT FR
+                          Corporation, Joint Stock      subject to the                          PAGE NUMBER AND
+                          Company Avangard, 78          EAR. (See Sec.                          4/7/2022].
+                          Oktyabrskaya Street,          Sec.
+                          Safonovo, Smolensk Region,    734.9(g),\3\
+                          215500, Russia.               746.8(a)(3), and
+                                                        744.21(b) of the
+                                                        EAR).
+                         Tactical Missile              For all items       Policy of Denial..  87 FR [INSERT FR
+                          Corporation, Joint Stock      subject to the                          PAGE NUMBER AND
+                          Company Concern Granit-       EAR. (See Sec.                          4/7/2022].
+                          Electron, 3 Gospitalnaya      Sec.
+                          St., St. Petersburg,          734.9(g),\3\
+                          191014, Russia.               746.8(a)(3), and
+                                                        744.21(b) of the
+                                                        EAR).
+
+[[Page 20309]]
+
+ 
+                         Tactical Missile              For all items       Policy of Denial..  87 FR [INSERT FR
+                          Corporation, Joint Stock      subject to the                          PAGE NUMBER AND
+                          Company Elektrotyaga,         EAR. (See Sec.                          4/7/2022].
+                          a.k.a., the following two     Sec.
+                          aliases:                      734.9(g),\3\
+                         --Electric Traction; and       746.8(a)(3), and
+                         --ZAO Elekrotjaga.             744.21(b) of the
+                         50-A Kalinina Str., St.        EAR).
+                          Petersburg, 198095, Russia.
+                         Tactical Missile              For all items       Policy of Denial..  87 FR [INSERT FR
+                          Corporation, Joint Stock      subject to the                          PAGE NUMBER AND
+                          Company GosNIIMash, a.k.a.,   EAR. (See Sec.                          4/7/2022].
+                          the following five aliases:   Sec.
+                         --PPO Rosprofprom V            734.9(g),\3\
+                          ``GOSNIIMASH'';               746.8(a)(3), and
+                         --State Research Institute     744.21(b) of the
+                          of Mechanical Engineering;    EAR).
+                         --Pervichnaya Profsoyuznaya
+                          Organizatsiya Rossiskogo
+                          Profsoyuza Rabotnikov
+                          Promyshlennosti V
+                          ``GOSNIIMASH'';
+                         --Joint Stock Company
+                          ``State Research Institute
+                          of Mechanical Engineering''
+                          named after V.V.
+                          Bakhirev''; and
+                         --SKB DNIKhTI.
+                         11 Sverdlova Prospekt,
+                          Dzerzhinsk, Nizhegorodskaya
+                          Oblast, 606002, Russia.
+                         Tactical Missile              For all items       Policy of Denial..  87 FR [INSERT FR
+                          Corporation, Joint Stock      subject to the                          PAGE NUMBER AND
+                          Company PA Strela, a.k.a.     EAR. (See Sec.                          4/7/2022].
+                          the following one alias:      Sec.
+                         --Production Association       734.9(g),\3\
+                          Strela.                       746.8(a)(3), and
+                         26 Shevchenko Str.,            744.21(b) of the
+                          Orenburg, 460005, Russia.     EAR).
+                         Tactical Missile              For all items       Policy of Denial..  87 FR [INSERT FR
+                          Corporation, Joint Stock      subject to the                          PAGE NUMBER AND
+                          Company ``Plant               EAR. (See Sec.                          4/7/2022].
+                          Dagdiesel'', 1 Lenina         Sec.
+                          Street, Kaspiysk, Republic    734.9(g),\3\
+                          of Dagestan, 368300,          746.8(a)(3), and
+                          Russia.                       744.21(b) of the
+                                                        EAR).
+                         Tactical Missile              For all items       Policy of Denial..  87 FR [INSERT FR
+                          Corporation, Joint Stock      subject to the                          PAGE NUMBER AND
+                          Company Plant Kulakov,        EAR. (See Sec.                          4/7/2022].
+                          a.k.a., the following one     Sec.
+                          alias:                        734.9(g),\3\
+                         --JSC Plant Named After A.A.   746.8(a)(3), and
+                          Kulakov.                      744.21(b) of the
+                         12 Yablochkova Street, St.     EAR).
+                          Petersburg, 197198, Russia.
+                         Tactical Missile              For all items       Policy of Denial..  87 FR [INSERT FR
+                          Corporation, Joint Stock      subject to the                          PAGE NUMBER AND
+                          Company Ravenstvo, a.k.a.,    EAR. (See Sec.                          4/7/2022].
+                          the following one alias:      Sec.
+                         --Joint-Stock Company          734.9(g),\3\
+                          Ravenstvo; Equality.          746.8(a)(3), and
+                         19 Promyshlennaya Street,      744.21(b) of the
+                          St. Petersburg, 198099,       EAR).
+                          Russia.
+                         Tactical Missile              For all items       Policy of Denial..  87 FR [INSERT FR
+                          Corporation, Joint Stock      subject to the                          PAGE NUMBER AND
+                          Company Ravenstvo-service,    EAR. (See Sec.                          4/7/2022].
+                          19 Promyshlennaya Street,     Sec.
+                          St. Petersburg, 198099,       734.9(g),\3\
+                          Russia.                       746.8(a)(3), and
+                                                        744.21(b) of the
+                                                        EAR).
+                         Tactical Missile              For all items       Policy of Denial..  87 FR [INSERT FR
+                          Corporation, Joint-Stock      subject to the                          PAGE NUMBER AND
+                          Company ``Research Center     EAR. (See Sec.                          4/7/2022].
+                          for Automated Design'',       Sec.
+                          a.k.a., following two         734.9(g),\3\
+                          aliases:                      746.8(a)(3), and
+                         --NIC ASK; and                 744.21(b) of the
+                         --ASK JSC.                     EAR).
+                         37 Leningradsky Prospekt,
+                          Room 12, Moscow, 125167,
+                          Russia.
+                         Tactical Missile              For all items       Policy of Denial..  87 FR [INSERT FR
+                          Corporation, Joint Stock      subject to the                          PAGE NUMBER AND
+                          Company ``Salute'', a.k.a.,   EAR. (See Sec.                          4/7/2022].
+                          the following two aliases:    Sec.
+                         --Salyut, PAO; and             734.9(g),\3\
+                         --Kuibyshev Mechanical         746.8(a)(3), and
+                          Plant.                        744.21(b) of the
+                         20 Moskovskoe Shosse,          EAR).
+                          Samara, 443028, Russia.
+
+[[Page 20310]]
+
+ 
+                         Tactical Missile              For all items       Policy of Denial..  87 FR [INSERT FR
+                          Corporation, Joint Stock      subject to the                          PAGE NUMBER AND
+                          Company Saratov Radio         EAR. (See Sec.                          4/7/2022].
+                          Instrument Plant, 108 50      Sec.
+                          Years of October, Saratov,    734.9(g),\3\
+                          410040, Russia.               746.8(a)(3), and
+                                                        744.21(b) of the
+                                                        EAR).
+                         Tactical Missile Corporation  For all items       Policy of Denial..  87 FR [INSERT FR
+                          Joint Stock Company           subject to the                          PAGE NUMBER AND
+                          ``Scientific Research         EAR. (See Sec.                          4/7/2022].
+                          Institute of Marine Heat      Sec.
+                          Engineering'', a.k.a., the    734.9(g),\3\
+                          following one alias:          746.8(a)(3), and
+                         --Research Institute of        744.21(b) of the
+                          Morteplotehniki.              EAR).
+                         44 Chernikova Street,
+                          Lomonosov, St. Petersburg,
+                          198412, Russia.
+                         Tactical Missile              For all items       Policy of Denial..  87 FR [INSERT FR
+                          Corporation, Joint Stock      subject to the                          PAGE NUMBER AND
+                          Company Severny Press,        EAR. (See Sec.                          4/7/2022].
+                          a.k.a., the following one     Sec.
+                          alias:                        734.9(g),\3\
+                         --Northern Press.              746.8(a)(3), and
+                         7 Tallinskaya Street, St.      744.21(b) of the
+                          Petersburg, 195196, Russia.   EAR).
+                         Tactical Missile              For all items       Policy of Denial..  87 FR [INSERT FR
+                          Corporation, Joint Stock      subject to the                          PAGE NUMBER AND
+                          Company ``State Machine       EAR. (See Sec.                          4/7/2022].
+                          Building Design Bureau        Sec.
+                          ``Vympel'' By Name I.I.       734.9(g),\3\
+                          Toropov'', a.k.a., the        746.8(a)(3), and
+                          following two aliases:        744.21(b) of the
+                         --AO Gos MKB ``Vympel''        EAR).
+                          named for II Toropov; and
+                         --Vympel NPO.
+                         90 Voloklamskoe Shosse,
+                          Moscow, 125424, Russia.
+                         Tactical Missile              For all items       Policy of Denial..  87 FR [INSERT FR
+                          Corporation, Joint Stock      subject to the                          PAGE NUMBER AND
+                          Company ``URALELEMENT'',      EAR. (See Sec.                          4/7/2022].
+                          a.k.a., the following one     Sec.
+                          alias:                        734.9(g),\3\
+                         --Verkhneufalei Plant          746.8(a)(3), and
+                          ``Uralelement''.              744.21(b) of the
+                         24 Dmitrieva St., Verkhny      EAR).
+                          Ufaley, Chelyabinsk Region,
+                          456800, Russia.
+                         Tactical Missile Corporation  For all items       Policy of Denial..  87 FR [INSERT FR
+                          JSC ``KRASNY GIDROPRESS'',    subject to the                          PAGE NUMBER AND
+                          a.k.a., the following five    EAR. (See Sec.                          4/7/2022].
+                          aliases:                      Sec.
+                         --Aktsionernoe Obshchestvo     734.9(g),\3\
+                          ``Krasny Gidropress,'';       746.8(a)(3), and
+                         --Krasny Gidropress, PAO;      744.21(b) of the
+                         --Red Hydraulic Press;         EAR).
+                         --Krasny Gidropress JSC; and
+                         --Taganrog Krasnyy
+                          Gidropress Plan.
+                         3 Severnaya Place, Taganrog,
+                          Rostovskaya Oblast, 347928,
+                          Russia.
+                         Tactical Missile              For all items       Policy of Denial..  87 FR [INSERT FR
+                          Corporation, KB               subject to the                          PAGE NUMBER AND
+                          Mashinostroeniya, a.k.a.,     EAR. (See Sec.                          4/7/2022].
+                          the following two aliases:    Sec.
+                         --JSC Research and             734.9(g),\3\
+                          Production Corporation        746.8(a)(3), and
+                          Design Bureau of Mechanical   744.21(b) of the
+                          Engineering; and              EAR).
+                         --JSC NPK KBM.
+                         42 Oksky Prospect, Kolomna,
+                          Moscow Region, 140402,
+                          Russia.
+                         Tactical Missile              For all items       Policy of Denial..  87 FR [INSERT FR
+                          Corporation, NPO              subject to the                          PAGE NUMBER AND
+                          Electromechanics, 31          EAR. (See Sec.                          4/7/2022].
+                          Mendeleev Street,             Sec.
+                          Chelyabinsk Region, 456320,   734.9(g),\3\
+                          Russia.                       746.8(a)(3), and
+                                                        744.21(b) of the
+                                                        EAR).
+                         Tactical Missile              For all items       Policy of Denial..  87 FR [INSERT FR
+                          Corporation, NPO Lightning,   subject to the                          PAGE NUMBER AND
+                          a.k.a., the following one     EAR. (See Sec.                          4/7/2022].
+                          alias:                        Sec.
+                         --Research and Production      734.9(g),\3\
+                          Association Lightning JSC     746.8(a)(3), and
+                          NPO Molniya.                  744.21(b) of the
+                         5K1 Lodochnaya Street,         EAR).
+                          Moscow, Russia.
+                         Tactical Missile              For all items       Policy of Denial..  87 FR [INSERT FR
+                          Corporation, Petrovsky        subject to the                          PAGE NUMBER AND
+                          Electromechanical Plant       EAR. (See Sec.                          4/7/2022].
+                          ``Molot'', 40 Gogol Street,   Sec.
+                          Petrovsk, Saratov Region,     734.9(g),\3\
+                          412541, Russia.               746.8(a)(3), and
+                                                        744.21(b) of the
+                                                        EAR).
+
+[[Page 20311]]
+
+ 
+                         Tactical Missile              For all items       Policy of Denial..  87 FR [INSERT FR
+                          Corporation, PJSC ANPP Temp   subject to the                          PAGE NUMBER AND
+                          Avia, a.k.a., the following   EAR. (See Sec.                          4/7/2022].
+                          six aliases:                  Sec.
+                         --ANPP ``TEMP AVIA'';          734.9(g),\3\
+                         --Public Joint Stock Company   746.8(a)(3), and
+                          ``Arzamas Research and        744.21(b) of the
+                          Production Enterprise'';      EAR).
+                         --TEMP-AVIA;
+                         --ANPP TEMP AIR;
+                         --Joint Stock Company
+                          ``Arzamas Research And
+                          Production Enterprise
+                          ``TEMP-AVIA''; and
+                         --Publichnoe Aktsionernoe
+                          Obshchestvo ``Arzamasskoe
+                          Nauchno-Proizvodstvennoe
+                          Predpriyatie ``TEMP-AVIA''.
+                         26 G. Arzamas G.Arzamas.
+                          Street, Kirov, Nizhny
+                          Novgorod, 607220 Russia.
+                         Tactical Missile              For all items       Policy of Denial..  87 FR [INSERT FR
+                          Corporation, PJSC ``MBDB      subject to the                          PAGE NUMBER AND
+                          ISKRA'', a.k.a., the          EAR. (See Sec.                          4/7/2022].
+                          following two aliases:        Sec.
+                         --Aktsionernoe Obshchestvo     734.9(g),\3\
+                          ``Mashinostroitelnoe          746.8(a)(3), and
+                          Konstruktorskoe Byuro         744.21(b) of the
+                          ``Iskra'' Imeni Ivana         EAR).
+                          Ivanovicha Kartukova''; and
+                         --AO MKB ``ISKRA''.
+                         35 Leningradsky Prospekt,
+                          Moscow, 125284, Russia.
+                         Tactical Missile              For all items       Policy of Denial..  87 FR [INSERT FR
+                          Corporation, Raduga Design    subject to the                          PAGE NUMBER AND
+                          Bureau, a.k.a., the           EAR. (See Sec.                          4/7/2022].
+                          following four aliases:       Sec.
+                         --AO ``GosMKB ``Raduga'' IM.   734.9(g),\3\
+                          A.Ya.Bereznyaka,'';           746.8(a)(3), and
+                         --Joint Stock Company          744.21(b) of the
+                          ``State Machine-Building      EAR).
+                          Design Bureau ``Raduga,'';
+                         --MKB Raduga; and
+                         --GosMKB ``Rainbow'' them.
+                          AND I. Bereznyak.
+                         2A Zhukovskogo, Dubna,
+                          Moscowvskaya Oblast,
+                          141983, Russia.
+                         Tactical Missile              For all items       Policy of Denial..  87 FR [INSERT FR
+                          Corporation, RKB Globus,      subject to the                          PAGE NUMBER AND
+                          a.k.a., the following two     EAR. (See Sec.                          4/7/2022].
+                          aliases:                      Sec.
+                         --JSC Ryazan Design Bureau     734.9(g),\3\
+                          Globus; and                   746.8(a)(3), and
+                         --Federal State Unitary        744.21(b) of the
+                          Enterprise RKB Globus.        EAR).
+                         6 Vysokovoltnaya Street,
+                          Ryazan, 390013, Russia.
+                         Tactical Missile              For all items       Policy of Denial..  87 FR [INSERT FR
+                          Corporation, Smolensk         subject to the                          PAGE NUMBER AND
+                          Aviation Plant, a.k.a., the   EAR. (See Sec.                          4/7/2022].
+                          following one alias:          Sec.
+                         --JSC ``SmAZ''.                734.9(g),\3\
+                         74 Frunze Street, Smolensk,    746.8(a)(3), and
+                          214006, Russia.               744.21(b) of the
+                                                        EAR).
+                         Tactical Missile              For all items       Policy of Denial..  87 FR [INSERT FR
+                          Corporation, TRV              subject to the                          PAGE NUMBER AND
+                          Engineering, a.k.a., the      EAR. (See Sec.                          4/7/2022].
+                          following one alias:          Sec.
+                         --Zvezda-Strela Trading        734.9(g),\3\
+                          House LLC.                    746.8(a)(3), and
+                         2A Ordzhonikidze Street,       744.21(b) of the
+                          Korolev, Moscow Region,       EAR).
+                          Russia.
+
+[[Page 20312]]
+
+ 
+                         Tactical Missile              For all items       Policy of Denial..  87 FR [INSERT FR
+                          Corporation, Ural Design      subject to the                          PAGE NUMBER AND
+                          Bureau ``Detal'', a.k.a.,     EAR. (See Sec.                          4/7/2022].
+                          the following four aliases:   Sec.
+                         --Joint-Stock Company ``Ural   734.9(g),\3\
+                          Design Bureau ``Detal'';      746.8(a)(3), and
+                         --Aktsionernoe Obshchestvo     744.21(b) of the
+                          ``Uralskoe Proektno-          EAR).
+                          Konstruktorskoe Byuro
+                          ``Detal'';
+                         --AO UPKB ``Detal''; and
+                         --Uralskoe Proektno-
+                          Konstruktorskoe Byuro
+                          Detal, Pao.
+                         8 Pionerskaya Street,
+                          Kamensk-Uralski,
+                          Sverdlovskaya Oblast,
+                          623409, Russia.
+                         Tactical Missile              For all items       Policy of Denial..  87 FR [INSERT FR
+                          Corporation, Zvezda-Strela    subject to the                          PAGE NUMBER AND
+                          Limited Liability Company,    EAR. (See Sec.                          4/7/2022].
+                          a.k.a., the following two     Sec.
+                          aliases:                      734.9(g),\3\
+                         --Star Arrow; and              746.8(a)(3), and
+                         --Zvezda-Arrow Corporation.    744.21(b) of the
+                         3 Taganrog Severnaya Square,   EAR).
+                          Rostov Region, 347928,
+                          Russia.
+                                                                * * * * * *
+                         Tambov Plant (TZ)             For all items       Policy of Denial..  87 FR [INSERT FR
+                          ``October'', a.k.a., the      subject to the                          PAGE NUMBER AND
+                          following two aliases:        EAR. (See Sec.                          4/7/2022].
+                         --Tambov Plant (TZ) October    744.11 of the
+                          JSC; and                      EAR).
+                         --JSC Octayabr.
+                         1 Bastionaya Street, Tambov,
+                          Tambovskaya Oblast, 392029,
+                          Russia.
+                                                                * * * * * *
+                         Turayev Machine Building      For all items       Policy of Denial..  87 FR [INSERT FR
+                          Design Bureau Soyuz,          subject to the                          PAGE NUMBER AND
+                          a.k.a., the following one     EAR. (See Sec.                          4/7/2022].
+                          alias:                        744.11 of the
+                         --TMBDB SoyuZ PJSC.            EAR).
+                         10 Turaevo I.Z., Lytkarino,
+                          Moscow Region, 140080,
+                          Russia.
+                                                                * * * * * *
+                         United Shipbuilding           For all items       Policy of Denial..  87 FR [INSERT FR
+                          Corporation ``Production      subject to the                          PAGE NUMBER AND
+                          Association Northern          EAR. (See Sec.                          4/7/2022].
+                          Machine Building              Sec.
+                          Enterprise'', a.k.a., the     734.9(g),\3\
+                          following one alias:          746.8(a)(3), and
+                         --JSC PO Sevmash.              744.21(b) of the
+                         58 Archangelskoye Shosse,      EAR).
+                          Severodvinsk, Archangelsk
+                          Region, 164500, Russia.
+                                                                * * * * * *
+                         Zhukovskiy Central            For all items       Policy of Denial..  87 FR [INSERT FR
+                          Aerohydrodynamics Institute   subject to the                          PAGE NUMBER AND
+                          (TsAGI), a.k.a., the          EAR. (See Sec.                          4/7/2022].
+                          following two aliases:        744.11 of the
+                         --TsAGI; and                   EAR).
+                         --The Central
+                          Aerohydrodynamic Institute
+                          named after N.E. Zhukovsky.
+                         1 Zhukovsky Street,
+                          Zhukovsky, Moscow Region,
+                          140180, Russia.
+                                                                * * * * * *
+----------------------------------------------------------------------------------------------------------------
+ * * * * * * *
+\3\ For this entity, ``items subject to the EAR'' includes foreign-produced items that are subject to the EAR
+  under Sec.   734.9(g) of the EAR. See Sec.  Sec.   746.8 and 744.21 of the EAR for related license
+  requirements, license review policy, and restrictions on license exceptions.
+
+
+Thea D. Rozman Kendler,
+Assistant Secretary for Export Administration.
+[FR Doc. 2022-07284 Filed 4-1-22; 2:30 pm]
+BILLING CODE 3510-33-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

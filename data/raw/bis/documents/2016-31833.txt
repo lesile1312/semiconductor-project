@@ -1,0 +1,695 @@
+<html>
+<head>
+<title>Federal Register, Volume 82 Issue 6 (Tuesday, January 10, 2017)</title>
+</head>
+<body><pre>
+[Federal Register Volume 82, Number 6 (Tuesday, January 10, 2017)]
+[Rules and Regulations]
+[Pages 2883-2889]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2016-31833]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF COMMERCE
+
+Bureau of Industry and Security
+
+15 CFR Part 744
+
+[Docket No. 161221999-6999-01]
+RIN 0694--AH23
+
+
+Addition of Certain Persons and Revisions to Entries on the 
+Entity List; and Removal of a Person From the Entity List
+
+AGENCY: Bureau of Industry and Security, Commerce.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This rule amends the Export Administration Regulations (EAR) 
+by adding five persons to the Entity List. The five persons who are 
+added to the Entity List have been determined by the U.S. Government to 
+be acting contrary to the national security or foreign policy interests 
+of the United States. These five persons will be listed on the Entity 
+List under the destination of Turkey. This final rule also removes one 
+entity from the Entity List under the destination of India as the 
+result of a request for removal received by BIS and a review of 
+information provided in the removal request in accordance with the 
+procedure for requesting removal or modification of an Entity List 
+entity. Finally, this rule is also revising five existing entries in 
+the Entity List, under the destinations of Armenia, Greece, Pakistan, 
+Russia and the United Kingdom (U.K.). Four of these entries are 
+modified to reflect the removal from the Entity List of the entity 
+located in India. The license requirement for the entry under the 
+destination of Russia is being revised to conform with a general 
+license issued by the Department of the Treasury's Office of Foreign 
+Assets Control on December 20, 2016.
+
+DATES: This rule is effective January 10, 2017.
+
+[[Page 2884]]
+
+
+FOR FURTHER INFORMATION CONTACT: Chair, End-User Review Committee, 
+Office of the Assistant Secretary, Export Administration, Bureau of 
+Industry and Security, Department of Commerce, Phone: (202) 482-5991, 
+Email: <a href="/cdn-cgi/l/email-protection#11544352517378623f757e723f767e67"><span class="__cf_email__" data-cfemail="7530273635171c065b111a165b121a03">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION:
+
+Background
+
+    The Entity List (Supplement No. 4 to Part 744) identifies entities 
+and other persons reasonably believed to be involved, or to pose a 
+significant risk of being or becoming involved, in activities contrary 
+to the national security or foreign policy interests of the United 
+States. The EAR imposes additional license requirements on, and limits 
+the availability of most license exceptions for, exports, reexports, 
+and transfers (in-country) to those listed. The ``license review 
+policy'' for each listed entity or other person is identified in the 
+License Review Policy column on the Entity List and the impact on the 
+availability of license exceptions is described in the Federal Register 
+notice adding entities or other persons to the Entity List. BIS places 
+entities and other persons on the Entity List pursuant to sections of 
+part 744 (Control Policy: End-User and End-Use Based) and part 746 
+(Embargoes and Other Special Controls) of the EAR.
+    The ERC, composed of representatives of the Departments of Commerce 
+(Chair), State, Defense, Energy and, where appropriate, the Treasury, 
+makes all decisions regarding additions to, removals from, or other 
+modifications to the Entity List. The ERC makes all decisions to add an 
+entry to the Entity List by majority vote and all decisions to remove 
+or modify an entry by unanimous vote.
+
+ERC Entity List Decisions
+
+Additions to the Entity List
+
+    This rule implements the decision of the ERC to add five persons to 
+the Entity List. These five persons are being added on the basis of 
+Sec.  744.11 (License requirements that apply to entities acting 
+contrary to the national security or foreign policy interests of the 
+United States) of the EAR. The five entries added to the Entity List 
+are located in Turkey.
+    The ERC reviewed Sec.  744.11(b) (Criteria for revising the Entity 
+List) in making the determination to add these five persons to the 
+Entity List. Under that paragraph, persons for whom there is reasonable 
+cause to believe, based on specific and articulable facts, that they 
+have been involved, are involved, or pose a significant risk of being 
+or becoming involved in, activities that are contrary to the national 
+security or foreign policy interests of the United States and those 
+acting on behalf of such persons may be added to the Entity List. 
+Paragraphs (b)(1) through (b)(5) of Sec.  744.11 include an 
+illustrative list of activities that could be contrary to the national 
+security or foreign policy interests of the United States.
+    Specifically, two entities, AR Kompozit Kimya and Murat Taskiran, 
+are being added to the Entity List as these entities exported high 
+grade U.S.-origin carbon fiber to Iran in violation of U.S. law (i.e., 
+50 U.S.C. 1701 thru 1706 and 30 CFR 560.203 & 560.204). The additional 
+three entities located in Turkey, Fulya Kalfatoglu Oguzturk, Ramor 
+Group and Resit Tavan, are being added to the Entity List on the basis 
+of their involvement in the procurement and/or retransfer of U.S.-
+origin items to Iran for use by the Iranian military.
+    Pursuant to Sec.  744.11(b) of the EAR, the ERC determined that the 
+conduct of these five entities raises sufficient concern that prior 
+review of exports, reexports or transfers (in-country) of all items 
+subject to the EAR involving these persons, and the possible imposition 
+of license conditions or license denials on shipments to the persons, 
+will enhance BIS's ability to prevent violations of the EAR.
+    For the five persons added to the Entity List, BIS imposes a 
+license requirement for all items subject to the EAR and a license 
+review policy of presumption of denial. The license requirements apply 
+to any transaction in which items are to be exported, reexported, or 
+transferred (in-country) to any of the persons or in which such persons 
+act as purchaser, intermediate consignee, ultimate consignee, or end-
+user. In addition, no license exceptions are available for exports, 
+reexports, or transfers (in-country) to the persons being added to the 
+Entity List in this rule. The acronym ``a.k.a.'' (also known as) is 
+used in entries on the Entity List to help exporters, reexporters and 
+transferors to better identify listed persons on the Entity List.
+    This final rule adds the following five persons to the Entity List:
+Turkey
+    (1) AR Kompozit Kimya, a.k.a., the following two aliases:
+
+--AR Composites Company Ltd; and
+--AR Kompozit Kimya Muhendislik Taah Dis Tic Ltd.
+
+    Kuyumcukent 2, Plaza Kat 5, No 9, Yenibosna, Istanbul, Turkey;
+    (2) Fulya Kalafatoglu Oguzturk, a.k.a., the following one alias:
+
+--Macide Fulya Kalafatoglu.
+
+    Barajyolu Cd Yenisehir Mh Sinpas Koruk Konutlari No 40 Sogut Blok 
+D1 Istanbul, Turkey;
+    (3) Murat Taskiran,
+    Kuyumcukent 2, Plaza Kat 5, No 9, Yenibosna, Istanbul, Turkey;
+    (4) Ramor Group, a.k.a., the following four aliases:
+
+--Ramor Construction Food and Furniture Incorporation;
+--Ramor Ins;
+--Ramor Company; and
+--Ramor Ltd. Co.
+
+    Unit 42, Gardenya Plaza \7/1\, 12th Floor, No: 77, Atasehir, 
+Istanbul, Turkey 34758; and 1st.End.ve.Tic.Serbest Bol.Sub. Kopuzlar 
+Cad.No.8 Solingen Zemin Kat Tuzla/Istanbul, Turkey; and
+    (5) Resit Tavan,
+    Turgotozl CD Agaoglu MySkyTowers, A Blok D 12, Istanbul, Turkey 
+34758.
+
+Removal From the Entity List
+
+    This rule implements a decision of the ERC to remove the following 
+entry from the Entity List on the basis of on a removal request 
+received by the BIS: Veteran Avia LLC, located in India. The ERC 
+decided to remove Veteran Avia LLC (India) based on information 
+received by BIS regarding activities at the listed location in India 
+and further review conducted by the ERC.
+    This final rule implements the decision to remove the following 
+entity located in India from the Entity List:
+India
+    (1) Veteran Avia LLC, a.k.a., the following one alias:
+
+--Veteran Airline.
+
+    A-107, Lajpat Nagar--I, New Delhi 110024, India and Room No. 34 
+Import Cargo, IGI Airport Terminal--II, New Delhi 110037, India; and 
+25B, Camac Street 3E, Camac Court Kolkatta, 700016, India; and Ali's 
+Chamber #202, 2nd Floor Sahar Cargo Complex Andheri East Mumbai, 
+400099, India. (See also addresses under Armenia, Greece, Pakistan, and 
+U.K).
+    The removal of the person referenced above, which was approved by 
+the ERC, eliminates the existing license requirements in Supplement No. 
+4 to part 744 for exports, reexports and transfers (in-country) to this 
+entity. However, the removal of this person from the Entity List does 
+not relieve persons of other obligations under part 744 of the EAR or 
+under other parts of the EAR. Neither the removal of an entity from the 
+Entity List nor the removal of Entity List-based license requirements 
+relieves persons of their obligations under General Prohibition 5 in 
+Sec.  736.2(b)(5) of the EAR which
+
+[[Page 2885]]
+
+provides that, ``you may not, without a license, knowingly export or 
+reexport any item subject to the EAR to an end-user or end-use that is 
+prohibited by part 744 of the EAR.'' Additionally, this removal does 
+not relieve persons of their obligation to apply for export, reexport 
+or in-country transfer licenses required by other provisions of the 
+EAR. BIS strongly urges the use of Supplement No. 3 to part 732 of the 
+EAR, ``BIS's `Know Your Customer' Guidance and Red Flags,'' when 
+persons are involved in transactions that are subject to the EAR.
+
+Revisions to Entries on the Entity List
+
+Modification to License Requirements for an Entry on the Entity List
+
+    On December 20, 2016, the Department of the Treasury's Office of 
+Foreign Assets Control (OFAC) issued General License No. 11, 
+Authorizing Certain Transactions With FAU Glavgosekspertiza Rossii, an 
+entity in the Russian Federation. This general license authorizes 
+transactions otherwise prohibited by Executive Order 13685 (E.O.) of 
+December 19, 2014 that are ordinarily incident and necessary to 
+requesting, contracting for, paying for, receiving, or utilizing a 
+project design review or permit from FAU Glavgosekspertiza Rossii's 
+office(s) in the Russian Federation, provided that the underlying 
+project is located wholly within the Russian Federation, and none of 
+the transactions otherwise violate Executive Order (E.O.) 13685 of 
+December 19, 2014. Any questions regarding to the scope of this general 
+license should be directed to OFAC.
+    In light of OFAC's General License No. 11, BIS makes a conforming 
+change by modifying the listing for FAU `Glavgosekspertiza Rossii' on 
+the Entity List under the destination of Russia (the term used in the 
+EAR for the Russian Federation). This final rule modifies the license 
+requirement column for this entity to specify that the Entity List's 
+license requirements do not apply to items subject to the EAR that are 
+related to transactions authorized by OFAC pursuant to new General 
+License No. 11 (transactions that are ordinarily incident and necessary 
+to requesting, contracting for, paying for, receiving or utilizing a 
+project design review or permit from this listed entity's office(s) in 
+Russia, so long as the underlying project occurs wholly within Russia 
+and no transactions otherwise violate E.O. 13685). The listing for 
+Ukraine on the Commerce Country Chart, Supp. No. 1 to part 738 of the 
+EAR, includes a footnote that defines the ``Crimea region of Ukraine'' 
+consistent with section 8(d) of E.O. 13685. FAU `Glavgosekspertiza 
+Rossii' continues to be listed under both Russia and the Crimea region 
+of Ukraine on the Entity List. This final rule amends only the entry 
+under Russia; it does not make any change to the entry listed under the 
+Crimea region of Ukraine. The license requirement for FAU 
+`Glavgosekspertiza Rossii' listed under the destination of the Crimea 
+region of Ukraine continues to apply to all items subject to the EAR.
+
+Conforming Changes for an Approved Removal From the Entity List
+
+    This final rule revises four entries in the Entity List for the 
+entity Veteran Avia LLC, a.k.a., Veteran Airline, under the 
+destinations of Armenia, Greece, Pakistan and the United Kingdom. As 
+described above, the ERC approved the removal of Veteran Avia LLC 
+(India). Therefore, this final rule makes conforming changes to the 
+remaining four entries for the entity to remove the cross references to 
+India. This final rule does not make any other changes to these four 
+entries, except for revising the Federal Register citation column to 
+reflect this conforming change being made to these four entities. The 
+license requirement for the four entries remains all items subject to 
+the EAR, and the license application review policy remains a 
+presumption of denial.
+    This final rule makes the following revisions to five entries on 
+the Entity List:
+Armenia
+    (1) Veteran Avia LLC, a.k.a., the following one alias:
+
+--Veteran Airline.
+
+    64, Baghramyam Avenue, Apt 16, Yerevan 0033, Armenia; and 1 Eervand 
+Kochari Street Room 1, 375070 Yerevan, Armenia (See also addresses 
+under Greece, Pakistan, and U.K.).
+Greece
+    (1) Veteran Avia LLC, a.k.a., the following one alias:
+
+--Veteran Airline.
+
+    24, A. Koumbi Street, Markopoulo 190 03, Attika, Greece (See also 
+addresses under Armenia, Pakistan, and U.K.).
+Pakistan
+    (1) Veteran Avia LLC, a.k.a., the following one alias:
+
+--Veteran Airline.
+
+    Room No. 1, ALC Building, PIA Cargo Complex Jiap, Karachi, Pakistan 
+(See also addresses under Armenia, Greece, and U.K.).
+Russia
+    (1) FAU `Glavgosekspertiza Rossii', a.k.a., the following three 
+aliases:
+
+--Federal Autonomous Institution `Main Directorate of State 
+Examination';
+--General Board of State Expert Review; and
+--Glavgosekspertiza.
+    Furkasovskiy Lane, building 6, Moscow 101000, Russia (See alternate 
+address under Crimea region of Ukraine).
+
+    Note:
+    As described above, the changes this final rule makes to this 
+Russian entity are limited to the License requirement column for 
+this entry.
+
+United Kingdom
+    (1) Veteran Avia LLC, a.k.a., the following one alias:
+
+--Veteran Airline.
+
+    1 Beckett Place, South Hamptonshire, London, U.K. (See also 
+addresses under Armenia, Greece, and Pakistan).
+
+Savings Clause
+
+    Shipments of items removed from eligibility for a License Exception 
+or export or reexport without a license (NLR) as a result of this 
+regulatory action that were en route aboard a carrier to a port of 
+export or reexport, on January 10, 2017, pursuant to actual orders for 
+export or reexport to a foreign destination, may proceed to that 
+destination under the previous eligibility for a License Exception or 
+export or reexport without a license (NLR).
+
+Export Administration Act of 1979
+
+    Although the Export Administration Act of 1979 expired on August 
+20, 2001, the President, through Executive Order 13222 of August 17, 
+2001, 3 CFR, 2001 Comp., p. 783 (2002), as amended by Executive Order 
+13637 of March 8, 2013, 78 FR 16129 (March 13, 2013) and as extended by 
+the Notice of August 4, 2016, 81 FR 52587 (August 8, 2016), has 
+continued the Export Administration Regulations in effect under the 
+International Emergency Economic Powers Act. BIS continues to carry out 
+the provisions of the Export Administration Act of 1979, as appropriate 
+and to the extent permitted by law, pursuant to Executive Order 13222, 
+as amended by Executive Order 13637.
+
+Rulemaking Requirements
+
+    1. Executive Orders 13563 and 12866 direct agencies to assess all 
+costs and benefits of available regulatory alternatives and, if 
+regulation is necessary, to select regulatory
+
+[[Page 2886]]
+
+approaches that maximize net benefits (including potential economic, 
+environmental, public health and safety effects, distributive impacts, 
+and equity). Executive Order 13563 emphasizes the importance of 
+quantifying both costs and benefits, of reducing costs, of harmonizing 
+rules, and of promoting flexibility. This rule has been determined to 
+be not significant for purposes of Executive Order 12866.
+    2. Notwithstanding any other provision of law, no person is 
+required to respond to nor be subject to a penalty for failure to 
+comply with a collection of information, subject to the requirements of 
+the Paperwork Reduction Act of 1995 (44 U.S.C. 3501 et seq.) (PRA), 
+unless that collection of information displays a currently valid Office 
+of Management and Budget (OMB) Control Number. This regulation involves 
+collections previously approved by OMB under control number 0694-0088, 
+Simplified Network Application Processing System, which includes, among 
+other things, license applications and carries a burden estimate of 
+43.8 minutes for a manual or electronic submission. Total burden hours 
+associated with the PRA and OMB control number 0694-0088 are not 
+expected to increase as a result of this rule. You may send comments 
+regarding the collection of information associated with this rule, 
+including suggestions for reducing the burden, to Jasmeet K. Seehra, 
+Office of Management and Budget (OMB), by email to 
+<a href="/cdn-cgi/l/email-protection#eaa08b99878f8f9eb5a1c4b5b98f8f82988baa858788c48f859ac48d859c"><span class="__cf_email__" data-cfemail="7c361d0f11191908233752232f1919140e1d3c13111e5219130c521b130a">[email&#160;protected]</span></a>, or by fax to (202) 395-7285.
+    3. This rule does not contain policies with Federalism implications 
+as that term is defined in Executive Order 13132.
+    4. For the five persons added to the Entity List in this final 
+rule, the provisions of the Administrative Procedure Act (5 U.S.C. 553) 
+requiring notice of proposed rulemaking, the opportunity for public 
+comment and a delay in effective date are inapplicable because this 
+regulation involves a military or foreign affairs function of the 
+United States. (See 5 U.S.C. 553(a)(1)). BIS implements this rule to 
+protect U.S. national security or foreign policy interests by 
+preventing items from being exported, reexported, or transferred (in-
+country) to the persons being added to the Entity List. If this rule 
+were delayed to allow for notice and comment and a delay in effective 
+date, the entities being added to the Entity List by this action would 
+continue to be able to receive items without a license and to conduct 
+activities contrary to the national security or foreign policy 
+interests of the United States. In addition, publishing a proposed rule 
+would give these parties notice of the U.S. Government's intention to 
+place them on the Entity List and would create an incentive for these 
+persons to either accelerate receiving items subject to the EAR to 
+conduct activities that are contrary to the national security or 
+foreign policy interests of the United States, and/or to take steps to 
+set up additional aliases, change addresses, and other measures to try 
+to limit the impact of the listing on the Entity List once a final rule 
+was published. Further, no other law requires that a notice of proposed 
+rulemaking and an opportunity for public comment be given for this 
+rule. Because a notice of proposed rulemaking and an opportunity for 
+public comment are not required to be given for this rule by 5 U.S.C. 
+553, or by any other law, the analytical requirements of the Regulatory 
+Flexibility Act, 5 U.S.C. 601 et seq., are not applicable. Accordingly, 
+no regulatory flexibility analysis is required and none has been 
+prepared.
+    5. For the one entry removed from the Entity List in this final 
+rule, pursuant to the Administrative Procedure Act (APA), 5 U.S.C. 
+553(b)(B), BIS finds good cause to waive requirements that this rule be 
+subject to notice and the opportunity for public comment because it 
+would be contrary to the public interest.
+    In determining whether to grant a request for removal from the 
+Entity List, a committee of U.S. Government agencies (the End-User 
+Review Committee (ERC)) evaluates information about and commitments 
+made by listed persons requesting removal from the Entity List, the 
+nature and terms of which are set forth in 15 CFR part 744, Supplement 
+No. 5, as noted in 15 CFR 744.16(b). The information, commitments, and 
+criteria for this extensive review were all established through the 
+notice of proposed rulemaking and public comment process (72 FR 31005 
+(June 5, 2007) (proposed rule), and 73 FR 49311 (August 21, 2008) 
+(final rule)). This one removal has been made within the established 
+regulatory framework of the Entity List. If the rule were to be delayed 
+to allow for public comment, U.S. exporters may face unnecessary 
+economic losses as they turn away potential sales to the entity removed 
+by this rule because the customer remained a listed person on the 
+Entity List even after the ERC approved the removal pursuant to the 
+rule published at 73 FR 49311 on August 21, 2008. By publishing without 
+prior notice and comment, BIS allows the applicant to receive U.S. 
+exports immediately since the applicant already has received approval 
+by the ERC pursuant to 15 CFR part 744, Supplement No. 5, as noted in 
+15 CFR 744.16(b).
+    Removals from the Entity List granted by the ERC involve 
+interagency deliberation and result from review of public and non-
+public sources, including sensitive law enforcement information and 
+classified information, and the measurement of such information against 
+the Entity List removal criteria. This information is extensively 
+reviewed according to the criteria for evaluating removal requests from 
+the Entity List, as set out in 15 CFR part 744, Supplement No. 5 and 15 
+CFR 744.16(b). For reasons of national security, BIS is not at liberty 
+to provide to the public detailed information on which the ERC relied 
+to make the decisions to remove this entity. In addition, the 
+information included in the removal request is information exchanged 
+between the applicant and the ERC, which by law (section 12(c) of the 
+Export Administration Act of 1979), BIS is restricted from sharing with 
+the public. Moreover, removal requests from the Entity List contain 
+confidential business information, which is necessary for the extensive 
+review conducted by the U.S. Government in assessing such removal 
+requests.
+    Section 553(d) of the APA generally provides that rules may not 
+take effect earlier than thirty (30) days after they are published in 
+the Federal Register. BIS finds good cause to waive the 30-day delay in 
+effectiveness under 5 U.S.C. 553(d)(1) because this rule is a 
+substantive rule which relieves a restriction. This rule's removal of 
+one person from the Entity List removes a requirement (the Entity-List-
+based license requirement and limitation on use of license exceptions) 
+on this person being removed from the Entity List. The rule does not 
+impose a requirement on any other person for the removal from the 
+Entity List.
+    In addition, the Department finds that there is good cause under 5 
+U.S.C. 553(b)(B) to waive the provisions of the Administrative 
+Procedure Act (APA) requiring prior notice and the opportunity for 
+public comment for the five conforming changes included in this rule 
+because they are either unnecessary or contrary to the public interest. 
+These five conforming changes are limited to ensure consistency with a 
+removal included in this rulemaking or consistency with OFAC's General 
+License No. 11, and thus prior notice and the opportunity for public 
+comment are unnecessary. The conforming change to the listing for FAU
+
+[[Page 2887]]
+
+`Glavgosekspertiza Rossii' is intended to ensure consistent treatment 
+of this entity under both the EAR and OFAC's sanctions regime. The 
+other four conforming changes are limited to reflecting the removal of 
+Veteran Avia LLC (India). These four changes are needed to correct the 
+cross-referencing parenthetical phrase included in each of these four 
+entries.
+    No other law requires that a notice of proposed rulemaking and an 
+opportunity for public comment be given for this final rule. Because a 
+notice of proposed rulemaking and an opportunity for public comment are 
+not required under the APA or by any other law, the analytical 
+requirements of the Regulatory Flexibility Act (5 U.S.C. 601 et seq.) 
+are not applicable. As a result, no final regulatory flexibility 
+analysis is required and none has been prepared.
+
+List of Subjects in 15 CFR Part 744
+
+    Exports, Reporting and recordkeeping requirements, Terrorism.
+
+    Accordingly, part 744 of the Export Administration Regulations (15 
+CFR parts 730-774) is amended as follows:
+
+PART 744--[AMENDED]
+
+0
+1. The authority citation for 15 CFR part 744 continues to read as 
+follows:
+
+    Authority: 50 U.S.C. 4601 et seq.; 50 U.S.C. 1701 et seq.; 22 
+U.S.C. 3201 et seq.; 42 U.S.C. 2139a; 22 U.S.C. 7201 et seq.; 22 
+U.S.C. 7210; E.O. 12058, 43 FR 20947, 3 CFR, 1978 Comp., p. 179; 
+E.O. 12851, 58 FR 33181, 3 CFR, 1993 Comp., p. 608; E.O. 12938, 59 
+FR 59099, 3 CFR, 1994 Comp., p. 950; E.O. 12947, 60 FR 5079, 3 CFR, 
+1995 Comp., p. 356; E.O. 13026, 61 FR 58767, 3 CFR, 1996 Comp., p. 
+228; E.O. 13099, 63 FR 45167, 3 CFR, 1998 Comp., p. 208; E.O. 13222, 
+66 FR 44025, 3 CFR, 2001 Comp., p. 783; E.O. 13224, 66 FR 49079, 3 
+CFR, 2001 Comp., p. 786; Notice of November 12, 2015, 80 FR 70667 
+(November 13, 2015); Notice of January 20, 2016, 81 FR 3937 (January 
+22, 2016); Notice of August 4, 2016, 81 FR 52587 (August 8, 2016); 
+Notice of September 15, 2016, 81 FR 64343 (September 19, 2016); 
+Notice of November 8, 2016, 81 FR 79379 (November 10, 2016).
+
+
+0
+2. Supplement No. 4 to part 744 is amended:
+0
+a. By revising, under Armenia, one Armenian entity ``Veteran Avia LLC, 
+a.k.a., the following one alias:--Veteran Airline. 64, Baghramyam 
+Avenue, Apt 16, Yerevan 0033, Armenia; and 1 Eervand Kochari Street 
+Room 1, 375070 Yerevan, Armenia (See also addresses under Greece, 
+India, Pakistan, and U.K.)'' ;
+0
+b. By revising, under Greece, one Greek entity ``Veteran Avia LLC, 
+a.k.a., the following one alias:--Veteran Airline. 24, A. Koumbi 
+Street, Markopoulo 190 03, Attika, Greece (See also addresses under 
+Armenia, India, Pakistan, and U.K.)'' ;
+0
+c. By removing, under India, one Indian entity, ``Veteran Avia LLC, 
+a.k.a., the following one alias:--Veteran Airline. A-107, Lajpat 
+Nagar--I, New Delhi 110024, India; and Room No. 34 Import Cargo, IGI 
+Airport Terminal--II, New Delhi 110037, India; and 25B, Camac Street 
+3E, Camac Court Kolkatta, 700016, India; and Ali's Chamber #202, 2nd 
+Floor Sahar Cargo Complex Andheri East Mumbai, 400099, India (See also 
+addresses under Armenia, Greece, Pakistan, and U.K.).'' ;
+0
+d. By revising, under Pakistan, one Pakistani entity, ``Veteran Avia 
+LLC, a.k.a., the following one alias:--Veteran Airline. Room No. 1, ALC 
+Building, PIA Cargo Complex Jiap, Karachi, Pakistan (See also addresses 
+under Armenia, Greece, India, U.A.E., and U.K.)'';
+0
+e. By revising, under Russia, one Russian entity ``FAU 
+`Glavgosekspertiza Rossii', a.k.a., the following three aliases:--
+Federal Autonomous Institution `Main Directorate of State 
+Examination';--General Board of State Expert Review; and--
+Glavgosekspertiza. Furkasovskiy Lane, building 6, Moscow 101000, Russia 
+(See alternate address under Crimea region of Ukraine).'';
+0
+f. By adding, under Turkey, in alphabetical order, five Turkish 
+entities; and
+0
+g. By revising, under the United Kingdom, one British entity ``Veteran 
+Avia LLC, a.k.a., the following one alias:--Veteran Airline. 1 Beckett 
+Place, South Hamptonshire, London, U.K. (See also addresses under 
+Armenia, Greece, India, and Pakistan).''
+    The additions and revisions read as follows:
+
+Supplement No. 4 to Part 744--Entity List
+
+* * * * *
+
+----------------------------------------------------------------------------------------------------------------
+                                                                             License  review    Federal Register
+        Country                     Entity             License requirement        policy            citation
+----------------------------------------------------------------------------------------------------------------
+ 
+                                                  * * * * * * *
+ARMENIA................                                         * * * * * *
+                         Veteran Avia LLC a.k.a., the  For all items        Presumption of     79 FR 44683, 8/1/
+                          following alias:              subject to the       denial.            14. 81 FR 8829,
+                         --Veteran Airline.             EAR. (See Sec.                          2/23/16. 82 FR
+                         64, Baghramyam Avenue, Apt     744.11 of the                           [INSERT FR PAGE
+                          16, Yerevan 0033, Armenia;    EAR).                                   NUMBER] 1/10/17.
+                          and 1 Eervand Kochari
+                          Street Room 1, 375070
+                          Yerevan, Armenia (See also
+                          addresses under Greece,
+                          Pakistan, and U.K.).
+ 
+                                                  * * * * * * *
+----------------------------------------------------------------------------------------------------------------
+GREECE.................                                         * * * * * *
+                         Veteran Avia LLC a.k.a., the  For all items        Presumption of     79 FR 56003, 9/18/
+                          following alias:              subject to the       denial.            14. 81 FR 8829,
+                         --Veteran Airline.             EAR. (See Sec.                          2/23/16. 82 FR
+                         24, A. Koumbi Street,          744.11 of the                           [INSERT FR PAGE
+                          Markopoulo 190 03, Attika,    EAR).                                   NUMBER] 1/10/17.
+                          Greece (See also addresses
+                          under Armenia, Pakistan,
+                          and U.K.).
+ 
+                                                  * * * * * * *
+----------------------------------------------------------------------------------------------------------------
+PAKISTAN...............                                         * * * * * *
+
+[[Page 2888]]
+
+ 
+                         Veteran Avia LLC, a.k.a.,     For all items        Presumption of     79 FR 56003, 9/18/
+                          the following one alias:      subject to the       denial.            14. 81 FR 8829,
+                         --Veteran Airline.             EAR. (See Sec.                          2/23/16. 82 FR
+                         Room No. 1, ALC Building,      744.11 of the                           [INSERT FR PAGE
+                          PIA Cargo Complex Jiap,       EAR).                                   NUMBER] 1/10/17.
+                          Karachi, Pakistan (See also
+                          addresses under Armenia,
+                          Greece, and U.K.).
+ 
+                                                  * * * * * * *
+----------------------------------------------------------------------------------------------------------------
+RUSSIA.................                                         * * * * * *
+                         FAU `Glavgosekspertiza        For all items        Presumption of     81 FR 61601, 9/7/
+                          Rossii', a.k.a., the          subject to the EAR   denial.            16. 82 FR
+                          following three aliases:      (see Sec.   744.11                      [INSERT FR PAGE
+                         --Federal Autonomous           of the EAR), apart                      NUMBER] 1/10/17.
+                          Institution `Main             from items that
+                          Directorate of State          are related to
+                          Examination';                 transactions that
+                         --General Board of State       are authorized by
+                          Expert Review; and            the Department of
+                         --Glavgosekspertiza.           the Treasury's
+                         Furkasovskiy Lane, building    Office of Foreign
+                          6, Moscow 101000, Russia      Assets Control
+                          (See alternate address        pursuant to
+                          under Crimea region of        General License
+                          Ukraine).                     No. 11 of December
+                                                        20, 2016. Russia
+                                                        does not include
+                                                        the ``Crimea
+                                                        region of
+                                                        Ukraine,'' as that
+                                                        term is defined in
+                                                        section 8(d) of
+                                                        E.O. 13685.
+ 
+                                                  * * * * * * *
+----------------------------------------------------------------------------------------------------------------
+TURKEY.................                                         * * * * * *
+                         AR Kompozit Kimya, a.k.a.,    For all items        Presumption of     82 FR [INSERT FR
+                          the following two aliases:    subject to the       denial.            PAGE NUMBER] 1/
+                         --AR Composites Company Ltd;   EAR. (See Sec.                          10/17.
+                          and                           744.11 of the
+                         --AR Kompozit Kimya            EAR).
+                          Muhendislik Taah Dis Tic
+                          Ltd.
+                         Kuyumcukent 2, Plaza Kat 5,
+                          No 9, Yenibosna, Istanbul,
+                          Turkey.
+                                                                * * * * * *
+                         Fulya Kalafatoglu Oguzturk,   For all items        Presumption of     82 FR [INSERT FR
+                          a.k.a., the following one     subject to the       denial.            PAGE NUMBER] 1/
+                          alias:                        EAR. (See Sec.                          10/17.
+                         --Macide Fulya Kalafatoglu.    744.11 of the
+                         Barajyolu Cd Yenisehir Mh      EAR).
+                          Sinpas Koruk Konutlari No
+                          40 Sogut Blok D1 Istanbul,
+                          Turkey.
+                                                                * * * * * *
+                         Murat Taskiran, Kuyumcukent   For all items        Presumption of     82 FR [INSERT FR
+                          2, Plaza Kat 5, No 9,         subject to the       denial.            PAGE NUMBER] 1/
+                          Yenibosna, Istanbul,          EAR. (See Sec.                          10/17.
+                          Turkey.                       744.11 of the
+                                                        EAR).
+                                                                * * * * * *
+                         Ramor Group, a.k.a., the      For all items        Presumption of     82 FR [INSERT FR
+                          following four aliases:       subject to the       denial.            PAGE NUMBER] 1/
+                         --Ramor Construction Food      EAR. (See Sec.                          10/17.
+                          and Furniture                 744.11 of the
+                          Incorporation;                EAR).
+                         --Ramor Ins;
+                         --Ramor Company; and
+                         --Ramor Ltd. Co.
+                         Unit 42, Gardenya Plaza \7/
+                          1\, 12th Floor, No: 77,
+                          Atasehir, Istanbul, Turkey
+                          34758; and 1st.End.
+                          ve.Tic.Serbest Bol.Sub.
+                          Kopuzlar Cad.No.8 Solingen
+                          Zemin Kat Tuzla/Istanbul,
+                          Turkey.
+                         Resit Tavan, Turgotozl CD     For all items        Presumption of     82 FR [INSERT FR
+                          Agaoglu MySkyTowers, A Blok   subject to the       denial.            PAGE NUMBER] 1/
+                          D 12, Istanbul, Turkey        EAR. (See Sec.                          10/17.
+                          34758.                        744.11 of the
+                                                        EAR).
+ 
+                                                  * * * * * * *
+----------------------------------------------------------------------------------------------------------------
+UNITED KINGDOM.........                                         * * * * * *
+
+[[Page 2889]]
+
+ 
+                         Veteran Avia LLC a.k.a., the  For all items        Presumption of     79 FR 56003, 9/18/
+                          following alias:              subject to the       denial.            14. 81 FR 8829,
+                         --Veteran Airline.             EAR. (See Sec.                          2/23/16. 82 FR
+                         1 Beckett Place, South         744.11 of the                           [INSERT FR PAGE
+                          Hamptonshire, London, U.K.    EAR).                                   NUMBER] 1/10/17.
+                          (See also addresses under
+                          Armenia, Greece, and
+                          Pakistan).
+                                                                * * * * * *
+----------------------------------------------------------------------------------------------------------------
+
+
+    Dated: December 28, 2016.
+Alexander K. Lopes, Jr.,
+Acting Assistant Secretary for Export Administration.
+[FR Doc. 2016-31833 Filed 1-9-17; 8:45 am]
+BILLING CODE 3510-33-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

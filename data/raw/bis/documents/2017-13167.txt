@@ -1,0 +1,611 @@
+<html>
+<head>
+<title>Federal Register, Volume 82 Issue 119 (Thursday, June 22, 2017)</title>
+</head>
+<body><pre>
+[Federal Register Volume 82, Number 119 (Thursday, June 22, 2017)]
+[Rules and Regulations]
+[Pages 28405-28410]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2017-13167]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF COMMERCE
+
+Bureau of Industry and Security
+
+15 CFR Part 744
+
+[Docket No. 170411380-7380-01]
+RIN 0694-AH39
+
+
+Russian Sanctions: Addition of Certain Entities to the Entity 
+List
+
+AGENCY: Bureau of Industry and Security, Commerce.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The Bureau of Industry and Security (BIS) amends the Export 
+Administration Regulations (EAR) by adding ten entities to the Entity 
+List. The ten entities that are added to the Entity List have been 
+determined by the U.S. Government to be acting contrary to the national 
+security or foreign policy interests of the United States. BIS is 
+taking this action to ensure the efficacy of existing sanctions on the 
+Russian Federation (Russia) for violating international law and fueling 
+the conflict in eastern Ukraine. These entities will be listed on the 
+Entity List under the destinations of the Crimea region of Ukraine and 
+Russia.
+
+DATES: This rule is effective June 22, 2017.
+
+FOR FURTHER INFORMATION CONTACT: Chair, End-User Review Committee, 
+Office of the Assistant Secretary, Export Administration, Bureau of 
+Industry and Security, Department of Commerce, Phone: (202) 482-5991, 
+Email: <a href="/cdn-cgi/l/email-protection#f3b6a1b0b3919a80dd979c90dd949c85"><span class="__cf_email__" data-cfemail="e2a7b0a1a2808b91cc868d81cc858d94">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION:
+
+Background
+
+    The Entity List (Supplement No. 4 to Part 744 of the EAR) 
+identifies entities and other persons reasonably believed to be 
+involved in, or that pose a significant risk of being or becoming 
+involved in, activities that are contrary to the national security or 
+foreign policy of the United States. The EAR imposes additional 
+licensing requirements on, and limits the availability of most license 
+exceptions for, exports, reexports, and transfers (in-country) to those 
+persons or entities listed on the Entity List. The license review 
+policy for each listed entity is identified in the License Review 
+Policy column on the Entity List and the impact on the availability of 
+license exceptions is described in the Federal Register notice adding 
+entities or other persons to the Entity List. BIS places entities on 
+the Entity List based on certain sections of part 744 (Control Policy: 
+End-User and End-Use Based) and part 746 (Embargoes and Other Special 
+Controls) of the EAR.
+    The End-user Review Committee (ERC) is composed of representatives 
+of the Departments of Commerce (Chair), State, Defense, Energy, and 
+where appropriate, the Treasury. The ERC makes decisions to add an 
+entry to the Entity List by majority vote and to remove or modify an 
+entry by unanimous vote. The Departments represented on the ERC have 
+approved these changes to the Entity List.
+
+Entity List Additions
+
+Additions to the Entity List
+
+    This rule adds ten entities to the Entity List. These ten entities 
+are being added on the basis of Sec.  744.11 (License requirements that 
+apply to entities acting contrary to the national security or foreign 
+policy interests of the United States) of the EAR. The ten entries 
+being added to the Entity List consist of two entries in the Crimea 
+region of Ukraine and eight entries in Russia.
+
+[[Page 28406]]
+
+    Under Sec.  744.11(b) (Criteria for revising the Entity List) of 
+the EAR, persons for whom there is reasonable cause to believe, based 
+on specific and articulable facts, have been involved, are involved, or 
+pose a significant risk of being or becoming involved in, activities 
+that are contrary to the national security or foreign policy interests 
+of the United States and those acting on behalf of such persons may be 
+added to the Entity List. The entities being added to the Entity List 
+have been determined to be involved in activities that are contrary to 
+the national security or foreign policy interests of the United States. 
+Specifically, in this rule, BIS adds entities to the Entity List for 
+violating international law and fueling the conflict in eastern 
+Ukraine. These additions ensure the efficacy of existing sanctions on 
+Russia. The particular additions to the Entity List and related 
+authorities are described below.
+
+A. Entity Additions Consistent With Executive Order 13660
+
+    Three entities are added based on activities that are described in 
+Executive Order 13660 (79 FR 13493), Blocking Property of Certain 
+Persons Contributing to the Situation in Ukraine, issued by President 
+Barack Obama on March 6, 2014. As described in the Executive Order, 
+President Obama found that the actions and policies of persons who have 
+asserted governmental authority in Crimea without the authorization of 
+the Government of Ukraine undermine democratic processes and 
+institutions in Ukraine; threaten its peace, security, stability, 
+sovereignty, and territorial integrity; and contribute to the 
+misappropriation of its assets, and thereby constitute an unusual and 
+extraordinary threat to the national security and foreign policy of the 
+United States. President Obama also declared a national emergency to 
+deal with that threat.
+    Executive Order 13660 blocks all property and interests in property 
+that are in the United States, that come within the United States, or 
+that are or come within the possession or control of any United States 
+person (including any foreign branch) of any person determined by the 
+Secretary of the Treasury, in consultation with the Secretary of State, 
+to be responsible for or complicit in, or to have engaged in, directly 
+or indirectly, misappropriation of state assets of Ukraine or of an 
+economically significant entity in Ukraine, among other activities. 
+Under Section 8 of the Order, all agencies of the United States 
+Government are directed to take all appropriate measures within their 
+authority to carry out the provisions of the Order.
+    The Department of the Treasury's Office of Foreign Assets Control 
+(OFAC), pursuant to Executive Order 13660, has designated the following 
+three entities as being within the scope of the Order: Bike Center, 
+Private Military Company `Wagner' and `Wolf' Holding of Security 
+Services. In conjunction with that designation, the Department of 
+Commerce adds all three entities to the Entity List under this rule and 
+imposes a license requirement for exports, reexports, or transfers (in-
+country) of all items subject to the EAR to these blocked persons. This 
+license requirement implements an appropriate measure within the 
+authority of the EAR to carry out the provisions of Executive Order 
+13660.
+
+B. Entity Additions Consistent With Executive Order 13661
+
+    Three entities are added based on activities that are described in 
+Executive Order 13661 (79 FR 15533), Blocking Property of Additional 
+Persons Contributing to the Situation in Ukraine, issued by President 
+Barack Obama on March 16, 2014. This Order expanded the scope of the 
+national emergency declared in Executive Order 13660 of March 6, 2014 
+(79 FR 13493). As described in Executive Order 13661, President Obama 
+found that the actions and policies of the Government of the Russian 
+Federation with respect to Ukraine--including the deployment of Russian 
+military forces in the Crimea region of Ukraine--undermine democratic 
+processes and institutions in Ukraine; threaten its peace, security, 
+stability, sovereignty, and territorial integrity; and contribute to 
+the misappropriation of its assets, and thereby constitute an unusual 
+and extraordinary threat to the national security and foreign policy of 
+the United States.
+    Executive Order 13661 includes a directive that all property and 
+interests in property that are in the United States, that hereafter 
+come within the United States, or that are or thereafter come within 
+the possession or control of any United States person (including any 
+foreign branch) of the following persons are blocked and may not be 
+transferred, paid, exported, withdrawn, or otherwise dealt in: Persons 
+determined by the Secretary of the Treasury, in consultation with the 
+Secretary of State to have either materially assisted, sponsored or 
+provided financial, material or technological support for, or goods and 
+services to or in support of a senior official of the government of the 
+Russian Federation or operate in the defense or related materiel sector 
+in Russia. Under Section 8 of the Order, all agencies of the United 
+States Government are directed to take all appropriate measures within 
+their authority to carry out the provisions of the Order.
+    The Department of the Treasury's Office of Foreign Assets Control, 
+pursuant to Executive Order 13661, on behalf of the Secretary of 
+Treasury, and in consultation with the Secretary of State, has 
+designated the following three entities as being within the scope of 
+the Order: Concord Catering, Limited Liability Company Concord 
+Management Consulting and Molot-Oruzhie, OOO. BIS is also adding these 
+entities to the Entity List pursuant to Executive Order 13661.
+    The three entities added to the Entity List under Executive Order 
+13661 meet the criteria of Section 1, subparagraph B of the Executive 
+Order 13661 because they operate in Russia's arms or related materiel 
+sector. With respect to these three entities, BIS imposes a license 
+requirement for exports, reexports, or transfers (in-country) of all 
+items subject to the EAR to these entities. This license requirement 
+implements an appropriate measure within the authority of the EAR to 
+carry out the provisions of Executive Order 13661.
+
+C. Entity Additions Consistent With Executive Order 13685
+
+    Four entities are added based on activities that are described in 
+Executive Order 13685 (79 FR 77357), Blocking Property of Certain 
+Persons and Prohibiting Certain Transactions with Respect to the Crimea 
+Region of Ukraine, issued on December 19, 2014. In order to take 
+additional steps to address the Russian occupation of the Crimea region 
+of Ukraine with respect to the national emergency declared in Executive 
+Order 13660 of March 6, 2014, and expanded in Executive Order 13661 of 
+March 16, 2014, and Executive Order 13662 of March 20, 2014, President 
+Obama ordered certain additional prohibitions with respect to the 
+Crimea region of Ukraine. In particular, Executive Order 13685 
+prohibits the export, reexport, sale or supply, directly or indirectly, 
+from the United States or by a U.S. person, wherever located, of any 
+goods, services, or technology to the Crimea region of Ukraine. Under 
+Section 10 of the Order, all agencies of the United States Government 
+are directed to take all appropriate measures within their authority to 
+carry out the provisions of the Order.
+    The Department of the Treasury's Office of Foreign Assets Control,
+
+[[Page 28407]]
+
+pursuant to Executive Order 13685, on behalf of the Secretary of the 
+Treasury and in consultation with the Secretary of State, has 
+designated the following four entities as operating in the Crimea 
+region of Ukraine: IFDK, ZAO; KPSK, OOO; Oboronlogistika; and Riviera 
+Sunrise Resort & Spa.
+    In conjunction with these designations, BIS adds all four of these 
+entities to the Entity List under this rule and imposes a license 
+requirement for exports, reexports, or transfers (in-country) of all 
+items subject to the EAR to these blocked persons. This license 
+requirement implements an appropriate measure within the authority of 
+the EAR to carry out the provisions of Executive Order 13685.
+    For the ten entities added to the Entity List based on activities 
+that are described in Executive Order 13660, 13661 or 13685, BIS 
+imposes a license requirement for all items subject to the EAR and a 
+license review policy of presumption of denial. The license 
+requirements apply to any transaction in which items subject to the EAR 
+are to be exported, reexported, or transferred (in-country) to any of 
+the entities or in which such entities act as purchaser, intermediate 
+consignee, ultimate consignee, or end-user. In addition, no license 
+exceptions are available for exports, reexports, or transfers (in-
+country) to the entities being added to the Entity List in this rule.
+    The acronyms ``a.k.a.'' (also known as) and ``f.k.a.'' (formerly 
+known as) are used in entries on the Entity List to help exporters, 
+reexporters and transferors to better identify listed persons on the 
+Entity List.
+    This final rule adds the following ten entities to the Entity List:
+
+Crimea Region of Ukraine
+
+    (1) Riviera Sunrise Resort & Spa, a.k.a., the following one alias:
+
+--Riviera Sunrise Resort and Spa.
+
+    Lenin St. 2, Alushta, Crimea 29850, Ukraine; and
+    (2) KPSK, OOO, a.k.a., the following two aliases:
+
+--Obshchestvo S Ogranichennoi Otvetstvennostyu `Krymskaya Pervaya 
+Strakhovaya Kompaniya'; and
+--OOO `Krymskaya Pervaya Strakhovaya Kompaniya'.
+
+    29 ul. Karla Marksa, Simferopol, Crimea 295006, Ukraine.
+
+Russia
+
+    (1) Bike Center, a.k.a., the following three aliases:
+
+--Baik. V. Tsentr;
+--Baik. V. Tsentr, OOO; and
+--Bike V. Center.
+
+    Nizhnije Mnevniki, 110, Moscow, Russia; and UL. Nikitskaya B. 
+D.1\1/4\, Korp .3, Moscow 103009, Russia; and 1\1/4\, str.3 ul. 
+Nikitskaya B., Moscow 103009, Russia;
+    (2) Concord Catering,
+    Nab. Lieutenant Schmidt D. 7, von Keyserling Mansion, St. 
+Petersburg 119034, Russia; and Ulitsa Volkhonka Dom 9, Moscow 119019, 
+Russia;
+    (3) IFDK, ZAO, a.k.a., the following six aliases:
+
+--Closed Joint Stock Company `IFD Kapital';
+--IFD Kapital;
+--IFD Kapital Group;
+--IFD-Capital;
+--IFD-Kapital; and
+--Zakrytoe Aktsionernoe Obshchestvo `IFD Kapital' (f.k.a., Zakrytoe 
+Aktsionernoe Obshchestvo IFD Karital).
+
+    6 naberezhnaya, Krasnopresnenskaya, Moscow 123100, Russia;
+    (4) Limited Liability Company Concord Management and Consulting, 
+a.k.a. the following three aliases:
+
+--Konkord Menedzhment I Konsalting, OOO;
+--LLC Concord Management and Consulting; and
+--Obshchestvo S Ogrannichennoi Otvetstvennostyu Konkord Menedzhment I 
+Konsalting.
+
+    d. 13 Litera A, Pom. 2-N N4, Naberezhnaya Reki Fontanki, St. 
+Petersburg 191011, Russia;
+    (5) Molot-Oruzhie, OOO, a.k.a., the following one alias:
+
+-- Obshchestvo S Ogranichennoi Otvetstvennostyu `Molot-Oruzhie' 
+(f.k.a., Obshchestvo S Ogranichennoi Otvetstvennostyu Proizvodstvenno 
+Instrument Kachestvo).
+
+    135 ul. Lenina, Vyatskie Polyany, Kirov Obl. 612960, Russia;
+    (6) Oboronlogistika, OOO, a.k.a., the following four aliases:
+
+--Oboronlogistics Limited Liability Company;
+--Oboronlogistics LLC;
+--Oboronlogistika LLC; and
+--Obshchestvo S Ogranichennoi Otvetstvennostyu `Oboronlogistika'.
+
+    d. 18 str. 3 prospekt Komsomolski, Moscow 119021, Russia; and ul. 
+Goncharnaya, house 28, building 2, Moscow 115172, Russia;
+    (7) Private Military Company `Wagner', a.k.a., the following three 
+aliases:
+
+--Chastnaya Voennaya Kompaniya `Vagner';
+--Chvk Vagner; and
+--PMC Wagner).
+
+    Russia; and
+    (8) `Wolf' Holding of Security Structures, a.k.a., the following 
+four aliases:
+
+--Defense Holding Structure ``Wolf'';
+--Holding Security Structure Wolf;
+--Kholding Okhrannykh Struktur Volk; and
+--Wolf Holding Company.
+
+    ul. Panferova d. 18, Moscow 119261, Russia; and Nizhniye Mnevniki, 
+110, Moscow, Russia.
+
+Export Administration Act of 1979
+
+    Although the Export Administration Act of 1979 expired on August 
+20, 2001, the President, through Executive Order 13222 of August 17, 
+2001, 3 CFR, 2001 Comp., p. 783 (2002), as amended by Executive Order 
+13637 of March 8, 2013, 78 FR 16129 (March 13, 2013) and as extended by 
+the Notice of August 4, 2016, 81 FR 52587 (August 8, 2016), has 
+continued the Export Administration Regulations in effect under the 
+International Emergency Economic Powers Act. BIS continues to carry out 
+the provisions of the Export Administration Act of 1979, as appropriate 
+and to the extent permitted by law, pursuant to Executive Order 13222, 
+as amended by Executive Order 13637.
+
+Rulemaking Requirements
+
+    1. Executive Orders 13563 and 12866 direct agencies to assess all 
+costs and benefits of available regulatory alternatives and, if 
+regulation is necessary, to select regulatory approaches that maximize 
+net benefits (including potential economic, environmental, public 
+health and safety effects, distributive impacts, and equity). Executive 
+Order 13563 emphasizes the importance of quantifying both costs and 
+benefits, of reducing costs, of harmonizing rules, and of promoting 
+flexibility. This rule has been determined to be not significant for 
+purposes of Executive Order 12866.
+    2. Notwithstanding any other provision of law, no person is 
+required to respond to nor be subject to a penalty for failure to 
+comply with a collection of information, subject to the requirements of 
+the Paperwork Reduction Act of 1995 (44 U.S.C. 3501 et seq.) (PRA), 
+unless that collection of information displays a currently valid Office 
+of Management and Budget (OMB) Control Number. This regulation involves 
+collections previously approved by OMB under control number 0694-0088, 
+Simplified Network Application Processing System, which includes, among 
+other things, license applications and carries a burden
+
+[[Page 28408]]
+
+estimate of 43.8 minutes for a manual or electronic submission.
+    Total burden hours associated with the PRA and OMB control number 
+0694-0088 are not expected to increase as a result of this rule. You 
+may send comments regarding the collection of information associated 
+with this rule, including suggestions for reducing the burden, to 
+Jasmeet K. Seehra, Office of Management and Budget (OMB), by email to 
+<a href="/cdn-cgi/l/email-protection#7d371c0e10181809223653222e1818150f1c3d12101f5318120d531a120b"><span class="__cf_email__" data-cfemail="703a11031d1515042f3b5e2f231515180211301f1d125e151f005e171f06">[email&#160;protected]</span></a>, or by fax to (202) 395-7285.
+    3. This rule does not contain policies with Federalism implications 
+as that term is defined in Executive Order 13132.
+    4. The provisions of the Administrative Procedure Act (5 U.S.C. 
+553) requiring notice of proposed rulemaking, the opportunity for 
+public comment and a delay in effective date are inapplicable because 
+this regulation involves a military or foreign affairs function of the 
+United States. (See 5 U.S.C. 553(a)(1)). BIS implementation of this 
+rule is necessary to protect U.S. national security or foreign policy 
+interests by preventing items from being exported, reexported, or 
+transferred (in country) to the entities being added to the Entity 
+List. If this rule were delayed to allow for notice and comment and a 
+delay in effective date, the ten entities being added to the Entity 
+List by this action would continue to be able to receive items without 
+a license and to conduct activities contrary to the national security 
+or foreign policy interests of the United States. In addition, 
+publishing a proposed rule would give these parties notice of the U.S. 
+Government's intention to place them on the Entity List and would 
+create an incentive for these persons to either accelerate receiving 
+items subject to the EAR to conduct activities that are contrary to the 
+national security or foreign policy interests of the United States, 
+and/or to take steps to set up additional aliases, change addresses, 
+and other measures to try to limit the impact of the listing on the 
+Entity List once a final rule was published. Further, no other law 
+requires that a notice of proposed rulemaking and an opportunity for 
+public comment be given for this rule.
+    5. Because a notice of proposed rulemaking and an opportunity for 
+public comment are not required to be given for this rule by 5 U.S.C. 
+553, or by any other law, the analytical requirements of the Regulatory 
+Flexibility Act, 5 U.S.C. 601 et seq., are not applicable. Accordingly, 
+no regulatory flexibility analysis is required and none has been 
+prepared.
+
+List of Subjects in 15 CFR Part 744
+
+    Exports, Reporting and recordkeeping requirements, Terrorism.
+
+    For the reasons stated in the preamble, the Bureau of Industry and 
+Security amends part 744 of the Export Administration Regulations (15 
+CFR parts 730-774) as follows:
+
+PART 744--[AMENDED]
+
+0
+1. The authority citation for 15 CFR part 744 continues to read as 
+follows:
+
+    Authority: 50 U.S.C. 4601 et seq.; 50 U.S.C. 1701 et seq.; 22 
+U.S.C. 3201 et seq.; 42 U.S.C. 2139a; 22 U.S.C. 7201 et seq.; 22 
+U.S.C. 7210; E.O. 12058, 43 FR 20947, 3 CFR, 1978 Comp., p. 179; 
+E.O. 12851, 58 FR 33181, 3 CFR, 1993 Comp., p. 608; E.O. 12938, 59 
+FR 59099, 3 CFR, 1994 Comp., p. 950; E.O. 12947, 60 FR 5079, 3 CFR, 
+1995 Comp., p. 356; E.O. 13026, 61 FR 58767, 3 CFR, 1996 Comp., p. 
+228; E.O. 13099, 63 FR 45167, 3 CFR, 1998 Comp., p. 208; E.O. 13222, 
+66 FR 44025, 3 CFR, 2001 Comp., p. 783; E.O. 13224, 66 FR 49079, 3 
+CFR, 2001 Comp., p. 786; Notice of August 4, 2016, 81 FR 52587 
+(August 8, 2016); Notice of September 15, 2016, 81 FR 64343 
+(September 19, 2016); Notice of November 8, 2016, 81 FR 79379 
+(November 10, 2016); Notice of January 13, 2017, 82 FR 6165 (January 
+18, 2017).
+
+
+0
+2. Supplement No. 4 to part 744 is amended:
+0
+a. By adding under the destination of Crimea region of Ukraine, in 
+alphabetical order, two entities; and
+0
+b. By adding under the destination of Russia, in alphabetical order, 
+eight Russian entities.
+    The additions read as follows:
+
+Supplement No. 4 to Part 744--Entity List
+
+* * * * *
+
+----------------------------------------------------------------------------------------------------------------
+                                                             License         License  review    Federal Register
+        Country                     Entity                 requirement            policy            Citation
+----------------------------------------------------------------------------------------------------------------
+ 
+                                                  * * * * * * *
+----------------------------------------------------------------------------------------------------------------
+CRIMEA REGION OF                                                * * * * * *
+ UKRAINE.
+                         KPSK, OOO, a.k.a., the        For all items        Presumption of     82 FR [INSERT FR
+                          following two aliases:        subject to the       denial.            PAGE NUMBER 06/
+                         --Obshchestvo S                EAR. (See Sec.                          22/17.
+                          Ogranichennoi                 744.11 of the EAR)
+                          Otvetstvennostyu `Krymskaya
+                          Pervaya Strakhovaya
+                          Kompaniya'; and
+                         --OOO `Krymskaya Pervaya
+                          Strakhovaya Kompaniya'
+                         29 ul. Karla Marksa,
+                          Simferopol, Crimea 295006,
+                          Ukraine
+                                                                 * * * * *
+                         Riviera Sunrise Resort &      For all items        Presumption of     82 FR [INSERT FR
+                          Spa, a.k.a. the following     subject to the       denial.            PAGE NUMBER 06/
+                          one alias:                    EAR. (See Sec.                          22/17.
+                         Riviera Sunrise Resort and     744.11 of the EAR)
+                          Spa
+                         Lenin St. 2, Alushta, Crimea
+                          29850, Ukraine
+                                                                * * * * * *
+----------------------------------------------------------------------------------------------------------------
+ 
+                                                  * * * * * * *
+----------------------------------------------------------------------------------------------------------------
+RUSSIA.................                                         * * * * * *
+
+[[Page 28409]]
+
+ 
+                         Bike Center, a.k.a., the      For all items        Presumption of     82 FR [INSERT FR
+                          following three aliases:      subject to the       denial.            PAGE NUMBER 06/
+                         --Baik. V. Tsentr;             EAR. (See Sec.                          22/17.
+                         --Baik. V. Tsentr, OOO; and    744.11 of the EAR)
+                         --Bike V. Center.
+                         Nizhnije Mnevniki, 110,
+                          Moscow, Russia; and Ul.
+                          Nikitskaya B. D.11/4, Korp
+                          .3, Moscow 103009, Russia;
+                          and 1 \1/4\, str.3 ul.
+                          Nikitskaya B., Moscow
+                          103009, Russia
+                                                                * * * * * *
+                         Concord Catering, Nab.        For all items        Presumption of     82 FR [INSERT FR
+                          Lieutenant Schmidt D. 7,      subject to the       denial.            PAGE NUMBER 06/
+                          von Keyserling Mansion, St.   EAR. (See Sec.                          22/17.
+                          Petersburg 119034, Russia;    744.11 of the EAR)
+                          and Ulitsa Volkhonka Dom 9,
+                          Moscow 119019, Russia
+                                                                * * * * * *
+                         IFDK, ZAO, a.k.a., the        For all items        Presumption of     82 FR [INSERT FR
+                          following six aliases:        subject to the       denial.            PAGE NUMBER 06/
+                         --Closed Joint Stock Company   EAR. (See Sec.                          22/17.
+                          `IFD Kapital';                744.11 of the EAR)
+                         --IFD Kapital;
+                         --IFD Kapital Group;
+                         --IFD-Capital;
+                         --IFD-Kapital; and
+                         --Zakrytoe Aktsionernoe
+                          Obshchestvo `IFD Kapital'
+                          (f.k.a., Zakrytoe
+                          Aktsionernoe Obshchestvo
+                          IFD Karital)
+                         6 naberezhnaya,
+                          Krasnopresnenskaya, Moscow
+                          123100, Russia
+                                                                * * * * * *
+                         Limited Liability Company
+                          Concord Management and
+                          Consulting, a.k.a. the
+                          following three aliases:
+                         --Konkord Menedzhment I
+                          Konsalting, OOO;
+                         --LLC Concord Management and
+                          Consulting; and
+                         --Obshchestvo S
+                          Ogrannichennoi
+                          Otvetstvennostyu Konkord
+                          Menedzhment I Konsalting
+                         d. 13 Litera A, Pom. 2-N N4,
+                          Naberezhnaya Reki Fontanki,
+                          St. Petersburg 191011,
+                          Russia
+                                                                * * * * * *
+                         Molot-Oruzhie, OOO, a.k.a.,   For all items        Presumption of     82 FR [INSERT FR
+                          the following one alias:      subject to the       denial.            PAGE NUMBER 06/
+                         --Obshchestvo S                EAR. (See Sec.                          22/17.
+                          Ogranichennoi                 744.11 of the EAR)
+                          Otvetstvennostyu `Molot-
+                          Oruzhie' (f.k.a.,
+                          Obshchestvo S Ogranichennoi
+                          Otvetstvennostyu
+                          Proizvodstvenno Instrument
+                          Kachestvo)
+                         135 ul. Lenina, Vyatskie
+                          Polyany, Kirov Obl. 612960,
+                          Russia
+                                                                * * * * * *
+                         Oboronlogistika, OOO,         For all items        Presumption of     82 FR [INSERT FR
+                          a.k.a., the following four    subject to the       denial.            PAGE NUMBER 06/
+                          aliases:                      EAR. (See Sec.                          22/17.
+                         --Oboronlogistics Limited      744.11 of the EAR)
+                          Liability Company;
+                         --Oboronlogistics LLC;
+                         --Oboronlogistika LLC; and
+                         --Obshchestvo S
+                          Ogranichennoi
+                          Otvetstvennostyu
+                          `Oboronlogistika'
+                         d. 18 str. 3 prospekt
+                          Komsomolski, Moscow 119021,
+                          Russia; and ul.
+                          Goncharnaya, house 28,
+                          building 2, Moscow 115172,
+                          Russia.
+                                                                * * * * * *
+
+[[Page 28410]]
+
+ 
+                         Private Military Company      For all items        Presumption of     82 FR [INSERT FR
+                          `Wagner', a.k.a., the         subject to the       denial.            PAGE NUMBER 06/
+                          following three aliases:      EAR. (See Sec.                          22/17.
+                         --Chastnaya Voennaya           744.11 of the EAR)
+                          Kompaniya `Vagner';
+                         --Chvk Vagner; and
+                         --PMC Wagner)
+                         Russia
+                                                                * * * * * *
+                         `Wolf' Holding of Security    For all items        Presumption of     82 FR [INSERT FR
+                          Structures, a.k.a., the       subject to the       denial.            PAGE NUMBER 06/
+                          following four aliases:       EAR. (See Sec.                          22/17.
+                         --Defense Holding Structure    744.11 of the EAR)
+                          ``Wolf'';
+                         --Holding Security Structure
+                          Wolf;
+                         --Kholding Okhrannykh
+                          Struktur Volk; and
+                         --Wolf Holding Company
+                         ul. Panferova d. 18, Moscow
+                          119261, Russia; and
+                          Nizhniye Mnevniki, 110,
+                          Moscow, Russia.
+                                                                * * * * * *
+----------------------------------------------------------------------------------------------------------------
+ 
+                                                  * * * * * * *
+----------------------------------------------------------------------------------------------------------------
+
+
+    Dated: June 20, 2017.
+Matthew S. Borman,
+Deputy Assistant Secretary for Export Administration.
+[FR Doc. 2017-13167 Filed 6-20-17; 4:15 pm]
+ BILLING CODE -P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

@@ -1,0 +1,80 @@
+{
+  "abstract": "The Bureau of Industry and Security (BIS) requests public comments regarding how to advance supply chain resilience and security in key sectors: Semiconductors; solar photovoltaics; \\1\\ critical minerals and materials including rare earth magnets,\\2\\ lithium-ion batteries,\\3\\ and material inputs to semiconductors; \\4\\ and pharmaceuticals \\5\\ to inform the work of the United States-European Union (EU) Trade and Technology Council (TTC) Secure Supply Chains Working Group. The Working Group is tasked with increasing transparency of supply and demand, mapping respective existing sectoral capabilities, exchanging information on policy measures and research and development priorities, and cooperating on strategies to promote supply chain resilience and diversification. ---------------------------------------------------------------------------",
+  "action": "Notice of request for public comments.",
+  "agencies": [
+    {
+      "id": 54,
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+      "name": "Commerce Department",
+      "parent_id": null,
+      "raw_name": "DEPARTMENT OF COMMERCE",
+      "slug": "commerce-department",
+      "url": "https://www.federalregister.gov/agencies/commerce-department"
+    },
+    {
+      "id": 241,
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+      "name": "Industry and Security Bureau",
+      "parent_id": 54,
+      "raw_name": "Bureau of Industry and Security",
+      "slug": "industry-and-security-bureau",
+      "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2022/04/06/2022-07211.html",
+  "cfr_references": [],
+  "citation": "87 FR 19854",
+  "comment_url": null,
+  "comments_close_on": "2022-05-23",
+  "correction_of": null,
+  "corrections": [],
+  "dates": "The due date for filing comments is May 23, 2022.",
+  "disposition_notes": null,
+  "docket_ids": [
+    "Docket No. 220217-0051"
+  ],
+  "dockets": [],
+  "document_number": "2022-07211",
+  "effective_on": null,
+  "end_page": 19855,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2022/04/06/2022-07211.xml",
+  "html_url": "https://www.federalregister.gov/documents/2022/04/06/2022-07211/request-for-public-comments-on-supply-chain-issues-to-support-the-us-eu-trade-and-technology-council",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2022-07211?publication_date=2022-04-06",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2022-04-06/2022-07211/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 2,
+  "page_views": {
+    "count": 1326,
+    "last_updated": "2026-09-13 22:15:03 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2022-04-06/pdf/2022-07211.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2022-07211.pdf?1649162723",
+  "publication_date": "2022-04-06",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2022/04/06/2022-07211.txt",
+  "regulation_id_number_info": {
+    "0694-XC08": null
+  },
+  "regulation_id_numbers": [
+    "0694-XC08"
+  ],
+  "regulations_dot_gov_info": {
+    "checked_regulationsdotgov_at": "2023-02-28T17:20:29Z"
+  },
+  "regulations_dot_gov_url": null,
+  "significant": null,
+  "signing_date": null,
+  "start_page": 19854,
+  "subtype": null,
+  "title": "Request for Public Comments on Supply Chain Issues To Support the U.S.-EU Trade and Technology Council Secure Supply Chains Working Group",
+  "toc_doc": "Supply Chain Issues to Support the U.S.-EU Trade and Technology Council Secure Supply Chains Working Group",
+  "toc_subject": null,
+  "topics": [],
+  "type": "Notice",
+  "volume": 87
+}

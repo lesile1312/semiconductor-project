@@ -1,0 +1,208 @@
+<html>
+<head>
+<title>Federal Register, Volume 87 Issue 66 (Wednesday, April 6, 2022)</title>
+</head>
+<body><pre>
+[Federal Register Volume 87, Number 66 (Wednesday, April 6, 2022)]
+[Notices]
+[Pages 19854-19855]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2022-07211]
+
+
+
+[[Page 19854]]
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF COMMERCE
+
+Bureau of Industry and Security
+
+[Docket No. 220217-0051]
+RIN 0694-XC089
+
+
+Request for Public Comments on Supply Chain Issues To Support the 
+U.S.-EU Trade and Technology Council Secure Supply Chains Working Group
+
+AGENCY: Bureau of Industry and Security, U.S. Department of Commerce.
+
+ACTION: Notice of request for public comments.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The Bureau of Industry and Security (BIS) requests public 
+comments regarding how to advance supply chain resilience and security 
+in key sectors: Semiconductors; solar photovoltaics; \1\ critical 
+minerals and materials including rare earth magnets,\2\ lithium-ion 
+batteries,\3\ and material inputs to semiconductors; \4\ and 
+pharmaceuticals \5\ to inform the work of the United States-European 
+Union (EU) Trade and Technology Council (TTC) Secure Supply Chains 
+Working Group. The Working Group is tasked with increasing transparency 
+of supply and demand, mapping respective existing sectoral 
+capabilities, exchanging information on policy measures and research 
+and development priorities, and cooperating on strategies to promote 
+supply chain resilience and diversification.
+---------------------------------------------------------------------------
+
+    \1\ Solar photovoltaics include materials and production tools 
+for the manufacturing of solar components.
+    \2\ Critical minerals include neodymium and dysprosium.
+    \3\ Critical minerals include lithium, cobalt, class 1 nickel, 
+manganese, and graphite.
+    \4\ Critical minerals include gallium and germanium.
+    \5\ Drug and Biologic Essential Medicines, Medical 
+Countermeasures, and Critical Inputs.
+
+---------------------------------------------------------------------------
+DATES: The due date for filing comments is May 23, 2022.
+
+ADDRESSES: Submissions: You may submit comments, identified by docket 
+number BIS-2021-0046 or RIN 0694-XC089, through the Federal eRulemaking 
+Portal: <a href="https://www.regulations.gov">https://www.regulations.gov</a>. To submit comments via <a href="https://www.regulations.gov">https://www.regulations.gov</a>, enter the docket number BIS-2021-0046 on the home 
+page and click ``Search.'' The site will provide a search results page 
+listing all documents associated with this docket. Find a reference to 
+this notice and click the button entitled ``Comment.'' For further 
+information on using <a href="https://www.regulations.gov">https://www.regulations.gov</a>, please consult the 
+resources provided on the website by clicking on ``FAQ.'' For further 
+information regarding required comment formatting, please see the 
+Solicited Written Comments and Requirements for Written Comments 
+sections below.
+
+FOR FURTHER INFORMATION CONTACT: Kevin Coyne, U.S.-EU Trade and 
+Technology Council Secure Supply Chains Working Group, Bureau of 
+Industry and Security, at 202-482-4933, 
+<a href="/cdn-cgi/l/email-protection#fe8a8a9da18d9b9d8b8c9ba18d8b8e8e9287a19d969f97908dbe9a919dd0999188"><span class="__cf_email__" data-cfemail="9aeeeef9c5e9fff9efe8ffc5e9efeaeaf6e3c5f9f2fbf3f4e9dafef5f9b4fdf5ec">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION:
+
+Background
+
+    On June 15, 2021, President Joe Biden and European Commission 
+President Ursula von der Leyen launched the U.S.-EU Trade and 
+Technology Council at the U.S.-EU Summit in Brussels, Belgium. 
+Together, the United States and the European Union account for a 
+quarter of global trade and almost half of global gross domestic 
+product, with U.S.-EU two-way trade in goods and services amounting to 
+$1.1 trillion in 2019. In support of the continuing growth of U.S.-EU 
+trade and cooperation, the TTC serves as a forum for the United States 
+and the European Union to coordinate approaches to key global trade, 
+economic, and technology issues, and to deepen transatlantic trade and 
+economic relations based on shared democratic values.
+    The main goals of the TTC are to expand and deepen bilateral trade 
+and investment; avoid new technical barriers to trade; cooperate on key 
+policies regarding technology, digital issues and supply chains; 
+support collaborative research; cooperate on the development of 
+compatible and international standards; cooperate on regulatory policy 
+and enforcement; and promote innovation and leadership by U.S. and EU 
+firms. The TTC's ten working groups provide a framework for tackling 
+challenges and advancing work aligned with some of our shared trade and 
+technology priorities. These include cooperation on technology 
+standards; global trade challenges and supply chain security; climate 
+and clean technology; Information and Communications Technology (ICT) 
+security and competitiveness; data governance and technology platforms; 
+the misuse of technology threatening security and human rights; export 
+controls; investment screening; and access to, and use of, digital 
+technologies by small and medium enterprises.
+    On September 29, 2021, the U.S.-EU TTC met for the first time. The 
+United States and the European Union reaffirmed the TTC's objectives to 
+coordinate approaches to key global technology, economic, and trade 
+issues; to deepen transatlantic trade and economic relations; and base 
+policies on shared democratic values. Under the TTC's Secure Supply 
+Chains Working Group, the United States and the European Union seek to 
+maintain close cooperation on resilient and trusted supply chains that 
+will foster common economic and security goals and strengthen 
+capacities to respond decisively to international disasters and 
+emergencies.
+    With regard to semiconductors, on September 29, 2021, the United 
+States and the European Union released a statement as part of the TTC, 
+which affirmed the importance of promoting transparency in the 
+semiconductor supply chain in partnership with industry and all 
+relevant stakeholders, jointly identifying gaps and vulnerabilities, 
+mapping capacity in the semiconductor value chain, strengthening our 
+domestic semiconductor ecosystems, avoiding a subsidy race to the 
+bottom, and reducing strategic dependencies throughout the supply chain 
+through diversification and increased investment.
+    Alongside the dedicated track on semiconductors, the Secure Supply 
+Chains Working Group's initial focus is on solar photovoltaics, 
+critical minerals and materials, and pharmaceuticals. In connection 
+with these sectors, the Secure Supply Chains Working Group seeks to:
+    a. Increase visibility and transparency of supply and demand;
+    b. map respective existing sectoral capabilities;
+    c. exchange information on policy measures and research and 
+development priorities; and
+    d. cooperate on strategies to promote supply chain resilience, 
+security, and diversification.
+
+Solicited Written Comments
+
+    BIS welcomes public comments on how best to achieve the four 
+primary tasks of the Secure Supply Chains Working Group described 
+above. While BIS invites input from all interested parties, it is 
+particularly interested in obtaining information from foreign and 
+domestic entities that actively participate in semiconductors, solar 
+photovoltaics, critical minerals and materials, and pharmaceuticals 
+supply chains. Interested parties are invited to submit written 
+comments, data, analyses, or information pertinent to this request to 
+BIS no later than May 23, 2022.
+
+[[Page 19855]]
+
+Requirements for Written Comments
+
+    The <a href="https://www.regulations.gov">https://www.regulations.gov</a> website allows users to provide 
+comments by filling in a ``Type Comment'' field, or by attaching a 
+document using an ``Upload File'' field. The Department prefers that 
+comments be provided in an attached document. The Department prefers 
+supplemental submissions in Microsoft Word (.doc files) or Adobe 
+Acrobat (.pdf files). If the submission is in an application format 
+other than Microsoft Word, Microsoft Excel, or Adobe Acrobat, please 
+indicate the name of the application in the ``Type Comment'' field. 
+Please do not attach separate cover letters to electronic submissions; 
+rather, include any information that might appear in a cover letter 
+within the comments. Similarly, to the extent possible, please include 
+any exhibits, annexes, or other attachments in the same file, so that 
+the submission consists of one supplemental file instead of multiple 
+additional files. Comments (both public comments and non-confidential 
+versions of comments containing business confidential information) will 
+be placed in the docket and open to public inspection. Comments may be 
+viewed on <a href="https://www.regulations.gov">https://www.regulations.gov</a> by entering docket number BIS-
+2021-0046 in the search field on the home page.
+    All filers should name their files using the name of the person or 
+entity submitting the comments. Anonymous comments are also accepted. 
+Communications from agencies of the United States Government will not 
+be made available for public inspection. Anyone submitting business 
+confidential information should clearly identify the business 
+confidential portion at the time of submission, file a statement 
+justifying nondisclosure and refer to the specific legal authority 
+claimed, and provide a non-confidential version of the submission. The 
+non-confidential version of the submission will be placed in the public 
+file on <a href="https://www.regulations.gov">https://www.regulations.gov</a>. For comments submitted 
+electronically containing business confidential information, the file 
+name of the business confidential version should begin with the 
+characters ``BC.'' Any page containing business confidential 
+information must be clearly marked ``BUSINESS CONFIDENTIAL'' on the top 
+of that page. The non-confidential version must be clearly marked 
+``PUBLIC.'' The file name of the non-confidential version should begin 
+with the character ``P.'' The ``BC'' and ``P'' should be followed by 
+the name of the person or entity submitting the comments or rebuttal 
+comments. If a public hearing is held in support of this assessment, a 
+separate Federal Register notice will be published providing the date 
+and information about the hearing.
+    BIS does not maintain a separate public inspection facility. 
+Requesters should first view the BIS's web page, which can be found at 
+<a href="https://efoia.bis.doc.gov/">https://efoia.bis.doc.gov/</a> (see ``Electronic FOIA'' heading). If 
+requesters cannot access the website, they may call 202-482-0795 for 
+assistance. The records related to this assessment are made accessible 
+in accordance with the regulations published in part 4 of title 15 of 
+the Code of Federal Regulations (15 CFR 4.1 through 4.11).
+
+Thea D. Rozman Kendler,
+Assistant Secretary for Export Administration.
+[FR Doc. 2022-07211 Filed 4-5-22; 8:45 am]
+BILLING CODE 3510-33-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

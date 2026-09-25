@@ -1,0 +1,440 @@
+<html>
+<head>
+<title>Federal Register, Volume 87 Issue 241 (Friday, December 16, 2022)</title>
+</head>
+<body><pre>
+[Federal Register Volume 87, Number 241 (Friday, December 16, 2022)]
+[Rules and Regulations]
+[Pages 76924-76928]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2022-27149]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF COMMERCE
+
+Bureau of Industry and Security
+
+15 CFR Part 744
+
+[Docket No. 221209-0268]
+RIN 0694-AJ02
+
+
+Revisions to the Unverified List and the Entity List
+
+AGENCY: Bureau of Industry and Security, Department of Commerce.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The Bureau of Industry and Security (BIS) is amending the 
+Export Administration Regulations (EAR) by removing 9 persons from the 
+Unverified List (UVL) and adding them to the Entity List, all under the 
+destination of Russia. BIS has been unable to verify the bona fides of 
+all 9 persons being removed from the UVL and added to the Entity List, 
+due to the foreign government's prevention of timely end-use checks. 
+BIS is also amending the
+
+[[Page 76925]]
+
+EAR by removing 27 persons from the UVL, one under the destination of 
+Pakistan and 26 under the destination of China, because BIS was able to 
+verify their bona fides.
+
+DATES: This rule is effective: December 16, 2022.
+
+FOR FURTHER INFORMATION CONTACT: For questions on the Entity List 
+revisions, contact: Chair, End-User Review Committee, Office of the 
+Assistant Secretary for Export Administration, Bureau of Industry and 
+Security, Department of Commerce, Phone: (202) 482-5991, Email: 
+<a href="/cdn-cgi/l/email-protection#5510071615373c267b313a367b323a23"><span class="__cf_email__" data-cfemail="a5e0f7e6e5c7ccd68bc1cac68bc2cad3">[email&#160;protected]</span></a>.
+    For questions on the Unverified List revisions, contact: Linda 
+Minsker, Director, Office of Enforcement Analysis, Phone: (202) 482-
+4255, Email: <a href="/cdn-cgi/l/email-protection#3065667c62554145554344705259431e545f531e575f46"><span class="__cf_email__" data-cfemail="c194978d93a4b0b4a4b2b581a3a8b2efa5aea2efa6aeb7">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION: 
+
+Background
+
+Entity List Changes
+
+    The Entity List (supplement no. 4 to part 744 of the EAR) 
+identifies entities for which there is reasonable cause to believe, 
+based on specific and articulable facts, that the entities have been 
+involved, are involved, or pose a significant risk of being or becoming 
+involved in activities contrary to the national security or foreign 
+policy interests of the United States, pursuant to Sec.  744.11(b). The 
+EAR impose additional license requirements on, and limit the 
+availability of most license exceptions for, exports, reexports, and 
+transfers (in-country) when a listed entity is a party to the 
+transaction. The license review policy for each listed entity is 
+identified in the ``License Review Policy'' column on the Entity List, 
+and the impact on the availability of license exceptions is described 
+in the relevant Federal Register document that added the entity to the 
+Entity List. The Bureau of Industry and Security (BIS) places entities 
+on the Entity List pursuant to part 744 (Control Policy: End-User and 
+End-Use Based) and part 746 (Embargoes and Other Special Controls) of 
+the EAR.
+    The End-User Review Committee (ERC), composed of representatives of 
+the Departments of Commerce (Chair), State, Defense, Energy and, where 
+appropriate, the Treasury, makes all decisions regarding additions to, 
+removals from, or other modifications to the Entity List. The ERC makes 
+all decisions to add an entry to the Entity List by majority vote and 
+makes all decisions to remove or modify an entry by unanimous vote.
+
+Additions to the Entity List and Removal From the Unverified List
+
+    The ERC determined to add the following entities to the Entity List 
+pursuant to Sec.  744.11(b)(4)(ii) under the destination of Russia: 
+Alliance EG Ltd.; FSUE Rosmorport Far Eastern Basin Branch; Intercom 
+Ltd.; Nasosy Ampika; Nuclin LLC; SDB IRE RAS; Security 2 Business 
+Academy; Tavrida Microelectronics; and VIP Technology Ltd. These 
+entities are being added due to the long-term (60 days or greater) 
+prevention of a successful end-use check conducted by or on behalf of 
+BIS. Specifically, there has been a sustained lack of cooperation by 
+the host government to schedule and facilitate the completion of a 
+timely end-use check of persons listed on the Unverified List. As a 
+result of the sustained inability to conduct an end-use check, there is 
+an unacceptable risk of diversion or misuse of items subject to the 
+EAR. The ERC believes that prior review of exports, reexports, or 
+transfers (in-country) involving the entities and the possible 
+imposition of license conditions or license denial enhance BIS's 
+ability to prevent violations of the EAR. These entities are added to 
+the Entity List with a license requirement for all items subject to the 
+EAR. BIS will review license applications pertaining to these entities 
+under a policy of denial, pursuant to Sec.  746.8(b). No license 
+exceptions are available for exports, reexports, or transfers (in-
+country) to these entities.
+    As a conforming change, each of the entities added to the Entity 
+List by this rule is also removed from the Unverified List. For other 
+changes to the Unverified List made by this rule, which are separate 
+from this action, please see below.
+
+Unverified List Changes
+
+    The UVL, found in supplement no. 6 to part 744 of the EAR, contains 
+the names and addresses of foreign persons who are or have been parties 
+to a transaction, as described in Sec.  748.5 of the EAR, involving the 
+export, reexport, or transfer (in-country) of items subject to the EAR. 
+These foreign persons are added to the UVL because BIS or federal 
+officials acting on BIS's behalf were unable to verify their bona fides 
+(i.e., legitimacy and reliability relating to the end use and end user 
+of items subject to the EAR) through the completion of an end-use 
+check. Sometimes these checks, such as a pre-license check (PLC) or a 
+post-shipment verification (PSV), cannot be completed satisfactorily 
+for reasons outside the U.S. Government's control.
+    There are any number of reasons why these checks cannot be 
+completed to the satisfaction of the U.S. Government. The reasons 
+include, but are not limited to: (1) reasons unrelated to the 
+cooperation of the foreign party subject to the end-use check (for 
+example, BIS sometimes initiates end-use checks but is unable to 
+complete them because the foreign party cannot be found at the address 
+indicated on the associated export documents and BIS cannot contact the 
+party by telephone or email); (2) reasons related to a lack of 
+cooperation by the host government that fails to schedule and 
+facilitate the completion of an end-use check, for example by host 
+government agencies' lack of responses to requests to conduct end-use 
+checks, actions preventing the scheduling of such checks, or refusals 
+to schedule checks in a timely manner; or (3) when, during the end-use 
+check, a recipient of items subject to the EAR is unable to produce the 
+items that are the subject of the end-use check for visual inspection 
+or provide sufficient documentation or other evidence to confirm the 
+disposition of the items.
+    BIS's inability to confirm the bona fides of foreign persons 
+subject to end-use checks for the reasons described above raises 
+concerns about the suitability of such persons as participants in 
+future exports, reexports, or transfers (in-country) of items subject 
+to the EAR; this also indicates a risk that such items may be diverted 
+to prohibited end uses and/or end users. Under such circumstances, 
+there may not be sufficient information to add the foreign person at 
+issue to the Entity List under Sec.  744.11 of the EAR. Therefore, BIS 
+may add the foreign person to the UVL.
+    As provided in Sec.  740.2(a)(17) of the EAR, the use of license 
+exceptions for exports, reexports, and transfers (in-country) involving 
+a party or parties to the transaction who are listed on the UVL is 
+suspended. Additionally, under Sec.  744.15(b) of the EAR, there is a 
+requirement for exporters, re-exporters, and transferors to obtain (and 
+maintain a record of) a UVL statement from a party or parties to the 
+transaction who are listed on the UVL before proceeding with exports, 
+reexports, and transfers (in-country) to such persons, when the 
+exports, reexports and transfers (in-country) are not subject to a 
+license requirement. Finally, pursuant to Sec.  758.1(b)(8), Electronic 
+Export Information (EEI) must be filed in the Automated Export System 
+(AES) for all exports of tangible items subject to the EAR where 
+parties to the transaction, as described in Sec.  748.5(d) through (f), 
+are listed on the UVL.
+
+[[Page 76926]]
+
+    Requests for the removal of a UVL entry must be made in accordance 
+with Sec.  744.15(d) of the EAR. Decisions regarding the removal or 
+modification of UVL entry will be made by the Deputy Assistant 
+Secretary for Export Enforcement, based on a demonstration by the 
+listed person of their bona fides.
+
+Removals From the UVL
+
+    This final rule removes 27 persons from the UVL after BIS was able 
+to verify their bona fides. This rule removes ENGRO Polymer & Chemicals 
+Limited under the destination of Pakistan and the following 26 persons 
+under the destination of China: ``Beijing Naura Magnetoelectric 
+Technology Co., Ltd.;'' ``CCIC Southern Electronic Product Testing Co., 
+Ltd.;'' ``Center for High Pressure Science and Technology Advanced 
+Research;'' ``Changchun National Extreme Precision Optics Co., Ltd.;'' 
+``Chinese Academy of Geological Sciences, Institute of Mineral 
+Resources;'' ``Chinese Academy of Science (CAS) Institute of 
+Chemistry;'' ``Dongguan Durun Optical Technology Co., Ltd.;'' ``Foshan 
+Huaguo Optical Co., Ltd.;'' ``Guangdong University of Technology;'' 
+``Guangxi Intai Technology Co., Ltd.;'' ``Guangxi Yuchai Machinery Co., 
+Ltd.;'' ``Guangzhou Hymson Laser Technology Co., Ltd.;'' ``Heshan Deren 
+Electronic Technology Co., Ltd.;'' ``Hubei Longchang Optical Co., 
+Ltd.;'' ``Hubei Sinophorus Electronic Materials Co., Ltd.;'' ``Kunshan 
+Heng Rui Cheng Industrial Technology;'' ``Shanghai Fansheng 
+Optoelectronic Science & Technology Co. Ltd.;'' ``Shanghai Micro 
+Electronics Equipment (Group) Co., Ltd.;'' ``ShanghaiTech University;'' 
+``Southern University of Science and Technology, Department of 
+Mechanical and Energy Engineering;'' ``University of Chinese Academy of 
+Sciences, School of Chemical Sciences;'' ``University of Shanghai for 
+Science and Technology;'' ``Vital Advanced Materials Co., Ltd.;'' 
+``Wuhan Juhere Photonic Tech Co., Ltd.;'' ``Wuxi Biologics (Shanghai) 
+Co., Ltd.;'' and ``Zhongshan Thincloud Optics Co., Ltd.;''. BIS is 
+removing these 27 persons pursuant to Sec.  744.15(c)(2) of the EAR.
+    Removal of a person from the UVL because BIS was able to verify 
+their bona fides does not affect any other section of the EAR that 
+imposes a license requirement for exports, reexports, transfers (in-
+country), or exports from abroad or activities of U.S. persons. In 
+addition, this action does not preclude subsequent action, including 
+adding such persons to the Entity List pursuant to part 744 of the EAR.
+
+Export Control Reform Act of 2018
+
+    On August 13, 2018, the President signed into law the John S. 
+McCain National Defense Authorization Act for Fiscal Year 2019, which 
+included the Export Control Reform Act of 2018 (ECRA), 50 U.S.C. 
+Sections 4801-4852. ECRA provides the legal basis for BIS's principal 
+authorities and serves as the authority under which BIS issues this 
+final rule.
+
+Savings Clause
+
+    For the changes being made in this final rule, shipments of items 
+removed from eligibility for a License Exception or export, reexport, 
+or transfer (in-country) without a license (NLR) as a result of this 
+regulatory action that were en route aboard a carrier to a port of 
+export, reexport, or transfer (in-country), on [INSERT DATE OF 
+PUBLICATION IN THE FEDERAL REGISTER], pursuant to actual orders for 
+export, reexport, or transfer (in-country) to or within a foreign 
+destination, may proceed to that destination under the previous 
+eligibility for a License Exception or export, reexport, or transfer 
+(in-country) without a license (NLR).
+
+Executive Order Requirements
+
+    Executive Orders 13563 and 12866 direct agencies to assess all 
+costs and benefits of available regulatory alternatives and, if 
+regulation is necessary, to select regulatory approaches that maximize 
+net benefits (including potential economic, environmental, public 
+health and safety effects, distribute impacts, and equity). Executive 
+Order 13563 emphasizes the importance of quantifying both costs and 
+benefits, of reducing costs, of harmonizing rules, and of promoting 
+flexibility. This final rule is not a ``significant regulatory action'' 
+under Executive Order 12866.
+    This rule does not contain policies with Federalism implications as 
+that term is defined under Executive Order 13132.
+
+Paperwork Reduction Act Requirements
+
+    Notwithstanding any other provision of law, no person is required 
+to respond to, nor is subject to a penalty for failure to comply with, 
+a collection of information, subject to the requirements of the 
+Paperwork Reduction Act of 1995 (44 U.S.C. 3501 et seq.) (PRA), unless 
+that collection of information displays a currently valid Office of 
+Management and Budget (OMB) Control Number.
+    The Entity List additions involves collections previously approved 
+by OMB under control number 0694-0088, Simplified Network Application 
+Processing System, which includes, among other things, license 
+applications and commodity classifications, and carries a burden 
+estimate of 29.4 minutes for a manual or electronic submission for a 
+total burden estimate of 33,133 hours. Total burden hours associated 
+with the PRA and OMB control number 0694-0088 are not expected to 
+increase as a result of this rule.
+    BIS believes that the overall increases in burdens and costs will 
+be minimal and will fall within the already approved amounts for these 
+existing collections.
+
+Administrative Procedure Act and Regulatory Flexibility Act 
+Requirements
+
+    Pursuant to Section 4821 of ECRA, this action is exempt from the 
+Administrative Procedure Act (5 U.S.C. 553) requirements for notice of 
+proposed rulemaking and opportunity for public participation.
+    Further, no other law requires notice of proposed rulemaking or 
+opportunity for public comment for this final rule. Because a notice of 
+proposed rulemaking and an opportunity for public comment are not 
+required under the Administrative Procedure Act or by any other law, 
+the analytical requirements of the Regulatory Flexibility Act (5 U.S.C. 
+601 et seq.) are not applicable.
+
+List of Subjects in 15 CFR Part 744
+
+    Exports, Reporting and recordkeeping requirements, Terrorism.
+
+    Accordingly, part 744 of the Export Administration Regulations (15 
+CFR parts 730 through 774) is amended as follows:
+
+PART 744--[AMENDED]
+
+0
+1. The authority citation for 15 CFR part 744 continues to read as 
+follows:
+
+    Authority:  50 U.S.C. 4801-4852; 50 U.S.C. 4601 et seq.; 50 
+U.S.C. 1701 et seq.; 22 U.S.C. 3201 et seq.; 42 U.S.C. 2139a; 22 
+U.S.C. 7201 et seq.; 22 U.S.C. 7210; E.O. 12058, 43 FR 20947, 3 CFR, 
+1978 Comp., p. 179; E.O. 12851, 58 FR 33181, 3 CFR, 1993 Comp., p. 
+608; E.O. 12938, 59 FR 59099, 3 CFR, 1994 Comp., p. 950; E.O. 13026, 
+61 FR 58767, 3 CFR, 1996 Comp., p. 228; E.O. 13099, 63 FR 45167, 3 
+CFR, 1998 Comp., p. 208; E.O. 13222, 66 FR 44025, 3 CFR, 2001 Comp., 
+p. 783; E.O. 13224, 66 FR 49079, 3 CFR, 2001 Comp., p. 786; Notice 
+of September 19, 2022, 87 FR 57569 (September 21, 2022); Notice of 
+November 8, 2022, 87 FR 68015 (November 10, 2022).
+
+
+0
+2. Amend Supplement no. 4 to part 744 under RUSSIA, by adding in 
+alphabetical order, entries for ``Alliance
+
+[[Page 76927]]
+
+EG Ltd.'', ``FSUE Rosmorport Far Eastern Basin Branch'', ``Intercom 
+Ltd.'', ``Nasosy Ampika'', ``Nuclin LLC'', ``SDB IRE RAS'', ``Security 
+2 Business Academy'', ``Tavrida Microelectronics'', and ``VIP 
+Technology Ltd.'' to read as follows:
+
+Supplement No. 4 to Part 744--Entity List
+
+* * * * *
+
+----------------------------------------------------------------------------------------------------------------
+                                                             License         License review     Federal Register
+        Country                     Entity                 requirement           policy             citation
+----------------------------------------------------------------------------------------------------------------
+ 
+                                                  * * * * * * *
+----------------------------------------------------------------------------------------------------------------
+RUSSIA.................                                         * * * * * *
+                         Alliance EG Ltd., Leninsky    For all items       Policy of denial.   87 FR [INSERT FR
+                          Prospect 139, Office 310      subject to the      See Sec.            PAGE NUMBER],
+                          St., Petersburg 198216,       EAR. (See Sec.      746.8(b).           December 16,
+                          Russia.                       744.11 of the                           2022.
+                                                        EAR).
+                                                                * * * * * *
+                         FSUE Rosmorport Far Eastern   For all items       Policy of denial.   87 FR [INSERT FR
+                          Basin Branch,                 subject to the      See Sec.            PAGE NUMBER],
+                          Nizhneportovaya Street 3      EAR. (See Sec.      746.8(b).           December 16,
+                          Primorskiy Territory,         744.11 of the                           2022.
+                          Vladivostok 690003, Russia.   EAR).
+                                                                * * * * * *
+                         Intercom Ltd., Kalinina       For all items       Policy of denial.   87 FR [INSERT FR
+                          Street 13 Saint Petersburg    subject to the      See Sec.            PAGE NUMBER],
+                          198099, Russia.               EAR. (See Sec.      746.8(b).           December 16,
+                                                        744.11 of the                           2022.
+                                                        EAR).
+                                                                * * * * * *
+                         Nasosy Ampika, 3-ya           For all items       Policy of denial.   87 FR [INSERT FR
+                          Institutskaya St. Bld. 15     subject to the      See Sec.            PAGE NUMBER],
+                          Moscow, Russia.               EAR. (See Sec.      746.8(b).           December 16,
+                                                        744.11 of the                           2022.
+                                                        EAR).
+                                                                * * * * * *
+                         Nuclin LLC, Serebryakova      For all items       Policy of denial.   87 FR [INSERT FR
+                          Proezd 14 Moscow, Russia.     subject to the      See Sec.            PAGE NUMBER],
+                                                        EAR. (See Sec.      746.8(b).           December 16,
+                                                        744.11 of the                           2022.
+                                                        EAR).
+                                                                * * * * * *
+                         SDB IRE RAS, 1 Vvedenskogo    For all items       Policy of denial.   87 FR [INSERT FR
+                          Square Fryazino, Russia.      subject to the      See Sec.            PAGE NUMBER],
+                                                        EAR. (See Sec.      746.8(b).           December 16,
+                                                        744.11 of the                           2022.
+                                                        EAR).
+                         Security 2 Business Academy,  For all items       Policy of denial.   87 FR [INSERT FR
+                          a.k.a., the following two     subject to the      See Sec.            PAGE NUMBER],
+                          aliases:                      EAR. (See Sec.      746.8(b).           December 16,
+                         -- S2BA                        744.11 of the                           2022.
+                         --Academy of Business          EAR).
+                          Security.
+                         Deguninskaya Street 10
+                          Moscow, Russia; and
+                          Novoslobodskaya Str. 14/19
+                          Moscow, Russia.
+                                                                * * * * * *
+                         Tavrida Microelectronics,     For all items       Policy of denial.   87 FR [INSERT FR
+                          Zelenaya Street 1             subject to the      See Sec.            PAGE NUMBER],
+                          Dolgoprudnyy Moscow 141700,   EAR. (See Sec.      746.8(b).           December 16,
+                          Russia.                       744.11 of the                           2022.
+                                                        EAR).
+                                                                * * * * * *
+                         VIP Technology Ltd.,          For all items       Policy of denial.   87 FR [INSERT FR
+                          Bechtereva Street 3/2,        subject to the      See Sec.            PAGE NUMBER],
+                          Office 40 Saint Petersburg    EAR. (See Sec.      746.8(b).           December 16,
+                          192019, Russia.               744.11 of the                           2022.
+                                                        EAR).
+                                                                * * * * * *
+----------------------------------------------------------------------------------------------------------------
+ 
+                                                  * * * * * * *
+----------------------------------------------------------------------------------------------------------------
+
+* * * * *
+
+0
+3. Supplement no. 6 to part 744 is amended by:
+0
+a. Under CHINA, PEOPLE'S REPUBLIC OF, removing the following entries: 
+``Beijing Naura Magnetoelectric Technology Co., Ltd.'', ``CCIC Southern 
+Electronic Product Testing Co., Ltd .'', ``Center for High Pressure 
+Science and Technology Advanced Research'', ``Changchun National 
+Extreme Precision Optics Co., Ltd.'', ``Chinese Academy of Geological 
+Sciences, Institute of Mineral Resources'', ``Chinese Academy of 
+Science (CAS) Institute of Chemistry'', ``Dongguan Durun Optical 
+Technology Co., Ltd.'', ``Foshan Huaguo Optical Co., Ltd.'', 
+``Guangdong University of Technology'', ``Guangxi Intai Technology Co., 
+Ltd.'', ``Guangxi Yuchai Machinery Co., Ltd.'', ``Guangzhou Hymson 
+Laser Technology Co., Ltd.'', ``Heshan Deren Electronic Technology Co., 
+Ltd.'', ``Hubei Longchang Optical Co., Ltd.'', ``Hubei Sinophorus 
+Electronic Materials Co., Ltd.'', ``Kunshan Heng Rui Cheng Industrial 
+Technology'', ``Shanghai Fansheng Optoelectronic Science & Technology 
+Co., Ltd.'', ``Shanghai Micro Electronics Equipment (Group) Co., 
+Ltd.'', ``ShanghaiTech University'', ``Southern University of Science 
+and Technology, Department of Mechanical and Energy Engineering'', 
+``University of Chinese Academy of Sciences, School of Chemical 
+Sciences'', ``University of Shanghai for Science and Technology'', 
+``Vital Advanced Materials Co., Ltd.'', ``Wuhan Juhere Photonic Tech 
+Co., Ltd.'', ``Wuxi Biologics (Shanghai) Co., Ltd.'', and ``Zhongshan 
+Thincloud Optics Co., Ltd.'';
+0
+b. Under PAKISTAN, removing the entry for ``ENGRO Polymer & Chemicals 
+Limited''; and
+0
+c. Under RUSSIA, removing the following entries: ``Alliance EG Ltd.'',
+
+[[Page 76928]]
+
+``FSUE Rosmorport Far Eastern Basin Branch'', ``Intercom Ltd.'', 
+``Nasosy Ampika'', ``Nuclin LLC'', ``SDB IRE RAS'', ``Security 2 
+Business Academy'', ``Tavrida Microelectronics'', and ``VIP Technology 
+Ltd.''
+
+Matthew S. Borman,
+Deputy Assistant Secretary for Export Administration.
+[FR Doc. 2022-27149 Filed 12-15-22; 8:45 am]
+BILLING CODE 3510-33-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

@@ -1,0 +1,1514 @@
+<html>
+<head>
+<title>Federal Register, Volume 87 Issue 242 (Monday, December 19, 2022)</title>
+</head>
+<body><pre>
+[Federal Register Volume 87, Number 242 (Monday, December 19, 2022)]
+[Rules and Regulations]
+[Pages 77505-77518]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2022-27151]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF COMMERCE
+
+Bureau of Industry and Security
+
+15 CFR Part 744
+
+[Docket No. 221209-0267]
+RIN 0694-AJ04
+
+
+Additions and Revisions to the Entity List and Conforming Removal 
+From the Unverified List
+
+AGENCY: Bureau of Industry and Security, Department of Commerce.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The Department of Commerce is amending the Export 
+Administration Regulations (EAR) by adding thirty-six entities to the 
+Entity List. These entities have been determined by the U.S. Government 
+to be acting contrary to the national security or foreign policy 
+interests of the United States and will be listed on the Entity List 
+under the destinations of the People's Republic of China (China) and 
+Japan. This rule also revises three entries on the Entity List under 
+the destination of China. Lastly, as a conforming change to the 
+addition of one entity to the Entity List under the destination of 
+China, this rule removes this entity from the Unverified List (UVL). 
+The entity is being added to the Entity List for reasons not related to 
+the prevention of an end-use check and is removed from the UVL for 
+consistency with the existing policy of not listing an entity on more 
+than one of these lists at the same time.
+
+DATES: This rule is effective December 16, 2022.
+
+FOR FURTHER INFORMATION CONTACT: For questions about the Entity List, 
+contact: Chair, End-User Review Committee, Office of the Assistant 
+Secretary for Export Administration, Bureau of Industry and Security, 
+Department of Commerce, Phone: (202) 482-5991, Email: <a href="/cdn-cgi/l/email-protection#a0e5f2e3e0c2c9d38ec4cfc38ec7cfd6"><span class="__cf_email__" data-cfemail="a6e3f4e5e6c4cfd588c2c9c588c1c9d0">[email&#160;protected]</span></a>; 
+and for questions about the UVL, contact Linda Minsker, Director, 
+Office of Enforcement Analysis, Phone: (202) 482-4255, Email: 
+<a href="/cdn-cgi/l/email-protection#bbeeedf7e9decacedec8cffbd9d2c895dfd4d895dcd4cd"><span class="__cf_email__" data-cfemail="6a3f3c26380f1b1f0f191e2a080319440e0509440d051c">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION:
+
+Background
+
+    The Entity List (supplement no. 4 to part 744 of the EAR (15 CFR 
+parts 730-774)) identifies entities for which there is reasonable cause 
+to believe, based on specific and articulable facts, that the entities 
+have been involved, are involved, or pose a significant risk of being 
+or becoming involved in activities contrary to the national security or 
+foreign policy interests of the United States, pursuant to Sec.  
+744.11(b). The EAR
+
+[[Page 77506]]
+
+impose additional license requirements on, and limit the availability 
+of, most license exceptions for exports, reexports, and transfers (in-
+country) when a listed entity is a party to the transaction. The 
+license review policy for each listed entity is identified in the 
+``License Review Policy'' column on the Entity List, and the impact on 
+the availability of license exceptions is described in the relevant 
+Federal Register document that added the entity to the Entity List. The 
+Bureau of Industry and Security (BIS) places entities on the Entity 
+List pursuant to part 744 (Control Policy: End-User and End-Use Based) 
+and part 746 (Embargoes and Other Special Controls) of the EAR.
+    The End-User Review Committee (ERC), composed of representatives of 
+the Departments of Commerce (Chair), State, Defense, Energy and, where 
+appropriate, the Treasury, makes all decisions regarding additions to, 
+removals from, or other modifications to the Entity List. The ERC makes 
+all decisions to add an entry to the Entity List by majority vote and 
+makes all decisions to remove or modify an entry by unanimous vote.
+
+Entity List Decisions
+
+Additions to the Entity List
+
+    The ERC determined to add Anhui Cambricon Information Technology 
+Co., Ltd.; Cambricon (Hong Kong) Co., Ltd.; Cambricon (Kunshan) 
+Information Technology Co., Ltd.; Cambricon Jixingge (Nanjing) 
+Technology Co., Ltd.; Cambricon (Nanjing) Information Technology Co., 
+Ltd.; Cambricon Technologies Corporation Limited; Cambricon (Xi'an) 
+Integrated Circuit Co., Ltd.; CETC Cloud (Beijing) Technology Co., 
+Ltd.; CETC LES Information System Group Co., Ltd.; China Electronics 
+Technology Group Corporation No. 28 Institute; Chinese Academy of 
+Sciences Institute of Computing Technology; Guangdong Qinzhi Technology 
+Research Institute Co., Ltd.; Key Laboratory of Information Systems 
+Engineering; Nanjing Aixi Information Technology Co., Ltd.; Nanjing LES 
+Cybersecurity and Information Technology Research Institute Co., Ltd.; 
+Nanjing LES Electronic Equipment Co., Ltd.; Nanjing LES Information 
+Technology Co., Ltd.; Shanghai Cambricon Information Technology Co., 
+Ltd.; Suzhou Cambricon Information Technology Co., Ltd.; System 
+Equipment Co., Ltd. of the 28th Research Institute (Liyang); and 
+Xiong'an Cambricon Technology Co., Ltd. under the destination of China 
+to the Entity List for acquiring and attempting to acquire U.S.-origin 
+items in support of China's military modernization. These entities are 
+major artificial intelligence (AI) chip research and development, 
+manufacturing and sales entities. These entities are, or have close 
+ties to, government organizations that support the Chinese military and 
+the defense industry. This activity is contrary to the national 
+security and foreign policy interests of the United States under Sec.  
+744.11(b) of the EAR. These entities are added with a license 
+requirement for all items subject to the EAR with a footnote 4 
+designation with a reference to the Entity List foreign ``direct 
+product'' (FDP) rule in the license requirements column of the Entity 
+List (see Sec. Sec.  734.9(e)(2) and 744.11 of the EAR). These entities 
+are added with a license review policy of presumption of denial for all 
+items subject to the EAR.
+    The ERC determined to add Shanghai Integrated Circuit Research and 
+Development Center and Shanghai Micro Electronics Equipment (Group) 
+Co., Ltd. under the destination of China to the Entity List for 
+acquiring and attempting to acquire U.S.-origin items in support of 
+China's military modernization. This activity is contrary to the 
+national security and foreign policy interests of the United States 
+under Sec.  744.11(b) of the EAR. These entities are added with a 
+license requirement for all items subject to the EAR and a license 
+review policy of presumption of denial for all items subject to the 
+EAR. Another BIS rule published in this same issue of the Federal 
+Register is removing Shanghai Micro Electronics Equipment (Group) Co., 
+Ltd. from the UVL for the reasons noted in the other rule. This entity 
+is being added to the Entity List for reasons not related to the 
+prevention of an end-use check.
+    The ERC determined to add PXW Semiconductor Manufactory Co., Ltd. 
+under the destination of China to the Entity List for posing a 
+significant risk of becoming involved in activities contrary to the 
+national security or foreign policy interests of the United States. 
+This determination is based on information that this company represents 
+a risk of diversion to a party on the BIS Entity List. This activity is 
+contrary to the national security or foreign policy interests of the 
+United States under Sec.  744.11(b) of the EAR. The ERC determined that 
+the conduct of PXW Semiconductor Manufactory Co., Ltd. raises 
+sufficient concern that prior review of exports, reexports, or 
+transfers (in-country) of items subject to the EAR involving this 
+entity, and the possible imposition of license conditions or license 
+denials on shipments to the entity, will enhance BIS's ability to 
+prevent violations of the EAR. This entity is added with a license 
+requirement for all items subject to the EAR and a license review 
+policy of presumption of denial for all items subject to the EAR.
+    The agencies represented on the ERC determined to add Yangtze 
+Memory Technologies Co., Ltd. and Hefei Core Storage Electronic Limited 
+under the destination of China and Yangtze Memory Technologies (Japan) 
+Inc. under the destination of Japan to the Entity List for posing a 
+significant risk of becoming involved in activities contrary to the 
+national security or foreign policy interests of the United States. 
+This request is based on information indicating that these companies 
+present a risk of diversion to parties on the Entity List, to include 
+Huawei Technologies Co., Ltd., and Hangzhou Hikvision Digital 
+Technology Co., Ltd. This activity is contrary to the national security 
+or foreign policy interests of the United States under Sec.  744.11(b) 
+of the EAR. The agencies represented on the ERC determined that prior 
+review of exports, reexports, or transfers (in-country) of items 
+subject to the EAR involving these entities, and the possible 
+imposition of license conditions or license denials on shipments to the 
+entity, will enhance BIS's ability to prevent violations of the EAR. 
+These entities are added with a license requirement for all items 
+subject to the EAR and a license review policy of presumption of denial 
+for all items subject to the EAR.
+    The ERC determined to add AVIC Research Institute for Special 
+Structures of Aeronautical Composites; AZUP International Group Co., 
+Ltd.; Beijing HiFar Technology Co., Ltd.; Beijing Machinery Industry 
+Automation Research Institute Co., Ltd.; Beijing Vision Strategy 
+Technology Co., Ltd.; Shanghai Suowei Information Technology Co., Ltd.; 
+and Zhongke Xinliang (Beijing) Technology Co., Ltd. to the Entity List. 
+These entities are added for acquiring and attempting to acquire U.S.-
+origin items in support of China's military modernization. These 
+entities have demonstrable ties to activities of concern, including: 
+hypersonic weapons development, design and modeling of vehicles in 
+hypersonic flight; designing and producing ballistic missile radomes, 
+using proprietary software to model weapons design and damage; and 
+otherwise supporting military-civil fusion efforts tied to the People's 
+Liberation Army Air Force and Navy. This activity is contrary to the 
+national
+
+[[Page 77507]]
+
+security and foreign policy interests of the United States under Sec.  
+744.11(b) of the EAR. These entities are added with a license 
+requirement for all items subject to the EAR and a license review 
+policy of presumption of denial for all items subject to the EAR.
+    The ERC determined to add Beijing UniStrong Science & Technology 
+Co., Ltd. to the Entity List under the destination of China, for 
+activity contrary to the national security or foreign policy interests 
+of the United States. Specifically, Beijing UniStrong Science & 
+Technology Co., Ltd. facilitated the illegal export of U.S.-origin 
+electronics, controlled under Export Control Classification Number 
+(ECCN) 7A994, to Iran for use in the production of military unmanned 
+aerial vehicles and missile systems used in attacks throughout the 
+Middle East. This activity is contrary to the national security or 
+foreign policy interests of the United States under Sec.  744.11(b) of 
+the EAR. This entity is added with a license requirement for all items 
+subject to the EAR and a license review policy of presumption of denial 
+for all items subject to the EAR.
+    The ERC determined, pursuant to Sec.  744.11(b) of the EAR, to add 
+Tianjin Tiandi Weiye Technologies Co., Ltd. under the destination of 
+China to the Entity List for engaging in or enabling activities 
+contrary to U.S. foreign policy interests. Specifically, this entity 
+has been implicated in human rights violations and abuses in the 
+implementation of China's campaign of repression, mass arbitrary 
+detention, and high-technology surveillance against Uyghurs, Kazakhs, 
+and other members of Muslim minority groups in the Xinjiang Uyghur 
+Autonomous Region (XUAR). This entity also has enabled the procurement 
+of U.S.-origin items for use by the Islamic Revolutionary Guard Corps. 
+These activities are contrary to U.S. national security and foreign 
+policy interests under Sec.  744.11(b) of the EAR. This entity is added 
+with a license requirement for all items subject to the EAR and a 
+license review policy of presumption of denial for all items subject to 
+the EAR.
+    For the reasons described above, this final rule adds the following 
+thirty-six entities to the Entity List and includes, where appropriate, 
+aliases:
+
+China
+
+    <bullet> Anhui Cambricon Information Technology Co., Ltd.,
+    <bullet> AVIC Research Institute for Special Structures of 
+Aeronautical Composites,
+    <bullet> AZUP International Group Co., Ltd.,
+    <bullet> Beijing HiFar Technology Co., Ltd.,
+    <bullet> Beijing Machinery Industry Automation Research Institute 
+Co., Ltd.,
+    <bullet> Beijing UniStrong Science & Technology Co., Ltd.,
+    <bullet> Beijing Vision Strategy Technology Co., Ltd.,
+    <bullet> Cambricon (Hong Kong) Co., Ltd.,
+    <bullet> Cambricon (Kunshan) Information Technology Co., Ltd.,
+    <bullet> Cambricon Jixingge (Nanjing) Technology Co., Ltd.,
+    <bullet> Cambricon (Nanjing) Information Technology Co., Ltd.,
+    <bullet> Cambricon Technologies Corporation Limited,
+    <bullet> Cambricon (Xi'an) Integrated Circuit Co., Ltd.,
+    <bullet> CETC Cloud (Beijing) Technology Co., Ltd.,
+    <bullet> CETC LES Information System Group Co., Ltd.,
+    <bullet> China Electronics Technology Group Corporation No. 28 
+Institute,
+    <bullet> Chinese Academy of Sciences Institute of Computing 
+Technology,
+    <bullet> Guangdong Qinzhi Technology Research Institute Co., Ltd.,
+    <bullet> Hefei Core Storage Electronic Ltd.,
+    <bullet> Key Laboratory of Information Systems Engineering,
+    <bullet> Nanjing Aixi Information Technology Co., Ltd.,
+    <bullet> Nanjing LES Cybersecurity and Information Technology 
+Research Institute Co., Ltd.,
+    <bullet> Nanjing LES Electronic Equipment Co., Ltd.,
+    <bullet> Nanjing LES Information Technology Co., Ltd.,
+    <bullet> PXW Semiconductor Manufactory Co., Ltd.,
+    <bullet> Shanghai Cambricon Information Technology Co., Ltd.,
+    <bullet> Shanghai Integrated Circuit Research and Development 
+Center,
+    <bullet> Shanghai Micro Electronics Equipment (Group) Co., Ltd.,
+    <bullet> Shanghai Suowei Information Technology Co., Ltd.,
+    <bullet> Suzhou Cambricon Information Technology Co., Ltd.,
+    <bullet> System Equipment Co., Ltd. of the 28th Research Institute 
+(Liyang),
+    <bullet> Tianjin Tiandi Weiye Technologies Co., Ltd.,
+    <bullet> Xiong'an Cambricon Technology Co., Ltd.,
+    <bullet> Yangtze Memory Technologies Co., Ltd., and
+    <bullet> Zhongke Xinliang (Beijing) Technology Co., Ltd.
+
+Japan
+
+    <bullet> Yangtze Memory Technologies (Japan) Inc.
+
+Revisions to the Entity List
+
+    This final rule revises three existing entries, under the 
+destination of China.
+    The ERC determined to modify the entry for China Electronics 
+Technology Group Corporation 13th Research Institute (CETC 13) under 
+the destination of China, first added to the Entity List on August 1, 
+2018 (83 FR 37427). Prior to this rule, the CETC 13 entry included 12 
+subordinate institutions (i.e., Bowei Integrated Circuits; Envoltek; 
+Hebei Brightway International; Hebei Medicines Health; Hebei Poshing 
+Electronics; Hebei Puxing Electronic; Hebei Sinopack Electronics; Micro 
+Electronic Technology; MT Microsystems; North China Integrated Circuit 
+Corporation; Shijiazhuang Development Zone Maiteda Microelectronics 
+Technology Development and Application Corporation; and Tonghui 
+Electronics).
+    With this rule, there are two primary changes to the CETC 13 entry. 
+First, each of the 12 subordinate institutions are now detailed under 
+their own entries and this rule adds those entries as separate entries 
+to the Entity List. Second, the entries for CETC 13 and the subordinate 
+institution Micro Electronic Technology, which as described above is 
+being added under its own entry, are being modified. The ERC determined 
+these two entities are Russian `military end users' pursuant to Sec.  
+744.21. As Russian `military end users' they are now given a footnote 3 
+designation in their license requirement. As Russian `military end 
+users' with a footnote 3 designation, CETC 13 and Micro Electronic 
+Technology are now subject to the Russia/Belarus-Military End User 
+foreign ``direct product'' (FDP) rule, detailed in Sec.  734.9(g). This 
+decision is based on information that these companies contribute to 
+Russia's military and/or defense industrial base. Specifically, the ERC 
+determined that these entities have previously supplied items to 
+Russian parties before February 24, 2022 (Russia's further invasion of 
+Ukraine), and continue to contract to supply items to Russian parties 
+after February 24, 2022. As a conforming change, licenses for CETC 13 
+and Micro Electronic Technology will be reviewed under a policy of 
+denial for all items subject to the EAR apart from food and medicine 
+designated as EAR99, which will be reviewed on a case-by-case basis. 
+See Sec. Sec.  746.8(b) and 744.21(e). The remaining 11 subordinate 
+institutions will retain the original entry's license requirement for 
+all items subject to the EAR, which will be reviewed under a 
+presumption of denial.
+    The ERC has determined to modify the entry for HSJ Electronics, 
+under the destination of China, first added to the Entity List on 
+December 17, 2021 (86 FR
+
+[[Page 77508]]
+
+71560), by adding one additional alias and four additional addresses.
+    The ERC has determined to modify the entry for Tenco Technology 
+Company Limited, under the destination of China, first added to the 
+Entity List on May 14, 2019 (84 FR 21236), by adding one additional 
+alias and one additional address.
+
+Addition to the Entity List and Conforming Removal From the Unverified 
+List
+
+    As described above under the additions to the Entity List section, 
+the agencies represented on the ERC determined to add Yangtze Memory 
+Technologies Co., Ltd. under the destination of China to the Entity 
+List for posing a significant risk of becoming involved in activities 
+contrary to the national security or foreign policy interests of the 
+United States. This entity is being added to the Entity List for 
+reasons not related to the prevention of an end-use check. Prior to 
+this rule, Yangtze Memory Technologies Co., Ltd. was listed on the 
+Unverified List in supplement no. 6 to part 744 of the EAR. For 
+consistency with the existing BIS policy of not listing an entity on 
+more than one of these lists at the same time, this rule makes the 
+conforming change to remove the entity from the UVL.
+
+Export Control Reform Act of 2018
+
+    On August 13, 2018, the President signed into law the John S. 
+McCain National Defense Authorization Act for Fiscal Year 2019, which 
+included the Export Control Reform Act of 2018 (ECRA), 50 U.S.C. 
+Sections 4801-4852. ECRA provides the legal basis for BIS's principal 
+authorities and serves as the authority under which BIS issues this 
+final rule.
+
+Savings Clause
+
+    For the changes being made in this final rule, shipments of items 
+removed from eligibility for a License Exception or export, reexport, 
+or transfer (in-country) without a license (NLR) as a result of this 
+regulatory action that were en route aboard a carrier to a port of 
+export, reexport, or transfer (in-country), on December 16, 2022, 
+pursuant to actual orders for export, reexport, or transfer (in-
+country) to or within a foreign destination, may proceed to that 
+destination under the previous eligibility for a License Exception or 
+export, reexport, or transfer (in-country) without a license (NLR).
+
+Rulemaking Requirements
+
+    1. This rule has been determined to be not significant for purposes 
+of Executive Order 12866.
+    2. Notwithstanding any other provision of law, no person is 
+required to respond to or be subject to a penalty for failure to comply 
+with a collection of information, subject to the requirements of the 
+Paperwork Reduction Act of 1995 (44 U.S.C. 3501 et seq.) (PRA), unless 
+that collection of information displays a currently valid Office of 
+Management and Budget (OMB) Control Number. This regulation involves 
+collections previously approved by OMB under control number 0694-0088, 
+Simplified Network Application Processing System, which includes, among 
+other things, license applications and commodity classifications, and 
+carries a burden estimate of 29.4 minutes for a manual or electronic 
+submission for a total burden estimate of 33,133 hours. Total burden 
+hours associated with the PRA and OMB control number 0694-0088 are not 
+expected to increase as a result of this rule.
+    3. This rule does not contain policies with federalism implications 
+as that term is defined in Executive Order 13132.
+    4. Pursuant to section 1762 of the Export Control Reform Act of 
+2018, this action is exempt from the Administrative Procedure Act (5 
+U.S.C. 553) requirements for notice of proposed rulemaking, opportunity 
+for public participation, and delay in effective date.
+    5. Because a notice of proposed rulemaking and an opportunity for 
+public comment are not required to be given for this rule by 5 U.S.C. 
+553, or by any other law, the analytical requirements of the Regulatory 
+Flexibility Act, 5 U.S.C. 601, et seq., are not applicable. 
+Accordingly, no regulatory flexibility analysis is required and none 
+has been prepared.
+
+List of Subjects in 15 CFR Part 744
+
+    Exports, Reporting and recordkeeping requirements, Terrorism.
+
+    Accordingly, part 744 of the Export Administration Regulations (15 
+CFR parts 730 through 774) is amended as follows:
+
+PART 744--CONTROL POLICY: END-USER AND END-USE BASED
+
+0
+1. The authority citation for 15 CFR part 744 continues to read as 
+follows:
+
+    Authority:  50 U.S.C. 4801-4852; 50 U.S.C. 4601 et seq.; 50 
+U.S.C. 1701 et seq.; 22 U.S.C. 3201 et seq.; 42 U.S.C. 2139a; 22 
+U.S.C. 7201 et seq.; 22 U.S.C. 7210; E.O. 12058, 43 FR 20947, 3 CFR, 
+1978 Comp., p. 179; E.O. 12851, 58 FR 33181, 3 CFR, 1993 Comp., p. 
+608; E.O. 12938, 59 FR 59099, 3 CFR, 1994 Comp., p. 950; E.O. 13026, 
+61 FR 58767, 3 CFR, 1996 Comp., p. 228; E.O. 13099, 63 FR 45167, 3 
+CFR, 1998 Comp., p. 208; E.O. 13222, 66 FR 44025, 3 CFR, 2001 Comp., 
+p. 783; E.O. 13224, 66 FR 49079, 3 CFR, 2001 Comp., p. 786; Notice 
+of September 19, 2022, 87 FR 57569 (September 21, 2022); Notice of 
+November 8, 2022, 87 FR 68015 (November 10, 2022).
+
+
+0
+2. Amend supplement no. 4 to part 744 by:
+0
+a. Under PEOPLE'S REPUBLIC OF CHINA:
+0
+i. Adding in alphabetical order entries for ``Anhui Cambricon 
+Information Technology Co., Ltd.,'' ``AVIC Research Institute for 
+Special Structures of Aeronautical Composites,'' ``AZUP International 
+Group Co., Ltd.,'' ``Beijing HiFar Technology Co., Ltd.,'' ``Beijing 
+Machinery Industry Automation Research Institute Co., Ltd.,'' ``Beijing 
+UniStrong Science & Technology Co., Ltd.,'' ``Beijing Vision Strategy 
+Technology Co., Ltd.,'' ``Cambricon (Hong Kong) Co., Ltd.,'' 
+``Cambricon Jixingge (Nanjing) Technology Co., Ltd.,'' ``Cambricon 
+(Kunshan) Information Technology Co., Ltd.,'' ``Cambricon (Nanjing) 
+Information Technology Co., Ltd.,'' ``Cambricon Technologies 
+Corporation Limited,'' ``Cambricon (Xi'an) Integrated Circuit Co., 
+Ltd.,'' ``CETC Cloud (Beijing) Technology Co., Ltd.,'' and ``CETC LES 
+Information System Group Co., Ltd.'';
+0
+ii. Revising the entry for ``China Electronics Technology Group 
+Corporation 13th Research Institute (CETC 13)'';
+0
+iii. Adding in alphabetical order entries for ``China Electronics 
+Technology Group Corporation 13th Research Institute (CETC 13) 
+subordinate institution: Bowei Integrated Circuits,'' ``China 
+Electronics Technology Group Corporation 13th Research Institute (CETC 
+13) subordinate institution: Envoltek,'' ``China Electronics Technology 
+Group Corporation 13th Research Institute (CETC 13) subordinate 
+institution: Hebei Brightway International,'' ``China Electronics 
+Technology Group Corporation 13th Research Institute (CETC 13) 
+subordinate institution: Hebei Medicines Health,'' ``China Electronics 
+Technology Group Corporation 13th Research Institute (CETC 13) 
+subordinate institution: Hebei Poshing Electronics,'' ``China 
+Electronics Technology Group Corporation 13th Research Institute (CETC 
+13) subordinate institution: Hebei Puxing Electronic,'' ``China 
+Electronics Technology Group
+
+[[Page 77509]]
+
+Corporation 13th Research Institute (CETC 13) subordinate institution: 
+Hebei Sinopack Electronics,'' ``China Electronics Technology Group 
+Corporation 13th Research Institute (CETC 13) subordinate institution: 
+Micro Electronic Technology,'' ``China Electronics Technology Group 
+Corporation 13th Research Institute (CETC 13) subordinate institution: 
+MT Microsystems,'' ``China Electronics Technology Group Corporation 
+13th Research Institute (CETC 13) subordinate institution: North China 
+Integrated Circuit Corporation,'' ``China Electronics Technology Group 
+Corporation 13th Research Institute (CETC 13) subordinate institution: 
+Shijiazhuang Development Zone Maiteda Microelectronics Technology 
+Development and Application Corporation,'' ``China Electronics 
+Technology Group Corporation 13th Research Institute (CETC 13) 
+subordinate institution: Tonghui Electronics,'' ``China Electronics 
+Technology Group Corporation No. 28 Institute,'' ``Chinese Academy of 
+Sciences Institute of Computing Technology,'' ``Guangdong Qinzhi 
+Technology Research Institute Co., Ltd.,'' and ``Hefei Core Storage 
+Electronic Ltd.'';
+0
+iv. Revising the entry for ``HSJ Electronics'';
+0
+v. Adding in alphabetical order entries for ``Key Laboratory of 
+Information Systems Engineering,'' ``Nanjing Aixi Information 
+Technology Co., Ltd.,'' ``Nanjing LES Cybersecurity and Information 
+Technology Research Institute Co., Ltd.,'' ``Nanjing LES Electronic 
+Equipment Co., Ltd.,'' ``Nanjing LES Information Technology Co., 
+Ltd.,'' ``PXW Semiconductor Manufactory Co., Ltd.,'' ``Shanghai 
+Cambricon Information Technology Co., Ltd.,'' ``Shanghai Integrated 
+Circuit Research and Development Center,'' ``Shanghai Micro Electronics 
+Equipment (Group) Co., Ltd.,'' ``Shanghai Suowei Information Technology 
+Co., Ltd.,'' ``Suzhou Cambricon Information Technology Co., Ltd.,'' and 
+``System Equipment Co., Ltd. of the 28th Research Institute (Liyang)'';
+0
+vi. Revising the entry for ``Tenco Technology Company Ltd.''; and
+0
+vii. Adding in alphabetical order entries for ``Tianjin Tiandi Weiye 
+Technologies Co., Ltd.,'' ``Xiong'an Cambricon Technology Co., Ltd.,'' 
+``Yangtze Memory Technologies Co., Ltd.,'' and ``Zhongke Xinliang 
+(Beijing) Technology Co., Ltd.''; and
+0
+b. Under JAPAN, adding in alphabetical order an entry for ``Yangtze 
+Memory Technologies (Japan) Inc.''.
+    The additions and revisions read as follows:
+
+Supplement No. 4 to Part 744--Entity List
+
+* * * * *
+
+----------------------------------------------------------------------------------------------------------------
+                                                                                                     Federal
+       Country                       Entity                License requirement   License review      Register
+                                                                                     policy          citation
+----------------------------------------------------------------------------------------------------------------
+ 
+                                                  * * * * * * *
+----------------------------------------------------------------------------------------------------------------
+CHINA, PEOPLE'S                                                * * * * * *
+ REPUBLIC OF.
+                       Anhui Cambricon Information        For all items         Presumption of   87 FR [INSERT
+                        Technology Co., Ltd., a.k.a.,      subject to the EAR.   denial.          FR PAGE
+                        the following three aliases:       (See Sec.  Sec.                        NUMBER], 12/19/
+                       --Anhui Cambrian;                   734.9(e)(2) and                        2022.
+                       --Anhui Cambrian Information        744.11 of the EAR)
+                        Technology; and                    \4\
+                       --Anhui Cambricon.
+                       No. 3333 Xiyou Road, High-tech
+                        Zone, Hefei City, Anhui
+                        Province, China Room 611-194,
+                        R&D Center Building,
+                        International Intelligent Voice
+                        Industrial Park.
+                                                               * * * * * *
+                       AVIC Research Institute for        For all items         Presumption of   87 FR [INSERT
+                        Special Structures of              subject to the EAR.   denial.          FR PAGE
+                        Aeronautical Composites, a.k.a.,   (See Sec.   744.11                     NUMBER], 12/19/
+                        the following two aliases:         of the EAR)                            2022.
+                       --AVIC RISAC; and
+                       --AVIC 637th Research Institute.
+                       No. 19, Jiqi Road, Jinan,
+                        Shandong, China.
+                                                               * * * * * *
+                       AZUP International Group Co.,      For all items         Presumption of   87 FR [INSERT
+                        Ltd., a.k.a., the following one    subject to the EAR.   denial.          FR PAGE
+                        alias:                             (See Sec.   744.11                     NUMBER], 12/19/
+                       --Beijing AZUP Scientific Co.,      of the EAR)                            2022.
+                        Ltd.
+                       Rm7-1-1, Langchao Xinxi Building,
+                        No. 2 Xinxi Road, Haidian
+                        District, Beijing, China; and
+                        7th Floor, Building C, East
+                        District, International Pioneer
+                        Park, No. 2 Shangdi Information
+                        Road, Haidian District, Beijing,
+                        China; and B1-1422, Huitong
+                        Plaza, No. 31 Yuangang Heng
+                        Road, Tianhe District,
+                        Guangzhou, China; and Room 1602,
+                        Building 10, Phase 6, Forte East
+                        Lake International, Wuchang
+                        District, Wuhan City, China; and
+                        Room 1106, Block C,
+                        International Apartment, No. 37
+                        Tangyan Road, High-tech Zone,
+                        Xi'an City, China; and 300#,
+                        Building 1, Shanghai Huigu, No.
+                        641, Tianshan Road, Shanghai,
+                        China.
+                                                               * * * * * *
+                       Beijing HiFar Technology Co.,      For all items         Presumption of   87 FR [INSERT
+                        Ltd., a.k.a., the following one    subject to the EAR.   denial.          FR PAGE
+                        alias:                             (See Sec.   744.11                     NUMBER],
+                       --Beijing Huatian Haifeng           of the EAR)                           12/19/2022.
+                        Technology Co., Ltd.
+                       10F, Unit 3 (Block C), 9th Floor,
+                        Building 2, Jinyuan Times
+                        Business Center, Landianchang
+                        East Road, Haidian District,
+                        Beijing, China; and Unit C&D 3F
+                        Howming, Factory Building,
+                        Kowloon, Hong Kong.
+                                                               * * * * * *
+
+[[Page 77510]]
+
+ 
+                       Beijing Machinery Industry         For all items         Presumption of   87 FR [INSERT
+                        Automation Research Institute      subject to the EAR.   denial.          FR PAGE
+                        Co., Ltd., a.k.a., the following   (See Sec.   744.11                     NUMBER], 12/19/
+                        three aliases:                     of the EAR)                            2022.
+                       --Beijing Research Institute of
+                        Automation for Machinery
+                        Industry;
+                       --RAIMB; and
+                       --Beizi Institute.
+                       No. 113, Xinlong Road, Zhonglou
+                        District, Changzhou City, China;
+                        and Building 1,6, or 8, No. 1
+                        Jiaochangkou Street, Xicheng
+                        District, Beijing, China; and
+                        Room 208, 2nd Floor, Building
+                        13, Yard 53, Yangqi Street,
+                        Yangqi Economic Development
+                        Zone, Huairou District, Beijing,
+                        China.
+                                                               * * * * * *
+                       Beijing UniStrong Science &        For all items         Presumption of   87 FR [INSERT
+                        Technology Co., Ltd.,              subject to the EAR.   denial.          FR PAGE
+                       Courtyard 8, Kechuang 12th          (See Sec.   744.11                     NUMBER], 12/19/
+                        Street, Daxing District Beijing,   of the EAR)                            2022.
+                        Beijing, 100176 China.
+                                                               * * * * * *
+                       Beijing Vision Strategy            For all items         Presumption of   87 FR [INSERT
+                        Technology Co., Ltd., a.k.a.,      subject to the EAR.   denial.          FR PAGE
+                        the following one alias:           (See Sec.   744.11                     NUMBER], 12/19/
+                       --BVST.                             of the EAR)                            2022.
+                       Room 509-1, 5th Floor, Building
+                        23, Shangdi Jiayuan, Haidian
+                        District, Beijing, China; and
+                        Room 312, 3rd Floor, Lianchuang
+                        Building, No. 2 Dongbeiwang
+                        Road, Haidian District, Beijing,
+                        China.
+                                                               * * * * * *
+                       Cambricon (Hong Kong) Co., Ltd.,   For all items         Presumption of   87 FR [INSERT
+                        a.k.a., the following five         subject to the EAR.   denial.          FR PAGE
+                        aliases:                           (See Sec.  Sec.                        NUMBER], 12/19/
+                       --Cambrian Hong Kong;               734.9(e)(2) and                        2022.
+                       --Cambrian (Hong Kong) Co., Ltd.;   744.11 of the EAR)
+                       --Cambricon Hong Kong;              \4\
+                       --Hong Kong Cambrian; and
+                       --Hong Kong Cambricon.
+                       RM19C Lockhart CTR 301-307,
+                        Lockhart Rd. Wan Chai, Hong
+                        Kong.
+                       Cambricon Jixingge (Nanjing)       For all items         Presumption of   87 FR [INSERT
+                        Technology Co., Ltd., a.k.a.,      subject to the EAR.   denial.          FR PAGE
+                        the following three aliases:       (See Sec.  Sec.                        NUMBER], 12/19/
+                       --Cambrian Jixingge (Nanjing)       734.9(e)(2) and                        2022.
+                        Technology Co., Ltd.;              744.11 of the EAR)
+                       --Cambricon Xingge; and             \4\
+                       --Cambrian Xingge.
+                       100 Tianjiao Road, Qilin Science
+                        and Technology Innovation Park,
+                        Nanjing, Room 201, 11th Floor,
+                        Building A, Qiaomengyuan,
+                        Nanjing, Jiangsu, China
+                       Cambricon (Kunshan) Information    For all items         Presumption of   87 FR [INSERT
+                        Technology Co., Ltd., a.k.a.,      subject to the EAR.   denial.          FR PAGE
+                        the following seven aliases:       (See Sec.  Sec.                        NUMBER], 12/19/
+                       --Cambrian (Kunshan) Information    734.9(e)(2) and                        2022.
+                        Technology Co., Ltd.;              744.11 of the EAR)
+                       --Cambricon Kunshan IT;             \4\
+                       --Cambrian Kunshan IT;
+                       --Cambricon Kunshan;
+                       --Cambrian Kunshan;
+                       --Kunshan Cambricon; and
+                       --Kunshan Cambrian.
+                       Room 5, No. 232 Yuanfeng Road,
+                        Yushan Town, Kunshan City,
+                        China.
+                       Cambricon (Nanjing) Information    For all items         Presumption of   87 FR [INSERT
+                        Technology Co., Ltd., a.k.a.,      subject to the EAR.   denial.          FR PAGE
+                        the following five aliases:        (See Sec.  Sec.                        NUMBER], 12/19/
+                       --Cambrian Nanjing Information      734.9(e)(2) and                        2022.
+                        Technology Co., Ltd.;              744.11 of the EAR)
+                       --Cambricon Nanjing IT;             \4\
+                       --Cambrian Nanjing IT;
+                       --Nanjing Cambricon; and
+                       --Nanjing Cambrian.
+                       Room 201, 11th Floor, Building A,
+                        Qiaomengyuan, Nanjing, Jiangsu,
+                        China, and No. 100 Tianjiao
+                        Road, Qilin Science and
+                        Technology Innovation Park,
+                        Nanjing, China.
+
+[[Page 77511]]
+
+ 
+                       Cambricon Technologies             For all items         Presumption of   87 FR [INSERT
+                        Corporation Limited, a.k.a., the   subject to the EAR.   denial.          FR PAGE
+                        following four aliases:            (See Sec.  Sec.                        NUMBER], 12/19/
+                       --Cambrian;                         734.9(e)(2) and                        2022.
+                       --Cambrian Technologies             744.11 of the EAR)
+                        Corporation;                       \4\
+                       --Cambricon; and
+                       --Zhongke Cambricon Technology.
+                       Room 1601, 16th Floor, Block D,
+                        Zhizhen Building, No. 7 Zhichun
+                        Road, Haidian District, Beijing,
+                        China; and Floor 11, 13, 14, 15,
+                        16 Block D, No. 7 Zhichun Road,
+                        Haidian District, Beijing,
+                        China; and Building 1, Lane
+                        2290, Zuchong Road, Pudong New
+                        Area, Shanghai, China; and 1101,
+                        03-09, 1801, 04-06, 2104-06
+                        Building 2 9th Floor, Tower T1,
+                        No. 1555, Haigang Avenue, Pudong
+                        New Area Shanghai, China; and
+                        888 West Huanhui Road No. 2,
+                        Nanhui New Town, Shanghai,
+                        China; and 3404-05, 3406-10 3506-
+                        10 Block A, Tianxia Jinniu
+                        Plaza, No. 8 Taoyuan Road,
+                        Nantou Street, Nanshan District,
+                        Shenzhen, China; and 3506- 10,
+                        35 F Building A Tianxiajin,
+                        Shenzhen, China; and 22nd Floor,
+                        Building A1, China Sound Valley,
+                        No. 3333, Xiyou Road, High-tech
+                        Zone, Hefei City, China; and
+                        26th Floor, No. 3 Office
+                        Building, Fengyue Yunchuang
+                        Center, Junction of Haojing
+                        Avenue and Hanchi 1st Road,
+                        Fengdong New City, Xi'an, China;
+                        and 606, 607, 610, 611, Building
+                        A5, No. 266, Changyan Road,
+                        Jiangning District, Nanjing,
+                        China.
+                       Cambricon (Xi'an) Integrated       For all items         Presumption of   87 FR [INSERT
+                        Circuit Co., Ltd., a.k.a., the     subject to the EAR.   denial.          FR PAGE
+                        following five aliases:            (See Sec.  Sec.                        NUMBER], 12/19/
+                       --Cambrian (Xi'an) Integrated       734.9(e)(2) and                        2022.
+                        Circuit;                           744.11 of the EAR)
+                       --Cambricon (Xi'an) IC;             \4\
+                       --Cambrian (Xi'an) IC;
+                       --Xi'an Cambricon; and
+                       --Xi'an Cambrian.
+                       Xi'an, Fengdong New Town, Xi'an
+                        City, Shaanxi Province, 24th
+                        Floor, and No. 3 Runjingyiyuan
+                        at the Junction of Haojing
+                        Avenue and Hanchi 1st Road,
+                        Fengdong New City, China.
+                                                               * * * * * *
+                       CETC Cloud (Beijing) Technology    For all items         Presumption of   87 FR [INSERT
+                        Co., Ltd., a.k.a., the following   subject to the EAR.   denial.          FR PAGE
+                        five aliases:                      (See Sec.  Sec.                        NUMBER], 12/19/
+                       --CETC Cloud Technology Co.,        734.9(e)(2) and                        2022.
+                        Ltd.;                              744.11 of the EAR)
+                       --Dianke Cloud (Beijing)            \4\
+                        Technology Co., Ltd.;
+                       --Dianke Cloud Technology Co.,
+                        Ltd.;
+                       --China Electronic Technology
+                        Cloud Corporation; and
+                       --CEC Cloud.
+                       4th Floor, Building 3, Yard 30,
+                        Jinfu Road, Shijingshan
+                        District, Beijing, China; and
+                        Building 3, No. 30 Yard, China
+                        Electronic Science and
+                        Technology Park, Shijingshan
+                        District, Beijing, China; and
+                        Room 1401, 14th Floor, Building
+                        4, Yard 54, Shijingshan Road,
+                        Shijingshan District, Beijing,
+                        China; and Building A6, Land
+                        Geographic Information
+                        Industrial Park, Qixia District,
+                        Nanjing, China; and No. 11,
+                        Shuangyuan Road, Hi-Tech Park,
+                        Shijingshan District, Beijing,
+                        China; and 1 Hongtai Yujing
+                        Garden on the West Side of
+                        Jianshe Street and the North
+                        Side of Renhe Street,Luannan
+                        County, Hebei Province, Tangshan
+                        City, China; and 3103, Building
+                        3, Zizhu, Shangri-La Garden,
+                        Fanglinquan Road, Yaohai
+                        District, Anhui Province, Hefei
+                        City, China; and Room 1016, No.
+                        289, Chengxin Dajiao Road,
+                        Xihanggang Street, Shuangliu
+                        District, Sichuan Province,
+                        Chengdu City, China; and 7th
+                        Floor, Unit 1, Innovation Times
+                        Plaza, No. 555, North Section of
+                        Yizhou Avenue, High-tech Zone,
+                        Chengdu, China; and Area A,
+                        Jiangsu Geographic Information
+                        Industry Park, No. 18 Lingshan
+                        North Road, Xianlin Street,
+                        Qixia District, Nanjing City,
+                        China; and Building 6, Area A,
+                        Jiangsu Geographic Information
+                        Industry Park, No. 18 Lingshan
+                        North Road, Xianlin Street,
+                        Qixia District, Nanjing City,
+                        China; and Building 3, No. 211
+                        Beiyan Road, Chongming District,
+                        Shanghai (Shanghai Chongming
+                        Forest Tourism Park), China.
+
+[[Page 77512]]
+
+ 
+                       CETC LES Information System Group  For all items         Presumption of   87 FR [INSERT
+                        Co., Ltd., a.k.a., the following   subject to the EAR.   denial.          FR PAGE
+                        six aliases:                       (See Sec.  Sec.                        NUMBER], 12/19/
+                       --CLP LES Information System        734.9(e)(2) and                        2022.
+                        Group Co., Ltd.;                   744.11 of the EAR)
+                       --CLP Rice Information System       \4\
+                        Group Co., Ltd.;
+                       --CLP Rice Information System
+                        Co., Ltd.;
+                       --Electric LES;
+                       --CETC LES; and
+                       --Electric Coles.
+                       No. 1 Alfalfa Garden East Street,
+                        Qinhuai District, Nanjing,
+                        China; and No. 909, South
+                        District, No. 28, Qinhuai
+                        District, Nanjing, China.
+                                                               * * * * * *
+                       China Electronics Technology       For all items         Policy of        83 FR 37427, 8/
+                        Group Corporation 13th Research    subject to the EAR.   denial for all   1/18. 87 FR
+                        Institute (CETC 13), a.k.a., the   (See Sec.  Sec.       items subject    [INSERT FR
+                        following six aliases:             734.9(g),\3\          to the EAR       PAGE NUMBER],
+                       --Hebei Semiconductor Research      746.8(a)(3), and      apart from       12/19/2022.
+                        Institute;                         744.21(b) of the      food and
+                       --HSRI;                             EAR)                  medicine
+                       --Hebei Institute of                                      designated as
+                        Semiconductors;                                          EAR99, which
+                       --Hebei Semiconductor Institute;                          will be
+                       --Hebei Semiconductor; and                                reviewed on a
+                       --CETC Research Institute 13.                             case-by-case
+                       113 Hezuo Road, Shijiazhuang,                             basis. See
+                        Hebei, China; and 21 Changsheng                          Sec.  Sec.
+                        Street, Shijiazhuang, Hebei,                             746.8(b) and
+                        China; and 21 Changsheng Road,                           744.21(e)..
+                        Shijiazhuang, Hebei, China.
+                       China Electronics Technology       For all items         Presumption of   83 FR 37427, 8/
+                        Group Corporation 13th Research    subject to the EAR.   denial.          1/18. 87 FR
+                        Institute (CETC 13) subordinate    (See Sec.   744.11                     [INSERT FR
+                        institution: Bowei Integrated      of the EAR)                            PAGE NUMBER],
+                        Circuits, a.k.a., the following                                           12/19/2022.
+                        three aliases:
+                       --Hebei Bowei Integrated;
+                       --Hebei Bowel Technology; and
+                       --Shijuang Bowei.
+                       113 Hezuo Road, Shijiazhuang,
+                        Hebei, China; and 21 Changsheng
+                        Street, Shijiazhuang, Hebei,
+                        China; and 21 Changsheng Road,
+                        Shijiazhuang, Hebei, China; and
+                        Shijiazhuang New and Hi-Tech Dev
+                        Zone, Hebei, China.
+                       China Electronics Technology       For all items         Presumption of   83 FR 37427, 8/
+                        Group Corporation 13th Research    subject to the EAR.   denial.          1/18. 87 FR
+                        Institute (CETC 13) subordinate    (See Sec.   744.11                     [INSERT FR
+                        institution: Envoltek, a.k.a.,     of the EAR)                            PAGE NUMBER],
+                        the following one alias:                                                  12/19/2022.
+                       --Hebei Envoltek Electronics.
+                        21 Changsheng Street,
+                        Shijiazhuang, Hebei, China; and
+                        21 Changsheng Road,
+                        Shijiazhuang, Hebei, China.
+                       China Electronics Technology       For all items         Presumption of   83 FR 37427, 8/
+                        Group Corporation 13th Research    subject to the EAR.   denial.          1/18. 87 FR
+                        Institute (CETC 13) subordinate    (See Sec.   744.11                     [INSERT FR
+                        institution:                       of the EAR)                            PAGE NUMBER],
+                       --Hebei Brightway International,                                           12/19/2022.
+                       21 Changsheng Street,
+                        Shijiazhuang, Hebei, China; and
+                        21 Changsheng Road,
+                        Shijiazhuang, Hebei, China.
+                       China Electronics Technology       For all items         Presumption of   83 FR 37427, 8/
+                        Group Corporation 13th Research    subject to the EAR.   denial.          1/18. 87 FR
+                        Institute (CETC 13) subordinate    (See Sec.   744.11                     [INSERT FR
+                        institution: Hebei Medicines       of the EAR)                            PAGE NUMBER],
+                        Health, 113 Hezuo Road,                                                   12/19/2022.
+                        Shijiazhuang, Hebei, China.
+                       China Electronics Technology       For all items         Presumption of   83 FR 37427, 8/
+                        Group Corporation 13th Research    subject to the EAR.   denial.          1/18. 87 FR
+                        Institute (CETC 13) subordinate    (See Sec.   744.11                     [INSERT FR
+                        institution: Hebei Poshing         of the EAR)                            PAGE NUMBER],
+                        Electronics, a.k.a., the                                                  12/19/2022.
+                        following three aliases:
+                       --Hebei Poshing Electronics
+                       --Hebei Poshing Elec.; and
+                       --Hubei Poshing Electronics.
+                        113 Hezuo Road, Shijiazhuang,
+                        Hebei, China; and 21 Changsheng
+                        Street, Shijiazhuang, Hebei,
+                        China; and 21 Changsheng Road,
+                        Shijiazhuang, Hebei, China.
+                       China Electronics Technology       For all items         Presumption of   83 FR 37427, 8/
+                        Group Corporation 13th Research    subject to the EAR.   denial.          1/18. 87 FR
+                        Institute (CETC 13) subordinate    (See Sec.   744.11                     [INSERT FR
+                        institution: Hebei Puxing          of the EAR)                            PAGE NUMBER],
+                        Electronic,                                                               12/19/2022.
+                       113 Hezuo Road, Shijiazhuang,
+                        Hebei, China; and 21 Changsheng
+                        Street, Shijiazhuang, Hebei,
+                        China; and 21 Changsheng Road,
+                        Shijiazhuang, Hebei, China.
+
+[[Page 77513]]
+
+ 
+                       China Electronics Technology       For all items         Presumption of   83 FR 37427, 8/
+                        Group Corporation 13th Research    subject to the EAR.   denial.          1/18. 87 FR
+                        Institute (CETC 13) subordinate    (See Sec.   744.11                     [INSERT FR
+                        institution: Hebei Sinopack        of the EAR)                            PAGE NUMBER],
+                        Electronics, a.k.a., the                                                  12/19/2022.
+                        following one alias:
+                       --Hebei Sinapack Elec.
+                       113 Hezuo Road, Shijiazhuang,
+                        Hebei, China; and 21 Changsheng
+                        Street, Shijiazhuang, Hebei,
+                        China; and 21 Changsheng Road,
+                        Shijiazhuang, Hebei, China.
+                       China Electronics Technology       For all items         Policy of        83 FR 37427, 8/
+                        Group Corporation 13th Research    subject to the EAR.   denial for all   1/18. 87 FR
+                        Institute (CETC 13) subordinate    (See Sec.  Sec.       items subject    [INSERT FR
+                        institution: Micro Electronic      734.9(g),\3\          to the EAR       PAGE NUMBER],
+                        Technology, a.k.a., the            746.8(a)(3), and      apart from       12/19/2022.
+                        following three aliases:           744.21(b) of the      food and
+                       --Micro Electronic Technology       EAR)                  medicine
+                        Development Application Corp;                            designated as
+                       --METDA; and                                              EAR99, which
+                       --METDAC.                                                 will be
+                       113 Hezuo Road, Shijiazhuang,                             reviewed on a
+                        Hebei, China.                                            case-by-case
+                                                                                 basis. See
+                                                                                 Sec.  Sec.
+                                                                                 746.8(b) and
+                                                                                 744.21(e)..
+                       China Electronics Technology       For all items         Presumption of   83 FR 37427, 8/
+                        Group Corporation 13th Research    subject to the EAR.   denial.          1/18. 87 FR
+                        Institute (CETC 13) subordinate    (See Sec.   744.11                     [INSERT FR
+                        institution: MT Microsystems,      of the EAR)                            PAGE NUMBER],
+                       113 Hezuo Road, Shijiazhuang,                                              12/19/2022.
+                        Hebei, China.
+                       China Electronics Technology       For all items         Presumption of   83 FR 37427, 8/
+                        Group Corporation 13th Research    subject to the EAR.   denial.          1/18. 87 FR
+                        Institute (CETC 13) subordinate    (See Sec.   744.11                     [INSERT FR
+                        institution: North China           of the EAR)                            PAGE NUMBER],
+                        Integrated Circuit Corporation,                                           12/19/2022.
+                        21 Changsheng Street,
+                        Shijiazhuang, Hebei, China; and
+                       21 Changsheng Road, Shijiazhuang,
+                        Hebei, China; and 113 Hezuo
+                        Road, Shijiazhuang, Hebei,
+                        China.
+                       China Electronics Technology       For all items         Presumption of   83 FR 37427, 8/
+                        Group Corporation 13th Research    subject to the EAR.   denial.          1/18. 87 FR
+                        Institute (CETC 13) subordinate    (See Sec.   744.11                     [INSERT FR
+                        institution: Shijiazhuang          of the EAR)                            PAGE NUMBER],
+                        Development Zone Maiteda                                                  12/19/2022.
+                        Microelectronics Technology
+                        Development and Application
+                        Corporation,
+                       21 Changsheng Street,
+                        Shijiazhuang, Hebei, China; and
+                        21 Changsheng Road,
+                        Shijiazhuang, Hebei, China.
+                       China Electronics Technology       For all items         Presumption of   83 FR 37427, 8/
+                        Group Corporation 13th Research    subject to the EAR.   denial.          1/18. 87 FR
+                        Institute (CETC 13) subordinate    (See Sec.   744.11                     [INSERT FR
+                        institution: Tonghui               of the EAR)                            PAGE NUMBER],
+                        Electronics, a.k.a., the                                                  12/19/2022.
+                        following one alias:
+                       --Tonghui Electronics Technology.
+                       21 Changsheng Street,
+                        Shijiazhuang, Hebei, China; and
+                        21 Changsheng Road,
+                        Shijiazhuang, Hebei, China.
+                                                               * * * * * *
+                       China Electronics Technology       For all items         Presumption of   87 FR [INSERT
+                        Group Corporation No. 28           subject to the EAR.   denial.          FR PAGE
+                        Institute, a.k.a., the following   (See Sec.  Sec.                        NUMBER], 12/19/
+                        eight aliases:                     734.9(e)(2) and                        2022.
+                       --The 28th Research Institute of    744.11 of the EAR)
+                        China Electronics Technology       \4\
+                        Group Corporation;
+                       --28th Research Institute of
+                        China Electronics Technology
+                        Group Corporation;
+                       --CETC 28;
+                       --CETC28;
+                       --The 28th Institute;
+                       --Nanjing Institute of Electronic
+                        Engineering;
+                       --NRIEE; and
+                       --NIEE.
+                       Houbiaoying Rd., Bai Xia Qu,
+                        Nanjing, Jiangsu, China, 210095;
+                        and No. 99, Houbiaoying Road,
+                        Qinhuai District, Jiangsu
+                        Province, Nanjing City, China;
+                        and 1-2 Alfalfa Garden East
+                        Street, Jiangsu Province,
+                        Nanjing City, China and No. 1
+                        Yongzhi Road, Qinhuai District,
+                        Nanjing, China.
+                                                               * * * * * *
+                       Chinese Academy of Sciences        For all items         Presumption of   87 FR [INSERT
+                        Institute of Computing             subject to the EAR.   denial.          FR PAGE
+                        Technology, a.k.a., the            (See Sec.  Sec.                        NUMBER], 12/19/
+                        following four aliases:            734.9(e)(2) and                        2022.
+                       --Institute of Computing            744.11 of the EAR)
+                        Technology Chinese Academy of      \4\
+                        Sciences;
+                       --Institute of Computing
+                        Technology;
+                       --CAS ICT; and
+                       --ICT CAS.
+                       No. 6, South Academy of Sciences
+                        Road, Zhongguancun, Haidian
+                        District, Beijing, China and No.
+                        6 Kexueyuan South Road,
+                        Zhongguaneun, Haidian District,
+                        Beijing, China and No. 6
+                        Kexueyuan South Road, Zhonggu,
+                        Haidian District, Beijing,
+                        China.
+                                                               * * * * * *
+
+[[Page 77514]]
+
+ 
+                       Guangdong Qinzhi Technology        For all items         Presumption of   87 FR [INSERT
+                        Research Institute Co., Ltd.,      subject to the EAR.   denial.          FR PAGE
+                        a.k.a., the following four         (See Sec.  Sec.                        NUMBER], 12/19/
+                        aliases:                           734.9(e)(2) and                        2022.
+                       --Qinzhi Technology;                744.11 of the EAR)
+                       --Qinzhi Tech;                      \4\
+                       --Qinzhi Institute; and
+                       --GD Qinzhi.
+                       2nd Floor, Block C, Building 20,
+                        Hengqin Creative Valley, Hangqin
+                        New District, Guangdong Province
+                        Zhuhai City, China.
+                                                               * * * * * *
+                       Hefei Core Storage Electronic      For all items         Presumption of   87 FR [INSERT
+                        Ltd., a.k.a., the following        subject to the EAR.   denial.          FR PAGE
+                        three aliases:                     (See Sec.   744.11                     NUMBER], 12/19/
+                       --HF CoreStorage;                   of the EAR)                            2022.
+                       --CoreStorage; and
+                       --Hefei Zhaoxin.
+                       13th Floor, Building F3, Phase
+                        II, Innovation Industrial Park,
+                        High-tech Zone, Anhui Province,
+                        Hefei City, China; and 6th Floor
+                        and 12th-13th Floor, Building
+                        F3, Phase II, Innovation
+                        Industrial Park, No. 2800,
+                        Chuangxin Avenue, High-tech
+                        Zone, Hefei, China.
+                                                               * * * * * *
+                       HSJ Electronics, a.k.a., the       For all items         Presumption of   86 FR 71559, 12/
+                        following two aliases:             subject to the EAR.   denial.          17/21.
+                       --HSJ Electronic Hong Kong          (See Sec.   744.11                    87 FR [INSERT
+                        Limited; and                       of the EAR)                            FR PAGE
+                       --Shenzhen HSJ Electronics Co.                                             NUMBER], 12/19/
+                        Ltd.                                                                      2022.
+                       Room 803, Chevalier House 45-51,
+                        Chatham Road South, Tsim Sha
+                        Tsui, Hong Kong; and 10/F Kras
+                        Asia Industrial Building 79 Hung
+                        to Road, Kowloon, Hong Kong; and
+                        19/F Pat Tat Industrial
+                        Building, 1 Pat Tat Street, San
+                        Po Kong, Kowloon, Hong Kong; and
+                        Room 6905, SEG Plaza, Futian,
+                        Shenzhen, China; and Room 831,
+                        Nanguang Building, Shennan
+                        Middle Road, Futian, Shenzhen,
+                        China; and 3f, N, 2 East
+                        Technology Park Tongsheng
+                        Industrial Park Dalang Town
+                        Baoan District, Shenzhen,
+                        Guangdong, China.
+                                                               * * * * * *
+                       Key Laboratory of Information      For all items         Presumption of   87 FR [INSERT
+                        Systems Engineering, a.k.a., the   subject to the EAR.   denial.          FR PAGE
+                        following two aliases:             (See Sec.  Sec.                        NUMBER], 12/19/
+                       --KLISE; and                        734.9(e)(2) and                        2022.
+                       --Key Laboratory of Information     744.11 of the EAR)
+                        Systems Engineering.               \4\
+                       Science and Technology Building
+                        of the National University of
+                        Defense Technology.
+                                                               * * * * * *
+                       Nanjing Aixi Information           For all items         Presumption of   87 FR [INSERT
+                        Technology Co., Ltd., a.k.a.,      subject to the EAR.   denial.          FR PAGE
+                        the following alias:               (See Sec.  Sec.                        NUMBER], 12/19/
+                       --Nanjing Aixi IT.                  734.9(e)(2) and                        2022.
+                       No. 18, Xianlin Avenue, Maqun       744.11 of the EAR)
+                        Street, Qixia District, Nanjing,   \4\
+                        China.
+                                                               * * * * * *
+                       Nanjing LES Cybersecurity and      For all items         Presumption of   87 FR [INSERT
+                        Information Technology Research    subject to the EAR.   denial.          FR PAGE
+                        Institute Co., Ltd., a.k.a., the   (See Sec.  Sec.                        NUMBER], 12/19/
+                        following six aliases:             734.9(e)(2) and                        2022.
+                       --Nanjing Laisi Netcom Technology   744.11 of the EAR)
+                        Research Institute Co., Ltd.;      \4\
+                       --Nanjing Laisi Network
+                        Information Technology Research
+                        Institute Co., Ltd.;
+                       --Nanjing LES Network Information
+                        Technology Research Institute
+                        Co., Ltd.;
+                       --Nanjing LES Netcom Technology
+                        Research Institute Co., Ltd.;
+                       --Laisi Netcom; and
+                       --LES Netcom.
+                       Building 05, Tianan Digital City,
+                        No. 36 Yongfeng Avenue, Qinhuai
+                        District, Nanjing, China.
+                       Nanjing LES Electronic Equipment   For all items         Presumption of   87 FR [INSERT
+                        Co., Ltd., a.k.a., the following   subject to the EAR.   denial.          FR PAGE
+                        five aliases:                      (See Sec.  Sec.                        NUMBER], 12/19/
+                       --Nanjing Rice Electronic           734.9(e)(2) and                        2022.
+                        Equipment Co., Ltd.;               744.11 of the EAR)
+                       --LES Electronics;                  \4\
+                       --Rice Electronics;
+                       --LES Electronic; and
+                       --Rice Electronic.
+                       No. 1 Alfalfa Garden East Street,
+                        Qinhuai District, Nanjing,
+                        China; and Jiangsu Province,
+                        Building 05, Tianan Cyber City,
+                        No. 36 Yongfeng Avenue, Qinhuai
+                        District, Nanjing, China; and
+                        No. 99, Houbiaoying Road,
+                        Qinhuai District, Jiangsu
+                        Province Nanjing City, China;
+                        and No. 8 Yongzhi Road, Qinhuai
+                        District, Nanjing, China.
+
+[[Page 77515]]
+
+ 
+                       Nanjing LES Information            For all items         Presumption of   87 FR [INSERT
+                        Technology Co., Ltd., a.k.a. the   subject to the EAR.   denial.          FR PAGE
+                        following alias:                   (See Sec.  Sec.                        NUMBER], 12/19/
+                       --Nanjing Rice Information          734.9(e)(2) and                        2022.
+                        Technology Co., Ltd.               744.11 of the EAR)
+                       No. 8 Yongzhi Road, Qinhuai         \4\
+                        District, Nanjing, China; and
+                        Room 1609 Building 101 No. 8
+                        Yongzhi Road, Nanjing, China;
+                        and No. 1 Muxu Yuan Str
+                        Zhongshanmenwai, Nanjing, China;
+                        and E01-369, No. 861-1,
+                        Shangshengou Village, Hunnan
+                        District, Shenyang City,
+                        Liaoning Province, China; and
+                        No. 861-1 Shangshengou Village,
+                        Hunnan District, Shenyang City,
+                        Liaoning Province, E01-369,
+                        China; and No. 3, Daxing
+                        Community, No. 533, Lihan West
+                        Avenue, Xitianwei Town, Licheng
+                        District, Putian City, Fujian
+                        Province, China; and Room 10617,
+                        Tianlang Weilan Internationa.
+                        No. 3, Daqing Road, Lianhu
+                        District, Xi'an City Shaanxi
+                        Province, China; and Room 602,
+                        6th Floor, Building 3, No. 3
+                        Yongfu Road, Yuexiu District,
+                        Guangzhou City, China; and No.
+                        533 Lihan West Avenue, Xitianwei
+                        Town, Licheng District, Putian
+                        City, Fujian Province, China;
+                        and Room 272, Unit 2, Building
+                        1, No. 76-2, Xiaoqiao Street,
+                        Chengbei District, Xining City,
+                        China; and Room 702-21, Fujian
+                        Building, Huaxing Road, Hedong
+                        District, Tianjin, China; and
+                        No. 2020, 20th Floor, Unit 2,
+                        Building 20, No. 466, Wandong
+                        Road, Wan'an Town, Tianfu New
+                        District, Chengdu, Sichuan
+                        Province, China; and 3017B, 3rd
+                        Floor, Building 11, No. 66,
+                        Tiantan East Road, Dongcheng
+                        District, Beijing, China; and
+                        No. 26, 1st Floor, Commercial
+                        Plot, Longxiangyuan Building,
+                        Didang Street, Yuecheng
+                        District, Shaoxing City,
+                        Zhejiang Province, China; and
+                        Room A123, Unit C1-2, No. 859,
+                        Panxu Road, Gusu District,
+                        Suzhou City, China; and No. 1,
+                        7th Floor, Building 3, No. 3,
+                        Xingguang 5th Road, Liangjiang
+                        New District, Chongqing, China;
+                        and Room 601, Unit 1, Building
+                        2, Yashiyuan, Guorui City, No. 7
+                        Daying East Road, Meilan
+                        District, Haikou City, Hainan
+                        Province, China; and No. 1403B,
+                        14th Floor, Block A (Unit 1),
+                        Building 1, Oriental Pearl
+                        Garden, no. 40-1, Shuangyong
+                        Road, Qingxiu District, Nanning
+                        City, China; and Room 510, 5th
+                        Floor, Building A, Building 3,
+                        Muhua Plaza, Dongzheng Shang
+                        Huhua Plaza, Mingli Road, West
+                        Lake Xindao Road, Longzihu
+                        Wisdom Island, Zhengdong New
+                        District, Zhengzhou City, China;
+                        and 6F-B606, Qingchuang Space
+                        Building, Huai'an Ecological
+                        Cultural Tourism Zone, China;
+                        and Room 426, 4th Floor,
+                        Management Committee of
+                        Industrial and Trade Park,
+                        Baoshan City, Yunnan Province,
+                        China; and No. 17, 5th Floor,
+                        No. 2, Heping Road, Xiangfang
+                        District, Harbin, China; and No.
+                        6, 1st Floor, Building 1,
+                        Xiangzhangyuan, Wisdom
+                        Longcheng, Songshan Road, Yunyan
+                        District, Guiyang City, Guizhou
+                        Province, China; and Room 1-102-
+                        658, Maker Space Room, No. 3,
+                        Pudong Street, Shanghai Road,
+                        Economic and Technological
+                        Development Zone, Urumqi,
+                        Xinjiang, China; and Room 303-
+                        31, No. 88, Shangpo Street,
+                        Shangpo Village, Chengguan Town,
+                        Rongcheng County, Baoding City,
+                        Hebei Province, China; and 2322-
+                        2323, Block A, Building 3,
+                        Guogou Plaza (Commercial),
+                        Xiangshan District, Huaibei
+                        City, Anhui Province, China; and
+                        Room 901, 9th Floor, Building 1,
+                        Qilin Science and Technology
+                        Park, No. 20, Qiyun Road,
+                        Changsha High-tech Development
+                        Zone, China; and Room 402, No.
+                        669, Fong Road, Huangdao
+                        District, Qingdao City,
+                        Shangdong Province, China.
+                                                               * * * * * *
+
+[[Page 77516]]
+
+ 
+                       PXW Semiconductor Manufactory      For all items         Presumption of   87 FR [INSERT
+                        Co., Ltd., a.k.a., the following   subject to the EAR.   denial.          FR PAGE
+                        seven aliases:                     (See Sec.   744.11                     NUMBER], 12/19/
+                       --Peng Chip;                        of the EAR)                            2022.
+                       --Shenzhen Peng Xin Wei IC
+                        Manufacturing;
+                       --Shenzhen Pengxin Micro
+                        Integrated Circuit Manufacturing
+                        Co., Ltd.;
+                       --PengXinWei;
+                       --PXW;
+                       --PXWSemi; and
+                       --Pengxin Micro.
+                       Room 727, Shanxia Building, No.
+                        160, Xinxia Avenue, Shanxia
+                        Community, Pinghu Street,
+                        Longgang District, Shenzhen,
+                        518111, China; and Building D,
+                        Zhongke Valley Industrial Park,
+                        Zhonghuan Avenue, Shanxia
+                        Community, Pinghu Street,
+                        Longgang District, Shenzhen,
+                        China.
+                                                               * * * * * *
+                       Shanghai Cambricon Information     For all items         Presumption of   87 FR [INSERT
+                        Technology Co., Ltd., a.k.a. the   subject to the EAR.   denial.          FR PAGE
+                        following eight aliases:           (See Sec.  Sec.                        NUMBER], 12/19/
+                       --Shanghai Cambrian Information     734.9(e)(2) and                        2022.
+                        Technology;                        744.11 of the EAR)
+                       --Shanghai Cambricon IT;            \4\
+                       --Shanghai Cambrian IT;
+                       --Shanghai Cambricon Info Tech;
+                       --Shanghai Cambrian Info Tech;
+                       --Shanghai Cambricon Information;
+                       --Shanghai Cambricon; and
+                       --Shanghai Cambrian.
+                       No. 888, Huanhu West 2nd Road,
+                        Lingang New Area, China
+                        (Shanghai) Pilot Free Trade Zone
+                        and 888 West Huanhu Road No. 2,
+                        Shanghai, China and No. 888 West
+                        2nd Huanhu Road, Shanghai. China
+                        and 888 West Huanhu Road No. 2
+                        Nanhui New Town, Pudong New
+                        Area, Shanghai, China and Rm
+                        1805, Zhanxiang Plaza Bldg 1
+                        2290 Zuchonggzhi Road, Shanghai,
+                        China and Room 1201, 12th Floor,
+                        Block D, Beijing, China and No.
+                        176 5, 6 Ling Huallung Chun,
+                        Chiung Lin Hsin Chiu Hsien,
+                        China and No. 7 Zhichun Road,
+                        Haidian Beijing and 11th Layer,
+                        Building D, Zhizhen Building No.
+                        7 Zhuchun Beijing, China.
+                                                               * * * * * *
+                       Shanghai Integrated Circuit        For all items         Presumption of   87 FR [INSERT
+                        Research and Development Center,   subject to the EAR.   denial.          FR PAGE
+                        a.k.a., the following two          (See Sec.   744.11                     NUMBER], 12/19/
+                        aliases:                           of the EAR)                            2022.
+                       --Shanghai IC R&D Center; and
+                       --ICRD.
+                       No. 497, Goasi Road, Zhangjiang
+                        Hi-Tech Park, Pudong New Area,
+                        Shanghai, China; and No. 3000,
+                        Longdong Avenue, Pilot Free
+                        Trade Zone, Shanghai, China.
+                       Shanghai Micro Electronics         For all items         Presumption of   87 FR [INSERT
+                        Equipment (Group) Co., Ltd.,       subject to the EAR.   denial.          FR PAGE
+                        a.k.a., the following four         (See Sec.   744.11                     NUMBER], 12/19/
+                        aliases:                           of the EAR)                            2022.
+                       --Shanghai Microelectronics
+                        (Group) Co., Ltd.;
+                       --Shanghai Micro Electronics
+                        Equipment Company;
+                       --Shanghai Microelectronics
+                        Equipment Company; and
+                       --SMEE.
+                       No. 1525 Zhangdong Road, Pilot
+                        Free Trade Zone, Shanghai,
+                        China.
+                                                               * * * * * *
+                       Shanghai Suowei Information        For all items         Presumption of   87 FR [INSERT
+                        Technology Co., Ltd., a.k.a.,      subject to the EAR.   denial.          FR PAGE
+                        the following two aliases:         (See Sec.   744.11                     NUMBER], 12/19/
+                       --Beijing Suowei System             of the EAR)                            2022.
+                        Technology Co., Ltd.; and
+                       --Sysware.
+                       Room 516, Building 20, Lane 8633,
+                        Zhongchun Road, Minhang
+                        District, Shanghai, China; and
+                        Room 2104, No. 70, Caobao Road,
+                        Xuhui District, Shanghai, China;
+                        and Building 9, Aobei Science
+                        and Technology Park, No. 1
+                        Baosheng South Road, Haidian
+                        District, Beijing, China.
+                                                               * * * * * *
+                       Suzhou Cambricon Information       For all items         Presumption of   87 FR [INSERT
+                        Technology Co., Ltd., a.k.a.,      subject to the EAR.   denial.          FR PAGE
+                        the following five aliases:        (See Sec.  Sec.                        NUMBER], 12/19/
+                       --Suzhou Cambrian Information       734.9(e)(2) and                        2022.
+                        Technology Co., Ltd.;              744.11 of the EAR)
+                       --Suzhou Cambricon IT;              \4\
+                       --Suzhou Cambrian IT;
+                       --Suzhou Cambricon; and
+                       --Suzhou Cambrian.
+                       Unit E502-3, International
+                        Science and Technology Park, No.
+                        1355 Jinjihu Avenue, Suzhou
+                        Industrial Park, China.
+
+[[Page 77517]]
+
+ 
+                                                               * * * * * *
+                       System Equipment Co., Ltd. of the  For all items         Presumption of   87 FR [INSERT
+                        28th Research Institute            subject to the EAR.   denial.          FR PAGE
+                        (Liyang), a.k.a. the following     (See Sec.  Sec.                        NUMBER], 12/19/
+                        three aliases:                     734.9(e)(2) and                        2022.
+                       --Liyang No. 28 System Equipment    744.11 of the EAR)
+                        Co., Ltd.;                         \4\
+                       --Liyang 28th System Equipment
+                        Co., Ltd.; and
+                       --CEV.
+                       No. 26 Yongsheng Road, Kunlun
+                        Street, Liyang City, China; and
+                        No. 90, East Pingling Road,
+                        Licheng Town, Liyang City,
+                        China; and No. 26, Shangshang
+                        Road, Licheng Town, Liyang City,
+                        Jiangsu Province, China.
+                                                               * * * * * *
+                       Tenco Technology Company Ltd.,     For all items         Presumption of   84 FR 21236, 5/
+                        a.k.a., the following four         subject to the EAR.   denial.          14/19.
+                        aliases:                           (See Sec.   744.11                    85 FR 83769, 12/
+                       --Redd Forest Technology Company    of the EAR)                            23/20.
+                        Limited;                                                                 87 FR [INSERT
+                       --Shenzhen Shengfaweiye                                                    FR PAGE
+                        Electronic Co., Ltd.;                                                     NUMBER], 12/19/
+                       --Shenzhen Tenco Technology Co.,                                           2022.
+                        Ltd.; and
+                       --Tenco International Co., Ltd.
+                       Room 2709, Block A, Jiahe
+                        Huaqiang Building, Shennan
+                        Middle Rd., F Shenzhen,
+                        Guangdong 518007, China; and
+                        Room 2709, Block A, Jiahe
+                        Building, Shennan Mid Road,
+                        Futian District, Shenzhen,
+                        518000, China; and Room 311 3F
+                        Genplas Industrial Building, 56
+                        Hoi Yuen Road, Kwun Kowloon,
+                        Hong Kong; and Room 15, 6F
+                        Corporation Square, 8 Lam Lok
+                        Street, Kowloon Bay, Hong Kong;
+                        and Room 801, Number 15,
+                        Building 14, Xiayousong Village,
+                        Longhua Street, Longhua
+                        District, Shenzhen, China
+                        518000.
+                                                               * * * * * *
+                       Tianjin Tiandi Weiye Technologies  For all items         Presumption of   87 FR [INSERT
+                        Co., Ltd., a.k.a., the following   subject to the EAR.   denial.          FR PAGE
+                        one alias:                         (See Sec.   744.11                     NUMBER], 12/19/
+                       --Tiandy Technologies.              of the EAR)                            2022.
+                       No. 8, Huake 2nd Road, Binhai
+                        High-tech Zone (Huayuan),
+                        Tianjin, China 300384.
+                                                               * * * * * *
+                       Xiong'an Cambricon Technology      For all items         Presumption of   87 FR [INSERT
+                        Co., Ltd., a.k.a. the following    subject to the EAR.   denial.          FR PAGE
+                        three aliases:                     (See Sec.  Sec.                        NUMBER], 12/19/
+                       --Xiong'an Cambrian Technology      734.9(e)(2) and                        2022.
+                        Co., Ltd.;                         744.11 of the EAR)
+                       --Xiong'an Cambricon; and           \4\
+                       --Xiong'an Cambrian.
+                       Leader Jin Street A-, Rongcheng
+                        County, Baoding City, Hebei
+                        Province, China No. 72-1.
+                       Yangtze Memory Technologies Co.,   For all items         Presumption of   87 FR [INSERT
+                        Ltd., a.k.a., the following        subject to the EAR.   denial.          FR PAGE
+                        three aliases:                     (See Sec.   744.11                     NUMBER], 12/19/
+                       --Changjiang Cunchu;                of the EAR)                            2022.
+                       --YMTC; and
+                       --Changjiang Storage Technology.
+                       88 Weilai 3rd Road, East Lake
+                        High-tech Development Zone,
+                        Wuhan, Hubei, China; and Room
+                        104, Block A, Ziguang
+                        Information Port, Nanshan
+                        District, Shenzhen, China; and
+                        No. 88, Future 3rd Road, Donghu,
+                        New Technology Development Zone,
+                        Wuhan City, Hubei Province,
+                        China; and Building 45, No. 1387
+                        Zhangdong Road, Pilot Free Trade
+                        Zone, Shanghai, China; and No.
+                        18, Gaoxin 4th Road, Donghu New
+                        Technology Development Zone,
+                        Wuhan, China; and Room 3201,
+                        32nd Floor, Hu Zhong Building,
+                        213 Queen's Road East, Hong
+                        Kong.
+                                                               * * * * * *
+                       Zhongke Xinliang (Beijing)         For all items         Presumption of   87 FR [INSERT
+                        Technology Co., Ltd., a.k.a.,      subject to the EAR.   denial.          FR PAGE
+                        the following two aliases:         (See Sec.   744.11                     NUMBER], 12/19/
+                       --Xinlian Technology Co., Ltd.;     of the EAR)                            2022.
+                        and
+                       --Sinoinfoun.
+                       Room 131, 1st Floor, Building 3,
+                        No. 6, Fufeng Road, Science
+                        City, Fengtai District, Beijing,
+                        China; and 1103-2, Building 1,
+                        Beihang Science and Technology
+                        Park, No. 588 Feitian Road,
+                        National Civil Aerospace
+                        Industry Base, Shaanxi Province,
+                        Xi'an City, China.
+                                                               * * * * * *
+----------------------------------------------------------------------------------------------------------------
+JAPAN................                                          * * * * * *
+                       Yangtze Memory Technologies        For all items         Presumption of   87 FR [INSERT
+                        (Japan) Inc., a.k.a., the          subject to the EAR.   denial.          FR PAGE
+                        following one alias:               (See Sec.   744.11                     NUMBER], 12/19/
+                       --JYM Technology Co., Ltd.          of the EAR)                            2022.
+                       New Tokyo Building 2F, 3-3-1
+                        Marunouchi, Chiyoda-ku, Tokyo
+                        100-0005, Japan.
+ 
+
+[[Page 77518]]
+
+ 
+                                                  * * * * * * *
+----------------------------------------------------------------------------------------------------------------
+ * * * * * * *
+\3\ For this entity, ``items subject to the EAR'' includes foreign-produced items that are subject to the EAR
+  under Sec.   734.9(g) of the EAR. See Sec.  Sec.   746.8 and 744.21 of the EAR for related license
+  requirements, license review policy, and restrictions on license exceptions.
+\4\ For this entity, ``items subject to the EAR'' includes foreign-produced items that are subject to the EAR
+  under Sec.   734.9(e)(2) of the EAR. See Sec.   744.11(a)(2)(ii) for related license requirements and license
+  review policy.
+
+Supplement No. 6 to Part 744--[Amended]
+
+0
+3. Supplement no. 6 to part 744 is amended under CHINA, PEOPLE'S 
+REPUBLIC OF, by removing the entity ``Yangtze Memory Technologies Co., 
+Ltd.''.
+
+Matthew S. Borman,
+Deputy Assistant Secretary for Export Administration.
+[FR Doc. 2022-27151 Filed 12-15-22; 8:45 am]
+BILLING CODE 3510-33-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

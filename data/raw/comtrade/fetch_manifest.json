@@ -1,0 +1,437 @@
+{
+  "generated_at_utc": "2026-09-11T16:05:47+00:00",
+  "queries": [
+    {
+      "country": "Malaysia",
+      "iso3": "MYS",
+      "year": 2017,
+      "records": 172,
+      "sha256": "0668000da25568b25689caa7c3be905780387f21693f4db0b64293fd8382e404",
+      "source_url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS",
+      "query": {
+        "period": 2017,
+        "reporterCode": 458,
+        "cmdCode": "8542",
+        "flowCode": "M,X",
+        "partner2Code": 0,
+        "customsCode": "C00",
+        "motCode": 0,
+        "maxRecords": 500
+      }
+    },
+    {
+      "country": "Malaysia",
+      "iso3": "MYS",
+      "year": 2022,
+      "records": 177,
+      "sha256": "d304450ae495cc8e314bf7e78fe3c8aedecbefcd0dd91331f599897205c30c96",
+      "source_url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS",
+      "query": {
+        "period": 2022,
+        "reporterCode": 458,
+        "cmdCode": "8542",
+        "flowCode": "M,X",
+        "partner2Code": 0,
+        "customsCode": "C00",
+        "motCode": 0,
+        "maxRecords": 500
+      }
+    },
+    {
+      "country": "Vietnam",
+      "iso3": "VNM",
+      "year": 2017,
+      "records": 128,
+      "sha256": "b51051b8225735aae7908d3cf2edf009e1fc444d025fa24ceab5abb32f67079e",
+      "source_url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS",
+      "query": {
+        "period": 2017,
+        "reporterCode": 704,
+        "cmdCode": "8542",
+        "flowCode": "M,X",
+        "partner2Code": 0,
+        "customsCode": "C00",
+        "motCode": 0,
+        "maxRecords": 500
+      }
+    },
+    {
+      "country": "Vietnam",
+      "iso3": "VNM",
+      "year": 2022,
+      "records": 125,
+      "sha256": "dd73ba14e2c890dbea34e930e2203371fa2160f5d256962297beb3ca22f45d16",
+      "source_url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS",
+      "query": {
+        "period": 2022,
+        "reporterCode": 704,
+        "cmdCode": "8542",
+        "flowCode": "M,X",
+        "partner2Code": 0,
+        "customsCode": "C00",
+        "motCode": 0,
+        "maxRecords": 500
+      }
+    },
+    {
+      "country": "Singapore",
+      "iso3": "SGP",
+      "year": 2017,
+      "records": 244,
+      "sha256": "e85513f7321e0265bbfc6514ff325de0ef89008fc5fda06df52621b2e13d90cb",
+      "source_url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS",
+      "query": {
+        "period": 2017,
+        "reporterCode": 702,
+        "cmdCode": "8542",
+        "flowCode": "M,X",
+        "partner2Code": 0,
+        "customsCode": "C00",
+        "motCode": 0,
+        "maxRecords": 500
+      }
+    },
+    {
+      "country": "Singapore",
+      "iso3": "SGP",
+      "year": 2022,
+      "records": 256,
+      "sha256": "87628b31fc145239540a02573494852a9f700abb90ce83266672b6e44105c74f",
+      "source_url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS",
+      "query": {
+        "period": 2022,
+        "reporterCode": 702,
+        "cmdCode": "8542",
+        "flowCode": "M,X",
+        "partner2Code": 0,
+        "customsCode": "C00",
+        "motCode": 0,
+        "maxRecords": 500
+      }
+    },
+    {
+      "country": "Thailand",
+      "iso3": "THA",
+      "year": 2017,
+      "records": 230,
+      "sha256": "767a3229d935fdcaf6a399a8015d9abac4acfdbd236e7d57a768688503abbb4d",
+      "source_url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS",
+      "query": {
+        "period": 2017,
+        "reporterCode": 764,
+        "cmdCode": "8542",
+        "flowCode": "M,X",
+        "partner2Code": 0,
+        "customsCode": "C00",
+        "motCode": 0,
+        "maxRecords": 500
+      }
+    },
+    {
+      "country": "Thailand",
+      "iso3": "THA",
+      "year": 2022,
+      "records": 231,
+      "sha256": "500a2fb636605326de9b571c5faaf73a63f72d64df96fb3c989ef62e00aa8f2b",
+      "source_url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS",
+      "query": {
+        "period": 2022,
+        "reporterCode": 764,
+        "cmdCode": "8542",
+        "flowCode": "M,X",
+        "partner2Code": 0,
+        "customsCode": "C00",
+        "motCode": 0,
+        "maxRecords": 500
+      }
+    },
+    {
+      "country": "India",
+      "iso3": "IND",
+      "year": 2017,
+      "records": 187,
+      "sha256": "6514476199e1197938388ed43268b8dfa57886dacc26f462a85b1f2eea8d80ef",
+      "source_url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS",
+      "query": {
+        "period": 2017,
+        "reporterCode": 699,
+        "cmdCode": "8542",
+        "flowCode": "M,X",
+        "partner2Code": 0,
+        "customsCode": "C00",
+        "motCode": 0,
+        "maxRecords": 500
+      }
+    },
+    {
+      "country": "India",
+      "iso3": "IND",
+      "year": 2022,
+      "records": 215,
+      "sha256": "e31ac87639da0abe051dd68dacb30ca46f2f3f7fc65f0bcdc5f068a99d45a65c",
+      "source_url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS",
+      "query": {
+        "period": 2022,
+        "reporterCode": 699,
+        "cmdCode": "8542",
+        "flowCode": "M,X",
+        "partner2Code": 0,
+        "customsCode": "C00",
+        "motCode": 0,
+        "maxRecords": 500
+      }
+    },
+    {
+      "country": "Indonesia",
+      "iso3": "IDN",
+      "year": 2017,
+      "records": 123,
+      "sha256": "ac5942c05f4f3245bf2eef040a1534dbcdef949973ff93cbaa03127a32945a18",
+      "source_url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS",
+      "query": {
+        "period": 2017,
+        "reporterCode": 360,
+        "cmdCode": "8542",
+        "flowCode": "M,X",
+        "partner2Code": 0,
+        "customsCode": "C00",
+        "motCode": 0,
+        "maxRecords": 500
+      }
+    },
+    {
+      "country": "Indonesia",
+      "iso3": "IDN",
+      "year": 2022,
+      "records": 130,
+      "sha256": "6a6dcb5f787ae1d6806d622607fcfe1296d5e2c59af68d20b368e4af3d8757e8",
+      "source_url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS",
+      "query": {
+        "period": 2022,
+        "reporterCode": 360,
+        "cmdCode": "8542",
+        "flowCode": "M,X",
+        "partner2Code": 0,
+        "customsCode": "C00",
+        "motCode": 0,
+        "maxRecords": 500
+      }
+    },
+    {
+      "country": "Philippines",
+      "iso3": "PHL",
+      "year": 2017,
+      "records": 176,
+      "sha256": "7737bd3e8c6172c2c29d47b20db5e40be14709b602d5a098779cd36be6e89dd2",
+      "source_url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS",
+      "query": {
+        "period": 2017,
+        "reporterCode": 608,
+        "cmdCode": "8542",
+        "flowCode": "M,X",
+        "partner2Code": 0,
+        "customsCode": "C00",
+        "motCode": 0,
+        "maxRecords": 500
+      }
+    },
+    {
+      "country": "Philippines",
+      "iso3": "PHL",
+      "year": 2022,
+      "records": 168,
+      "sha256": "d29f6e400a78ab94b9a43efe962fd67744307da941446179b13853f7ad7b5023",
+      "source_url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS",
+      "query": {
+        "period": 2022,
+        "reporterCode": 608,
+        "cmdCode": "8542",
+        "flowCode": "M,X",
+        "partner2Code": 0,
+        "customsCode": "C00",
+        "motCode": 0,
+        "maxRecords": 500
+      }
+    },
+    {
+      "country": "Japan",
+      "iso3": "JPN",
+      "year": 2017,
+      "records": 128,
+      "sha256": "be0aa636034ed7d6dc26b9541669a543aead9ea2aea0f6fda224fbf6c3934d93",
+      "source_url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS",
+      "query": {
+        "period": 2017,
+        "reporterCode": 392,
+        "cmdCode": "8542",
+        "flowCode": "M,X",
+        "partner2Code": 0,
+        "customsCode": "C00",
+        "motCode": 0,
+        "maxRecords": 500
+      }
+    },
+    {
+      "country": "Japan",
+      "iso3": "JPN",
+      "year": 2022,
+      "records": 166,
+      "sha256": "ad4e159516a7d2173f3cdfb3385d62665fe0520db87461d504b310a84ff6dcce",
+      "source_url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS",
+      "query": {
+        "period": 2022,
+        "reporterCode": 392,
+        "cmdCode": "8542",
+        "flowCode": "M,X",
+        "partner2Code": 0,
+        "customsCode": "C00",
+        "motCode": 0,
+        "maxRecords": 500
+      }
+    },
+    {
+      "country": "South Korea",
+      "iso3": "KOR",
+      "year": 2017,
+      "records": 193,
+      "sha256": "f37c27a3c725ba7c3933d9535854b631635a475501928c39ad8e18f1739b9986",
+      "source_url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS",
+      "query": {
+        "period": 2017,
+        "reporterCode": 410,
+        "cmdCode": "8542",
+        "flowCode": "M,X",
+        "partner2Code": 0,
+        "customsCode": "C00",
+        "motCode": 0,
+        "maxRecords": 500
+      }
+    },
+    {
+      "country": "South Korea",
+      "iso3": "KOR",
+      "year": 2022,
+      "records": 192,
+      "sha256": "e1e2e266783be114b838bf20e0f98fc1a9552d237ac36275116b73add9787fc6",
+      "source_url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS",
+      "query": {
+        "period": 2022,
+        "reporterCode": 410,
+        "cmdCode": "8542",
+        "flowCode": "M,X",
+        "partner2Code": 0,
+        "customsCode": "C00",
+        "motCode": 0,
+        "maxRecords": 500
+      }
+    },
+    {
+      "country": "Mexico",
+      "iso3": "MEX",
+      "year": 2017,
+      "records": 133,
+      "sha256": "dfb19824e36566c4000e9bc7da11eac2c7022368877c95bbec868679a432bdbb",
+      "source_url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS",
+      "query": {
+        "period": 2017,
+        "reporterCode": 484,
+        "cmdCode": "8542",
+        "flowCode": "M,X",
+        "partner2Code": 0,
+        "customsCode": "C00",
+        "motCode": 0,
+        "maxRecords": 500
+      }
+    },
+    {
+      "country": "Mexico",
+      "iso3": "MEX",
+      "year": 2022,
+      "records": 102,
+      "sha256": "9b928c54bc82a9119b672cd01eee238ebbf479b20957f3e791ed664c030a2817",
+      "source_url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS",
+      "query": {
+        "period": 2022,
+        "reporterCode": 484,
+        "cmdCode": "8542",
+        "flowCode": "M,X",
+        "partner2Code": 0,
+        "customsCode": "C00",
+        "motCode": 0,
+        "maxRecords": 500
+      }
+    },
+    {
+      "country": "Germany",
+      "iso3": "DEU",
+      "year": 2017,
+      "records": 272,
+      "sha256": "079c206a2c3e1db221b21d054bb4dfb98b205e16a3fad6dfccb00f873903e687",
+      "source_url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS",
+      "query": {
+        "period": 2017,
+        "reporterCode": 276,
+        "cmdCode": "8542",
+        "flowCode": "M,X",
+        "partner2Code": 0,
+        "customsCode": "C00",
+        "motCode": 0,
+        "maxRecords": 500
+      }
+    },
+    {
+      "country": "Germany",
+      "iso3": "DEU",
+      "year": 2022,
+      "records": 326,
+      "sha256": "4b0d18d03dd6b0c7d7805e3bb0d52a3804c5921eed647ca0573b7b0ab33386cd",
+      "source_url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS",
+      "query": {
+        "period": 2022,
+        "reporterCode": 276,
+        "cmdCode": "8542",
+        "flowCode": "M,X",
+        "partner2Code": 0,
+        "customsCode": "C00",
+        "motCode": 0,
+        "maxRecords": 500
+      }
+    },
+    {
+      "country": "Netherlands",
+      "iso3": "NLD",
+      "year": 2017,
+      "records": 280,
+      "sha256": "283a64db72e3742eb5b5d37b15aee38d4b4485f86a022f3e292c4a00dcef1606",
+      "source_url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS",
+      "query": {
+        "period": 2017,
+        "reporterCode": 528,
+        "cmdCode": "8542",
+        "flowCode": "M,X",
+        "partner2Code": 0,
+        "customsCode": "C00",
+        "motCode": 0,
+        "maxRecords": 500
+      }
+    },
+    {
+      "country": "Netherlands",
+      "iso3": "NLD",
+      "year": 2022,
+      "records": 293,
+      "sha256": "a7f627473f9bbbcefbaa0e5b1d324abcad404194f12ebeef6c6f3057557c88de",
+      "source_url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS",
+      "query": {
+        "period": 2022,
+        "reporterCode": 528,
+        "cmdCode": "8542",
+        "flowCode": "M,X",
+        "partner2Code": 0,
+        "customsCode": "C00",
+        "motCode": 0,
+        "maxRecords": 500
+      }
+    }
+  ]
+}

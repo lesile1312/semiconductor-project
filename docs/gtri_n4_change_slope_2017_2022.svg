@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900" role="img" aria-labelledby="title desc">
+<title id="title">2017至2022年中美双重依赖指标比较</title>
+<desc id="desc">十二个经济体的N4双点图。横轴为N4，点分别表示2017和2022，右侧列出两年数值和百分点变化。N4等于中国进口份额乘以美国出口份额。</desc>
+<style>text{font-family:"Microsoft YaHei",Arial,sans-serif;fill:#202b36}.title{font-size:31px;font-weight:700}.subtitle{font-size:17px;fill:#5c6975}.country{font-size:18px;font-weight:600}.small{font-size:15px;fill:#566370}.value{font-size:16px;font-variant-numeric:tabular-nums}.axis{stroke:#63717d;stroke-width:1.4}.grid{stroke:#e4e9ed;stroke-width:1}.increase{stroke:#b66b38}.decrease{stroke:#397c87}.header{font-size:14px;fill:#5b6874;font-weight:700;letter-spacing:.4px}.legend{font-size:15px;fill:#495663}</style>
+<rect width="100%" height="100%" fill="#fff"/>
+<text class="title" x="70" y="66">第三方节点的双重依赖，如何变化？</text>
+<text class="subtitle" x="70" y="101">2017 与 2022 年 N4 对照｜N4 = 中国 HS8542 进口份额 × 美国 HS8542 出口份额</text>
+<text class="small" x="70" y="132">圆点位置使用同一横轴（0—26%）；右侧变化列以百分点计。仅作样本内描述，不代表因果或预测。</text>
+<line class="grid" x1="220.0" y1="160" x2="220.0" y2="778"/>
+<text class="small" x="220.0" y="805" text-anchor="middle">0%</text>
+<line class="grid" x1="363.4" y1="160" x2="363.4" y2="778"/>
+<text class="small" x="363.4" y="805" text-anchor="middle">5%</text>
+<line class="grid" x1="506.9" y1="160" x2="506.9" y2="778"/>
+<text class="small" x="506.9" y="805" text-anchor="middle">10%</text>
+<line class="grid" x1="650.3" y1="160" x2="650.3" y2="778"/>
+<text class="small" x="650.3" y="805" text-anchor="middle">15%</text>
+<line class="grid" x1="793.7" y1="160" x2="793.7" y2="778"/>
+<text class="small" x="793.7" y="805" text-anchor="middle">20%</text>
+<line class="grid" x1="937.1" y1="160" x2="937.1" y2="778"/>
+<text class="small" x="937.1" y="805" text-anchor="middle">25%</text>
+<line class="axis" x1="220" y1="778" x2="970" y2="778"/>
+<text class="header" x="1070" y="151" text-anchor="middle">2017</text>
+<text class="header" x="1190" y="151" text-anchor="middle">2022</text>
+<text class="header" x="1320" y="151" text-anchor="middle">变化（百分点）</text>
+<line x1="220" y1="201.0" x2="1380" y2="201.0" stroke="#f0f2f4"/>
+<text class="country" x="198" y="184.0" text-anchor="end">Mexico</text>
+<line x1="914.4" y1="178.0" x2="634.7" y2="178.0" stroke="#397c87" stroke-width="4" stroke-linecap="round" opacity=".72"/>
+<circle cx="914.4" cy="178.0" r="7" fill="#fff" stroke="#566574" stroke-width="3"><title>Mexico 2017 N4=0.24209</title></circle>
+<circle cx="634.7" cy="178.0" r="7" fill="#397c87" stroke="#fff" stroke-width="2"><title>Mexico 2022 N4=0.14456</title></circle>
+<text class="value" x="1070" y="184.0" text-anchor="middle">0.242</text>
+<text class="value" x="1190" y="184.0" text-anchor="middle">0.145</text>
+<text class="value" x="1320" y="184.0" text-anchor="middle" fill="#397c87">-9.75</text>
+<line x1="220" y1="253.7" x2="1380" y2="253.7" stroke="#f0f2f4"/>
+<text class="country" x="198" y="236.7" text-anchor="end">Malaysia</text>
+<line x1="241.1" y1="230.7" x2="258.4" y2="230.7" stroke="#b66b38" stroke-width="4" stroke-linecap="round" opacity=".72"/>
+<circle cx="241.1" cy="230.7" r="7" fill="#fff" stroke="#566574" stroke-width="3"><title>Malaysia 2017 N4=0.00736</title></circle>
+<circle cx="258.4" cy="230.7" r="7" fill="#b66b38" stroke="#fff" stroke-width="2"><title>Malaysia 2022 N4=0.01338</title></circle>
+<text class="value" x="1070" y="236.7" text-anchor="middle">0.007</text>
+<text class="value" x="1190" y="236.7" text-anchor="middle">0.013</text>
+<text class="value" x="1320" y="236.7" text-anchor="middle" fill="#b66b38">+0.60</text>
+<line x1="220" y1="306.5" x2="1380" y2="306.5" stroke="#f0f2f4"/>
+<text class="country" x="198" y="289.5" text-anchor="end">India</text>
+<line x1="306.0" y1="283.5" x2="252.4" y2="283.5" stroke="#397c87" stroke-width="4" stroke-linecap="round" opacity=".72"/>
+<circle cx="306.0" cy="283.5" r="7" fill="#fff" stroke="#566574" stroke-width="3"><title>India 2017 N4=0.03000</title></circle>
+<circle cx="252.4" cy="283.5" r="7" fill="#397c87" stroke="#fff" stroke-width="2"><title>India 2022 N4=0.01131</title></circle>
+<text class="value" x="1070" y="289.5" text-anchor="middle">0.030</text>
+<text class="value" x="1190" y="289.5" text-anchor="middle">0.011</text>
+<text class="value" x="1320" y="289.5" text-anchor="middle" fill="#397c87">-1.87</text>
+<line x1="220" y1="359.2" x2="1380" y2="359.2" stroke="#f0f2f4"/>
+<text class="country" x="198" y="342.2" text-anchor="end">Indonesia</text>
+<line x1="225.0" y1="336.2" x2="250.6" y2="336.2" stroke="#b66b38" stroke-width="4" stroke-linecap="round" opacity=".72"/>
+<circle cx="225.0" cy="336.2" r="7" fill="#fff" stroke="#566574" stroke-width="3"><title>Indonesia 2017 N4=0.00176</title></circle>
+<circle cx="250.6" cy="336.2" r="7" fill="#b66b38" stroke="#fff" stroke-width="2"><title>Indonesia 2022 N4=0.01065</title></circle>
+<text class="value" x="1070" y="342.2" text-anchor="middle">0.002</text>
+<text class="value" x="1190" y="342.2" text-anchor="middle">0.011</text>
+<text class="value" x="1320" y="342.2" text-anchor="middle" fill="#b66b38">+0.89</text>
+<line x1="220" y1="411.9" x2="1380" y2="411.9" stroke="#f0f2f4"/>
+<text class="country" x="198" y="394.9" text-anchor="end">Thailand</text>
+<line x1="239.0" y1="388.9" x2="249.6" y2="388.9" stroke="#b66b38" stroke-width="4" stroke-linecap="round" opacity=".72"/>
+<circle cx="239.0" cy="388.9" r="7" fill="#fff" stroke="#566574" stroke-width="3"><title>Thailand 2017 N4=0.00662</title></circle>
+<circle cx="249.6" cy="388.9" r="7" fill="#b66b38" stroke="#fff" stroke-width="2"><title>Thailand 2022 N4=0.01034</title></circle>
+<text class="value" x="1070" y="394.9" text-anchor="middle">0.007</text>
+<text class="value" x="1190" y="394.9" text-anchor="middle">0.010</text>
+<text class="value" x="1320" y="394.9" text-anchor="middle" fill="#b66b38">+0.37</text>
+<line x1="220" y1="464.6" x2="1380" y2="464.6" stroke="#f0f2f4"/>
+<text class="country" x="198" y="447.6" text-anchor="end">Netherlands</text>
+<line x1="222.1" y1="441.6" x2="248.6" y2="441.6" stroke="#b66b38" stroke-width="4" stroke-linecap="round" opacity=".72"/>
+<circle cx="222.1" cy="441.6" r="7" fill="#fff" stroke="#566574" stroke-width="3"><title>Netherlands 2017 N4=0.00075</title></circle>
+<circle cx="248.6" cy="441.6" r="7" fill="#b66b38" stroke="#fff" stroke-width="2"><title>Netherlands 2022 N4=0.00997</title></circle>
+<text class="value" x="1070" y="447.6" text-anchor="middle">0.001</text>
+<text class="value" x="1190" y="447.6" text-anchor="middle">0.010</text>
+<text class="value" x="1320" y="447.6" text-anchor="middle" fill="#b66b38">+0.92</text>
+<line x1="220" y1="517.4" x2="1380" y2="517.4" stroke="#f0f2f4"/>
+<text class="country" x="198" y="500.4" text-anchor="end">Vietnam</text>
+<line x1="231.2" y1="494.4" x2="244.1" y2="494.4" stroke="#b66b38" stroke-width="4" stroke-linecap="round" opacity=".72"/>
+<circle cx="231.2" cy="494.4" r="7" fill="#fff" stroke="#566574" stroke-width="3"><title>Vietnam 2017 N4=0.00390</title></circle>
+<circle cx="244.1" cy="494.4" r="7" fill="#b66b38" stroke="#fff" stroke-width="2"><title>Vietnam 2022 N4=0.00840</title></circle>
+<text class="value" x="1070" y="500.4" text-anchor="middle">0.004</text>
+<text class="value" x="1190" y="500.4" text-anchor="middle">0.008</text>
+<text class="value" x="1320" y="500.4" text-anchor="middle" fill="#b66b38">+0.45</text>
+<line x1="220" y1="570.1" x2="1380" y2="570.1" stroke="#f0f2f4"/>
+<text class="country" x="198" y="553.1" text-anchor="end">Philippines</text>
+<line x1="229.7" y1="547.1" x2="241.8" y2="547.1" stroke="#b66b38" stroke-width="4" stroke-linecap="round" opacity=".72"/>
+<circle cx="229.7" cy="547.1" r="7" fill="#fff" stroke="#566574" stroke-width="3"><title>Philippines 2017 N4=0.00337</title></circle>
+<circle cx="241.8" cy="547.1" r="7" fill="#b66b38" stroke="#fff" stroke-width="2"><title>Philippines 2022 N4=0.00761</title></circle>
+<text class="value" x="1070" y="553.1" text-anchor="middle">0.003</text>
+<text class="value" x="1190" y="553.1" text-anchor="middle">0.008</text>
+<text class="value" x="1320" y="553.1" text-anchor="middle" fill="#b66b38">+0.42</text>
+<line x1="220" y1="622.8" x2="1380" y2="622.8" stroke="#f0f2f4"/>
+<text class="country" x="198" y="605.8" text-anchor="end">South Korea</text>
+<line x1="225.9" y1="599.8" x2="232.3" y2="599.8" stroke="#b66b38" stroke-width="4" stroke-linecap="round" opacity=".72"/>
+<circle cx="225.9" cy="599.8" r="7" fill="#fff" stroke="#566574" stroke-width="3"><title>South Korea 2017 N4=0.00206</title></circle>
+<circle cx="232.3" cy="599.8" r="7" fill="#b66b38" stroke="#fff" stroke-width="2"><title>South Korea 2022 N4=0.00428</title></circle>
+<text class="value" x="1070" y="605.8" text-anchor="middle">0.002</text>
+<text class="value" x="1190" y="605.8" text-anchor="middle">0.004</text>
+<text class="value" x="1320" y="605.8" text-anchor="middle" fill="#b66b38">+0.22</text>
+<line x1="220" y1="675.5" x2="1380" y2="675.5" stroke="#f0f2f4"/>
+<text class="country" x="198" y="658.5" text-anchor="end">Germany</text>
+<line x1="227.4" y1="652.5" x2="230.3" y2="652.5" stroke="#b66b38" stroke-width="4" stroke-linecap="round" opacity=".72"/>
+<circle cx="227.4" cy="652.5" r="7" fill="#fff" stroke="#566574" stroke-width="3"><title>Germany 2017 N4=0.00257</title></circle>
+<circle cx="230.3" cy="652.5" r="7" fill="#b66b38" stroke="#fff" stroke-width="2"><title>Germany 2022 N4=0.00358</title></circle>
+<text class="value" x="1070" y="658.5" text-anchor="middle">0.003</text>
+<text class="value" x="1190" y="658.5" text-anchor="middle">0.004</text>
+<text class="value" x="1320" y="658.5" text-anchor="middle" fill="#b66b38">+0.10</text>
+<line x1="220" y1="728.3" x2="1380" y2="728.3" stroke="#f0f2f4"/>
+<text class="country" x="198" y="711.3" text-anchor="end">Singapore</text>
+<line x1="234.2" y1="705.3" x2="229.3" y2="705.3" stroke="#397c87" stroke-width="4" stroke-linecap="round" opacity=".72"/>
+<circle cx="234.2" cy="705.3" r="7" fill="#fff" stroke="#566574" stroke-width="3"><title>Singapore 2017 N4=0.00494</title></circle>
+<circle cx="229.3" cy="705.3" r="7" fill="#397c87" stroke="#fff" stroke-width="2"><title>Singapore 2022 N4=0.00323</title></circle>
+<text class="value" x="1070" y="711.3" text-anchor="middle">0.005</text>
+<text class="value" x="1190" y="711.3" text-anchor="middle">0.003</text>
+<text class="value" x="1320" y="711.3" text-anchor="middle" fill="#397c87">-0.17</text>
+<line x1="220" y1="781.0" x2="1380" y2="781.0" stroke="#f0f2f4"/>
+<text class="country" x="198" y="764.0" text-anchor="end">Japan</text>
+<line x1="231.5" y1="758.0" x2="227.4" y2="758.0" stroke="#397c87" stroke-width="4" stroke-linecap="round" opacity=".72"/>
+<circle cx="231.5" cy="758.0" r="7" fill="#fff" stroke="#566574" stroke-width="3"><title>Japan 2017 N4=0.00402</title></circle>
+<circle cx="227.4" cy="758.0" r="7" fill="#397c87" stroke="#fff" stroke-width="2"><title>Japan 2022 N4=0.00257</title></circle>
+<text class="value" x="1070" y="764.0" text-anchor="middle">0.004</text>
+<text class="value" x="1190" y="764.0" text-anchor="middle">0.003</text>
+<text class="value" x="1320" y="764.0" text-anchor="middle" fill="#397c87">-0.14</text>
+<circle cx="290" cy="833" r="7" fill="#fff" stroke="#566574" stroke-width="3"/>
+<text class="legend" x="307" y="838">2017</text>
+<circle cx="395" cy="833" r="7" fill="#397c87"/>
+<text class="legend" x="412" y="838">2022</text>
+<line x1="510" y1="833" x2="552" y2="833" stroke="#b66b38" stroke-width="4"/>
+<text class="legend" x="563" y="838">N4 上升</text>
+<line x1="672" y1="833" x2="714" y2="833" stroke="#397c87" stroke-width="4"/>
+<text class="legend" x="725" y="838">N4 下降</text>
+<text class="small" x="70" y="878">数据：UN Comtrade 自报 HS8542；每国两年口径按主面板。线段仅连接年度观测值，不表示中间年份路径。</text>
+</svg>

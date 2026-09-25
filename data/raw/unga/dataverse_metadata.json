@@ -1,0 +1,617 @@
+{
+  "status": "OK",
+  "data": {
+    "id": 61211,
+    "identifier": "DVN/LEJUQZ",
+    "persistentUrl": "https://doi.org/10.7910/DVN/LEJUQZ",
+    "protocol": "doi",
+    "authority": "10.7910",
+    "separator": "/",
+    "publisher": "Harvard Dataverse",
+    "publicationDate": "2009-03-02",
+    "storageIdentifier": "s3://10.7910/DVN/LEJUQZ",
+    "effectiveDatasetFileCountLimit": 1000,
+    "datasetFileUploadsAvailable": 900,
+    "datasetType": "dataset",
+    "locks": [],
+    "latestVersion": {
+      "id": 743096,
+      "datasetId": 61211,
+      "datasetPersistentId": "doi:10.7910/DVN/LEJUQZ",
+      "datasetType": "dataset",
+      "storageIdentifier": "s3://10.7910/DVN/LEJUQZ",
+      "versionNumber": 39,
+      "internalVersionNumber": 6,
+      "versionMinorNumber": 0,
+      "versionState": "RELEASED",
+      "latestVersionPublishingState": "RELEASED",
+      "distributionDate": "2025-07",
+      "productionDate": "2015-08",
+      "UNF": "UNF:6:ddFObKAw4aR8CSAkYIQd6g==",
+      "lastUpdateTime": "2026-07-30T15:57:56Z",
+      "releaseTime": "2026-07-30T15:57:56Z",
+      "createTime": "2026-07-26T13:05:24Z",
+      "alternativePersistentId": "hdl:1902.1/12379",
+      "publicationDate": "2009-03-02",
+      "citationDate": "2009-03-02",
+      "effectiveDatasetFileCountLimit": 1000,
+      "datasetFileUploadsAvailable": 900,
+      "license": {
+        "name": "CC0 1.0",
+        "uri": "http://creativecommons.org/publicdomain/zero/1.0",
+        "iconUri": "https://licensebuttons.net/p/zero/1.0/88x31.png",
+        "rightsIdentifier": "CC0-1.0",
+        "rightsIdentifierScheme": "SPDX",
+        "schemeUri": "https://spdx.org/licenses/",
+        "languageCode": "en"
+      },
+      "fileAccessRequest": false,
+      "metadataBlocks": {
+        "citation": {
+          "displayName": "Citation Metadata",
+          "name": "citation",
+          "fields": [
+            {
+              "typeName": "title",
+              "multiple": false,
+              "typeClass": "primitive",
+              "value": "United Nations General Assembly Ideal Points"
+            },
+            {
+              "typeName": "author",
+              "multiple": true,
+              "typeClass": "compound",
+              "value": [
+                {
+                  "authorName": {
+                    "typeName": "authorName",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "Voeten, Erik"
+                  },
+                  "authorAffiliation": {
+                    "typeName": "authorAffiliation",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "Georgetown University"
+                  }
+                }
+              ]
+            },
+            {
+              "typeName": "datasetContact",
+              "multiple": true,
+              "typeClass": "compound",
+              "value": [
+                {
+                  "datasetContactName": {
+                    "typeName": "datasetContactName",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "Erik Voeten"
+                  },
+                  "datasetContactAffiliation": {
+                    "typeName": "datasetContactAffiliation",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "Georgetown University"
+                  },
+                  "datasetContactEmail": {
+                    "typeName": "datasetContactEmail",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "ev42@georgetown.edu"
+                  }
+                }
+              ]
+            },
+            {
+              "typeName": "dsDescription",
+              "multiple": true,
+              "typeClass": "compound",
+              "value": [
+                {
+                  "dsDescriptionValue": {
+                    "typeName": "dsDescriptionValue",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "This dataset contains ideal point estimates based on voting behavior in the United Nations General Assembly. This is the first version where the ideal point estimates are based on years rather than UNGA sessions. The reasons for this are that researchers in practice virtually always use years as the basis of analysis and that UNGA sessions increasingly spill over into the following year and are held in special emergency sessions on issues such as the Gaza and Ukraine. <br>\n<br>\n\nThere are two types of ideal point estimates: <br>\n•\tidealpointfp: ideal point estimates based only on votes on the final passage of resolutions (including failed votes). These are now available from 1946-2024 in IdealPointsJuly2025.tab. These estimates are updated most frequently as the raw data can readily be found online. <br>\n•\tIdealpointall: ideal point estimates based on all votes, including votes on paragraphs, motions, and amendments. These votes are based on more data and thus should be more precise. One word of caution is that in some years this means that there are very large numbers of votes on a specific issue, such as the war in Gaza. <br>\n<br>\nThe correlation between these ideal points is .9846 but there could of course still be some important differences.\n<br>\n<br>\nThe data also includes idealpointlegacy, which is based on sessions (all votes). The correlation with idealpointall is .9877. \n<br>\n<br>\nThere is a separate file and codebook that includes estimates for 2025. There were some really radical changes between 2024-2025. Some clearly  reflect real ideological changes: most notably Trump in the US and Milei in Argentina. But voting has also become more two-dimensional. So, for instance China and Russia in 2025 seem relatively closer to the US, partially because of the US votes on the Ukraine crisis \nand various human righst resolutions. But in one dimension, this also means that they have  come closer to the EU. When you look in two dimensions, you see more clearly that the US is  splitting from its allies but not China/Russia. However, dynamic two dimensional estimates  are complex and I am not quite ready to post these. Over the summer I will produce a short  paper on this and updated two-dimensional estimates. For now, proceed with caution.\n<br>\n<br>\nAside from the 2024 and 2025 final passage votes, the raw UN voting data are from the UNGA-DM Database: https://unvotes.unige.ch/\n<br>\n<br>\nCitation: Fjelstul, Joshua, Simon Hug, and Christopher Kilby. \"Decision-making in the United Nations General Assembly: A comprehensive database of resolution-related decisions.\" The Review of International Organizations (2025): 1-18.\n<br>\n<br>\nThe ideal point estimates are based on the methodology described in:\n<br>\n<br>\nCitation: Bailey, Michael A., Anton Strezhnev, and Erik Voeten. 2017. Estimating dynamic state preferences from united nations voting data. Journal of Conflict Resolution 61 (2): 430-56."
+                  },
+                  "dsDescriptionDate": {
+                    "typeName": "dsDescriptionDate",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "2025-07-28"
+                  }
+                }
+              ]
+            },
+            {
+              "typeName": "subject",
+              "multiple": true,
+              "typeClass": "controlledVocabulary",
+              "value": [
+                "Law",
+                "Social Sciences"
+              ]
+            },
+            {
+              "typeName": "keyword",
+              "multiple": true,
+              "typeClass": "compound",
+              "value": [
+                {
+                  "keywordValue": {
+                    "typeName": "keywordValue",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "United Nations"
+                  },
+                  "keywordVocabulary": {
+                    "typeName": "keywordVocabulary",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "UN"
+                  }
+                },
+                {
+                  "keywordValue": {
+                    "typeName": "keywordValue",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "roll-calls"
+                  }
+                }
+              ]
+            },
+            {
+              "typeName": "topicClassification",
+              "multiple": true,
+              "typeClass": "compound",
+              "value": [
+                {
+                  "topicClassValue": {
+                    "typeName": "topicClassValue",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "International Relations"
+                  }
+                },
+                {
+                  "topicClassValue": {
+                    "typeName": "topicClassValue",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "Political Science"
+                  }
+                }
+              ]
+            },
+            {
+              "typeName": "publication",
+              "multiple": true,
+              "typeClass": "compound",
+              "value": [
+                {
+                  "publicationCitation": {
+                    "typeName": "publicationCitation",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "When using the ideal point data, please cite: <br>\n<br>\nBailey, Michael A., Anton Strezhnev, and Erik Voeten. 2017. Estimating dynamic state preferences from united nations voting data. Journal of Conflict Resolution 61 (2): 430-56.<br>\n<br>\nand:\n Fjelstul, Joshua, Simon Hug, and Christopher Kilby. \"Decision-making in the United Nations General Assembly: A comprehensive database of resolution-related decisions.\" The Review of International Organizations (2025): 1-18."
+                  }
+                }
+              ]
+            },
+            {
+              "typeName": "producer",
+              "multiple": true,
+              "typeClass": "compound",
+              "value": [
+                {
+                  "producerName": {
+                    "typeName": "producerName",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "Erik Voeten"
+                  },
+                  "producerURL": {
+                    "typeName": "producerURL",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "https://blogs.commons.georgetown.edu/erikvoeten/"
+                  }
+                }
+              ]
+            },
+            {
+              "typeName": "productionDate",
+              "multiple": false,
+              "typeClass": "primitive",
+              "value": "2015-08"
+            },
+            {
+              "typeName": "distributor",
+              "multiple": true,
+              "typeClass": "compound",
+              "value": [
+                {
+                  "distributorName": {
+                    "typeName": "distributorName",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "Erik Voeten"
+                  },
+                  "distributorAffiliation": {
+                    "typeName": "distributorAffiliation",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "Georgetown University"
+                  }
+                }
+              ]
+            },
+            {
+              "typeName": "distributionDate",
+              "multiple": false,
+              "typeClass": "primitive",
+              "value": "2025-07"
+            },
+            {
+              "typeName": "dateOfDeposit",
+              "multiple": false,
+              "typeClass": "primitive",
+              "value": "2025-07"
+            },
+            {
+              "typeName": "timePeriodCovered",
+              "multiple": true,
+              "typeClass": "compound",
+              "value": [
+                {
+                  "timePeriodCoveredStart": {
+                    "typeName": "timePeriodCoveredStart",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "1946"
+                  },
+                  "timePeriodCoveredEnd": {
+                    "typeName": "timePeriodCoveredEnd",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "2024"
+                  }
+                }
+              ]
+            },
+            {
+              "typeName": "kindOfData",
+              "multiple": true,
+              "typeClass": "primitive",
+              "value": [
+                "roll-call data"
+              ]
+            }
+          ]
+        },
+        "geospatial": {
+          "displayName": "Geospatial Metadata",
+          "name": "geospatial",
+          "fields": [
+            {
+              "typeName": "geographicCoverage",
+              "multiple": true,
+              "typeClass": "compound",
+              "value": [
+                {
+                  "otherGeographicCoverage": {
+                    "typeName": "otherGeographicCoverage",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "World"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "files": [
+        {
+          "description": "Dyadic agreement scores and ideal point distances 1-78th sessions (legacy version)",
+          "label": "AgreementScoresAll_Jun2024.csv",
+          "restricted": false,
+          "version": 1,
+          "datasetVersionId": 743096,
+          "dataFile": {
+            "id": 10295876,
+            "persistentId": "",
+            "filename": "AgreementScoresAll_Jun2024.csv",
+            "contentType": "text/csv",
+            "friendlyType": "Comma Separated Values",
+            "filesize": 142732102,
+            "description": "Dyadic agreement scores and ideal point distances 1-78th sessions (legacy version)",
+            "storageIdentifier": "s3://dvn-cloud:1904b283445-712460918705",
+            "rootDataFileId": 6358424,
+            "previousDataFileId": 9656254,
+            "md5": "fee40b0bf750a6eea4742370c08b9aff",
+            "checksum": {
+              "type": "MD5",
+              "value": "fee40b0bf750a6eea4742370c08b9aff"
+            },
+            "tabularData": false,
+            "creationDate": "2024-06-24",
+            "publicationDate": "2024-06-24",
+            "lastUpdateTime": "2026-07-30T15:57:56Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "description": "Dyadic vote agreement scores and Ideal Point Distances (legacy version)",
+          "label": "AgreementScoresAll_Jun2024.Rdata",
+          "restricted": false,
+          "version": 1,
+          "datasetVersionId": 743096,
+          "dataFile": {
+            "id": 10295877,
+            "persistentId": "",
+            "filename": "AgreementScoresAll_Jun2024.Rdata",
+            "contentType": "application/x-rlang-transport",
+            "friendlyType": "R Data",
+            "filesize": 20816518,
+            "description": "Dyadic vote agreement scores and Ideal Point Distances (legacy version)",
+            "storageIdentifier": "s3://dvn-cloud:1904b28d434-4619abaf3066",
+            "rootDataFileId": 9656251,
+            "previousDataFileId": 9656251,
+            "md5": "0080075c296a1069e05c4ec3c6487e15",
+            "checksum": {
+              "type": "MD5",
+              "value": "0080075c296a1069e05c4ec3c6487e15"
+            },
+            "tabularData": false,
+            "creationDate": "2024-06-24",
+            "publicationDate": "2024-06-24",
+            "lastUpdateTime": "2026-07-30T15:57:56Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "description": "Dyadic agreement scores and ideal point distances, final passage votes. Includes 2024",
+          "label": "AgreementScores.csv",
+          "restricted": false,
+          "version": 1,
+          "datasetVersionId": 743096,
+          "dataFile": {
+            "id": 11837234,
+            "persistentId": "",
+            "filename": "AgreementScores.csv",
+            "contentType": "text/comma-separated-values",
+            "friendlyType": "Comma Separated Values",
+            "filesize": 145439690,
+            "description": "Dyadic agreement scores and ideal point distances, final passage votes. Includes 2024",
+            "storageIdentifier": "s3://dvn-cloud:19861080685-be76a99cf5fe",
+            "rootDataFileId": -1,
+            "md5": "71885786839403236895f81c3fc34b37",
+            "checksum": {
+              "type": "MD5",
+              "value": "71885786839403236895f81c3fc34b37"
+            },
+            "tabularData": false,
+            "creationDate": "2025-07-31",
+            "publicationDate": "2025-07-31",
+            "lastUpdateTime": "2026-07-30T15:57:56Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "description": "Dyadic agreement scores and ideal point distances, final passage.Includes 2024.",
+          "label": "AgreementScores.Rdata",
+          "restricted": false,
+          "version": 1,
+          "datasetVersionId": 743096,
+          "dataFile": {
+            "id": 11837232,
+            "persistentId": "",
+            "filename": "AgreementScores.Rdata",
+            "contentType": "application/x-rlang-transport",
+            "friendlyType": "R Data",
+            "filesize": 21654613,
+            "description": "Dyadic agreement scores and ideal point distances, final passage.Includes 2024.",
+            "storageIdentifier": "s3://dvn-cloud:19861077945-9efd7da9615e",
+            "rootDataFileId": 11824647,
+            "previousDataFileId": 11824647,
+            "md5": "1cc866ab5502110ac3c2a8b6f860792c",
+            "checksum": {
+              "type": "MD5",
+              "value": "1cc866ab5502110ac3c2a8b6f860792c"
+            },
+            "tabularData": false,
+            "creationDate": "2025-07-31",
+            "publicationDate": "2025-07-31",
+            "lastUpdateTime": "2026-07-30T15:57:56Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "description": "Codebook for Ideal point estimates on final passage votes by year",
+          "label": "Codebook_IdealPointEstimates1946-2025.txt",
+          "restricted": false,
+          "version": 1,
+          "datasetVersionId": 743096,
+          "dataFile": {
+            "id": 13642024,
+            "persistentId": "",
+            "filename": "Codebook_IdealPointEstimates1946-2025.txt",
+            "contentType": "text/plain",
+            "friendlyType": "Plain Text",
+            "filesize": 5032,
+            "description": "Codebook for Ideal point estimates on final passage votes by year",
+            "storageIdentifier": "s3://dvn-cloud-iqss:19d4ff5474f-60b8e900c044",
+            "rootDataFileId": -1,
+            "md5": "09e645df9232ef0e30b4f203091520d0",
+            "checksum": {
+              "type": "MD5",
+              "value": "09e645df9232ef0e30b4f203091520d0"
+            },
+            "tabularData": false,
+            "creationDate": "2026-04-02",
+            "publicationDate": "2026-04-03",
+            "lastUpdateTime": "2026-07-30T15:57:56Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "description": "Codebook new ideal point estimates",
+          "label": "Codebook United Nations General Assembly Ideal Points.docx",
+          "restricted": false,
+          "version": 1,
+          "datasetVersionId": 743096,
+          "dataFile": {
+            "id": 11824621,
+            "persistentId": "",
+            "filename": "Codebook United Nations General Assembly Ideal Points.docx",
+            "contentType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "friendlyType": "MS Word",
+            "filesize": 17957,
+            "description": "Codebook new ideal point estimates",
+            "storageIdentifier": "s3://dvn-cloud:1985123a2df-1ccf243528ce",
+            "rootDataFileId": 10295577,
+            "previousDataFileId": 10295577,
+            "md5": "d1f3c84186ec8962f58de6edc482fb29",
+            "checksum": {
+              "type": "MD5",
+              "value": "d1f3c84186ec8962f58de6edc482fb29"
+            },
+            "tabularData": false,
+            "creationDate": "2025-07-28",
+            "publicationDate": "2025-07-28",
+            "lastUpdateTime": "2026-07-30T15:57:56Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "description": "Dyadic version of ideal point estimates 1946-2025. Does not include agreement score.",
+          "label": "IdealPointDyads1946-2025.tab",
+          "restricted": false,
+          "version": 1,
+          "datasetVersionId": 743096,
+          "dataFile": {
+            "id": 13642051,
+            "persistentId": "",
+            "filename": "IdealPointDyads1946-2025.tab",
+            "contentType": "text/tab-separated-values",
+            "friendlyType": "Tab-Delimited",
+            "filesize": 72990808,
+            "description": "Dyadic version of ideal point estimates 1946-2025. Does not include agreement score.",
+            "storageIdentifier": "s3://dvn-cloud-iqss:19d5006eabe-13854796dc48",
+            "originalFileFormat": "text/comma-separated-values",
+            "originalFormatLabel": "Comma Separated Values",
+            "originalFileSize": 73920212,
+            "originalFileName": "IdealPointDyads1946-2025.csv",
+            "UNF": "UNF:6:b+dFEodJv6fjwRMdv/3hFA==",
+            "rootDataFileId": -1,
+            "md5": "d389098564a6d9647a694a88c9201deb",
+            "checksum": {
+              "type": "MD5",
+              "value": "d389098564a6d9647a694a88c9201deb"
+            },
+            "tabularData": true,
+            "creationDate": "2026-04-02",
+            "publicationDate": "2026-04-03",
+            "lastUpdateTime": "2026-07-30T15:57:56Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "description": "Ideal point estimates (legacy estimates)",
+          "label": "IdealpointestimatesAll_Jun2024.csv",
+          "restricted": false,
+          "version": 1,
+          "datasetVersionId": 743096,
+          "dataFile": {
+            "id": 10295878,
+            "persistentId": "",
+            "filename": "IdealpointestimatesAll_Jun2024.csv",
+            "contentType": "text/csv",
+            "friendlyType": "Comma Separated Values",
+            "filesize": 1932704,
+            "description": "Ideal point estimates (legacy estimates)",
+            "storageIdentifier": "s3://dvn-cloud:1904b294248-dc494d2c6343",
+            "rootDataFileId": 9656253,
+            "previousDataFileId": 9656253,
+            "md5": "fd3d361f454206c480040bbccf362319",
+            "checksum": {
+              "type": "MD5",
+              "value": "fd3d361f454206c480040bbccf362319"
+            },
+            "tabularData": false,
+            "creationDate": "2024-06-24",
+            "publicationDate": "2024-06-24",
+            "lastUpdateTime": "2026-07-30T15:57:56Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "description": "Ideal points, annual, full passage, 1946-2025",
+          "label": "IdealpointestimatesFP_2026FP.csv",
+          "restricted": false,
+          "version": 1,
+          "datasetVersionId": 743096,
+          "dataFile": {
+            "id": 14098429,
+            "persistentId": "",
+            "filename": "IdealpointestimatesFP_2026FP.csv",
+            "contentType": "text/comma-separated-values",
+            "friendlyType": "Comma Separated Values",
+            "filesize": 1419867,
+            "description": "Ideal points, annual, full passage, 1946-2025",
+            "storageIdentifier": "s3://dvn-cloud-iqss:19f9e87616a-b8c36423d826",
+            "rootDataFileId": -1,
+            "md5": "ba6b6c7b6d1344d68fc0dc94ecbbfd9d",
+            "checksum": {
+              "type": "MD5",
+              "value": "ba6b6c7b6d1344d68fc0dc94ecbbfd9d"
+            },
+            "tabularData": false,
+            "creationDate": "2026-07-26",
+            "publicationDate": "2026-07-30",
+            "lastUpdateTime": "2026-07-30T15:57:56Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "description": "This file contains the updated UN ideal point estimates (including 2024) on a yearly basis",
+          "label": "IdealpointsJuly2025.tab",
+          "restricted": false,
+          "version": 1,
+          "datasetVersionId": 743096,
+          "dataFile": {
+            "id": 11824371,
+            "persistentId": "",
+            "filename": "IdealpointsJuly2025.tab",
+            "contentType": "text/tab-separated-values",
+            "friendlyType": "Tab-Delimited",
+            "filesize": 2403248,
+            "description": "This file contains the updated UN ideal point estimates (including 2024) on a yearly basis",
+            "storageIdentifier": "s3://dvn-cloud:1985108dc4e-741cffb2a4e7",
+            "originalFileFormat": "application/x-stata-14",
+            "originalFormatLabel": "Stata 14 Binary",
+            "originalFileSize": 1331515,
+            "originalFileName": "IdealpointsJuly2025.dta",
+            "UNF": "UNF:6:1CMqSxsE5nOfylDPJckCqQ==",
+            "rootDataFileId": -1,
+            "md5": "7000ebbbd46019b5a00b43542431852e",
+            "checksum": {
+              "type": "MD5",
+              "value": "7000ebbbd46019b5a00b43542431852e"
+            },
+            "tabularData": true,
+            "creationDate": "2025-07-28",
+            "publicationDate": "2025-07-28",
+            "lastUpdateTime": "2026-07-30T15:57:56Z",
+            "fileAccessRequest": false
+          }
+        }
+      ]
+    }
+  }
+}

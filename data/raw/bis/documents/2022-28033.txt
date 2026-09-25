@@ -1,0 +1,221 @@
+<html>
+<head>
+<title>Federal Register, Volume 87 Issue 246 (Friday, December 23, 2022)</title>
+</head>
+<body><pre>
+[Federal Register Volume 87, Number 246 (Friday, December 23, 2022)]
+[Rules and Regulations]
+[Pages 78856-78857]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2022-28033]
+
+
+
+[[Page 78856]]
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF COMMERCE
+
+Bureau of Industry and Security
+
+15 CFR Part 744
+
+[Docket No. 221220-0279]
+RIN 0694-AJ05
+
+
+Modification to the Entity List
+
+AGENCY: Bureau of Industry and Security, Department of Commerce.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The Bureau of Industry and Security is amending the Export 
+Administration Regulations (EAR) by modifying one entity on the Entity 
+List. This final rule modifies one entity on the Entity List under the 
+destination of Russia.
+
+DATES: This rule is effective December 21, 2022.
+
+FOR FURTHER INFORMATION CONTACT: Chair, End-User Review Committee, 
+Office of the Assistant Secretary for Export Administration, Bureau of 
+Industry and Security, Department of Commerce, Phone: (202) 482-5991, 
+Email: <a href="/cdn-cgi/l/email-protection#6623342526040f154802090548010910"><span class="__cf_email__" data-cfemail="ca8f98898aa8a3b9e4aea5a9e4ada5bc">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION:
+
+Background
+
+    The Entity List (supplement No. 4 to part 744 of the EAR (15 CFR 
+parts 730-774)) identifies entities for which there is reasonable cause 
+to believe, based on specific and articulable facts, that the entities 
+have been involved, are involved, or pose a significant risk of being 
+or becoming involved in activities contrary to the national security or 
+foreign policy interests of the United States, pursuant to Sec.  
+744.11(b). The EAR impose additional license requirements on, and limit 
+the availability of, most license exceptions for exports, reexports, 
+and transfers (in-country) where a listed entity is a party to the 
+transaction. The license review policy for each listed entity is 
+identified in the ``License Review Policy'' column on the Entity List, 
+and the impact on the availability of license exceptions is described 
+in the relevant Federal Register document that added the entity to the 
+Entity List. The Bureau of Industry and Security (BIS) places entities 
+on the Entity List pursuant to part 744 (Control Policy: End-User and 
+End-Use Based) and part 746 (Embargoes and Other Special Controls) of 
+the EAR.
+    The End-User Review Committee (ERC), composed of representatives of 
+the Departments of Commerce (Chair), State, Defense, Energy and, where 
+appropriate, the Treasury, makes all decisions regarding additions to, 
+removals from, or other modifications to the Entity List. The ERC makes 
+all decisions to add an entry to the Entity List by majority vote and 
+makes all decisions to remove or modify an entry by unanimous vote.
+
+Modification to the Entity List
+
+    The agencies represented on the ERC determined to modify Private 
+Military Company `Wagner' on the Entity List, under the destination of 
+Russia. This entry is modified by adding one address, two additional 
+aliases, and a footnote 3 designation. A footnote 3 designation means 
+that an entity has been determined to be a Russian or Belarusian 
+`military end user.' This entity was originally added to the Entity 
+List on June 22, 2017, for having been determined by the U.S. 
+Government to be acting contrary to the national security or foreign 
+policy interests of the United States under Sec.  744.11. (82 FR 28405) 
+This entry is being modified because the entity was determined to be a 
+Russian military end user under Sec.  744.21 of the EAR. Licenses for 
+this entity will now be reviewed under a policy of denial for all items 
+subject to the EAR apart from food and medicine designated as EAR99, 
+which will be reviewed on a case-by-case basis. The license 
+requirements under this entry also extend to any export, reexport and 
+transfer (in-country) to the entity wherever located worldwide.
+
+Savings Clause
+
+    For the changes being made in this final rule, shipments of items 
+removed from eligibility for a License Exception or export, reexport, 
+or transfer (in-country) without a license (NLR) as a result of this 
+regulatory action that were en route aboard a carrier to a port of 
+export, reexport, or transfer (in-country), on December 21, 2022, 
+pursuant to actual orders for export, reexport, or transfer (in-
+country) to or within a foreign destination, may proceed to that 
+destination under the previous eligibility for a License Exception or 
+export, reexport, or transfer (in-country) without a license (NLR).
+
+Export Control Reform Act of 2018
+
+    On August 13, 2018, the President signed into law the John S. 
+McCain National Defense Authorization Act for Fiscal Year 2019, which 
+included the Export Control Reform Act of 2018 (ECRA) (50 U.S.C. 4801-
+4852). ECRA provides the legal basis for BIS's principal authorities 
+and serves as the authority under which BIS issues this rule.
+
+Rulemaking Requirements
+
+    1. This rule has been determined to be not significant for purposes 
+of Executive Order 12866.
+    2. Notwithstanding any other provision of law, no person is 
+required to respond to or be subject to a penalty for failure to comply 
+with a collection of information, subject to the requirements of the 
+Paperwork Reduction Act of 1995 (44 U.S.C. 3501 et seq.) (PRA), unless 
+that collection of information displays a currently valid Office of 
+Management and Budget (OMB) Control Number. This regulation involves 
+collections previously approved by OMB under control number 0694-0088, 
+Simplified Network Application Processing System, which includes, among 
+other things, license applications and commodity classifications, and 
+carries a burden estimate of 29.4 minutes for a manual or electronic 
+submission for a total burden estimate of 33,133 hours. Total burden 
+hours associated with the PRA and OMB control number 0694-0088 are not 
+expected to increase as a result of this rule.
+    3. This rule does not contain policies with federalism implications 
+as that term is defined in Executive Order 13132.
+    4. Pursuant to section 1762 of the Export Control Reform Act of 
+2018, this action is exempt from the Administrative Procedure Act (5 
+U.S.C. 553) requirements for notice of proposed rulemaking, opportunity 
+for public participation, and delay in effective date.
+    5. Because a notice of proposed rulemaking and an opportunity for 
+public comment are not required to be given for this rule by 5 U.S.C. 
+553, or by any other law, the analytical requirements of the Regulatory 
+Flexibility Act, 5 U.S.C. 601, et seq., are not applicable. 
+Accordingly, no regulatory flexibility analysis is required and none 
+has been prepared.
+
+List of Subjects in 15 CFR Part 744
+
+    Exports, Reporting and recordkeeping requirements, Terrorism.
+
+0
+Accordingly, part 744 of the Export Administration Regulations (15 CFR 
+parts 730-774) is amended as follows:
+
+PART 744--[AMENDED]
+
+0
+1. The authority citation for part 744 continues to read as follows:
+
+
+[[Page 78857]]
+
+
+    Authority:  50 U.S.C. 4801-4852; 50 U.S.C. 4601 et seq.; 50 
+U.S.C. 1701 et seq.; 22 U.S.C. 3201 et seq.; 42 U.S.C. 2139a; 22 
+U.S.C. 7201 et seq.; 22 U.S.C. 7210; E.O. 12058, 43 FR 20947, 3 CFR, 
+1978 Comp., p. 179; E.O. 12851, 58 FR 33181, 3 CFR, 1993 Comp., p. 
+608; E.O. 12938, 59 FR 59099, 3 CFR, 1994 Comp., p. 950; E.O. 13026, 
+61 FR 58767, 3 CFR, 1996 Comp., p. 228; E.O. 13099, 63 FR 45167, 3 
+CFR, 1998 Comp., p. 208; E.O. 13222, 66 FR 44025, 3 CFR, 2001 Comp., 
+p. 783; E.O. 13224, 66 FR 49079, 3 CFR, 2001 Comp., p. 786; Notice 
+of September 19, 2022, 87 FR 57569 (September 21, 2022); Notice of 
+November 8, 2022, 87 FR 68015 (November 10, 2022).
+
+
+0
+2. Supplement No. 4 to part 744 is amended under RUSSIA by revising the 
+entry for ``Private Military Company `Wagner' '' to read as follows:
+
+Supplement No. 4 to Part 744--Entity List
+
+* * * * *
+
+----------------------------------------------------------------------------------------------------------------
+                                                             License          License review    Federal Register
+        Country                     Entity                 requirement            policy            citation
+----------------------------------------------------------------------------------------------------------------
+ 
+                                                  * * * * * * *
+----------------------------------------------------------------------------------------------------------------
+RUSSIA                                                          * * * * * *
+                         Private Military Company      For all items        Policy of denial   82 FR 28408, 6/22/
+                          `Wagner', a.k.a., the         subject to the       for all items      17. 87 FR
+                          following five aliases:       EAR. (See Sec.       subject to the     [INSERT FR PAGE
+                         --Chastnaya Voennaya           Sec.                 EAR apart from     NUMBER] 12/23/
+                          Kompaniya `Vagner';           734.9(g),\3\         food and           22.
+                         --Chvk Vagner;                 746.8(a)(3), and     medicine
+                         --PMC Wagner;                  744.21(b) of the     designated as
+                         --Wagner Group; and            EAR). The license    EAR99, which
+                         --Vagner Group.                requirements under   will be reviewed
+                         15 Zolnaya Street, Saint       this entry also      on a case-by-
+                          Petersburg, 195213, Russia    extend to any        case basis. See
+                                                        export, reexport     Sec.  Sec.
+                                                        and transfer (in-    746.8(b) and
+                                                        country) to the      744.21(e).
+                                                        entity wherever
+                                                        located worldwide
+                                                                * * * * * *
+ 
+                                                  * * * * * * *
+----------------------------------------------------------------------------------------------------------------
+
+* * * * *
+
+Thea D. Rozman Kendler,
+Assistant Secretary for Export Administration.
+[FR Doc. 2022-28033 Filed 12-21-22; 4:15 pm]
+BILLING CODE 3510-JT-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

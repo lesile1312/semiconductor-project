@@ -1,0 +1,97 @@
+{
+  "abstract": "This rule amends the Export Administration Regulations (EAR) by removing three entities under four entries from the Entity List. This rule removes one entity listed under the destination of Australia, one entity listed under the destination of China, and one entity listed under the destinations of Iran and the United Arab Emirates from the Entity List. The one additional entry is being removed to account for one entity listed under more than one destination on the Entity List. All three of the removals are the result of requests for removal received by BIS pursuant to the section of the EAR used for requesting removal or modification of an Entity List entity and a review of information provided in the removal requests in accordance with the procedure for requesting removal or modification of an Entity List entity. Finally, this final rule modifies five existing entries on the Entity List consisting of five entries under Pakistan to provide additional or modified addresses and/or names for these persons.",
+  "action": "Final rule.",
+  "agencies": [
+    {
+      "id": 54,
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+      "name": "Commerce Department",
+      "parent_id": null,
+      "raw_name": "DEPARTMENT OF COMMERCE",
+      "slug": "commerce-department",
+      "url": "https://www.federalregister.gov/agencies/commerce-department"
+    },
+    {
+      "id": 241,
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+      "name": "Industry and Security Bureau",
+      "parent_id": 54,
+      "raw_name": "Bureau of Industry and Security",
+      "slug": "industry-and-security-bureau",
+      "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2017/09/25/2017-20406.html",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 744,
+      "title": 15
+    }
+  ],
+  "citation": "82 FR 44514",
+  "comment_url": null,
+  "comments_close_on": null,
+  "correction_of": null,
+  "corrections": [],
+  "dates": "This rule is effective September 25, 2017.",
+  "disposition_notes": null,
+  "docket_ids": [
+    "Docket No. 170622586-7586-01"
+  ],
+  "dockets": [],
+  "document_number": "2017-20406",
+  "effective_on": "2017-09-25",
+  "end_page": 44517,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2017/09/25/2017-20406.xml",
+  "html_url": "https://www.federalregister.gov/documents/2017/09/25/2017-20406/removal-of-certain-entities-from-the-entity-list-and-revisions-of-entries-on-the-entity-list",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2017-20406?publication_date=2017-09-25",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2017-09-25/2017-20406/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 4,
+  "page_views": {
+    "count": 2293,
+    "last_updated": "2026-09-13 22:15:03 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2017-09-25/pdf/2017-20406.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2017-20406.pdf?1506084366",
+  "publication_date": "2017-09-25",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2017/09/25/2017-20406.txt",
+  "regulation_id_number_info": {
+    "0694-AH41": null
+  },
+  "regulation_id_numbers": [
+    "0694-AH41"
+  ],
+  "regulations_dot_gov_info": {
+    "checked_regulationsdotgov_at": "2017-10-15T06:00:17Z",
+    "comments_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=BIS-2017-0025",
+    "docket_id": "BIS-2017-0025",
+    "regulation_id_number": "0694-AH41",
+    "supporting_documents": [],
+    "supporting_documents_count": 0,
+    "title": "Removal of Certain Entities from the Entity List; and Revisions of Entries on the Entity List "
+  },
+  "regulations_dot_gov_url": null,
+  "significant": null,
+  "signing_date": null,
+  "start_page": 44514,
+  "subtype": null,
+  "title": "Removal of Certain Entities From the Entity List; and Revisions of Entries on the Entity List",
+  "toc_doc": "Removals and Revisions of Certain Entities",
+  "toc_subject": "Entity List:",
+  "topics": [
+    "Exports",
+    "Reporting and recordkeeping requirements",
+    "Terrorism"
+  ],
+  "type": "Rule",
+  "volume": 82
+}

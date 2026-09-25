@@ -1,0 +1,10 @@
+{
+  "downloaded_at_utc": "2026-09-11T16:04:25+00:00",
+  "persistent_id": "doi:10.7910/DVN/LEJUQZ",
+  "file_id": 11824371,
+  "filename": "IdealpointsJuly2025.tab",
+  "sha256": "94417a946dfbced97af606dbdcc47bfa7b87af428a2ba08362c8dc1e25840838",
+  "formula": "mean(abs(country-China)) / (mean(abs(country-China)) + mean(abs(country-USA)))",
+  "window": "centered three-year window [target_year-1, target_year, target_year+1]",
+  "ideal_point_column": "idealpointall"
+}

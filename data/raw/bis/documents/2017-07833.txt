@@ -1,0 +1,316 @@
+<html>
+<head>
+<title>Federal Register, Volume 82 Issue 73 (Tuesday, April 18, 2017)</title>
+</head>
+<body><pre>
+[Federal Register Volume 82, Number 73 (Tuesday, April 18, 2017)]
+[Rules and Regulations]
+[Pages 18217-18220]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2017-07833]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF COMMERCE
+
+Bureau of Industry and Security
+
+15 CFR Part 744
+
+[Docket No. 170207154-7253-01]
+RIN 0694-AH32
+
+
+Revision to an Entry on the Entity List
+
+AGENCY: Bureau of Industry and Security, Commerce
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This rule amends the Export Administration Regulations (EAR) 
+by revising one existing entry in the Entity List, under the 
+destination of Russia. The license requirement for the entry is being 
+revised to conform with a general license issued by the Department of 
+the Treasury's Office of Foreign Assets Control on February 2, 2017.
+
+DATES: This rule is effective April 18, 2017.
+
+FOR FURTHER INFORMATION CONTACT: Chair, End-User Review Committee, 
+Office of the Assistant Secretary, Export Administration, Bureau of 
+Industry and Security, Department of Commerce, Phone: (202) 482-5991, 
+Email: <a href="/cdn-cgi/l/email-protection#a1e4f3e2e1c3c8d28fc5cec28fc6ced7"><span class="__cf_email__" data-cfemail="6623342526040f154802090548010910">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION:
+
+[[Page 18218]]
+
+Background
+
+    The Entity List (Supplement No. 4 to Part 744) identifies entities 
+and other persons reasonably believed to be involved, or to pose a 
+significant risk of being or becoming involved, in activities contrary 
+to the national security or foreign policy interests of the United 
+States. The EAR imposes additional license requirements on, and limits 
+the availability of most license exceptions for, exports, reexports, 
+and transfers (in-country) to those listed. The ``license review 
+policy'' for each listed entity or other person is identified in the 
+License Review Policy column on the Entity List and the impact on the 
+availability of license exceptions is described in the Federal Register 
+notice adding entities or other persons to the Entity List. BIS places 
+entities and other persons on the Entity List pursuant to sections of 
+part 744 (Control Policy: End-User and End-Use Based) and part 746 
+(Embargoes and Other Special Controls) of the EAR.
+    The ERC, composed of representatives of the Departments of Commerce 
+(Chair), State, Defense, Energy and, where appropriate, the Treasury, 
+makes all decisions regarding additions to, removals from, or other 
+modifications to the Entity List. The ERC makes all decisions to add an 
+entry to the Entity List by majority vote and all decisions to remove 
+or modify an entry by unanimous vote.
+
+Entity List Revision
+
+    This rule implements the decision of the ERC to revise one existing 
+entry in the Entity List, under the destination of Russia as described 
+below.
+
+Modification to License Requirements for an Entry on the Entity List
+
+    On February 2, 2017, the Department of the Treasury's Office of 
+Foreign Assets Control (OFAC) issued General License No. 1, Authorizing 
+Certain Transactions with the Federal Security Service, an entity in 
+the Russian Federation. This general license authorizes transactions 
+and activities, otherwise prohibited pursuant to Executive Order 13694 
+(E.O.) of April 1, 2015, as amended by E.O. 13757 of December 28, 2016, 
+that are necessary and ordinarily incident to: Requesting, receiving, 
+utilizing, paying for, or dealing in licenses, permits, certifications, 
+or notifications issued or registered by the Federal Security Service 
+(a.k.a. Federalnaya Sluzhba Bezopasnosti) (a.k.a. FSB) for the 
+importation, distribution or use of information technology products in 
+the Russian Federation, provided that (i) the exportation, 
+reexportation, or provision of any goods or technology that are subject 
+to the EAR, 15 CFR parts 730 through 774, are licensed or otherwise 
+authorized by the Department of Commerce and (ii) the payment of any 
+fees to the Federal Security Service for such licenses, permits, 
+certifications, or notifications does not exceed $5,000 in any calendar 
+year. The OFAC general license also authorizes transactions and 
+activities ordinary and necessarily incident to complying with law 
+enforcement or administrative actions or investigations involving the 
+Federal Security Service and transactions and activities ordinary and 
+necessarily incident to complying with rules and regulations 
+administrated by the Federal Security Service. The general license does 
+not authorize exportation, reexportation, or provision of any goods, 
+technology, or services to the Crimea region of Ukraine or any 
+transactions that otherwise violate E.O. 13757 of April 1, 2015. Any 
+questions regarding to the scope of this general license should be 
+directed to OFAC.
+    In light of OFAC's General License No. 1, BIS makes a conforming 
+change by modifying the listing for the Federal Security Service on the 
+Entity List under the destination of Russia (the term used in the EAR 
+for the Russian Federation). This final rule modifies the license 
+requirement column for this entity to specify that the Entity List's 
+license requirements do not apply to items subject to the EAR that are 
+related to transactions authorized by OFAC pursuant to new General 
+License No. 1 (i.e., transactions that are necessary and ordinarily 
+incident to requesting, receiving, utilizing, paying for, or dealing in 
+licenses, permits, certifications, or notifications issued or 
+registered by the Federal Security Service (a.k.a. Federalnaya Sluzhba 
+Bezopasnosti) (a.k.a. FSB) for the importation, distribution, or use of 
+information technology products in the Russian Federation, so long as 
+the transactions do not involve exportation, reexportation, or 
+provision of any goods, technology, or services to the Crimea region of 
+Ukraine and do not otherwise violate E.O. 13757). Except for the 
+limited purposes described above, this conforming change does not 
+authorize the exportation, reexportation, or provision of goods or 
+technology to or on behalf of the Federal Security Service.
+    This final rule makes the following revision to one entry on the 
+Entity List:
+
+Russia
+    (1) Federal Security Service (FSB), a.k.a., the following one 
+alias:
+
+    --Federalnaya Sluzhba Bezopasnosti.
+    Ulitsa Kuznetskiy Most, Dom 22, Moscow 107031, Russia; and 
+Lubyanskaya Ploschad, Dom 2, Moscow 107031, Russia.
+
+
+    Note: As described above, the changes this final rule makes to 
+this Russian entity are limited to the License requirement column 
+for this entry.
+
+Export Administration Act of 1979
+
+    Although the Export Administration Act of 1979 expired on August 
+20, 2001, the President, through Executive Order 13222 of August 17, 
+2001, 3 CFR, 2001 Comp., p. 783 (2002), as amended by Executive Order 
+13637 of March 8, 2013, 78 FR 16129 (March 13, 2013) and as extended by 
+the Notice of August 4, 2016, 81 FR 52587 (August 8, 2016), has 
+continued the Export Administration Regulations in effect under the 
+International Emergency Economic Powers Act. BIS continues to carry out 
+the provisions of the Export Administration Act of 1979, as appropriate 
+and to the extent permitted by law, pursuant to Executive Order 13222, 
+as amended by Executive Order 13637.
+
+Rulemaking Requirements
+
+    1. Executive Orders 13563 and 12866 direct agencies to assess all 
+costs and benefits of available regulatory alternatives and, if 
+regulation is necessary, to select regulatory approaches that maximize 
+net benefits (including potential economic, environmental, public 
+health and safety effects, distributive impacts, and equity). Executive 
+Order 13563 emphasizes the importance of quantifying both costs and 
+benefits, of reducing costs, of harmonizing rules, and of promoting 
+flexibility. This rule has been determined to be not significant for 
+purposes of Executive Order 12866.
+    2. Notwithstanding any other provision of law, no person is 
+required to respond to nor be subject to a penalty for failure to 
+comply with a collection of information, subject to the requirements of 
+the Paperwork Reduction Act of 1995 (44 U.S.C. 3501 et seq.) (PRA), 
+unless that collection of information displays a currently valid Office 
+of Management and Budget (OMB) Control Number. This regulation involves 
+collections previously approved by OMB under control number 0694-0088, 
+Simplified Network Application Processing System, which includes, among 
+other things, license
+
+[[Page 18219]]
+
+applications and carries a burden estimate of 43.8 minutes for a manual 
+or electronic submission. Total burden hours associated with the PRA 
+and OMB control number 0694-0088 are not expected to increase as a 
+result of this rule. You may send comments regarding the collection of 
+information associated with this rule, including suggestions for 
+reducing the burden, to Jasmeet K. Seehra, Office of Management and 
+Budget (OMB), by email to <a href="/cdn-cgi/l/email-protection#7b311a08161e1e0f24305524281e1e13091a3b141619551e140b551c140d"><span class="__cf_email__" data-cfemail="7d371c0e10181809223653222e1818150f1c3d12101f5318120d531a120b">[email&#160;protected]</span></a>, or by fax to 
+(202) 395-7285.
+    3. This rule does not contain policies with Federalism implications 
+as that term is defined in Executive Order 13132.
+    4. Section 553(d) of the Administrative Procedure Act (APA) 
+generally provides that rules may not take effect earlier than thirty 
+(30) days after they are published in the Federal Register. BIS finds 
+good cause to waive the 30-day delay in effectiveness under 5 U.S.C. 
+553(d)(1) because this rule is a substantive rule which relieves a 
+restriction. This rule's revision of the license requirement for the 
+Federal Security Service (FSB) reduces the compliance burden that may 
+be imposed on exporters due to the inconsistent sanctions. The revision 
+also reduces the parties that are affected by the license requirements, 
+addressing an unintended consequence of listing this entity on the 
+Entity List.
+    In addition, the Department finds that there is good cause under 5 
+U.S.C. 553(b)(3)(B) to waive the provisions of the Administrative 
+Procedure Act (APA) requiring prior notice and the opportunity for 
+public comment for the revision included in this rule because they are 
+either unnecessary or contrary to the public interest. The revision is 
+limited to ensure consistency with OFAC's General License No. 1, and 
+thus prior notice and the opportunity for public comment are 
+unnecessary. The conforming change to the listing for Federal Security 
+Service (FSB) is intended to ensure consistent treatment of this entity 
+under both the EAR and OFAC's sanctions regime. Narrowing the scope of 
+the license requirements addresses unintended consequences and 
+unnecessary economic losses that U.S. exporters may face as they turn 
+away potential sales due to this entity being listed on the Entity 
+List. By publishing without prior notice and comment, U.S. exporters 
+will be able to submit licenses, permits, certifications and 
+notifications that are required under Russian law for information 
+technology products imported into, distributed or used in Russia 
+immediately, an action which was approved under OFAC's General License 
+No. 1 since February 2, 2017. A prolonging of the inconsistent 
+treatment for the sanctioned entity would create unnecessary compliance 
+burden on exporters who are complying with OFAC and BIS regulations as 
+well as additional delay and loss of potential sales for U.S. 
+exporters.
+    No other law requires that a notice of proposed rulemaking and an 
+opportunity for public comment be given for this final rule. Because a 
+notice of proposed rulemaking and an opportunity for public comment are 
+not required under the APA or by any other law, the analytical 
+requirements of the Regulatory Flexibility Act (5 U.S.C. 601 et seq.) 
+are not applicable. As a result, no final regulatory flexibility 
+analysis is required and none has been prepared.
+
+List of Subjects in 15 CFR Part 744
+
+    Exports, Reporting and recordkeeping requirements, Terrorism.
+
+    Accordingly, part 744 of the Export Administration Regulations (15 
+CFR parts 730-774) is amended as follows:
+
+PART 744--[AMENDED]
+
+0
+1. The authority citation for 15 CFR part 744 continues to read as 
+follows:
+
+    Authority: 50 U.S.C. 4601 et seq.; 50 U.S.C. 1701 et seq.; 22 
+U.S.C. 3201 et seq.; 42 U.S.C. 2139a; 22 U.S.C. 7201 et seq.; 22 
+U.S.C. 7210; E.O. 12058, 43 FR 20947, 3 CFR, 1978 Comp., p. 179; 
+E.O. 12851, 58 FR 33181, 3 CFR, 1993 Comp., p. 608; E.O. 12938, 59 
+FR 59099, 3 CFR, 1994 Comp., p. 950; E.O. 12947, 60 FR 5079, 3 CFR, 
+1995 Comp., p. 356; E.O. 13026, 61 FR 58767, 3 CFR, 1996 Comp., p. 
+228; E.O. 13099, 63 FR 45167, 3 CFR, 1998 Comp., p. 208; E.O. 13222, 
+66 FR 44025, 3 CFR, 2001 Comp., p. 783; E.O. 13224, 66 FR 49079, 3 
+CFR, 2001 Comp., p. 786; Notice of August 4, 2016, 81 FR 52587 
+(August 8, 2016); Notice of September 15, 2016, 81 FR 64343 
+(September 19, 2016); Notice of November 8, 2016, 81 FR 79379 
+(November 10, 2016); Notice of January 13, 2017, 82 FR 6165 (January 
+18, 2017).
+
+
+0
+2. Supplement No. 4 to part 744 is amended by revising, under Russia, 
+one Russian entity ``Federal Security Service (FSB), a.k.a., the 
+following one alias:
+
+Federalnaya Sluzhba Bezopasnosti. Ulitsa Kuznetskiy Most, Dom 22, 
+Moscow 107031, Russia; and Lubyanskaya Ploschad, Dom 2, Moscow 107031, 
+Russia'' to read as follows:
+
+Supplement No. 4 to Part 744--Entity List
+
+* * * * *
+
+----------------------------------------------------------------------------------------------------------------
+                                                                              License review    Federal Register
+        Country                     Entity             License requirement        policy            citation
+----------------------------------------------------------------------------------------------------------------
+ 
+                                                  * * * * * * *
+----------------------------------------------------------------------------------------------------------------
+RUSSIA.................                                         * * * * * *
+                         Federal Security Service      For all items        Presumption of     82 FR 724, 1/4/
+                          (FSB), a.k.a., the            subject to the EAR   denial.            17. 82 FR
+                          following one alias:          (see Sec.   744.11                      [INSERT FR PAGE
+                         --Federalnaya Sluzhba          of the EAR), apart                      NUMBER AND 4/18/
+                          Bezopasnosti.                 from items that                         17].
+                         Ulitsa Kuznetskiy Most, Dom    are related to
+                          22, Moscow 107031, Russia;    transactions that
+                          and Lubyanskaya Ploschad,     are authorized by
+                          Dom 2, Moscow 107031,         the Department of
+                          Russia.                       the Treasury's
+                                                        Office of Foreign
+                                                        Assets Control
+                                                        pursuant to
+                                                        General License
+                                                        No. 1 of February
+                                                        2, 2017.
+                                                                * * * * * *
+----------------------------------------------------------------------------------------------------------------
+ 
+                                                  * * * * * * *
+----------------------------------------------------------------------------------------------------------------
+
+
+
+[[Page 18220]]
+
+    Dated: April 13, 2017.
+Matthew S. Borman,
+Deputy Assistant Secretary for Export Administration.
+[FR Doc. 2017-07833 Filed 4-17-17; 8:45 am]
+BILLING CODE 3510-33-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

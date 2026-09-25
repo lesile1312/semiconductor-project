@@ -1,0 +1,136 @@
+{
+  "abstract": "The Bureau of Industry and Security (BIS) maintains, as part of its Export Administration Regulations (EAR), the Commerce Control List (CCL), which identifies certain items subject to Department of Commerce (Commerce) jurisdiction. Commerce is revising the CCL, as well as corresponding parts of the EAR, to implement controls on four technologies. These changes reflect certain controls decided by governments participating in the Wassenaar Arrangement on Export Controls for Conventional Arms and Dual-Use Goods and Technologies (WA) at the December 2021 WA Plenary meeting. These four technologies meet the criteria of Section 1758 of the Export Control Reform Act (ECRA) pertaining to emerging and foundational technologies. Accordingly, BIS is accelerating their publication in this interim final rule and will publish the remaining WA-agreed controls in a later rule. These technologies are two substrates of ultra-wide bandgap semiconductors (Gallium Oxide (Ga<INF>2</INF>O<INF>3</INF>) and diamond), Electronic Computer Aided Design (ECAD) software specially designed for the development of integrated circuits with any Gate-All-Around Field-Effect Transistor (GAAFET) structure, and pressure gain combustion (PGC) technology for the production and development of gas turbine engine components or systems.",
+  "action": "Interim final rule, with request for comments.",
+  "agencies": [
+    {
+      "id": 54,
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+      "name": "Commerce Department",
+      "parent_id": null,
+      "raw_name": "DEPARTMENT OF COMMERCE",
+      "slug": "commerce-department",
+      "url": "https://www.federalregister.gov/agencies/commerce-department"
+    },
+    {
+      "id": 241,
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+      "name": "Industry and Security Bureau",
+      "parent_id": 54,
+      "raw_name": "Bureau of Industry and Security",
+      "slug": "industry-and-security-bureau",
+      "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2022/08/15/2022-17125.html",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": "772",
+      "title": 15
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": "774",
+      "title": 15
+    }
+  ],
+  "citation": "87 FR 49979",
+  "comment_url": null,
+  "comments_close_on": null,
+  "correction_of": null,
+  "corrections": [],
+  "dates": "Effective dates: This rule is effective August 15, 2022, except for instruction 5, concerning the addition of Export Control Classification Number (ECCN) 3D006, which is effective October 14, 2022.",
+  "disposition_notes": null,
+  "docket_ids": [
+    "Docket No. 220802-0168"
+  ],
+  "dockets": [
+    {
+      "agency_name": "BIS",
+      "documents": [
+        {
+          "allow_late_comments": null,
+          "comment_count": 8,
+          "comment_end_date": "2022-09-15",
+          "comment_start_date": "2022-08-15",
+          "comment_url": "https://www.regulations.gov/commenton/BIS-2022-0006-0001",
+          "id": "BIS-2022-0006-0001",
+          "regulations_dot_gov_open_for_comment": false,
+          "updated_at": "2023-02-27T14:03:29.309-05:00"
+        }
+      ],
+      "id": "BIS-2022-0006",
+      "supporting_documents": [],
+      "supporting_documents_count": 0,
+      "title": "Implementation of Certain 2021 Wassenaar Arrangement Decisions on Four Section 1758 Technologies"
+    }
+  ],
+  "document_number": "2022-17125",
+  "effective_on": "2022-08-15",
+  "end_page": 49986,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2022/08/15/2022-17125.xml",
+  "html_url": "https://www.federalregister.gov/documents/2022/08/15/2022-17125/implementation-of-certain-2021-wassenaar-arrangement-decisions-on-four-section-1758-technologies",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2022-17125?publication_date=2022-08-15",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2022-08-15/2022-17125/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 8,
+  "page_views": {
+    "count": 13200,
+    "last_updated": "2026-09-13 22:15:03 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2022-08-15/pdf/2022-17125.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2022-17125.pdf?1660308312",
+  "publication_date": "2022-08-15",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2022/08/15/2022-17125.txt",
+  "regulation_id_number_info": {
+    "0694-AH91": {
+      "html_url": "https://www.federalregister.gov/regulations/0694-AH91/emerging-and-foundational-technologies-implementation-of-certain-2021-wassenaar-arrangement-decision",
+      "issue": "202210",
+      "priority_category": "Other Significant",
+      "title": "Emerging and Foundational Technologies: Implementation of Certain 2021 Wassenaar Arrangement Decisions",
+      "xml_url": "http://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202210&RIN=0694-AH91&operation=OPERATION_EXPORT_XML"
+    }
+  },
+  "regulation_id_numbers": [
+    "0694-AH91"
+  ],
+  "regulations_dot_gov_info": {
+    "agency_id": "BIS",
+    "checked_regulationsdotgov_at": "2023-02-27T19:03:28Z",
+    "comments_count": 8,
+    "comments_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=BIS-2022-0006",
+    "docket_id": "BIS-2022-0006",
+    "document_id": "BIS-2022-0006-0001",
+    "regulation_id_number": "0694-AH91",
+    "regulatory_plan": {
+      "html_url": "https://www.federalregister.gov/regulations/0694-AH91/emerging-and-foundational-technologies-implementation-of-certain-2021-wassenaar-arrangement-decision",
+      "title": "Emerging and Foundational Technologies: Implementation of Certain 2021 Wassenaar Arrangement Decisions"
+    },
+    "supporting_documents": [],
+    "supporting_documents_count": 0,
+    "title": "Implementation of Certain 2021 Wassenaar Arrangement Decisions on Four Section 1758 Technologies"
+  },
+  "regulations_dot_gov_url": null,
+  "significant": true,
+  "signing_date": null,
+  "start_page": 49979,
+  "subtype": null,
+  "title": "Implementation of Certain 2021 Wassenaar Arrangement Decisions on Four Section 1758 Technologies",
+  "toc_doc": "Implementation of Certain Wassenaar Arrangement Decisions on Four Technologies",
+  "toc_subject": null,
+  "topics": [
+    "Exports",
+    "Reporting and recordkeeping requirements",
+    "Terrorism"
+  ],
+  "type": "Rule",
+  "volume": 87
+}

@@ -1,0 +1,97 @@
+{
+  "abstract": "This rule amends the Export Administration Regulations (EAR) by removing seven persons under ten entries from the Entity List. This rule removes four persons listed under the destination of Germany, one person listed under the destination of Hong Kong, one person listed under the destination of India, one person listed under the destination of Singapore, one person listed under the destination of Switzerland, and two persons under the destination of the United Arab Emirates from the Entity List. The three additional entries are being removed to account for two persons listed under more than one destination on the Entity List. All seven of the removals are the result of requests for removal received by BIS pursuant to the section of the EAR used for requesting removal or modification of an Entity List entity and a review of information provided in the removal requests in accordance with the procedure for requesting removal or modification of an Entity List entity.",
+  "action": "Final rule.",
+  "agencies": [
+    {
+      "id": 54,
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+      "name": "Commerce Department",
+      "parent_id": null,
+      "raw_name": "DEPARTMENT OF COMMERCE",
+      "slug": "commerce-department",
+      "url": "https://www.federalregister.gov/agencies/commerce-department"
+    },
+    {
+      "id": 241,
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+      "name": "Industry and Security Bureau",
+      "parent_id": 54,
+      "raw_name": "Bureau of Industry and Security",
+      "slug": "industry-and-security-bureau",
+      "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2017/03/29/2017-06228.html",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 744,
+      "title": 15
+    }
+  ],
+  "citation": "82 FR 15461",
+  "comment_url": null,
+  "comments_close_on": null,
+  "correction_of": null,
+  "corrections": [],
+  "dates": "This rule is effective March 29, 2017.",
+  "disposition_notes": null,
+  "docket_ids": [
+    "Docket No. 170103009-7300-02"
+  ],
+  "dockets": [],
+  "document_number": "2017-06228",
+  "effective_on": "2017-03-29",
+  "end_page": 15463,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2017/03/29/2017-06228.xml",
+  "html_url": "https://www.federalregister.gov/documents/2017/03/29/2017-06228/removal-of-certain-persons-from-the-entity-list",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2017-06228?publication_date=2017-03-29",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2017-03-29/2017-06228/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 3,
+  "page_views": {
+    "count": 1374,
+    "last_updated": "2026-09-13 22:15:03 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2017-03-29/pdf/2017-06228.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2017-06228.pdf?1490705162",
+  "publication_date": "2017-03-29",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2017/03/29/2017-06228.txt",
+  "regulation_id_number_info": {
+    "0694-AH28": null
+  },
+  "regulation_id_numbers": [
+    "0694-AH28"
+  ],
+  "regulations_dot_gov_info": {
+    "checked_regulationsdotgov_at": "2017-04-18T06:00:16Z",
+    "comments_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=BIS-2017-0015",
+    "docket_id": "BIS-2017-0015",
+    "regulation_id_number": "0694-AH28",
+    "supporting_documents": [],
+    "supporting_documents_count": 0,
+    "title": "Removal of Certain Persons from the Entity List"
+  },
+  "regulations_dot_gov_url": null,
+  "significant": null,
+  "signing_date": null,
+  "start_page": 15461,
+  "subtype": null,
+  "title": "Removal of Certain Persons From the Entity List",
+  "toc_doc": "Removal",
+  "toc_subject": "Certain Persons from the Entity List:",
+  "topics": [
+    "Exports",
+    "Reporting and recordkeeping requirements",
+    "Terrorism"
+  ],
+  "type": "Rule",
+  "volume": 82
+}

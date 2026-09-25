@@ -1,0 +1,438 @@
+<html>
+<head>
+<title>Federal Register, Volume 82 Issue 59 (Wednesday, March 29, 2017)</title>
+</head>
+<body><pre>
+[Federal Register Volume 82, Number 59 (Wednesday, March 29, 2017)]
+[Rules and Regulations]
+[Pages 15458-15461]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2017-06227]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF COMMERCE
+
+Bureau of Industry and Security
+
+15 CFR Part 744
+
+[Docket No. 170109042-7255-01]
+RIN 0694-AH30
+
+
+Removal of Certain Persons From the Entity List; Addition of a 
+Person to the Entity List; and EAR Conforming Change
+
+AGENCY: Bureau of Industry and Security, Commerce.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This rule amends the Export Administration Regulations (EAR) 
+by removing two persons listed under the destination of China from the 
+Entity List. The two removals are the result of a request for removal 
+received by BIS pursuant to the section of the EAR used for requesting 
+removal or modification of an Entity List entry and a review of 
+information provided in the removal request in accordance with the 
+procedure for requesting removal or modification of an Entity List 
+entity. In light of the recent settlement of administrative and 
+criminal enforcement actions against ZTE Corporation and ZTE Kangxun, 
+the End-User Review Committee (ERC) has determined that these two 
+persons being removed have performed their undertakings to the U.S. 
+Government in a timely manner and have otherwise cooperated with the 
+U.S. Government in resolving the matter which led to the two entities' 
+listing.
+    This final rule also adds one person to the Entity List. This 
+person who is added to the Entity List has been determined by the U.S. 
+Government to be acting contrary to the national security or foreign 
+policy interests of the United States. This person will be listed on 
+the Entity List under the destination of China.
+    Lastly, this final rule makes a conforming change to the EAR as a 
+result of the removal of these two persons from the Entity List.
+
+DATES: This rule is effective March 29, 2017.
+
+FOR FURTHER INFORMATION CONTACT: Chair, End-User Review Committee, 
+Office of the Assistant Secretary, Export Administration, Bureau of 
+Industry and Security, Department of Commerce, Phone: (202) 482-5991, 
+Email: <a href="/cdn-cgi/l/email-protection#3570677675575c461b515a561b525a43"><span class="__cf_email__" data-cfemail="8fcaddcccfede6fca1ebe0eca1e8e0f9">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION:
+
+Background
+
+    The Entity List (Supplement No. 4 to part 744) identifies entities 
+and other persons reasonably believed to be involved, or to pose a 
+significant risk of being or becoming involved, in activities contrary 
+to the national security or foreign policy interests of the United 
+States. The EAR imposes additional license requirements on, and limits 
+the availability of most license exceptions for, exports, reexports, 
+and transfers (in-country) to those listed. The ``license review 
+policy'' for each listed entity or other person is identified in the 
+License Review Policy column on the Entity List and the impact on the 
+availability of license exceptions is described in the Federal Register 
+notice adding entities or other persons to the Entity List. BIS places 
+entities and other persons on the Entity List pursuant to sections of 
+part 744 (Control Policy: End-User and End-Use Based) and part 746 
+(Embargoes and Other Special Controls) of the EAR.
+    The End-User Review Committee (ERC), composed of representatives of 
+the Departments of Commerce (Chair), State, Defense, Energy and, where 
+appropriate, the Treasury, makes all decisions regarding additions to, 
+removals from, or other modifications to the Entity List. The ERC makes 
+all decisions to add an entry to the Entity List by majority vote and 
+all decisions to remove or modify an entry by unanimous vote.
+
+ERC Entity List Decisions
+
+Removals From the Entity List
+
+    This rule implements a decision of the ERC to remove the following 
+two entries from the Entity List: Zhongxing Telecommunications 
+Equipment (ZTE) Corporation and ZTE Kangxun Telecommunications Ltd. 
+These two entities were added to the Entity List on March 8, 2016 (see 
+81 FR 12006).
+    The U.S. Government recently reached an agreement with ZTE 
+Corporation and ZTE Kangxun for the settlement of administrative 
+charges and entry of a guilty plea in a criminal case against the 
+companies. On March 7, 2017, Secretary of Commerce Wilbur L. Ross, Jr., 
+issued a statement regarding the settlement and guilty plea, which 
+resulted in a very substantial monetary penalty, intrusive independent 
+monitoring, and additional suspended penalties that will be imposed if 
+ZTE fails to meet its obligations or further violates U.S. export 
+controls.
+    In light of the settlement, the ERC has determined that ZTE 
+Corporation and ZTE Kangxun have performed their undertakings to the 
+U.S. Government in a timely manner and have otherwise cooperated with 
+the U.S. Government in resolving the matter which led to the two 
+entities' listing. Therefore, the ERC has decided to remove these two 
+entities from the Entity List.
+    This final rule implements the decision to remove the following two 
+entities located in China from the Entity List:
+
+China
+
+    (1) Zhongxing Telecommunications Equipment (ZTE) Corporation, ZTE 
+Plaza, Keji Road South, Hi-Tech Industrial Park, Nanshan District, 
+Shenzhen, China; and
+    (2) ZTE Kangxun Telecommunications Ltd., 2/3 Floor,
+
+[[Page 15459]]
+
+Suite A, ZTE Communication Mansion Keji (S) Road, Hi-New Shenzhen, 
+518057 China.
+    The removal of the persons referenced above, which was approved by 
+the ERC, eliminates the existing license requirements in Supplement No. 
+4 to part 744 for exports, reexports and transfers (in-country) to 
+these entities. However, the removal of these persons from the Entity 
+List does not relieve persons of other obligations under part 744 of 
+the EAR or under other parts of the EAR. Neither the removal of an 
+entity from the Entity List nor the removal of Entity List-based 
+license requirements relieves persons of their obligations under 
+General Prohibition 5 in Sec.  736.2(b)(5) of the EAR which provides 
+that, ``you may not, without a license, knowingly export or reexport 
+any item subject to the EAR to an end-user or end-use that is 
+prohibited by part 744 of the EAR.'' Additionally, this removal does 
+not relieve persons of their obligation to apply for export, reexport 
+or in-country transfer licenses required by other provisions of the 
+EAR. BIS strongly urges the use of Supplement No. 3 to part 732 of the 
+EAR, ``BIS's `Know Your Customer' Guidance and Red Flags,'' when 
+persons are involved in transactions that are subject to the EAR.
+
+Addition to the Entity List
+
+    This rule implements the decision of the ERC to add one person to 
+the Entity List. This person is being added on the basis of Sec.  
+744.11 (License requirements that apply to entities acting contrary to 
+the national security or foreign policy interests of the United States) 
+of the EAR. The person added to the Entity List will be listed under 
+the destination of China.
+    The ERC reviewed Sec.  744.11(b) (Criteria for revising the Entity 
+List) in making the determination to add this person to the Entity 
+List. Under that paragraph, persons and those acting on behalf of such 
+persons may be added to the Entity List if there is reasonable cause to 
+believe, based on specific and articulable facts, that they have been 
+involved, are involved, or pose a significant risk of being or becoming 
+involved in, activities that are contrary to the national security or 
+foreign policy interests of the United States. Paragraphs (b)(1) 
+through (5) of Sec.  744.11 include an illustrative list of activities 
+that could be contrary to the national security or foreign policy 
+interests of the United States.
+    Pursuant to Sec.  744.11(b) of the EAR, the ERC determined that 
+this person, Shi Lirong, located in the destination of China, be added 
+to the Entity List for actions contrary to the national security or 
+foreign policy interests of the United States. The ERC determined that 
+there is reasonable cause to believe, based on specific and articulable 
+facts, that Shi Lirong has been involved in actions contrary to the 
+national security or foreign policy interests of the United States. 
+Specifically, Shi Lirong was the CEO of ZTE Corporation at the time the 
+ZTE documents that contributed to ZTE's listing were signed. Shi Lirong 
+signed and approved the document ``Report Regarding Comprehensive 
+Reorganization and Standardization of the Company Export Control 
+Related Matters,'' which described how ZTE planned and organized a 
+scheme to establish, control and use a series of ``detached'' (i.e., 
+shell) companies to illicitly reexport controlled items to Iran in 
+violation of U.S. export control laws.
+    Pursuant to Sec.  744.11(b) of the EAR, the ERC determined that the 
+conduct of this person raises sufficient concern that prior review of 
+exports, reexports or transfers (in-country) of items subject to the 
+EAR involving this person, and the possible imposition of license 
+conditions or license denials on shipments to the person, will enhance 
+BIS's ability to prevent violations of the EAR. Therefore, this person 
+is being added to the Entity List.
+    For this person added to the Entity List, BIS imposes a license 
+requirement for all items subject to the EAR and a license review 
+policy of presumption of denial. The license requirements apply to any 
+transaction in which items are to be exported, reexported, or 
+transferred (in-country) to this person or in which such person acts as 
+purchaser, intermediate consignee, ultimate consignee, or end-user. In 
+addition, no license exceptions are available for exports, reexports, 
+or transfers (in-country) to this person being added to the Entity List 
+in this rule.
+    This final rule adds the following person to the Entity List:
+
+China
+
+    (1) Shi Lirong, Yuanzhong Garden Tower A, Room 26A, Futian, 
+Shenzhen, China; and Xinghai Mingcheng, 2nd Floor, Shenzhen, China.
+
+Conforming EAR Change
+
+    This final rule removes Supplement No. 7 to part 744--Temporary 
+General License, which was originally added to the EAR in a final rule 
+on March 24, 2016 (81 FR 15633). The March 24 final rule amended the 
+EAR by adding Supplement No. 7 to part 744 to create a temporary 
+general license that returned, until June 30, 2016, the licensing and 
+other policies of the EAR regarding exports, reexports, and transfers 
+(in-country) to ZTE Corporation and ZTE Kangxun to those which were in 
+effect prior to their addition to the Entity List on March 8, 2016. BIS 
+subsequently extended the validity date of the temporary general 
+license on four occasions (June 28, 2016 (81 FR 41799), August 19, 2016 
+(81 FR 55372), November 18, 2016 (81 FR 81663), and February 24, 2017 
+(82 FR 11505)), resulting in the current validity end-date of March 29, 
+2017.
+    As described above under the section Removals From the Entity List, 
+this final rule removes the two entities identified in the temporary 
+general license from the Entity List. Therefore, this final rule 
+removes as a conforming change Supplement No. 7 to part 744 because it 
+is no longer needed.
+
+Export Administration Act of 1979
+
+    Although the Export Administration Act of 1979 expired on August 
+20, 2001, the President, through Executive Order 13222 of August 17, 
+2001, 3 CFR, 2001 Comp., p. 783 (2002), as amended by Executive Order 
+13637 of March 8, 2013, 78 FR 16129 (March 13, 2013) and as extended by 
+the Notice of August 4, 2016, 81 FR 52587 (August 8, 2016), has 
+continued the Export Administration Regulations in effect under the 
+International Emergency Economic Powers Act. BIS continues to carry out 
+the provisions of the Export Administration Act of 1979, as appropriate 
+and to the extent permitted by law, pursuant to Executive Order 13222, 
+as amended by Executive Order 13637.
+
+Rulemaking Requirements
+
+    1. Executive Orders 13563 and 12866 direct agencies to assess all 
+costs and benefits of available regulatory alternatives and, if 
+regulation is necessary, to select regulatory approaches that maximize 
+net benefits (including potential economic, environmental, public 
+health and safety effects, distributive impacts, and equity). This rule 
+has been determined to be not significant for purposes of Executive 
+Order 12866.
+    2. Notwithstanding any other provision of law, no person is 
+required to respond to nor be subject to a penalty for failure to 
+comply with a collection of information, subject to the requirements of 
+the Paperwork Reduction Act of 1995 (44 U.S.C. 3501 et seq.) (PRA), 
+unless that collection of information displays a currently valid Office 
+of Management and Budget (OMB) Control Number. This regulation involves 
+collections previously approved by OMB under control
+
+[[Page 15460]]
+
+number 0694-0088, Simplified Network Application Processing System, 
+which includes, among other things, license applications and carries a 
+burden estimate of 43.8 minutes for a manual or electronic submission. 
+Total burden hours associated with the PRA and OMB control number 0694-
+0088 are not expected to increase as a result of this rule. You may 
+send comments regarding the collection of information associated with 
+this rule, including suggestions for reducing the burden, to Jasmeet K. 
+Seehra, Office of Management and Budget (OMB), by email to 
+<a href="/cdn-cgi/l/email-protection#f4be958799919180abbfdaaba791919c8695b49b9996da919b84da939b82"><span class="__cf_email__" data-cfemail="d298b3a1bfb7b7a68d99fc8d81b7b7baa0b392bdbfb0fcb7bda2fcb5bda4">[email&#160;protected]</span></a>, or by fax to (202) 395-7285.
+    3. This rule does not contain policies with Federalism implications 
+as that term is defined in Executive Order 13132.
+    4. The provisions of the Administrative Procedure Act (APA) (5 
+U.S.C. 553) requiring notice of proposed rulemaking, the opportunity 
+for public comment and a delay in effective date are inapplicable 
+because this regulation involves a military or foreign affairs function 
+of the United States. (See 5 U.S.C. 553(a)(1)). BIS implements this 
+rule to protect U.S. national security or foreign policy interests by 
+preventing items from being exported, reexported, or transferred (in 
+country) to the person being added to the Entity List. If the effective 
+date of this rule were delayed to allow for notice and comment, then 
+the person being added to the Entity List by this action would be able 
+to continue receiving items subject to the EAR without a license, to 
+the detriment of the national security and foreign policy interests of 
+the United States. In addition, publishing a proposed rule would give 
+this party notice of the U.S. Government's intention to place him on 
+the Entity List and would create an incentive for this person to 
+accelerate his receipt of items subject to the EAR in order to conduct 
+activities that are contrary to the national security or foreign policy 
+interests of the United States, to set up additional aliases, change 
+addresses, and/or to take other measures to try to limit the impact of 
+the listing on the Entity List after a final rule is published.
+    Further, no other law requires that a notice of proposed rulemaking 
+and an opportunity for public comment be given for this rule. Because a 
+notice of proposed rulemaking and an opportunity for public comment are 
+not required for this rule by 5 U.S.C. 553, or by any other law, the 
+analytical requirements of the Regulatory Flexibility Act, 5 U.S.C. 601 
+et seq., are not applicable. Accordingly, no regulatory flexibility 
+analysis is required and none has been prepared.
+    5. For the two persons removed from the Entity List in this final 
+rule and for the conforming EAR change to remove Supplement No. 7 to 
+part 744, BIS finds good cause, pursuant to the APA, 5 U.S.C. 
+553(b)(B), to waive requirements that this rule be subject to notice 
+and the opportunity for public comment because it would be contrary to 
+the public interest.
+    In determining whether to grant a request for removal from the 
+Entity List, a committee of U.S. Government agencies (the End-User 
+Review Committee (ERC)) evaluates information about and commitments 
+made by listed persons requesting removal from the Entity List, the 
+nature and terms of which are set forth in 15 CFR part 744, Supplement 
+No. 5, as noted in 15 CFR 744.16(b). The information, commitments, and 
+criteria for this extensive review were all established through the 
+notice of proposed rulemaking and public comment process (72 FR 31005 
+(June 5, 2007) (proposed rule), and 73 FR 49311 (August 21, 2008) 
+(final rule)). These two removals have been made within the established 
+regulatory framework of the Entity List. If the rule were to be delayed 
+to allow for public comment, U.S. exporters may face unnecessary 
+economic losses as they turn away potential sales to the entities 
+removed by this rule because the customer remained a listed person on 
+the Entity List even after the ERC approved the removal pursuant to the 
+regulatory process established by the rule published at 73 FR 49311 on 
+August 21, 2008. By publishing without prior notice and comment, BIS 
+allows the applicants to receive U.S. exports immediately because the 
+applicants already have received approval by the ERC pursuant to 15 CFR 
+part 744, Supplement No. 5, as noted in 15 CFR 744.16(b).
+    Removals from the Entity List granted by the ERC involve 
+interagency deliberation and result from review of public and non-
+public sources, including sensitive law enforcement information and 
+classified information, and the measurement of such information against 
+the Entity List removal criteria. This information is extensively 
+reviewed according to the criteria for evaluating removal requests from 
+the Entity List, as set out in 15 CFR part 744, Supplement No. 5 and 15 
+CFR 744.16(b). For reasons of national security, BIS is not at liberty 
+to provide to the public the detailed information on which the ERC 
+relied to make the decisions to remove these entities. In addition, the 
+information included in the removal request is information exchanged 
+between the applicant and the ERC, which by law (section 12(c) of the 
+Export Administration Act of 1979), BIS is restricted from sharing with 
+the public. Moreover, removal requests from the Entity List contain 
+confidential business information, which is necessary for the extensive 
+review conducted by the U.S. Government in assessing such removal 
+requests.
+    Additionally, section 553(d) of the APA generally provides that 
+rules may not take effect earlier than thirty (30) days after they are 
+published in the Federal Register. BIS finds good cause to waive the 
+30-day delay in effectiveness under 5 U.S.C. 553(d)(1) because this 
+rule is a substantive rule which relieves a restriction. This rule's 
+removal of two persons from the Entity List removes requirements (the 
+Entity-List-based license requirement and limitation on use of license 
+exceptions) related to these two persons.
+    No other law requires that a notice of proposed rulemaking and an 
+opportunity for public comment be given for this final rule. Because a 
+notice of proposed rulemaking and an opportunity for public comment are 
+not required under the APA or by any other law, the analytical 
+requirements of the Regulatory Flexibility Act (5 U.S.C. 601 et seq.) 
+are not applicable. As a result, no final regulatory flexibility 
+analysis is required and none has been prepared.
+
+List of Subjects in 15 CFR Part 744
+
+    Exports, Reporting and recordkeeping requirements, Terrorism.
+
+    Accordingly, part 744 of the Export Administration Regulations (15 
+CFR parts 730-774) is amended as follows:
+
+PART 744--[AMENDED]
+
+0
+1. The authority citation for 15 CFR part 744 is revised to read as 
+follows:
+
+    Authority: 50 U.S.C. 4601 et seq.; 50 U.S.C. 1701 et seq.; 22 
+U.S.C. 3201 et seq.; 42 U.S.C. 2139a; 22 U.S.C. 7201 et seq.; 22 
+U.S.C. 7210; E.O. 12058, 43 FR 20947, 3 CFR, 1978 Comp., p. 179; 
+E.O. 12851, 58 FR 33181, 3 CFR, 1993 Comp., p. 608; E.O. 12938, 59 
+FR 59099, 3 CFR, 1994 Comp., p. 950; E.O. 12947, 60 FR 5079, 3 CFR, 
+1995 Comp., p. 356; E.O. 13026, 61 FR 58767, 3 CFR, 1996 Comp., p. 
+228; E.O. 13099, 63 FR 45167, 3 CFR, 1998 Comp., p. 208; E.O. 13222, 
+66 FR 44025, 3 CFR, 2001 Comp., p. 783; E.O. 13224, 66 FR 49079, 3 
+CFR, 2001 Comp., p. 786; Notice of August 4, 2016, 81 FR 52587 
+(August 8, 2016); Notice of September 15, 2016, 81 FR 64343 
+(September 19, 2016); Notice of November 8, 2016, 81 FR 79379 
+(November 10, 2016); Notice of January 13, 2017, 82 FR 6165 (January 
+18, 2017).
+
+
+[[Page 15461]]
+
+
+
+0
+2. Supplement No. 4 to Part 744 is amended:
+0
+a. By removing, under China, two Chinese entities, ``Zhongxing 
+Telecommunications Equipment (ZTE) Corporation, ZTE Plaza, Keji Road 
+South, Hi-Tech Industrial Park, Nanshan District, Shenzhen, China''; 
+and ``ZTE Kangxun Telecommunications Ltd., 2/3 Floor, Suite A, ZTE 
+Communication Mansion Keji (S) Road, Hi-New Shenzhen, 518057 China ''; 
+and
+0
+b. By adding, under China, one Chinese entity.
+    The addition reads as follows:
+
+Supplement No. 4 to Part 744--Entity List
+
+* * * * *
+
+
+
+----------------------------------------------------------------------------------------------------------------
+                                                            License         License review     Federal Register
+             Country                    Entity            requirement           policy             citation
+----------------------------------------------------------------------------------------------------------------
+ 
+                                                  * * * * * * *
+CHINA, PEOPLE'S REPUBLIC OF
+ 
+                                                  * * * * * * *
+                                  Shi Lirong,         For all items       Presumption of      82 FR [INSERT FR
+                                   Yuanzhong Garden    subject to the      denial.             PAGE NUMBER];
+                                   Tower A, Room       EAR. (See Sec.                          March 29, 2017.
+                                   26A, Futian,        744.11 of the
+                                   Shenzhen, China;    EAR).
+                                   and Xinghai
+                                   Mingcheng, 2nd
+                                   Floor, Shenzhen,
+                                   China.
+ 
+                                                  * * * * * * *
+----------------------------------------------------------------------------------------------------------------
+
+Supplement No. 7 to Part 744--[Removed]
+
+0
+3. Remove Supplement No. 7 to Part 744.
+
+    Dated: March 24, 2017.
+Matthew S. Borman,
+Deputy Assistant Secretary for Export Administration.
+[FR Doc. 2017-06227 Filed 3-28-17; 8:45 am]
+ BILLING CODE 3510-33-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>
