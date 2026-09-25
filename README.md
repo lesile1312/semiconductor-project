@@ -4,7 +4,7 @@
 
 ## 在线查看
 
-- [打开总览页](https://raw.githack.com/lesile1312/semiconductor-project/main/portable/index.html)：单文件版本，地图、数据和绘制脚本均已内嵌，可直接转发。
+- [打开总览页](https://raw.githack.com/lesile1312/semiconductor-project/24f8111/portable/index.html)：固定到已验收版本的单文件页面，地图、数据和绘制脚本均已内嵌，可直接转发。
 - 总览页地图下方新增 12 国横向卡片区，按 2022 年 N4 排列；选择国家可联动地图与画像，并生成带国家/年份参数的分享链接。
 - 总览页只展示实际用于核心指标的来源覆盖，并随国家与年份联动显示P2判定依据；未接入候选或不计分辅助材料不再作为网页功能陈列。
 - BIS选定规则核对与IMF CDIS工作簿保留在报告、方法说明和来源登记中，作为不计分的补充证据；GDELT、GTA、CSL等本轮未接入来源仅保留筛选/排除记录，不生成预警或企业匹配结果。
