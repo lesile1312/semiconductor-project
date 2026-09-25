@@ -271,9 +271,16 @@
         if (!geo.features.some(function (f) { return featureNode(f) === n; })) drawMicroTarget(n);
       });
       drawSupplyLinks(time);
-      nodes.forEach(function (n) {
+      var labelNodes = nodes.slice().sort(function (a, b) {
+        if (a.n === active) return -1;
+        if (b.n === active) return 1;
+        if (!!a.n4 !== !!b.n4) return a.n4 ? -1 : 1;
+        return a.lon - b.lon;
+      });
+      var labelBoxes = [];
+      labelNodes.forEach(function (n) {
         var p = px(n), hot = (n.n4 || 0) >= .05, focused = !active || n.n === active;
-        drawGeometryForNode(n, p, hot, focused);
+        drawGeometryForNode(n, p, hot, focused, labelBoxes);
       });
       if (mouse.on) {
         var radius = Math.max(95, Math.min(170, W * .19));
@@ -283,7 +290,46 @@
         drawPointerLinks();
       }
     }
-    function drawGeometryForNode(n, p, hot, focused) {
+    function placeLabel(n, p, boxes, label, fontSize) {
+      var preferred = LABEL_OFFSETS[n.n] || [10, -9];
+      var width = ctx.measureText(label).width;
+      var gap = Math.max(8, fontSize * .8);
+      var candidates = [
+        [p.x + preferred[0], p.y + preferred[1]],
+        [p.x + gap, p.y - fontSize * 1.8],
+        [p.x + gap, p.y + fontSize * 2.2],
+        [p.x - width - gap, p.y - fontSize * 1.8],
+        [p.x - width - gap, p.y + fontSize * 2.2],
+        [p.x + gap, p.y + fontSize * .45],
+        [p.x - width - gap, p.y + fontSize * .45],
+        [p.x - width / 2, p.y - fontSize * 2.7],
+        [p.x - width / 2, p.y + fontSize * 3.1],
+        [p.x + gap * 2, p.y - fontSize * 3],
+        [p.x - width - gap * 2, p.y - fontSize * 3],
+        [p.x + gap * 2, p.y + fontSize * 3.5],
+        [p.x - width - gap * 2, p.y + fontSize * 3.5]
+      ];
+      var pad = Math.max(3, fontSize * .35), best = null, bestScore = Infinity;
+      candidates.forEach(function (candidate) {
+        var tx = candidate[0], ty = candidate[1];
+        tx = Math.max(5, Math.min(W - width - 5, tx));
+        ty = Math.max(fontSize + 3, Math.min(H - 5, ty));
+        var box = { left: tx - pad, right: tx + width + pad, top: ty - fontSize - pad, bottom: ty + pad };
+        var overlap = 0;
+        boxes.forEach(function (other) {
+          var iw = Math.max(0, Math.min(box.right, other.right) - Math.max(box.left, other.left));
+          var ih = Math.max(0, Math.min(box.bottom, other.bottom) - Math.max(box.top, other.top));
+          overlap += iw * ih;
+        });
+        var dx = tx - candidate[0] + candidate[0] - (p.x + preferred[0]);
+        var dy = ty - candidate[1] + candidate[1] - (p.y + preferred[1]);
+        var score = overlap * 1000 + (dx * dx + dy * dy) * .012;
+        if (score < bestScore) { bestScore = score; best = { x: tx, y: ty, box: box }; }
+      });
+      boxes.push(best.box);
+      return best;
+    }
+    function drawGeometryForNode(n, p, hot, focused, labelBoxes) {
       var c = hot ? COLORS.hot : COLORS.cyan;
       if (focused || hot) {
         var wave = (Math.sin((motion.time || 0) * .0017 + n.r * 1.4) + 1) / 2;
@@ -298,15 +344,9 @@
       ctx.fillStyle = c; ctx.beginPath(); ctx.arc(p.x, p.y, n.r, 0, Math.PI * 2); ctx.fill();
       ctx.globalAlpha = 1;
       if (mode === 'focus' && n.n !== active) return;
-      var off = LABEL_OFFSETS[n.n] || [10, -9], tx = p.x + off[0], ty = p.y + off[1];
       var label = CN[n.n] || n.n, fontSize = W < 440 ? 9 : 11;
       ctx.font = '600 ' + fontSize + 'px Inter,"Noto Sans SC",Arial,sans-serif';
-      var labelWidth = ctx.measureText(label).width;
-      if (W < 440) {
-        if (tx + labelWidth > W - 8) tx = p.x - labelWidth - 10;
-        if (tx < 8) tx = Math.min(W - labelWidth - 8, p.x + 10);
-        ty = Math.max(14, Math.min(H - 9, ty));
-      }
+      var labelPosition = placeLabel(n, p, labelBoxes, label, fontSize), tx = labelPosition.x, ty = labelPosition.y;
       ctx.strokeStyle = 'rgba(146,186,198,.42)'; ctx.lineWidth = .8;
       if (Math.abs(tx - p.x) > 16 || Math.abs(ty - p.y) > 16) { ctx.beginPath(); ctx.moveTo(p.x, p.y); ctx.lineTo(tx, ty); ctx.stroke(); }
       ctx.lineWidth = 3; ctx.strokeStyle = 'rgba(5,15,22,.92)'; ctx.strokeText(label, tx, ty);
@@ -478,7 +518,6 @@
     style.textContent = [
       ':root{--gtri-ease:cubic-bezier(.22,1,.36,1);--gtri-cyan:#3ed6c5;--gtri-amber:#f4bd5b;--gtri-red:#ff6b5f}',
       '.gtri-scroll-rail{position:fixed;left:0;top:0;width:var(--gtri-progress,0%);height:2px;z-index:9999;pointer-events:none;background:linear-gradient(90deg,var(--gtri-cyan),var(--gtri-amber),var(--gtri-red));box-shadow:0 0 14px rgba(62,214,197,.72);transition:width .18s var(--gtri-ease)}',
-      '.gtri-reveal{opacity:0;transform:translate3d(0,18px,0);transition:opacity .62s var(--gtri-ease),transform .72s var(--gtri-ease);transition-delay:var(--gtri-delay,0ms)}.gtri-reveal.is-visible{opacity:1;transform:none}',
       '.gtri-surface{position:relative;isolation:isolate;--gtri-x:50%;--gtri-y:50%;--gtri-rx:0deg;--gtri-ry:0deg;transition:transform .45s var(--gtri-ease),border-color .35s ease,box-shadow .35s ease}.gtri-surface:before{content:"";position:absolute;inset:0;z-index:-1;pointer-events:none;border-radius:inherit;background:radial-gradient(circle at var(--gtri-x) var(--gtri-y),rgba(62,214,197,.16),transparent 42%),linear-gradient(120deg,transparent 22%,rgba(255,255,255,.055) 44%,transparent 58%);opacity:0;transition:opacity .35s ease}.gtri-surface.gtri-hover:before{opacity:1}.gtri-tilt{transform:perspective(1200px) rotateX(var(--gtri-rx)) rotateY(var(--gtri-ry)) translateZ(0);will-change:transform}.gtri-tilt.gtri-hover{box-shadow:0 24px 65px rgba(0,0,0,.26),inset 0 1px 0 rgba(255,255,255,.06)}',
       '.mapHero,.mapStrip{overflow:hidden}.mapHero:before,.mapStrip:before{content:"";position:absolute;inset:-50%;z-index:0;pointer-events:none;background:conic-gradient(from 180deg at 50% 50%,transparent 0 24%,rgba(62,214,197,.12) 30%,transparent 38% 62%,rgba(244,189,91,.09) 70%,transparent 76%);animation:gtriOrbit 18s linear infinite;mix-blend-mode:screen;opacity:.72}.mapHero>* ,.mapStrip>*{position:relative;z-index:1}',
       '.mapHero .mapStage:before,.mapStrip .mapStage:before{content:"";position:absolute;left:0;right:0;top:-35%;height:28%;z-index:3;pointer-events:none;background:linear-gradient(180deg,transparent,rgba(62,214,197,.12),transparent);border-top:1px solid rgba(62,214,197,.18);filter:blur(.2px);animation:gtriScan 7.5s var(--gtri-ease) infinite}',
@@ -487,7 +526,7 @@
       '.gtri-surface:focus-within{border-color:rgba(244,189,91,.64);box-shadow:0 0 0 1px rgba(244,189,91,.2),0 16px 36px rgba(0,0,0,.18)}',
       '@keyframes gtriOrbit{to{transform:rotate(360deg)}}@keyframes gtriScan{0%{transform:translateY(0);opacity:0}15%{opacity:.9}72%{opacity:.55}100%{transform:translateY(520%);opacity:0}}@keyframes gtriBreathe{0%,100%{transform:scale(.84);opacity:.48}50%{transform:scale(1.08);opacity:.82}}',
       '@media(max-width:700px){.gtri-scroll-rail{height:3px}.gtri-tilt{transform:none!important}.gtri-orb{right:-18%;top:4%;opacity:.55}.mapHero .mapStage:before,.mapStrip .mapStage:before{animation-duration:9.5s}}',
-      '@media(prefers-reduced-motion:reduce){.gtri-scroll-rail{transition:none}.gtri-reveal{opacity:1;transform:none;transition:none}.mapHero:before,.mapStrip:before,.mapHero .mapStage:before,.mapStrip .mapStage:before,.gtri-orb{animation:none}.gtri-surface,.gtri-tilt{transition:none;transform:none!important}.gtri-surface:before{transition:none;opacity:0!important}}'
+      '@media(prefers-reduced-motion:reduce){.gtri-scroll-rail{transition:none}.mapHero:before,.mapStrip:before,.mapHero .mapStage:before,.mapStrip .mapStage:before,.gtri-orb{animation:none}.gtri-surface,.gtri-tilt{transition:none;transform:none!important}.gtri-surface:before{transition:none;opacity:0!important}}'
     ].join('');
     (doc.head || doc.documentElement).appendChild(style);
     var rail = doc.createElement('div');
@@ -501,12 +540,6 @@
     if (mapHero) { mapHero.appendChild(orb); }
     var reduce = false;
     try { reduce = !!(global.matchMedia && global.matchMedia('(prefers-reduced-motion: reduce)').matches); } catch (e) {}
-    var reveal = Array.prototype.slice.call(doc.querySelectorAll('main>header,main>section,main>footer'));
-    reveal.forEach(function (el, i) { el.classList.add('gtri-reveal'); el.style.setProperty('--gtri-delay', Math.min(i * 55, 330) + 'ms'); });
-    if ('IntersectionObserver' in global && !reduce) {
-      var io = new IntersectionObserver(function (entries) { entries.forEach(function (entry) { if (entry.isIntersecting) { entry.target.classList.add('is-visible'); io.unobserve(entry.target); } }); }, { threshold: .08 });
-      reveal.forEach(function (el) { io.observe(el); });
-    } else { reveal.forEach(function (el) { el.classList.add('is-visible'); }); }
     var surfaceSelector = '.mapHero,.mapStrip,.hero,.card,.panel,.finding,.method>div,.sourceGrid>div,.boundary,.auditPanel,.notice,.integrationLayer,.integrationCell,.integrationCoverage__group';
     var boundSurfaces = typeof WeakSet === 'function' ? new WeakSet() : null;
     var raf = 0, pending = null, active = null, scrollRaf = 0;
@@ -580,7 +613,7 @@
     var names = { Malaysia: '马来西亚', Vietnam: '越南', Singapore: '新加坡', Thailand: '泰国', India: '印度', Indonesia: '印度尼西亚', Philippines: '菲律宾', Japan: '日本', 'South Korea': '韩国', Mexico: '墨西哥', Germany: '德国', Netherlands: '荷兰' };
     var section = doc.createElement('section');
     section.className = 'sourceLedger';
-    section.innerHTML = '<div class="sourceLedger__head"><div><span>ADDITIONAL SOURCES · NOT SCORED</span><h2>把来源、年份和证据边界放在一起</h2><p>当前国家联动显示政策与资本背景。补充数据用于核查和解释，不直接改变GTRI-v0分数。</p></div><b id="ledger-country">—</b></div><div class="sourceLedger__grid"><article><small>P2 · 正式防务安排</small><div id="ledger-p2">—</div><a id="ledger-p2-link" target="_blank" rel="noopener noreferrer" hidden>查看所选官方来源 ↗</a></article><article><small>P3 · BIS人工范围核对</small><div id="ledger-p3">—</div><p>仅限所选候选规则集合；没有命中不表示没有其他法律暴露。</p><a href="https://www.federalregister.gov/" target="_blank" rel="noopener noreferrer">Federal Register ↗</a></article><article><small>IMF CDIS · 投资头寸</small><div id="ledger-cdis">—</div><p>按直接对手方、不同报告方分别记录；非半导体专项，不代表最终所有者。</p><a href="https://data.imf.org/Datasets/DIP" target="_blank" rel="noopener noreferrer">IMF数据说明 ↗</a></article></div>';
+    section.innerHTML = '<div class="sourceLedger__head"><div><span>ADDITIONAL SOURCES · NOT SCORED</span><h2>把来源、年份和证据边界放在一起</h2><p>当前国家联动显示政策与资本背景。补充数据用于核查和解释，不计入GTRI-v1主分。</p></div><b id="ledger-country">—</b></div><div class="sourceLedger__grid"><article><small>P2 · 正式防务安排</small><div id="ledger-p2">—</div><a id="ledger-p2-link" target="_blank" rel="noopener noreferrer" hidden>查看所选官方来源 ↗</a></article><article><small>P3 · BIS人工范围核对</small><div id="ledger-p3">—</div><p>仅限所选候选规则集合；没有命中不表示没有其他法律暴露。</p><a href="https://www.federalregister.gov/" target="_blank" rel="noopener noreferrer">Federal Register ↗</a></article><article><small>IMF CDIS · 投资头寸</small><div id="ledger-cdis">—</div><p>按直接对手方、不同报告方分别记录；非半导体专项，不代表最终所有者。</p><a href="https://data.imf.org/Datasets/DIP" target="_blank" rel="noopener noreferrer">IMF数据说明 ↗</a></article></div>';
     footer.parentNode.insertBefore(section, footer);
     var style = doc.createElement('style');
     style.textContent = '.sourceLedger{margin:0 0 24px;padding:clamp(20px,3vw,34px);border:1px solid rgba(91,174,184,.2);border-radius:20px;background:linear-gradient(120deg,rgba(13,35,45,.96),rgba(8,23,33,.96))}.sourceLedger__head{display:flex;justify-content:space-between;gap:20px;align-items:flex-end;margin-bottom:20px}.sourceLedger__head span,.sourceLedger article small{color:#67d7cd;font:10px ui-monospace,Consolas,monospace;letter-spacing:.14em}.sourceLedger h2{margin:8px 0;font-size:clamp(20px,2.4vw,27px);color:#eaf4f2}.sourceLedger__head p,.sourceLedger article p{max-width:650px;color:#94aeb7;font-size:12px;line-height:1.7}.sourceLedger__head>b{flex:none;color:#d5e7e4;font:12px ui-monospace,Consolas,monospace}.sourceLedger__grid{display:grid;grid-template-columns:.9fr 1fr 1.3fr;border-top:1px solid rgba(138,180,189,.16)}.sourceLedger article{padding:18px 20px 2px 0}.sourceLedger article+article{padding-left:20px;border-left:1px solid rgba(138,180,189,.13)}.sourceLedger article div{margin-top:12px;color:#e9f3f1;font-size:14px;line-height:1.65}.sourceLedger article a{display:inline-block;margin-top:9px;color:#65d8cf;font-size:11px;text-decoration:none}.sourceLedger article a:hover{text-decoration:underline}.sourceLedger__cdis{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:9px}.sourceLedger__cdis span{padding-top:8px;border-top:1px solid rgba(138,180,189,.15);color:#91aab2;font-size:11px}.sourceLedger__cdis b{display:block;margin-top:4px;color:#eef7f5;font-size:13px}@media(max-width:700px){.sourceLedger__grid{grid-template-columns:1fr}.sourceLedger article,.sourceLedger article+article{padding:16px 0 4px;border-left:0;border-top:1px solid rgba(138,180,189,.13)}.sourceLedger__head{display:block}.sourceLedger__head>b{display:inline-block;margin-top:8px}}';
@@ -591,7 +624,7 @@
       textNode.nodeValue = textNode.nodeValue
         .replace(/候选规则已做定向人工核对，尚未逐条法律复核/g, '所选10条候选规则已逐条做范围核对；复核集合非穷尽')
         .replace(/尚未完成覆盖全部实体、产品范围和例外条款的逐条法律复核/g, '尚未覆盖全部规则、实体和产品例外的法律审查')
-        .replace(/15项数据完整性与计算检查通过/g, '16项数据与计算检查通过');
+        .replace(/15项数据完整性与计算检查通过/g, '17项数据与计算检查通过');
     }
     var safeNumber = function (value) { return value == null || value === '' || !isFinite(Number(value)) ? '未报告' : (Number(value) < 0 ? '−' : '') + Math.abs(Number(value)).toLocaleString('zh-CN', { maximumFractionDigits: 1 }) + ' 百万美元'; };
     var render = function () {
